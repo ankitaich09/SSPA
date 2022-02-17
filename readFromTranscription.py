@@ -58,7 +58,7 @@ def pre_process(data):
     interviewer_patten = re.compile('^Interviewer:.+$')
     for each_point in data:
         if not (timestamp_pattern.findall(each_point) == blank_output):
-            times.append(timestamp_pattern.findall(each_point)[0][3:11])
+            times.append(timestamp_pattern.findall(each_point)[0][3:12])
         if not(patient_pattern.findall(each_point) == blank_output):
             patients.append(patient_pattern.findall(each_point)[0][8:])
         if not(interviewer_patten.findall(each_point) == blank_output):

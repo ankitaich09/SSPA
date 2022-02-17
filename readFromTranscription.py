@@ -47,15 +47,32 @@ def read_file_fron_path(filepath):
 
 #for each string we need to remove \n from the end before sorting
 
+#the function below returns an integet number, to see how many timestamps, the patient doesn't say anything.
+def blank_patient_counts(data):
+    times = []
+    i=0
+    while re.compile('^Patient:.+$').findall(data[i]) == []:
+        if not(re.compile('^\+.+\+$').findall(data[i])==[]):
+            times.append(data[i])
+        i=i+1
+    return len(times)
+
 def pre_process(data):
     times = []
-    patients = ['']
+    blanks = blank_patient_counts(data)
+    patients = []
     interviewers = []
     blank_output = []
+    #initialize patients
+    for i in range(blanks-1):
+        patients.append('')
     #only to be used as a comparitive tool
     timestamp_pattern = re.compile('^\+.+\+$')
     patient_pattern = re.compile('^Patient:.+$')
     interviewer_patten = re.compile('^Interviewer:.+$')
+    #we need to figure out number of timestamps before the patient speaks
+    #that many blank spaces need to be appended before this loop runs
+
     for each_point in data:
         if not (timestamp_pattern.findall(each_point) == blank_output):
             times.append(timestamp_pattern.findall(each_point)[0][3:12])
@@ -64,6 +81,8 @@ def pre_process(data):
         if not(interviewer_patten.findall(each_point) == blank_output):
             interviewers.append(interviewer_patten.findall(each_point)[0][12:])
 
+    #we need to figure out number of timestamps before the patient speaks
+    #that many blank spaces need to be appended before this loop runs
 
     print(len(times))
     print(len(patients))

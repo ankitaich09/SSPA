@@ -38,6 +38,8 @@ Mass produce for all files
 
 import re
 import pandas as pd
+from itertools import groupby
+
 
 def read_file_fron_path(filepath):
     with open(filepath) as fp:
@@ -47,7 +49,7 @@ def read_file_fron_path(filepath):
 
 #for each string we need to remove \n from the end before sorting
 
-#the function below returns an integet number, to see how many timestamps, the patient doesn't say anything.
+#the function below returns an integer number, to see how many timestamps, the patient doesn't say anything at the start.
 def blank_patient_counts(data):
     times = []
     i=0
@@ -57,15 +59,32 @@ def blank_patient_counts(data):
         i=i+1
     return len(times)
 
+
+
+def find_type(data_point):
+    timestamp_pattern = re.compile('^\+.+\+$')
+    patient_pattern = re.compile('^Patient:.+$')
+    interviewer_patten = re.compile('^Interviewer:.+$')
+    if timestamp_pattern.findall(str(data_point)):
+        return 'T'
+    elif patient_pattern.findall(str(data_point)):
+        return 'P'
+    else:
+        return 'I'
+
+
+#changing this function
+'''
+Earlier this function was taking each input in the file and sorting it into one of three buckets, either a timestamp, or a patient or an interviewer dialogue. however
+this misses some edge cases. For instance there are times when only one person speaks. 
+
+Now we try to return an array which is full of subarrays. Each subarray is a triad, timestamp, patient, interviewer. For the missing part it can substitute a blank.
+
+'''
 def pre_process(data):
-    times = []
-    blanks = blank_patient_counts(data)
-    patients = []
-    interviewers = []
-    blank_output = []
-    #initialize patients
-    for i in range(blanks-1):
-        patients.append('')
+
+    data_to_be_used = []
+
     #only to be used as a comparitive tool
     timestamp_pattern = re.compile('^\+.+\+$')
     patient_pattern = re.compile('^Patient:.+$')
@@ -74,27 +93,55 @@ def pre_process(data):
     #that many blank spaces need to be appended before this loop runs
 
     for each_point in data:
-        if not (timestamp_pattern.findall(each_point) == blank_output):
-            times.append(timestamp_pattern.findall(each_point)[0][3:12])
-        if not(patient_pattern.findall(each_point) == blank_output):
-            patients.append(patient_pattern.findall(each_point)[0][8:])
-        if not(interviewer_patten.findall(each_point) == blank_output):
-            interviewers.append(interviewer_patten.findall(each_point)[0][12:])
+        if (timestamp_pattern.findall(each_point)):
+            data_to_be_used.append(each_point.rstrip())
+        elif (patient_pattern.findall(each_point)):
+            data_to_be_used.append(each_point.rstrip())
+        elif (interviewer_patten.findall(each_point)):
+            data_to_be_used.append((each_point.rstrip()))
+
 
     #we need to figure out number of timestamps before the patient speaks
     #that many blank spaces need to be appended before this loop runs
+    #data to be used now consists solely of these three kinds of things
+    return data_to_be_used
 
-    print(len(times))
-    print(len(patients))
-    print(len(interviewers))
+def make_subarrays(processed_data):
+
+    timestamps = []
+    dialogues = []
+
+    timestamps = [list(group) for k, group in groupby(processed_data, lambda x: find_type(x) == 'T') if k]
+    dialogues = [list(group) for k, group in groupby(processed_data, lambda x: find_type(x) == 'T') if  not k]
+
+    for each_d in dialogues:
+        if len(each_d) == 1:
+            if find_type(each_d[0]) == 'P':
+                each_d.append('Interviewer: blank')
+            else:
+                each_d.append('Patient: blank')
+
+    return timestamps, dialogues
+
+def make_dataframe(times, dialogues):
+    time = []
+    p = []
+    i = []
+    for t in times:
+        time.append(t[0][3:12])
+    for d in dialogues:
+       d.sort()
+       p.append(d[1])
+       i.append(d[0])
 
     dataframe = pd.DataFrame(
         {
-            'timestamp': times,
-            'patient_dialogue': patients,
-            'interviewer_dialogue': interviewers
+            'timestamp': time,
+            'patient_dialogue': p,
+            'interviewer_dialogue': i
         }
     )
+
     return dataframe
 
 def namemaker(filepath):
@@ -104,13 +151,18 @@ def namemaker(filepath):
 
 
 def main():
-    filepath = '/Users/ankit/Documents/SSPA Project/output_UCSD_IA_3011.txt'
+    filepath = '/Users/ankit/Documents/SSPA Project/outputUCSD_IA_3011_Scene 2.txt'
     name = namemaker(filepath)
     data = read_file_fron_path(filepath)
-    frame = pre_process(data)
-    frame.to_csv(name)
-    print(frame)
+    processed_data = pre_process(data)
+    times, dialogues = make_subarrays(processed_data)
+    dataframe = make_dataframe(times, dialogues)
+    dataframe.to_csv(name)
+    print(dataframe)
 
 
 if __name__ == '__main__':
     main()
+
+
+#issues 1 - combine speeches beyond time stamps

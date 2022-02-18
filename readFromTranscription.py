@@ -117,9 +117,9 @@ def make_subarrays(processed_data):
     for each_d in dialogues:
         if len(each_d) == 1:
             if find_type(each_d[0]) == 'P':
-                each_d.append('Interviewer: blank')
+                each_d.append('Interviewer: ')
             else:
-                each_d.append('Patient: blank')
+                each_d.append('Patient: ')
 
     return timestamps, dialogues
 
@@ -131,8 +131,8 @@ def make_dataframe(times, dialogues):
         time.append(t[0][3:12])
     for d in dialogues:
        d.sort()
-       p.append(d[1])
-       i.append(d[0])
+       p.append(d[1][8:])
+       i.append(d[0][12:])
 
     dataframe = pd.DataFrame(
         {

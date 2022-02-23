@@ -1,0 +1,56 @@
+File Identifier: 1656_MCI_V2_Scene_1
++++ 00:00:13  +++
+Patient: All right. So, now we begin?
+Interviewer: Hi, I think I’m your new neighbor.
++++ 00:00:21  +++
+Patient: Uh.. it’s great to meet you. Yes, I live here in the building and my name is Patient. What’s your name?
+Interviewer: My name is Interviewer.
++++ 00:00:30  +++
+Patient: Well, and I live alone. Do you have any roommates?
+Interviewer: I will be living alone as well.
++++ 00:00:39  +++
+Patient: And I’m a native of this area. How long have- have you lived in this city?
+Interviewer: I’m just moving here for the first time.
++++ 00:00:50  +++
+Patient: Well, if you have uhm.. any questions about uh.. business services or places to go, I’d be glad to answer them.
+Interviewer: Okay.
++++ 00:01:02  +++
+Patient: Did you move here for a job?
+Interviewer: Yes, I got a new job.
++++ 00:01:08  +++
+Patient: Great and where will you be working?
+Interviewer: I’ll be working at the uh.. grocery store just down the road.
++++ 00:01:17  +++
+Patient: Oh, great. That’s where I shop. So, I’ll probably see you there.
+Interviewer: Okay.
++++ 00:01:22  +++
+Patient: Well, I’m self-employed and so, I’m at- at home a lot.
+Interviewer: Okay. Cool.
++++ 00:01:28  +++
+Patient: So, do- do you know anybody else that lives in this area?
+Interviewer: I do not. No.
++++ 00:01:36  +++
+Patient: Oh, well, I would say working at the grocery store, you should meet lots of people.
+Interviewer: Yeah. Yeah. I hope so.
++++ 00:01:45  +++
+Patient: Well, this is a great apartment complex. We have a really good uh.. manager and you- you’ve chosen a great place to live.
+Interviewer: Okay. Good to know.
++++ 00:01:58  +++
+Patient: And I just- just say there’s lots of things around here, lots of uhm.. uh.. shops and restaurants and uh.. I hope maybe we can get to know each other better.
+Interviewer: Yeah, definitely.
++++ 00:02:12  +++
+Patient: All right. Well, we’re glad to have you in the building and I hope- hope you have a- have a great stay here. I’ll see you soon.
+Interviewer: Uh.. so, real quick, uhm.. what is the landlord like?
++++ 00:02:30  +++
+Patient: Uhm.. he’s very responsive. If you have a dripping faucet or problems with your cable, uhm.. he’s very responsive and uh.. he even has a Christmas party for us. He’s uh.. one of the best landlords I’ve ever had.
+Interviewer: Okay. Cool.
++++ 00:02:50  +++
+Patient: Do you have any other questions?
+Interviewer: Uhm.. are the residents in this building friendly?
++++ 00:03:00  +++
+Patient: I think they are and uh.. because I uh.. walk a dog and so, I- I meet a lot of people walking my dog because this is a pet-friendly apartment. But uh.. I find the neighbors to be- be very friendly.
+Interviewer: Okay. Sounds good. Uhm.. well, I got to go keep packing, but it was nice to meet you and I’ll talk to you later.
++++ 00:03:22  +++
+Patient: All right.
+Interviewer: All right. Bye.
+Patient: Okay. Bye.

@@ -1,0 +1,47 @@
+File Identifier: 1649_MCI_V2_Scene_2
+Interviewer: Hi, this is Interviewer, the landlord.
++++ 00:00:11  +++
+Patient: Hi, Interviewer. It’s Patient in Apartment 1A. I called you uh.. last week about the leak in the ceiling. Do you remember?
+Interviewer: Yeah. I’m sorry. I haven’t had enough time to get over to fix it, but I’ve been very busy.
++++ 00:00:25  +++
+Patient: I understand. The- the leak has gotten much worse and now, it’s gone from a leak to a steady drip and I think it’s something we probably need to look at fairly quickly because it’s damaging the ceiling, not to mention some of my furniture.
+Interviewer: Okay.
++++ 00:00:43  +++
+Patient: So, when- when can I expect you here to fix the leak?
+Interviewer: Well, it might take me about a week, maybe even two weeks before I’ll have time to fix it.
++++ 00:00:55  +++
+Patient: Well, I- I really think you need to look at it sooner than that because it’s really starting to-- it gets worse every day and from a structural standpoint, uh.. the apartment needs to be taken care of because internet of things only are you gonna have damage. I’m gonna have damage as well.
+Interviewer: Mm-hmm.
++++ 00:01:14  +++
+Patient: So, uh.. I- I think you really need to look at it a lot sooner than a week. How about- how about tomorrow?
+Interviewer: Uhm.. well, I do all the repairs myself for the whole building.
++++ 00:01:29  +++
+Patient: Okay and is any of the repairs you have lined up as bad as a ceiling falling down?
+Interviewer: Uh.. yeah, I have a lot of other tenants with problems that are ahead of yours.
++++ 00:01:46  +++
+Patient: Okay. So, what do you suggest I do about this water leak in the apartment?
+Interviewer: Well, uh.. what have you done about the problem so far?
++++ 00:01:58  +++
+Patient: Well, nothing because it’s really not my problem. It’s your problem. I didn’t move my furniture around but uh.. I didn’t notice it until after it dripped on the couch quite a bit, but I have since moved the couch. But now, it’s affecting the floorboards. The wood is starting to warp in the floor and- and all of that is gonna, you know, it’s gonna be a cost and an expense to you, not me.
+Interviewer: Okay.
++++ 00:02:24  +++
+Patient: So, I think you need to get here sooner rather than later. So, how about you come tomorrow? Hello? Are you there?
+Interviewer: Uhm.. yeah. It- it might take me about a week, maybe even two weeks before I’ll have time to fix it.
++++ 00:02:54  +++
+Patient: Well, that’s kinda-- that’s unacceptable. Uh.. how about I-- how about we do this-- for every day you don’t show up, I take that daily rental amount off my next month’s rent amount?
+Interviewer: Uhm.. well, I’m- I’m aware of the problem and I’ll be over as soon as I can.
++++ 00:03:16  +++
+Patient: Okay and soon as you can is when?
+Interviewer: Uhm.. it- it’ll still be about a week or two weeks, but I- I’ll be over as soon as I can.
++++ 00:03:29  +++
+Patient: Okay. Uh.. could I possibly get the name of the owner of the building?
+Interviewer: Uhm...
++++ 00:03:37  +++
+Patient: The owner?
+Interviewer: Yeah. Sure. But I- I gotta go right now. I’ll give you a call right back real quick, okay?
++++ 00:03:43  +++
+Patient: Well, that’s un- unacceptable. I really would like the name of the owner now and a phone number.
+Interviewer: Okay. Uhm.. just real quick. I’ll give you a call back. Okay?
++++ 00:03:56  +++
+Patient: Uh.. no. It’s not okay. I need a phone number and it shouldn’t take you but a second to give it to me.
+Interviewer: Okay. Uhm.. all right.

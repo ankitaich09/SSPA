@@ -1,0 +1,43 @@
+File Identifier: 1645_MCI_V2_Scene_1
++++ 00:00:16  +++
+Patient: Am I supposed to start?
+Interviewer: Hi. I think I’m your new neighbor.
++++ 00:00:23  +++
+Patient: Hi. Oh, goodness. I’m glad to have a new neighbor. I live right across the hall from you.
+Interviewer: Okay.
++++ 00:00:33  +++
+Patient: My name is Patient, by the way. I’ve lived here quite a while. Where are you from?
+Interviewer: So, I moved from across the country.
++++ 00:00:43  +++
+Patient: Oh, across the country. That must be exciting. Do you- do you have a new job?
+Interviewer: Yeah. I got a new job right down the street.
++++ 00:00:53  +++
+Patient: Oh, that’s wonderful. Well, there are a lot of things to do in this area of town. You’ll find that there are restaurants close by. There’s a park close by and of course, I’m always right across the hallway if you need anything.
+Interviewer: Okay. Thank you.
++++ 00:01:10  +++
+Patient: Okay. Well, I’ll let you move in then. I know you’re very busy. So, uh.. just letting you know <inaudible 00:01:17>.
+Interviewer: Uhm.. so, have you lived here long?
++++ 00:01:25  +++
+Patient: Yes. I’ve lived in this building for five years.
+Interviewer: Oh, okay.
++++ 00:01:32  +++
+Patient: I’ve always enjoyed living here. I think you’ll find that the people in the building are very friendly. Man, I’m thinking to myself “Ooh, this <inaudible 00:01:52>,” but I know. Okay. I’ll see you later. Bye-bye.
+Interviewer: Uhm.. just real quick, is it- is it safe to walk in this neighborhood in the evening?
++++ 00:02:03  +++
+Patient: Oh, yes. I do it all the time. There are lots of streetlights. There’s usually a lot of people out. You’ll feel very safe.
+Interviewer: Okay.
++++ 00:02:15  +++
+Patient: Anyway, if there’s nothing else, I’ll let you go.
+Interviewer: So, I have to go to work in the morning. Where is the bus Downtown?
++++ 00:02:25  +++
+Patient: Uh.. there’s a bus that stops right on the corner of the street in front of our building and it’s usually there every 15 minutes starting at about five-thirty in the morning.
+Interviewer: Okay. Great.
++++ 00:02:44  +++
+Patient: Is there anything else I could help you with?
+Interviewer: Uhm.. what is the landlord like?
++++ 00:02:53  +++
+Patient: You’ll find the landlord to be a very easy person to work with. If you ever have a- a problem with your apartment, just call him. Uh.. if there’s a- a problem with noisy neighbors, not that I’m going to be noisy, but if there is, he’s always willing to work with you.
+Interviewer: Okay. Sounds good. Well, it was nice to meet you.
++++ 00:03:14  +++
+Patient: It was nice meeting you. See you later.
+Interviewer: Thank you. See ya.

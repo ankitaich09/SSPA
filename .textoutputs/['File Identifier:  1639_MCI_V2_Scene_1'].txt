@@ -1,0 +1,52 @@
+File Identifier:  1639_MCI_V2_Scene_1
+Interviewer:  Hi, I think I'm your new neighbor.
++++ 00:00:24  +++
+Patient:  Hi, uh.. yes, uh.... I was wondering, I saw, when I saw the- the moving van out front, I thought I might get a new neighbor. Glad to meet you.  Do you need any help moving in?
+Interviewer:  Uh.. no, I think I got it.
++++ 00:00:47  +++
+Patient:  I know how awkward big furniture can be if you don't have a professional mover uh.. staying here 'til the last minute getting your room arranged.
+Interviewer:  Mm-hmm.
++++ 00:01:02  +++
+Patient:  So where are you- where are you from?
+Interviewer:  So I moved from Montana.
++++ 00:01:08  +++
+Patient:  Wow, that's a far- far aways from here.  Uh.. I bet the weathers are bad compared to be here.
+Interviewer:  Yeah, yep.
++++ 00:01:21  +++
+Patient:  So how do you like uh.. Texas so far?
+Interviewer:  It's pretty nice.
++++ 00:01:29  +++
+Patient:  Yeah, you'll find the people are pretty friendly.
++++ 00:01:32  +++
+Patient:  We've got a- we've got good neighbors here too, so uh.. hopefully you'll uh.. make new friends.  Did uh.. work bring you here or what?
+Interviewer:  Yeah, I got a new job.
++++ 00:01:45  +++
+Patient:  Great, where do you work?
+Interviewer:  I work just down the street at the grocery store.
++++ 00:01:52  +++
+Patient:  Well cool, I shop there all the time, so I'll probably run into you.  Uh.. are you a- a stocker or a clerk or manager?
+Interviewer:  I'm a manager.
++++ 00:02:01  +++
+Patient:  Well great, that place has always seemed to be run well and hopefully uh.. you'll keep things going.
+Interviewer:  Mm-hmm.
++++ 00:02:13  +++
+Patient:  Have you already started down there or uh.. are you uh.. got a little free time to- before you have to report?
+Interviewer:  I actually don't start until next week.
++++ 00:02:25  +++
+Patient:  Well great, if you-- there's some good restaurants around here and a couple of friendly bars, so if you- you want someone to show you the- the neighborhood, let me know.
+Interviewer:  Okay.
++++ 00:02:40  +++
+Patient:  Do you wanna exchange phone numbers uh.. that'd probably be the easiest way if you don't have a landline put in yet?
+Interviewer:  Yeah, sure.
++++ 00:02:51  +++
+Patient:  Here's my number 555-1212.
+Interviewer:  Okay.  And here's mine.
++++ 00:03:00  +++
+Patient:  Well cool, I'll just save it here real quick and that way if your nu- number pops up, I'll know it's you.
+Interviewer:  All right, sounds good.  Well uhm.. thanks for introducing yourself, I appreciate it.
++++ 00:03:14  +++
+Patient:  Sure, if you need anything just- just knock or give me a- give me- send me a text, if I'm walking the dog or something I'll let you know.
+Interviewer:  All right, sounds good, I'll talk to you later.
++++ 00:03:27  +++
+Patient:  So, glad to meet you.
+Interviewer:  Glad to meet you too.

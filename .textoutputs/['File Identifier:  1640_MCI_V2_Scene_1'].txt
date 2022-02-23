@@ -1,0 +1,53 @@
+File Identifier:  1640_MCI_V2_Scene_1
++++ 00:00:10  +++
+Patient:  Hey, neighbor.  Hello.  How are you?  I just saw from my door over here that it was open the door and I'm coming here to say hello.  How are you?
+Interviewer:  Hi, I'm good.  How are you?
++++ 00:00:22  +++
+Patient:  I'm doing okay.  What is your name?
+Interviewer:  My name is Interviewer.
++++ 00:00:27  +++
+Patient:  Hey Interviewer, welcome to the neighborhood.
+Interviewer:  Thank you.
++++ 00:00:30  +++
+Patient:  So I saw that uh.. this morning a moving wagon uh.. I guess it was trying to move everything to the- to the house huh?
+Interviewer:  Yeah, yeah.
++++ 00:00:43  +++
+Patient:  Okay.  Uh.... anything that you may need?
+Interviewer:  Uhm.. I think I should be okay for now.
++++ 00:00:52  +++
+Patient:  Okay.  Well just in case Interviewer, uh.. my name is Patient.  I’m across the street and if you need me, you can go to the house or let me give you my phone number if you need some help and I can come and help you. Is that okay with you?
+Interviewer: Uhm.. yeah. Yeah. I- I would appreciate that. But first, uhm.. have you lived here very long?
++++ 00:01:18  +++
+Patient: Yeah. I’ve been more than 20 years.
+Interviewer: Okay.
++++ 00:01:25  +++
+Patient: So, anything especially you want to know about the neighborhood?
+Interviewer: Would you-- are the residents in this building friendly?
++++ 00:01:34  +++
+Patient: Well, you know what? There’s all kind of neighbors here, but I have not had any problems with uhm.. neither one of them.
+Interviewer: Okay.
++++ 00:01:42  +++
+Patient: Did you-- do you do any specific activities that maybe uhm.. impact them or may impact anybody else on this uh.. neighborhood? Like, maybe you play the trombone or the rings or your family do some activities.
+Interviewer: Yeah. I like to do a couple things.
++++ 00:02:06  +++
+Patient: Okay. What you can tell me about that?
+Interviewer: Uhm.. I like to play soccer. I like to play the drums.
++++ 00:02:15  +++
+Patient: Play soccer? Let me tell you, around here, there is a court with uh.. a lot of the kids and other adults get together on Sunday and they play. So, why you don’t go around and come with us and maybe we can play with us?
+Interviewer: Yeah. That sounds like fun.
++++ 00:02:32  +++
+Patient: And oh, you say that you play the- the tambourine, you said?
+Interviewer: I said the drums.
++++ 00:02:39  +++
+Patient: Oh, the drums. Sorry. I thought the tambourine.
+Interviewer: Yes.
++++ 00:02:42  +++
+Patient: Drums-- hey, do you know what? Uhm.. also, here in this neighborhood, there are some people that play guitar and play saxophone and things like that, but they don’t have any drums. Maybe you can join them and that way, you can do some community at the same time.
+Interviewer: Yeah, maybe.
++++ 00:03:01  +++
+Patient: Okay. So, when is the days that you may be free and I maybe introduce you to some of them?
+Interviewer: Uhm.. I could be free any time, but I- I got to go right now.
++++ 00:03:13  +++
+Patient: Okay. Well, Interviewer, thank you so much and again, I’m across uh.. the street and my name is uh.. Patient and again, welcome to the neighborhood. Bye, Interviewer.
+Interviewer: All right. Thank you. It was nice to meet you. Bye.
+Patient: You too. Nice to meet you.

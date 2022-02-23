@@ -1,0 +1,37 @@
+File Identifier: 1654_MCI_V2_Scene_2
+Interviewer: Hi, this is Interviewer, the landlord.
++++ 00:00:11  +++
+Patient: Hi. This is Patient. I live in 422. I think I called you a few days ago about a leak in my ceiling and I hadn’t heard back from you. Uh.. it’s still leaking and uhm.. I want to know what we should do about it.
+Interviewer: So, what have you done about the problem so far?
++++ 00:00:32  +++
+Patient: Uh.. right now, all I’ve got is a bucket underneath it to catch it. I- I haven’t done anything as far as uh.. going up into the attack or uhm.. you know, trying to patch the ceiling or anything like that.
+Interviewer: Okay.
++++ 00:00:53  +++
+Patient: Have you-- have uh.. you got a plumber that we can call?
+Interviewer: Uhm.. so, I do all the repairs myself for the whole building.
++++ 00:01:03  +++
+Patient: Oh, okay. So, what do you think’s the problem?
+Interviewer: Well, uhm.. I uh.. so, I- I’m sorry. I just haven’t had enough time to get over to fix it, but I’ve been very busy.
++++ 00:01:23  +++
+Patient: Okay. Is- is anybody else near me having the same problem? Like, are any- any of the neighboring apartments having leaks or is it just me?
+Interviewer: Uhm.. I- I do have a lot of other tenants with problems that are ahead of yours.
++++ 00:01:40  +++
+Patient: Oh, okay, but not necessarily a leak problem. Okay. Uhm.. any ideas on when you could do something or do you have any ideas of anything else I should do besides have a bucket there?
+Interviewer: Well, uhm.. it might take me about a week, maybe even two weeks before I’ll have time to fix it.
++++ 00:02:02  +++
+Patient: Really? Oh, my gosh. Uhm.. I- I uh.. I don't know what other problems people have. Are they-- are you just gonna go down your list no matter if it’s more urgent or-- I mean, like if this gets worse, can I get moved to the top?
+Interviewer: Uhm.. we- we might be able to work something out.
++++ 00:02:30  +++
+Patient: So, if I uh.. right now, it- it’s getting steady-- you know, but if- if it gets worse, I’m afraid you’re liable to lose part of the ceiling.
+Interviewer: Mm-hmm.
++++ 00:02:45  +++
+Patient: So, uhm.. I have- I have to say uh.. I’m- I’m right on the ver-- wha-- so, what-- if I hire a plumber to fix this, what- what uh.. is there a problem with that?
+Interviewer: Well, uhm.. you don’t need to call anybody. I’m aware of the problem and I’ll be over as soon as I can, okay?
++++ 00:03:10  +++
+Patient: Okay.
+Interviewer: Okay. Uhm.. well, thanks for calling and uh.. I’ll get to it as soon as I can.
++++ 00:03:20  +++
+Patient: Okay.
+Interviewer: All right.
+Patient: Bye.
+Interviewer: Bye.

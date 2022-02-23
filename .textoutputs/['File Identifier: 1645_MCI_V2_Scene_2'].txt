@@ -1,0 +1,25 @@
+File Identifier: 1645_MCI_V2_Scene_2
+Interviewer: Hi, this is Interviewer, the landlord.
++++ 00:00:12  +++
+Patient: Hi, Interviewer. This is Patient. I’m a tend-- I’m a tenant in Apartment 147. I called you one day last week to tell you that I had a slow leak in my ceiling. I was concerned because you said you’d be here in a day or two and I still haven’t seen you and my leak is much worse. I would like to know when I can expect you to come by and look at the leak.
++++ 00:00:46  +++
+Interviewer: It might take me about a week, maybe even two weeks before I’ll have time to fix it.
++++ 00:01:01  +++
+Patient: Oh, my goodness. But in the meantime, the apartment’s being ruined. The ceiling is getting much worse. The carpet is soaking wet. It’s damaging your property. I think you need to be here a lot sooner than that. I would really love to see you tomorrow or the next day. I-- it-- from your silence, do I assume that you won’t be here tomorrow or the next day? I really
++++ 00:01:32  +++
+Interviewer: Uhm.. I have a list and you’re on the list, but there are other problems that are more serious.
++++ 00:01:45  +++
+Patient: More serious than mine? Well, would you suggest that I call someone else? Would you be willing to pay for a uh.. plumber to come in and look at the leak in the- in the ceiling?
+Interviewer: Uhm.. I do all the repairs myself for the whole building.
++++ 00:02:03  +++
+Patient: Okay. Well, it seems as if we are at a stalemate here. Uh.. I really can’t live with it this way. If you’re not willing to uh.. either send someone or come over yourself, I think what I’ll do is just call my own plumber and I will send you the bill. Hello? Are you still there?
+Interviewer: So, what have you done about the problem so far?
++++ 00:02:31  +++
+Patient: Well, I- I know that it’s leaking and I’ve got a bucket under there trying to catch most of the water. But it-- every day, the bucket fills up faster and today, when I got home from work, the bucket had overflowed. There was a huge puddle of water on the carpet. The ceiling is looking like it’s beginning to sag. It’s just not good at all. Hello? I’m still here.
+Interviewer: Okay. Well, it might take me about a week still, maybe even two weeks before I’ll have time to fix it.
++++ 00:03:12  +++
+Patient: Well, I’m sorry, but that is totally unacceptable. Here’s what I’m gonna do. I’m gonna call a plumber. I’m gonna get him to come here and repair the damage and then I’m going to send you the bill.
+Interviewer: Okay. Well, I’ll- I’ll be over as soon as I can. You don’t need to call. Uhm.. I’m aware of the problem and I will be over as soon as I can.
++++ 00:03:36  +++
+Patient: Okay. But if you’re not here within a day or two, I am calling the plumber. Thank you for your time.
+Interviewer: Okay. Thank you. Bye.

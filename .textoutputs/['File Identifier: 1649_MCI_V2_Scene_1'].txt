@@ -1,0 +1,66 @@
+File Identifier: 1649_MCI_V2_Scene_1
++++ 00:00:09  +++
+Patient: I would knock on the door jam and say hi, I’m Patient. I’m your neighbor across the hall. Glad to have you as a- a new apartment mate.
+Interviewer: Hi, nice to meet you.
++++ 00:00:23  +++
+Patient: And your name is?
+Interviewer: My name is Interviewer.
++++ 00:00:26  +++
+Patient: Interviewer, what brings you to uh.. to the city?
+Interviewer: I just got a new job in the area.
++++ 00:00:33  +++
+Patient: Oh, great. What do you do?
+Interviewer: I’m a manager.
++++ 00:00:37  +++
+Patient: Uh.. what do you manage?
+Interviewer: Uhm.. just at the grocery store down the- down the uh.. street.
++++ 00:00:45  +++
+Patient: Oh, that sounds interesting. I shop there all the time.
+Interviewer: Okay. Cool.
++++ 00:00:51  +++
+Patient: So, are you married? Do you have any kids or anything like that?
+Interviewer: I’m currently single right now.
++++ 00:00:58  +++
+Patient: Ah, me too. Maybe we could uh.. go out sometime and I can show you around the city.
+Interviewer: Yeah, definitely.
++++ 00:01:08  +++
+Patient: Great. Great. Well, how-- what are you doing tonight? Do you have any plans tonight? We can go get a bite to eat?
+Interviewer: Uhm.. yeah, that sounds good.
++++ 00:01:19  +++
+Patient: Okay. How about uh.. do you-- are you hungry for anything in particular? There’s a great uh.. taco bar around the corner if you-- if you’re up to that.
+Interviewer: Okay.
++++ 00:01:30  +++
+Patient: All right. Well, how about six o’clock. Does that sound good?
+Interviewer: Sure.
++++ 00:01:34  +++
+Patient: All right. See you then.
+Interviewer: Uhm.. so, real quick. I’m new to the area. Can you tell me about this neighborhood?
++++ 00:01:42  +++
+Patient: Yes. It’s uh.. well-- it’s pretty much crime-free. Everybody kind of knows everybody. It’s very neighborly and friendly and uh.. I think you’re really gonna enjoy it. We’re close to the park and a lot of things are within walking distance and I’ll kinda show you around tonight as we go over to the taco place.
+Interviewer: Okay. Cool. Thank you.
++++ 00:02:06  +++
+Patient: All right. See ya at six.
+Interviewer: Uhm.. have you lived here very long?
++++ 00:02:12  +++
+Patient: I’ve been here uh.. ten years.
+Interviewer: Oh, wow. Okay.
++++ 00:02:16  +++
+Patient: Yeah. So, uhm.. and I’ve really enjoyed it. That’s why I probably have stayed as long as I have.
+Interviewer: Okay.
++++ 00:02:26  +++
+Patient: All right. See ya at six then.
+Interviewer: Uhm.. just uh.. so, are the residents in this building friendly?
++++ 00:02:35  +++
+Patient: Yes, they are and- and we have a wide range of ages, from-- there’s a couple up a floor above us that’s very elderly and then there’s some younger couples, young marrieds, and there’s several guys single like us and there’s some single ladies too and- and uh.. I- I’ll be happy to introduce you to them as well.
+Interviewer: Okay. Okay.
++++ 00:03:00  +++
+Patient: So, looking forward to tonight and uh.. I can kinda show you some points of interest as we walk to the taco place.
+Interviewer: All right. That sounds good. I’m looking forward to it.
++++ 00:03:11  +++
+Patient: Okay.
+Interviewer: All right.
+Patient: It’s a date.
+Interviewer: I’ll see ya then.
++++ 00:03:14  +++
+Patient: Bye.
+Interviewer: Bye.

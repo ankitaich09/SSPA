@@ -1,0 +1,35 @@
+File Identifier: 1663_MCI_V2_Scene_2
+Interviewer: Hi, this is Interviewer, the landlord.
++++ 00:00:10  +++
+Patient: Hi, Interviewer. It’s Patient in uh.. in Apartment 263. Uhm.. I’ve got a little problem and it-- there’s a le-- well, not such a little problem. I have a leak in the ceiling and it uh.. keeps getting worse. You said you would be out uh.. maybe in a day or two, but so far, it hasn’t been fixed. So, I need to know when you might be coming out to fix it. It’s getting worse. Are you planning to come fix it?
+Interviewer: Uhm.. I’m sorry. I haven’t had enough time to go over to fix it. I’ve been very busy.
++++ 00:00:49  +++
+Patient: Yeah. No, I do realize how busy you are. I’m just afraid that it’s going to get so bad that it’s gonna be even harder and way more expensive to fix. So, the sooner you can get out here, the better it’s gonna be.
+Interviewer: Okay.
++++ 00:01:03  +++
+Patient: So, when you-- when do you think that can be?
+Interviewer: Uhm.. it might take me about a week, maybe even two weeks before I’ll have time to fix it.
++++ 00:01:12  +++
+Patient: Okay. Well, I think that’s gonna be a problem. So, if you can’t get out here bef-- if you can’t get over here to fix it before then, I may have to call uhm.. my own uhm.. plumber or handyman and let them fix it and then I can just send you the bill. How does that sound?
+Interviewer: Uh.. you don’t need to call them. I’m aware of the problem and I’ll be over as soon as I can.
++++ 00:01:38  +++
+Patient: Okay. Well, uhm.. that will be okay except that if it gets worse, if it continues to get worse, then uhm.. I’ll call and let you know, but I certainly don’t want the ceiling to fall in. I don’t want mildew. You know, that really, you know, leaking, it-- that really could be a problem. So, I’ll keep an eye on it, but I may have to call you again if you can’t get here uh.. before a week or so.
+Interviewer: Okay.
++++ 00:02:08  +++
+Patient: Okay. Well, uhm.. just know that it just-- you know, please put me on a priority list because it- it really does need to be done. Even though I know you’re busy, you don’t want it to get so bad that it’s gonna be even harder and more expensive to fix. So, uh.. please keep me posted on when you might be able to come out to fix it.
+Interviewer: Okay.
++++ 00:02:30  +++
+Patient: Okay. Thank you. I appreciate your time.
+Interviewer: Uh.. so, what have you done about the problem so far?
++++ 00:02:37  +++
+Patient: Well, there’s not really much I can do. The leak is in the ceiling and uh.. I can’t really do anything. It’s the apartment above mine or- or the roof itself. So, there’s not a lot that I can do. I’m just really keeping an eye on it. Uhm.. if it starts to come through the ceiling, then I’m just gonna have to put like a bucket or something underneath it, but that’s gonna be a really big problem, not just for me, but a problem for the apartment complex itself. So, I would, you know, I would really
++++ 00:03:10  +++
+Interviewer: All right. Sounds good. Uhm.. I’ll be over as soon as I can.
++++ 00:03:18  +++
+Patient: Okay. Thank you. I do appreciate it.
+Interviewer: All right.
++++ 00:03:21  +++
+Patient: All right. Thank you.
+Interviewer: Thank you.
+Patient: Bye.
+Interviewer: Bye.

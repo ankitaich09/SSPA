@@ -1,0 +1,28 @@
+File Identifier: 1656_MCI_V2_Scene_2
+Interviewer: Hi, this is Interviewer, the landlord.
++++ 00:00:11  +++
+Patient: Yes. This is Patient and uhm.. I live in Apartment 101 and I have a leak and you had said that you might come and fix it in a day or two and I haven’t seen any repair person arrive. Can you give me a status on- on when somebody might come to fix my leak?
+Interviewer: It might take me about a week, maybe even two weeks before I’ll have time to fix it.
++++ 00:00:44  +++
+Patient: Well, it seems to be causing more and more damage. The leak seems to be getting worse and I’m- I’m just concerned if- if you wait a week or two. Uh.. will you be fixing it yourself or are you having a worker come in?
+Interviewer: I do all the repairs myself for the whole building.
++++ 00:01:05  +++
+Patient: Is anybody else having a leak problem?
+Interviewer: Uhm.. I do have a lot of other tenants with problems that are ahead of yours.
++++ 00:01:21  +++
+Patient: All right. Well, I- I’m even considering hiring my own repair person. Is that allowed?
+Interviewer: Uhm.. you don’t need to call. Uh.. I’m aware of the problem and I will be over as soon as I can.
++++ 00:01:37  +++
+Patient: But you initially told me a day or two and now, you’re telling me a week or two. So, how do I know it will happen in that timeframe or it might be longer?
+Interviewer: Uhm.. I’m sorry. I just-- I haven’t had enough time to get over to fix it, but I’ve been very busy.
++++ 00:01:59  +++
+Patient: I understand. Uhm.. my lease is going to be up soon and I’m thinking of moving to another apartment and not renewing my lease and I’m concerned I may not get my deposit back because of the damage in my apartment.
+Interviewer: Uhm.. so, what have you done about the problem so far?
++++ 00:02:34  +++
+Patient: I just have a bucket, just have a bucket to catch the drips and I was wondering what’s above me that might be causing the leak, if there are pipes in the ceiling or if the person above me, you know, is having problems I- I knocked on their door and uh.. I haven’t gotten an answer.
+Interviewer: Mm-hmm.
++++ 00:03:07  +++
+Patient: But I- I was just concerned maybe their toilet’s overflowing or something is doing to make it be le- leaking through my ceiling.
+Interviewer: Okay. Uhm.. well, thank you for calling, but it will still be about a week or two weeks before I’ll have time to fix it.
++++ 00:03:23  +++
+Patient: Well, I may just...

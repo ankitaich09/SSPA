@@ -1,0 +1,49 @@
+File Identifier:  1630_MCI_Scene1
++++ 00:00:17  +++
+Patient:  Do I begin?
+Interviewer:  Uh.. yeah, go ahead.
++++ 00:00:23  +++
+Patient:  Okay.  Hey, so you're the one moving in next door, huh?
+Interviewer:  Yes, I just moved in.
++++ 00:00:31  +++
+Patient:  Oh, okay.  Where- so where are ya'll from?
+Interviewer:  So I moved in from across the country.
++++ 00:00:39  +++
+Patient:  Oh.  Well we're here in Texas, so that could've been the east coast or west coast?
+Interviewer:  That was the west coast.
++++ 00:00:48  +++
+Patient:  West coast, ah.  California?
+Interviewer:  Yes.
++++ 00:00:57  +++
+Patient:  Do you- do you have uh.. are you married, do you have kids and all that?
+Interviewer:  I am actually uh.. dating right now.
++++ 00:01:05  +++
+Patient:  Oh, okay.  Well I got three kids and uh.. they're quite a bunch, so uh.. I'll let them know about you uh.. being single and uh.. try not to disturb you very much.
+Patient:  So bi- so does the uh.. did you work bring you out this way or- or what?
+Interviewer:  Yeah, I got a new job.
++++ 00:01:34  +++
+Patient:  Oh.  But you're not working down at the plant are you, down the street?
+Interviewer:  No, I'm not.
++++ 00:01:41  +++
+Patient:  Oh, okay.  Yeah, because quite a few of us around here work down there and uhm.. we have a pretty close uh.. close knit group and uh.. everybody looks out for each other.  So if there's anything you need, you know, be sure to holler.  My name's Patient by the way, what's your name?
+Interviewer:  My name is Interviewer.
++++ 00:01:59  +++
+Patient:  Oh.  Oh, okay.  Well welcome to the neighborhood and uh.. if there's anything we can do, let us know.  We got plenty of people around here uh.. sometimes they uh.. get too overly aggressive on their friendliness, but that's okay.
+Interviewer:  <laughs>
++++ 00:02:20  +++
+Patient:  So do you have any in- interests, do you uh.. like barbecuing?
+Interviewer:  Yeah, I love barbecuing.
++++ 00:02:29  +++
+Patient:  Ah, okay.  So what kind of work are you gonna be doing?
+Interviewer:  Uh.. I will be starting a new management job.
++++ 00:02:41  +++
+Patient:  Ooh, one of them type, huh?
+Interviewer:  Yeah.
++++ 00:02:45  +++
+Patient:  Ah, okay.  Well we're all pretty much blue collar here, so don't let that bother you.
+Interviewer:  <laughs>
++++ 00:02:56  +++
+Patient:  We're not union.
+Interviewer:  <laughs>:  All right, well it was great to meet you.  Uhm.. thanks for introducing yourself.
++++ 00:03:13  +++
+Patient:  Well you're very welcome and uhm.. I tell you what, I'll have the uh...... the uh.. wife uh.. make you up a- a plate this evening, it's…

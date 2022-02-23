@@ -1,0 +1,27 @@
+File Identifier:  1639_MCI_V2_Scene_2
+Interviewer:  Hi, this is Interviewer, the landlord.
++++ 00:00:14  +++
+Patient:  Hey Interviewer, good to hear from you.  I was wondering what happened to you, I expected you last week.   I've still got that water leak in my ceiling and it's getting worse, so uh.. when's it gonna get fixed?
+Interviewer:  Uhm.. it might take me about a week, maybe even two weeks before I'll have time to fix it.
++++ 00:00:41  +++
+Patient:  Why did you tell me last week it'd just be a day or two, what happened?
+Interviewer:  I have uhm.. I have a lot of other tenants that have problems that are ahead of yours.
++++ 00:00:55  +++
+Patient:  Well you made a commitment for a couple of days, you know, uh.. one or two days at the most and I'm sitting here with water damage and my furniture's getting wet and it's, you know, it's your apartment, it's your ceiling getting flooded out and uh.. it's your carpet and such and I don't wanna be uh.. be a pain about it, but uh.. we're both being inconvenienced here by your lack of attention on me uh.. on your original promise.
++++ 00:01:31  +++
+Interviewer:  Well I- I do all the repairs myself for the whole building.
++++ 00:01:44  +++
+Patient:  Well you're- you talk- complain about other tenants having a similar problem or other- other tasks, I think you might be a little overwhelmed and uh.. you know, the uh.. there are- there are some uh... statues having to do with habitability of an apartment and how long it take- how long you're allowed to let a problem exist.  You know, I'd hate to have to call in, you know, the city uh.. inspector on this. What do you- what opt-
++++ 00:02:23  +++
+Interviewer:  Well uh.. I don't know what I can do about your problem right now.
++++ 00:02:46  +++
+Patient:  Well can you at least, you know, get it-- do some kind of a patch on the leak, it's, you know, you don't have to do a whole full plumbing job on it, I mean there's some uh.. a leak is a leak and uh.. the water damage uh.. and the- there's the mildew's starting to form uh....... it's uninhabitable and I- I think there's some city codes uh.. that you might be uh.. violating by not taking care of that problem right off the
++++ 00:03:15  +++
+Interviewer:  Right.  Like I said I- I- I'm just busy, I don't know what I can do about your problem right now and it'll- it'll still be about a week or two weeks, but I'll- I'll be able to get to it.
++++ 00:03:42  +++
+Patient:  What specifically is uh.. is holding you up, if you made me a promise a week ago, were you just putting me off?
+Interviewer:  Well I gotta- I gotta go right now, can I give you a call back quickly?
++++ 00:03:54  +++
+Patient:  If it's quick, yeah, I'm not gonna wait another week to hear back from you, you uh.. you uh.. didn't follow up last week and let me that it was gonna take longer than two days.  So yeah, if you hear- if I hear right back from you, yeah I'll be patient with you uh.. a little bit more.
+Interviewer:  All right, sounds good.  I'll give you a call back soon.  Okay, bye.
+Patient:  Bye.

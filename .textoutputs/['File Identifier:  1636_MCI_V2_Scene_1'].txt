@@ -1,0 +1,23 @@
+File Identifier:  1636_MCI_V2_Scene_1
+Interviewer:  Hi, I think I'm your- your new neighbor.
++++ 00:00:24  +++
+Patient:  Hello?  Yes, you are.
+Interviewer:  Uhm.. I'm new to the area, can you tell me about this neighborhood?
++++ 00:00:43  +++
+Patient:  Yeah.  I've been here, you know, a while uhm.. a year or so and it seems to be a good clean uh.. quiet neighborhood.
+Interviewer:  Okay. Uhm.. what is the landlord like?
++++ 00:01:08  +++
+Patient:  He seems to be a pretty fair person uh.. as long as, you know, all rules are adhered to.
+Interviewer:  Okay. Are the residents in this building friendly?
++++ 00:01:33  +++
+Patient:  You know, most of them they kind of keep to themselves, but there are a couple of them that seem to be friendly.
+Interviewer:  Okay. Uh.. is it safe to walk in this neighborhood in the evening?
++++ 00:01:59  +++
+Patient:  I would say yes, uh.. I wouldn't walk uh..... in certain areas uh.. later at night.
+Interviewer:  Got it, okay. Is the building quiet?
++++ 00:02:22  +++
+Patient:  Yes, for the most part it stays quiet, at times uh.. there are uh.. you know, people outside being a little loud.
+Interviewer:  Okay, okay. So I have to go to work in the morning, where is the bus downtown?
++++ 00:02:49  +++
+Patient:  Uh.. there's a rail station uh..... within three blocks of here and- and- and that's the first way- and it's a real bus station, so it's about three blocks from here.  I'm gonna go take a bath- go to the bathroom I'll be right back.
+Interviewer:  Okay.

@@ -1,0 +1,41 @@
+File Identifier: 1652_MCI_SCENE1
+Patient: Okay. Uhm...
++++ 00:00:12  +++
+Patient: Looks like you’re moving into the new apartment. Uhm.. you getting settled...
+Interviewer: Yes.
+Patient: Into the new place?
+Interviewer: Yeah. Thank you.
++++ 00:00:20  +++
+Patient: Yeah. I’ve been here a while but uh.. we were hoping to get a new neighbor soon. I hate- hate to have a vacant apartment. Do you need any help with your stuff?
+Interviewer: Uh.. no, I don’t think that I do. Thank you, though.
++++ 00:00:35  +++
+Patient: Yeah. It’s a nice place. Uhm.. everyone seems to get along real well with each other. Uhm.. I think-- I- I’ve been here a while and it’s- it’s worked out real well for me.
+Interviewer: Awesome. That’s great to know.
++++ 00:00:51  +++
+Patient: Well, if you need anything, give me a shout.
+Interviewer: Okay. Thank you.
++++ 00:00:56  +++
+Patient: All right.
+Interviewer: So, I’m new to the area. Can you tell me about the neighborhood?
++++ 00:01:06  +++
+Patient: Yeah. There-- uhm.. there’s a park nearby and the uh.. grocery store is pretty convenient and there’s a café around the corner. Uhm.. we don’t have a lot here, but it’s- it’s uh.. it’s a nice place and the- the traffic’s not too bad and like I said, the neighbors are pretty nice. We hadn’t had too much crime or anything and it’s just- it’s just worked out real well for me.
+Interviewer: Awesome. So, I have to go to work in the morning. Do you know where the closest bus stop is?
++++ 00:01:56  +++
+Patient: Yeah. Uhm.. you’re gonna have to walk about a block. It’s on the corner. Uh.. you may have missed it when you moved in here. Uh.. but it’s- it’s the bus uh.. 35. It goes right into town and it’s right there. It’s the Express Bus and there’ll be a-- there’s always a few riders from this complex that go over there. So, you know, uh.. depending what time you leave for work, you may see a few people waiting for it, but...
+Interviewer: Okay. Cool. Thank you so much.
++++ 00:02:25  +++
+Patient: Sure.
+Interviewer: Is it safe to walk in this neighborhood in the evening?
++++ 00:02:40  +++
+Patient: Yeah. Uhm.. a lot of people walk. It’s-- they take good care of the- the sidewalks and the paths uh.. down the street. Yeah, and people walk their dogs. Uhm.. like I said, there’s a park nearby. Uhm.. yeah, it’s pretty safe. We haven’t nearly had any problems that I know of.
+Interviewer: Okay. Awesome. That’s- that’s good to know.
++++ 00:03:04  +++
+Patient: It’s well-lit. Yeah. It’s well-lit. That’s the thing that’s good about it.
+Interviewer: Cool. All right. Well, thank you so much for coming over to meet me. I still have to unpack. So, I’m gonna go, but hopefully I’ll see you around.
++++ 00:03:17  +++
+Patient: Okay. Yeah.
+Interviewer: Okay. Cool. Bye.
++++ 00:03:21  +++
+Patient: Welcome to the neighborhood.
+Interviewer: Thank you.
+Patient: Okay.

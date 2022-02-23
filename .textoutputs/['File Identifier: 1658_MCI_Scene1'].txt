@@ -1,0 +1,33 @@
+File Identifier: 1658_MCI_Scene1
++++ 00:00:15  +++
+Patient: Hi. I saw your door open and I just wanted to let you know. You’re the new resident in this apartment, right? I’m your neighbor across the hall.
+Interviewer: Yes, I am. Hi.
++++ 00:00:25  +++
+Patient: Well, great. Welcome. Uh.. my name’s Patient and I keep very odd hours. I work an evening shift and so, I’m usually here in the- in the daytime hours, but uh.. it’s good to have somebody across the hall. This place has been vacant for a little while. Uh.. is everything going smoothly for you with the- with the move?
+Interviewer: Yeah. Yeah. It is going uhm.. quite smoothly. Thank you for asking.
++++ 00:00:45  +++
+Patient: Good. Well, you need any help with anything?
+Interviewer: Uhm.. no. We got everything uhm.. in. So, I think I’m okay. Thank you, though.
++++ 00:00:55  +++
+Patient: All right. Well, uh.. I am just across the hall. So, if you uh.. if you ever need anything, feel free. If I’m there, feel free to call on me. Uh.. if you don’t mind me asking, are you uh.. are you going to be uh.. working here in- in town?
+Interviewer: Yes. Yeah. Uhm.. I’ll be working Downtown.
++++ 00:01:18  +++
+Patient: Okay. Well, again, welcome and- and it’s good to see somebody here and again, if you need anything from me, just- just knock on the door. I’m right there.
+Interviewer: Thank you so much. That’s so nice of you.
+Patient: Sure.
+Interviewer: So, I’m actually new to the area. Can you tell me a little bit about the neighborhood?
++++ 00:01:46  +++
+Patient: Fine. Yes. Uh.. one of the reasons I moved in here is because this uh.. this neighborhood is relatively quiet and I like it for that. Again, kinda important because the hours I keep and uhm.. I mean, you have really everything you need right here just within two or three blocks. Uh.. you got a supermarket, which is two blocks off to the uh.. west and there’s a health club a block to the west and then there’s a
++++ 00:02:16  +++
+Interviewer: Awesome. That’s great. That’s great to know.
++++ 00:02:49  +++
+Patient: If you ever uh.. if you ever need any information on anything, uh.. there are other places to go and other things to do around town. So, you know, if you ever need any guidance on that, uh.. I certainly-- I’m not a complete encyclopedia, but I can certainly give you pointers.
+Interviewer: Okay. Awesome. Well, that is so nice of you. Uhm.. I guess I should unpack. Uhm.. so, I’ll let you go and uh.. hopefully we’ll- we’ll talk again soon. Hopefully I’ll see you around.
++++ 00:03:19  +++
+Patient: All right. Great.
+Interviewer: Okay.
+Patient: Sounds good.
+Interviewer: All right. Have a great rest of your day.
++++ 00:03:23  +++
+Patient: All right. Nice to meet you.
+Interviewer: You too.

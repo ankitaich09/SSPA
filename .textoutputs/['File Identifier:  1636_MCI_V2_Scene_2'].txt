@@ -1,0 +1,38 @@
+File Identifier:  1636_MCI_V2_Scene_2
+Interviewer:  Hi, this is Interviewer, the landlord.
++++ 00:00:14  +++
+Patient:  Hi, this is Patient, your tenant.
+Interviewer:  Hi Patient.
++++ 00:00:21  +++
+Patient:  Yeah, I have a leak in my ceiling, I called you about it last week and it's getting worse now.  I just wondered if, you know, you got an update on that.
+Interviewer:  Uhm.. I'm sorry, I haven't had enough time to get over to fix it, I've been very busy.
++++ 00:00:35  +++
+Patient:  Okay, just be aware that, you know, it's at a point where it's probably damaging other uh...... other things in uh.... around it including my personal items.
+Interviewer:  Okay.
++++ 00:00:54  +++
+Patient:  Uh.. is there any way or something that I could do to minimize, you know, just uh.. you know, possible damage to my property?
+Interviewer:  What have you done about the problem so far?
++++ 00:01:09  +++
+Patient:  Well right now I- I like I usually uh.. just put a bucket under that leak, but it's spreading uh.. and I don't know where the next leak is gonna be at and consequently I don't really know where to move my stuff to so it won't be damaged.
+Interviewer:  Right.
++++ 00:01:35  +++
+Patient:  I can- I can assist, you know, I fixing the problem uh.. you know, uh.. but uh.. I think we should, you know, get something done here before it gets too bad.
+Interviewer:  Okay.
++++ 00:01:56  +++
+Patient:  So can you send uh.. someone else besides you or do you just want to authorize, you know, kind of work that I can do to get this situation better?
+Interviewer:  Well uh.. I do all the repairs myself for the whole building.
++++ 00:02:12  +++
+Patient:  Okay, well in that case I'll just wait until you get here and, you know, monitor, you know, uh.. any escalation to, you know, possible damages to my property.
+Interviewer:  Okay, well uhm.. it didn't sound that bad the last time you called.
++++ 00:02:45  +++
+Patient:  Right, you're correct.  Uh.. as I stated though, it is now-- the leaks, I got multiple leaks now, so…
+Interviewer:  Right.
++++ 00:02:54  +++
+Patient:  …that's <inaudible 00:02:53>.  So you were right <inaudible 00:02:56> it got progressively worse.
+Interviewer:  Okay.  All right, well it'll still be uhm.. about a week or two weeks before I'll have time to fix it.
++++ 00:03:18  +++
+Patient:  Okay, I'll keep on tracking, you know, uh.. where the different leaks are coming from and, you know, make sure that, you know, make sure to inform you, you know, uh.. the severity of the problem.
+Interviewer:  Okay, sounds good.  Well thanks for calling.
++++ 00:03:37  +++
+Patient:  All right.
+Interviewer:  All right, bye.

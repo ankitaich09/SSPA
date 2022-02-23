@@ -55,7 +55,7 @@ def pre_process(data):
     return data_to_be_used
 
 
-def return_a_list_of_file_indetifiers(initial_file_path):
+def break_down_files_at_identifiers(initial_file_path):
     files = []
     file_ids = []
     with open(initial_file_path) as fp:

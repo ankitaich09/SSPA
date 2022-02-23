@@ -10,7 +10,8 @@ import re
 from itertools import groupby
 
 def process(filepath):
-
+    
+    #this function takes in a filepath and writes it as text - no pre processing or cleaning - just straight conversion
     text = docx2txt.process(filepath)
     pos2 = filepath.rfind('.')
     pos1 = filepath.rfind('/')
@@ -30,13 +31,12 @@ def pre_process(data):
 
     data_to_be_used = []
 
-    #only to be used as a comparitive tool
+
     timestamp_pattern = re.compile('^\+.+\+$')
     patient_pattern = re.compile('^Patient:.+$')
     interviewer_patten = re.compile('^Interviewer:.+$')
     file_pattern = re.compile('^.*File Identifier.+$')
-    #we need to figure out number of timestamps before the patient speaks
-    #that many blank spaces need to be appended before this loop runs
+
 
     for each_point in data:
         if (timestamp_pattern.findall(each_point)):
@@ -49,13 +49,15 @@ def pre_process(data):
             data_to_be_used.append((each_point.rstrip()))
 
 
-    #we need to figure out number of timestamps before the patient speaks
-    #that many blank spaces need to be appended before this loop runs
-    #data to be used now consists solely of these three kinds of things
+    #data to be used is pre processed data which has a file from identifier to the last spoken dialogue
     return data_to_be_used
 
 
 def break_down_files_at_identifiers(initial_file_path):
+    
+    #this function takes in the initial file path, reads it as a list and cleans it using pre-processing regex. Then using grouping and subarray making
+    #it writes each file into a new text file and uses the File ID as the file name for easier retrieval. 
+    
     files = []
     file_ids = []
     with open(initial_file_path) as fp:

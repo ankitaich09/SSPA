@@ -21,6 +21,7 @@ import matplotlib.pyplot as plt
 import nltk
 import pandas as pd
 from nltk.corpus import stopwords
+from rake_nltk import Rake
 nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('omw-1.4')
@@ -82,5 +83,8 @@ def extract_avg_sentiment():
 
 #input document as string
 #return keywords as list
-def return_keywords():
-    return
+def return_keywords(text):
+    rake_nltk_var = Rake()
+    words = rake_nltk_var.extract_keywords_from_text(text)
+    keywords = rake_nltk_var.get_ranked_phrases()
+    return keywords

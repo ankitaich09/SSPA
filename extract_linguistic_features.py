@@ -16,10 +16,10 @@ Not removing a lot of punctuations or stopwords because transformer architecture
 
 import re
 import unicodedata
-
 import matplotlib.pyplot as plt
 import nltk
 import pandas as pd
+import sentiment_analysis as sa
 from nltk.corpus import stopwords
 from rake_nltk import Rake
 nltk.download('stopwords')
@@ -77,9 +77,9 @@ def visualize(words, limit):
   plt.xlabel('# of occurences')
 
 #inpout document as string
-#output integer value of average score
-def extract_avg_sentiment():
-    return
+#output tuple with double values of average positive, negative, and subject score
+def extract_avg_sentiment(document):
+    return sa.get_sentiment(document)
 
 #input document as string
 #return keywords as list
@@ -88,3 +88,5 @@ def return_keywords(text):
     words = rake_nltk_var.extract_keywords_from_text(text)
     keywords = rake_nltk_var.get_ranked_phrases()
     return keywords
+
+

@@ -20,6 +20,7 @@ import matplotlib.pyplot as plt
 import nltk
 import pandas as pd
 import sentiment_analysis as sa
+from nrclex import NRCLex
 from nltk.corpus import stopwords
 from rake_nltk import Rake
 nltk.download('stopwords')
@@ -89,4 +90,12 @@ def return_keywords(text):
     keywords = rake_nltk_var.get_ranked_phrases()
     return keywords
 
+
+#Take the text and return list of top emotions in a documents, the list of all emotions, and scores for each emotion identified
+def return_emolex(text):
+  emo_text = NRCLex(text)
+  list_of_top_emotions = emo_text.top_emotions
+  emotions = emo_text.affect_list
+  scores = emotion.raw_emotion_scores
+  return list_of_top_emotions, emotions, scores
 

@@ -69,4 +69,41 @@ def generateVector(data):
     all_dialogues_as_string = ''.join(patient_dialogue)
     positive, negative, subjective = lf.extract_avg_sentiment(all_dialogues_as_string)
     top_emotions, all_emotions, scores = lf.return_emolex(all_dialogues_as_string)
+    max, mean = maxTime(data)
+    write_dict = {
+        'list_of_unigrams' : unigrams,
+        'list_of_bigrams' : bigrams,
+        'list_of_trigrams': trigrams,
+        'max_time' : max,
+        'mean_time' : mean,
+        'positive_score' : positive,
+        'negative_score' : negative,
+        'subjective_score' : subjective,
+        'top_emotions': top_emotions,
+        'emotion_scores': scores
+    }
 
+    return write_dict
+
+def process(filepath):
+
+
+    pos2 = filepath.rfind('.')
+    pos1 = filepath.rfind('/')
+    name = 'PICKLE_'+filepath[pos1+1:pos2]
+    return name
+
+def makePickle(filepath_to_initial_file):
+    data = pd.read_csv(filepath_to_initial_file)
+    output = generateVector(data)
+    name = process(filepath_to_initial_file)
+    pickle_open = open(name+'.pickle', 'wb')
+    pickle.dump(output, pickle_open)
+    pickle_open.close()
+
+def main():
+    filepath = input('Enter the path to the CSV file: ')
+    makePickle(filepath)
+
+if __name__ == '__main__':
+    main()

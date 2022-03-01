@@ -50,6 +50,7 @@ def maxTime(data):
         else:
             #check exists condition
             if not(patient_dialogues[i] == ' '):
+                #formatting errors can cause issues so we remove leading whitespace
                 diff = timeDifference(times[i+1].lstrip(), times[i].lstrip())
                 list_of_differences_in_seconds.append((diff))
     return sum(list_of_differences_in_seconds)

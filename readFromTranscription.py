@@ -134,6 +134,12 @@ def make_dataframe(times, dialogues):
        p.append(d[1][8:])
        i.append(d[0][12:])
 
+
+    print(time[0])
+    print(len(p))
+    print(len(i))
+    if time[0] != '00:00:00':
+        time.insert(0, '00:00:00')
     dataframe = pd.DataFrame(
         {
             'timestamp': time,
@@ -151,7 +157,7 @@ def namemaker(filepath):
 
 
 def main():
-    filepath = '/Users/ankit/Documents/SSPA Project/outputUCSD_IA_3011_Scene 2.txt'
+    filepath = '/Users/ankit/Documents/SSPA Project/Text Files/[\'File Identifier:  1624_MCI_Scene2\'].txt'
     name = namemaker(filepath)
     data = read_file_fron_path(filepath)
     processed_data = pre_process(data)

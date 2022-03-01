@@ -15,10 +15,12 @@ import pandas as pd
 from datetime import datetime
 
 
-#function takes in two time strings and returns second - first as seconds
+#function takes in two time strings and returns first - second time as seconds
 def timeDifference(t1,t2):
-    format = '%H:%M:%S'
-    return (datetime.strptime(t2, format) - datetime.strptime(t2, format)).total_seconds()
+    FMT = '%H:%M:%S'
+    t1 = t1
+    t2 = t2
+    return (datetime.strptime(t1, FMT) - datetime.strptime(t2, FMT)).total_seconds()
 
 
 

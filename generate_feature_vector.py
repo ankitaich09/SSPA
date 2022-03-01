@@ -13,6 +13,8 @@ import re
 import numpy as np
 import pandas as pd
 from datetime import datetime
+import extract_linguistic_features as lf
+import pickle
 
 
 #function takes in two time strings and returns first - second time as seconds
@@ -53,4 +55,18 @@ def maxTime(data):
                 #formatting errors can cause issues so we remove leading whitespace
                 diff = timeDifference(times[i+1].lstrip(), times[i].lstrip())
                 list_of_differences_in_seconds.append((diff))
-    return sum(list_of_differences_in_seconds)
+    return sum(list_of_differences_in_seconds), np.mean(list_of_differences_in_seconds)
+
+
+def generateVector(data):
+    #this function takes in the pandas series of a scene
+    #extracts ngrams, emolex features, max time spoken, average time per dialogue
+    patient_dialogue = list(data['patient_dialogue'])
+    unigrams = list(lf.getWords(patient_dialogue, limit=1))
+    bigrams = list(lf.getWords(patient_dialogue, limit=2))
+    trigrams = list(lf.getWords(patient_dialogue, limit=3))
+    #here we make one string so we can do things like find average sentiment, keywords, emolex etc
+    all_dialogues_as_string = ''.join(patient_dialogue)
+    positive, negative, subjective = lf.extract_avg_sentiment(all_dialogues_as_string)
+    top_emotions, all_emotions, scores = lf.return_emolex(all_dialogues_as_string)
+

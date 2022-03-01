@@ -38,5 +38,18 @@ def maxTime(data):
             start_point = times[i]
             start_point_pos = i
             break
-
-    #start point now holds the start of patient dialogue
+    #start point now holds the timestamp for the start of patient dialogue
+    #run a loop from start point to end point
+    #if i is in pos 0 to n-1 there exists i-1 and i+1 => if dialogue exists we store difference of i+1 and i
+    #if dialogue does not exist we move until there is a dialogue
+    list_of_differences_in_seconds = []
+    for i in range(start_point_pos, len(patient_dialogues)):
+        #if Iterator has reached end of list - then we skip this because that end time is not specified
+        if i == len(patient_dialogues)-1:
+            break
+        else:
+            #check exists condition
+            if not(patient_dialogues[i] == ' '):
+                diff = timeDifference(times[i+1].lstrip(), times[i].lstrip())
+                list_of_differences_in_seconds.append((diff))
+    return sum(list_of_differences_in_seconds)

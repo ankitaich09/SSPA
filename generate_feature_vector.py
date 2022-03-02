@@ -97,8 +97,8 @@ def makeJSON(filepath_to_initial_data):
     data = pd.read_csv(filepath_to_initial_data)
     output_dict, unigrams, bigrams, trigrams = generateVector(data)
     unigrams = {k[0]:int(v) for k,v in unigrams.items()}
-    bigrams = {k[0]:int(v) for k,v in bigrams.items()}
-    trigrams = {k[0]:int(v) for k,v in trigrams.items()}
+    bigrams = {str(' '.join(k[0:])):int(v) for k,v in bigrams.items()}
+    trigrams = {str(' '.join(k[0:])):int(v) for k,v in trigrams.items()}
     json_object = {
         str('Feature_set_1'): output_dict,
         'unigrams':unigrams,

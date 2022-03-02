@@ -15,6 +15,7 @@ import pandas as pd
 from datetime import datetime
 import extract_linguistic_features as lf
 import pickle
+from nltk.tokenize import RegexpTokenizer
 import json
 
 
@@ -59,13 +60,27 @@ def maxTime(data):
     return sum(list_of_differences_in_seconds), np.mean(list_of_differences_in_seconds)
 
 
+
+
 #return number of utterances
 #return word count
 #return number of unique words
 #return avg words per utterance
 def utteranceFeatures(data):
-
-    return
+    patient_dialogues = list(data['patient_dialogue'])
+    #remove all blank dialogues from list
+    patient_dialogues = list(filter((' ').__ne__, patient_dialogues))
+    count = 0
+    unique_count = 0
+    num_words_per_sentence = []
+    for each_lint in patient_dialogues:
+        tokenizer = RegexpTokenizer(r'\w+')
+        temp_list_of_words = tokenizer.tokenize(each_lint)
+        count = count + len(temp_list_of_words)
+        num_words_per_sentence.append(len(temp_list_of_words))
+    num_utterances = len(patient_dialogues)
+    unique_count = len(list(set(' '.join(patient_dialogues))))
+    return num_utterances, count, unique_count, np.mean(num_words_per_sentence)
 
 
 def generateVector(data):
@@ -76,7 +91,7 @@ def generateVector(data):
     bigrams = dict(lf.getWords(patient_dialogue, limit=10, number=2))
     trigrams = dict(lf.getWords(patient_dialogue, limit=10, number=3))
     #here we make one string so we can do things like find average sentiment, keywords, emolex etc
-    all_dialogues_as_string = ''.join(patient_dialogue)
+    all_dialogues_as_string = ' '.join(patient_dialogue)
     positive, negative, subjective = lf.extract_avg_sentiment(all_dialogues_as_string)
     top_emotions, all_emotions, scores = lf.return_emolex(all_dialogues_as_string)
     max, mean = maxTime(data)
@@ -89,8 +104,15 @@ def generateVector(data):
         'top_emotions': top_emotions,
         'emotion_scores': scores
     }
+    num_utter, total_words, total_unique_words, avg_word_per_utter = utteranceFeatures(data)
+    utterance_dict = {
+        'num_utterances' : num_utter,
+        'total_words' : total_words,
+        'total_unique_words' : total_unique_words,
+        'avg_word_per_utter' : avg_word_per_utter
+    }
 
-    return write_dict, unigrams, bigrams, trigrams
+    return write_dict, utterance_dict, unigrams, bigrams, trigrams
 
 def process(filepath):
 
@@ -104,7 +126,7 @@ def process(filepath):
 
 def makeJSON(filepath_to_initial_data):
     data = pd.read_csv(filepath_to_initial_data)
-    output_dict, unigrams, bigrams, trigrams = generateVector(data)
+    output_dict, utterance_features, unigrams, bigrams, trigrams = generateVector(data)
     #fixing the ngrams bc they are procuded as tuples and digits
     #this way we make them into phrases and integers using json format
     unigrams = {k[0]:int(v) for k,v in unigrams.items()}
@@ -112,6 +134,7 @@ def makeJSON(filepath_to_initial_data):
     trigrams = {str(' '.join(k[0:])):int(v) for k,v in trigrams.items()}
     json_object = {
         str('Feature_set_1'): output_dict,
+        'utterance_features': utterance_features,
         'unigrams':unigrams,
         'bigrams':bigrams,
         'trigrams':trigrams
@@ -124,6 +147,7 @@ def makeJSON(filepath_to_initial_data):
 def main():
     filepath = input('Enter the path to the CSV file: ')
     makeJSON(filepath)
+
 
 
 if __name__ == '__main__':

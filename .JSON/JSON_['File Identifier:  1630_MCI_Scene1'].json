@@ -22,6 +22,12 @@
             "sadness": 1
         }
     },
+    "utterance_features": {
+        "num_utterances": 16,
+        "total_words": 293,
+        "total_unique_words": 44,
+        "avg_word_per_utter": 18.3125
+    },
     "unigrams": {
         "uh": 14,
         "okay": 8,

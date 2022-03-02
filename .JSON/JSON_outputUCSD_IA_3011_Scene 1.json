@@ -1,0 +1,65 @@
+{
+    "Feature_set_1": {
+        "max_time": 176.0,
+        "mean_time": 14.666666666666666,
+        "positive_score": 0.27184466019417475,
+        "negative_score": 0.1953883495145631,
+        "subjective_score": 0.11495535714285714,
+        "top_emotions": [
+            [
+                "positive",
+                0.2558139534883721
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 8,
+            "joy": 8,
+            "positive": 11,
+            "surprise": 6,
+            "trust": 9,
+            "fear": 1
+        }
+    },
+    "utterance_features": {
+        "num_utterances": 13,
+        "total_words": 286,
+        "total_unique_words": 49,
+        "avg_word_per_utter": 22.0
+    },
+    "unigrams": {
+        "uhm": 12,
+        "okay": 5,
+        "bus": 5,
+        "uh": 5,
+        "there": 5,
+        "downtown": 4,
+        "around": 3,
+        "youre": 3,
+        "anything": 3,
+        "need": 3
+    },
+    "bigrams": {
+        "uhm there": 3,
+        "san diego": 2,
+        "seven bus": 2,
+        "way idaho": 1,
+        "downtown uhm": 1,
+        "uhm catch": 1,
+        "catch bus": 1,
+        "bus two": 1,
+        "two block": 1,
+        "block way": 1
+    },
+    "trigrams": {
+        "uhm hey name": 1,
+        "way downtown transfer": 1,
+        "bus downtown uhm": 1,
+        "downtown uhm catch": 1,
+        "uhm catch bus": 1,
+        "catch bus two": 1,
+        "bus two block": 1,
+        "two block way": 1,
+        "block way idaho": 1,
+        "way idaho street": 1
+    }
+}

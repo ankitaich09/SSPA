@@ -22,6 +22,12 @@
             "negative": 1
         }
     },
+    "utterance_features": {
+        "num_utterances": 7,
+        "total_words": 161,
+        "total_unique_words": 33,
+        "avg_word_per_utter": 23.0
+    },
     "unigrams": {
         "uh": 9,
         "know": 4,

@@ -1,0 +1,67 @@
+{
+    "Feature_set_1": {
+        "max_time": 125.0,
+        "mean_time": 31.25,
+        "positive_score": 0.1534090909090909,
+        "negative_score": 0.32386363636363635,
+        "subjective_score": 0.12890625,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.3125
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 6,
+            "anticipation": 10,
+            "positive": 4,
+            "trust": 4,
+            "fear": 3,
+            "sadness": 3,
+            "joy": 1,
+            "surprise": 1
+        }
+    },
+    "utterance_features": {
+        "num_utterances": 5,
+        "total_words": 317,
+        "total_unique_words": 38,
+        "avg_word_per_utter": 63.4
+    },
+    "unigrams": {
+        "uh": 24,
+        "get": 5,
+        "starting": 4,
+        "like": 4,
+        "top": 3,
+        "someone": 3,
+        "said": 3,
+        "worse": 3,
+        "little": 3,
+        "water": 3
+    },
+    "bigrams": {
+        "uh like": 3,
+        "like said": 3,
+        "probably get": 2,
+        "top floor": 2,
+        "uh uh": 2,
+        "said time": 1,
+        "gonna start": 1,
+        "start well": 1,
+        "well uh": 1,
+        "like like": 1
+    },
+    "trigrams": {
+        "uh like said": 2,
+        "thats uh gonna": 1,
+        "gonna start well": 1,
+        "start well uh": 1,
+        "well uh like": 1,
+        "uh like like": 1,
+        "like like said": 1,
+        "like said time": 1,
+        "said time water": 1,
+        "yeah interviewer uh": 1
+    }
+}

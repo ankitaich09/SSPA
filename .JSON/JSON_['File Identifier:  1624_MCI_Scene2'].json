@@ -24,6 +24,12 @@
             "joy": 4
         }
     },
+    "utterance_features": {
+        "num_utterances": 12,
+        "total_words": 634,
+        "total_unique_words": 52,
+        "avg_word_per_utter": 52.833333333333336
+    },
     "unigrams": {
         "know": 13,
         "uhm": 12,

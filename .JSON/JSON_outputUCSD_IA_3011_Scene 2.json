@@ -1,0 +1,73 @@
+{
+    "Feature_set_1": {
+        "max_time": 136.0,
+        "mean_time": 34.0,
+        "positive_score": 0.2712962962962963,
+        "negative_score": 0.21481481481481482,
+        "subjective_score": 0.2109375,
+        "top_emotions": [
+            [
+                "negative",
+                0.16666666666666666
+            ],
+            [
+                "sadness",
+                0.16666666666666666
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 9,
+            "fear": 7,
+            "sadness": 9,
+            "positive": 8,
+            "anger": 4,
+            "disgust": 3,
+            "trust": 7,
+            "anticipation": 3,
+            "joy": 2,
+            "surprise": 2
+        }
+    },
+    "utterance_features": {
+        "num_utterances": 5,
+        "total_words": 369,
+        "total_unique_words": 40,
+        "avg_word_per_utter": 73.8
+    },
+    "unigrams": {
+        "uhm": 19,
+        "uh": 18,
+        "getting": 5,
+        "apartment": 4,
+        "soon": 3,
+        "need": 3,
+        "important": 3,
+        "worse": 3,
+        "done": 3,
+        "wanted": 3
+    },
+    "bigrams": {
+        "need done": 2,
+        "soon possible": 2,
+        "possible uhm": 2,
+        "apartment getting": 2,
+        "uh getting": 2,
+        "uh apartment": 2,
+        "uhm thats": 2,
+        "getting worse": 2,
+        "worse uhm": 2,
+        "uh want": 1
+    },
+    "trigrams": {
+        "hi m jones": 1,
+        "trying make sound": 1,
+        "done apartment getting": 1,
+        "apartment getting ruined": 1,
+        "getting ruined thing": 1,
+        "ruined thing getting": 1,
+        "thing getting damaged": 1,
+        "getting damaged uhm": 1,
+        "damaged uhm uh": 1,
+        "uhm uh want": 1
+    }
+}

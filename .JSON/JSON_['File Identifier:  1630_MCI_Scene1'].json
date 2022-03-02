@@ -1,0 +1,61 @@
+{
+    "Feature_set_1": {
+        "max_time": 176.0,
+        "mean_time": 11.733333333333333,
+        "positive_score": 0.22482014388489208,
+        "negative_score": 0.20053956834532374,
+        "subjective_score": 0.14479166666666668,
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 8,
+            "anticipation": 3,
+            "joy": 4,
+            "trust": 4,
+            "anger": 1,
+            "fear": 1,
+            "negative": 2,
+            "sadness": 1
+        }
+    },
+    "unigrams": {
+        "uh": 14,
+        "okay": 8,
+        "oh": 7,
+        "well": 5,
+        "youre": 3,
+        "let": 3,
+        "ah": 3,
+        "know": 3,
+        "coast": 3,
+        "pretty": 2
+    },
+    "bigrams": {
+        "oh okay": 4,
+        "okay well": 3,
+        "ah okay": 2,
+        "coast west": 2,
+        "west coast": 2,
+        "there anything": 2,
+        "way whats": 1,
+        "plenty people": 1,
+        "interest uh": 1,
+        "okay interest": 1
+    },
+    "trigrams": {
+        "coast west coast": 2,
+        "oh okay well": 2,
+        "u know got": 1,
+        "know got plenty": 1,
+        "got plenty people": 1,
+        "plenty people around": 1,
+        "people around uh": 1,
+        "around uh sometimes": 1,
+        "uh sometimes uh": 1,
+        "begin okay hey": 1
+    }
+}

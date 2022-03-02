@@ -1,0 +1,63 @@
+{
+    "Feature_set_1": {
+        "max_time": 240.0,
+        "mean_time": 21.818181818181817,
+        "positive_score": 0.2276936026936027,
+        "negative_score": 0.28114478114478114,
+        "subjective_score": 0.13904494382022473,
+        "top_emotions": [
+            [
+                "negative",
+                0.1792452830188679
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 19,
+            "anticipation": 10,
+            "fear": 13,
+            "sadness": 15,
+            "positive": 17,
+            "surprise": 3,
+            "trust": 15,
+            "anger": 5,
+            "disgust": 5,
+            "joy": 4
+        }
+    },
+    "unigrams": {
+        "know": 13,
+        "uhm": 12,
+        "look": 11,
+        "would": 8,
+        "quick": 7,
+        "im": 6,
+        "time": 6,
+        "come": 5,
+        "youre": 5,
+        "real": 5
+    },
+    "bigrams": {
+        "know youre": 3,
+        "take care": 3,
+        "quick look": 3,
+        "uhm know": 3,
+        "real quick": 3,
+        "youre busy": 2,
+        "look may": 2,
+        "worse uhm": 2,
+        "said would": 2,
+        "would really": 2
+    },
+    "trigrams": {
+        "real quick look": 2,
+        "quick look may": 2,
+        "im willing meet": 2,
+        "willing meet time": 2,
+        "im im willing": 1,
+        "would im im": 1,
+        "cause would im": 1,
+        "list cause would": 1,
+        "head list cause": 1,
+        "bump head list": 1
+    }
+}

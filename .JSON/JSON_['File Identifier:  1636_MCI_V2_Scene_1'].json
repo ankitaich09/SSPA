@@ -1,0 +1,61 @@
+{
+    "Feature_set_1": {
+        "max_time": 145.0,
+        "mean_time": 24.166666666666668,
+        "positive_score": 0.3567073170731707,
+        "negative_score": 0.20426829268292682,
+        "subjective_score": 0.1576923076923077,
+        "top_emotions": [
+            [
+                "positive",
+                0.3125
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 6,
+            "joy": 5,
+            "positive": 10,
+            "surprise": 1,
+            "trust": 6,
+            "sadness": 2,
+            "anger": 1,
+            "negative": 1
+        }
+    },
+    "unigrams": {
+        "uh": 9,
+        "know": 4,
+        "yes": 3,
+        "go": 2,
+        "block": 2,
+        "station": 2,
+        "quiet": 2,
+        "three": 2,
+        "seems": 2,
+        "little": 1
+    },
+    "bigrams": {
+        "three block": 2,
+        "people outside": 1,
+        "station uh": 1,
+        "rail station": 1,
+        "there rail": 1,
+        "uh there": 1,
+        "loud uh": 1,
+        "little loud": 1,
+        "outside little": 1,
+        "hello yes": 1
+    },
+    "trigrams": {
+        "hello yes yeah": 1,
+        "people outside little": 1,
+        "station uh within": 1,
+        "rail station uh": 1,
+        "there rail station": 1,
+        "uh there rail": 1,
+        "loud uh there": 1,
+        "little loud uh": 1,
+        "outside little loud": 1,
+        "know people outside": 1
+    }
+}

@@ -15,6 +15,7 @@ import pandas as pd
 from datetime import datetime
 import extract_linguistic_features as lf
 import pickle
+import json
 
 
 #function takes in two time strings and returns first - second time as seconds
@@ -87,20 +88,33 @@ def process(filepath):
 
     pos2 = filepath.rfind('.')
     pos1 = filepath.rfind('/')
-    name = 'PICKLE_'+filepath[pos1+1:pos2]
+    name = 'JSON_'+filepath[pos1+1:pos2]
     return name
 
-def makePickle(filepath_to_initial_file):
-    data = pd.read_csv(filepath_to_initial_file)
-    output = generateVector(data)
-    name = process(filepath_to_initial_file)
-    pickle_open = open(name+'.pickle', 'wb')
-    pickle.dump(output, pickle_open)
-    pickle_open.close()
+
+
+def makeJSON(filepath_to_initial_data):
+    data = pd.read_csv(filepath_to_initial_data)
+    output_dict, unigrams, bigrams, trigrams = generateVector(data)
+    unigrams = {k[0]:int(v) for k,v in unigrams.items()}
+    bigrams = {k[0]:int(v) for k,v in bigrams.items()}
+    trigrams = {k[0]:int(v) for k,v in trigrams.items()}
+    json_object = {
+        str('Feature_set_1'): output_dict,
+        'unigrams':unigrams,
+        'bigrams':bigrams,
+        'trigrams':trigrams
+    }
+    name = process(filepath_to_initial_data)+'.json'
+    with open(name, 'w') as jf:
+        json.dump(json_object, jf, indent=4)
+
 
 def main():
     filepath = input('Enter the path to the CSV file: ')
-    data_dict, unigrams, bigrams, trigrams = generateVector(pd.read_csv(filepath))
+    makeJSON(filepath)
+
+    '''data_dict, unigrams, bigrams, trigrams = generateVector(pd.read_csv(filepath))
 
     print(data_dict)
 
@@ -110,7 +124,7 @@ def main():
         print(i)
     for i in trigrams:
         print(i)
-
+'''
 
 
 if __name__ == '__main__':

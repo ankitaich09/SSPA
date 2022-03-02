@@ -62,18 +62,15 @@ def generateVector(data):
     #this function takes in the pandas series of a scene
     #extracts ngrams, emolex features, max time spoken, average time per dialogue
     patient_dialogue = list(data['patient_dialogue'])
-    unigrams = list(lf.getWords(patient_dialogue, limit=1))
-    bigrams = list(lf.getWords(patient_dialogue, limit=2))
-    trigrams = list(lf.getWords(patient_dialogue, limit=3))
+    unigrams = dict(lf.getWords(patient_dialogue, limit=10, number=1))
+    bigrams = dict(lf.getWords(patient_dialogue, limit=10, number=2))
+    trigrams = dict(lf.getWords(patient_dialogue, limit=10, number=3))
     #here we make one string so we can do things like find average sentiment, keywords, emolex etc
     all_dialogues_as_string = ''.join(patient_dialogue)
     positive, negative, subjective = lf.extract_avg_sentiment(all_dialogues_as_string)
     top_emotions, all_emotions, scores = lf.return_emolex(all_dialogues_as_string)
     max, mean = maxTime(data)
     write_dict = {
-        'list_of_unigrams' : unigrams,
-        'list_of_bigrams' : bigrams,
-        'list_of_trigrams': trigrams,
         'max_time' : max,
         'mean_time' : mean,
         'positive_score' : positive,
@@ -83,7 +80,7 @@ def generateVector(data):
         'emotion_scores': scores
     }
 
-    return write_dict
+    return write_dict, unigrams, bigrams, trigrams
 
 def process(filepath):
 
@@ -103,7 +100,18 @@ def makePickle(filepath_to_initial_file):
 
 def main():
     filepath = input('Enter the path to the CSV file: ')
-    makePickle(filepath)
+    data_dict, unigrams, bigrams, trigrams = generateVector(pd.read_csv(filepath))
+
+    print(data_dict)
+
+    for i in unigrams:
+        print(i)
+    for i in bigrams:
+        print(i)
+    for i in trigrams:
+        print(i)
+
+
 
 if __name__ == '__main__':
     main()

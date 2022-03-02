@@ -59,6 +59,15 @@ def maxTime(data):
     return sum(list_of_differences_in_seconds), np.mean(list_of_differences_in_seconds)
 
 
+#return number of utterances
+#return word count
+#return number of unique words
+#return avg words per utterance
+def utteranceFeatures(data):
+
+    return
+
+
 def generateVector(data):
     #this function takes in the pandas series of a scene
     #extracts ngrams, emolex features, max time spoken, average time per dialogue
@@ -96,6 +105,8 @@ def process(filepath):
 def makeJSON(filepath_to_initial_data):
     data = pd.read_csv(filepath_to_initial_data)
     output_dict, unigrams, bigrams, trigrams = generateVector(data)
+    #fixing the ngrams bc they are procuded as tuples and digits
+    #this way we make them into phrases and integers using json format
     unigrams = {k[0]:int(v) for k,v in unigrams.items()}
     bigrams = {str(' '.join(k[0:])):int(v) for k,v in bigrams.items()}
     trigrams = {str(' '.join(k[0:])):int(v) for k,v in trigrams.items()}
@@ -113,18 +124,6 @@ def makeJSON(filepath_to_initial_data):
 def main():
     filepath = input('Enter the path to the CSV file: ')
     makeJSON(filepath)
-
-    '''data_dict, unigrams, bigrams, trigrams = generateVector(pd.read_csv(filepath))
-
-    print(data_dict)
-
-    for i in unigrams:
-        print(i)
-    for i in bigrams:
-        print(i)
-    for i in trigrams:
-        print(i)
-'''
 
 
 if __name__ == '__main__':

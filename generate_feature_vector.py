@@ -60,7 +60,17 @@ def maxTime(data):
                 list_of_differences_in_seconds.append((diff))
     return sum(list_of_differences_in_seconds), np.mean(list_of_differences_in_seconds)
 
-
+def lexicalFeatures(text):
+    lex = LexicalRichness(text)
+    ttratio = lex.ttr
+    cttration = lex.cttr
+    #The TTR value which a sequence of contiguous text units must maintain to constitute a 'factor'. It should be comprised between 0 and 1 exclusive. Default is 0.72.
+    mtld = lex.mtld(threshold=0.72)
+    herdan = lex.Herdan
+    summer = lex.Summer
+    dug = lex.Dugast
+    mas = lex.Maas
+    return lex, ttratio, cttration, mtld, herdan, summer, dug, mas
 
 
 #return number of utterances

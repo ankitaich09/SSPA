@@ -17,6 +17,7 @@ import extract_linguistic_features as lf
 import pickle
 from nltk.tokenize import RegexpTokenizer
 import json
+from lexicalrichness import LexicalRichness
 
 
 #function takes in two time strings and returns first - second time as seconds

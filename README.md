@@ -17,3 +17,22 @@ Next steps to extract features. Update 24th Feb 2022
 2nd March - Feature Vectors being generated - emolex, utterance features added, ngrams added into json
 
 3rd March - Features of lexical richness added
+
+3rd March - Lexical Richness Features Explanations
+
+words = w
+unique words = t
+
+ttr = t/w - (Chotlos 1944, Templin 1957)
+
+rttr = t/sqrt(w) - (Guiraud 1954, 1960)
+
+cttr = t/sqrt(2w) - (Carrol 1964)
+
+Herdan = log(t)/log(w) -- (Herdan 1960, 1964)
+
+Summer = log(log(t))/ log(log(w)) - Summer (1966)
+
+Dugast = 	(log(w) ** 2) / (log(w) - log(t) Dugast (1978)
+
+Maas  = (log(w) - log(t)) / (log(w) ** 2) Maas (1972)

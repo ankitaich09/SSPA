@@ -24,6 +24,15 @@
             "joy": 4
         }
     },
+    "lexical_features": {
+        "ttr": 0.3179650238473768,
+        "cttr": 5.6388387443460095,
+        "diversity": 49.2531658359154,
+        "herdan": 0.822192651808416,
+        "summer": 0.8949207215444586,
+        "dugast": 36.24221002248465,
+        "maas": 0.02759213633439022
+    },
     "utterance_features": {
         "num_utterances": 12,
         "total_words": 634,

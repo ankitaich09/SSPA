@@ -20,6 +20,15 @@
             "fear": 1
         }
     },
+    "lexical_features": {
+        "ttr": 0.5150375939849624,
+        "cttr": 5.939703291240222,
+        "diversity": 53.92073602264685,
+        "herdan": 0.8811648927017288,
+        "summer": 0.9264394754698091,
+        "dugast": 46.985242288437185,
+        "maas": 0.02128327856353514
+    },
     "utterance_features": {
         "num_utterances": 13,
         "total_words": 286,

@@ -22,6 +22,15 @@
             "sadness": 1
         }
     },
+    "lexical_features": {
+        "ttr": 0.46075085324232085,
+        "cttr": 5.576798597211186,
+        "diversity": 50.75623601038589,
+        "herdan": 0.8635784713041086,
+        "summer": 0.9155601257509851,
+        "dugast": 41.63692243677473,
+        "maas": 0.024017144915513156
+    },
     "utterance_features": {
         "num_utterances": 16,
         "total_words": 293,

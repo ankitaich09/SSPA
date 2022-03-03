@@ -22,6 +22,15 @@
             "surprise": 1
         }
     },
+    "lexical_features": {
+        "ttr": 0.3753943217665615,
+        "cttr": 4.726093751197749,
+        "diversity": 39.05238439306359,
+        "herdan": 0.8298671657832257,
+        "summer": 0.8934799520709041,
+        "dugast": 33.84944358559025,
+        "maas": 0.029542583099525486
+    },
     "utterance_features": {
         "num_utterances": 5,
         "total_words": 317,

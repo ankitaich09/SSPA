@@ -1,0 +1,73 @@
+{
+    "Feature_set_1": {
+        "max_time": 189.0,
+        "mean_time": 11.117647058823529,
+        "positive_score": 0.2913793103448276,
+        "negative_score": 0.16810344827586207,
+        "subjective_score": 0.12414383561643835,
+        "top_emotions": [
+            [
+                "positive",
+                0.34782608695652173
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 16,
+            "anticipation": 11,
+            "joy": 7,
+            "surprise": 5,
+            "trust": 7
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.461038961038961,
+        "cttr": 5.7213430445802,
+        "diversity": 60.42442748091603,
+        "herdan": 0.8648762229807955,
+        "summer": 0.9168435942339446,
+        "dugast": 42.40630264619663,
+        "maas": 0.023581400348509016
+    },
+    "utterance_features": {
+        "num_utterances": 18,
+        "total_words": 326,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 18.11111111111111
+    },
+    "unigrams": {
+        "uh": 10,
+        "great": 6,
+        "well": 6,
+        "lot": 5,
+        "uhm": 4,
+        "right": 3,
+        "hope": 3,
+        "he": 3,
+        "im": 3,
+        "meet": 3
+    },
+    "bigrams": {
+        "uhm he": 2,
+        "lot people": 2,
+        "meet lot": 2,
+        "he responsive": 2,
+        "ill see": 1,
+        "stay ill": 1,
+        "great stay": 1,
+        "hope great": 1,
+        "hope hope": 1,
+        "uh hope": 1
+    },
+    "trigrams": {
+        "meet lot people": 2,
+        "uhm he responsive": 2,
+        "see soon uhm": 1,
+        "ill see soon": 1,
+        "stay ill see": 1,
+        "great stay ill": 1,
+        "hope great stay": 1,
+        "hope hope great": 1,
+        "building hope hope": 1,
+        "hope maybe get": 1
+    }
+}

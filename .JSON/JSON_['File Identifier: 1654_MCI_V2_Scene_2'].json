@@ -1,0 +1,78 @@
+{
+    "Feature_set_1": {
+        "max_time": 189.0,
+        "mean_time": 18.9,
+        "positive_score": 0.14073426573426573,
+        "negative_score": 0.32167832167832167,
+        "subjective_score": 0.1527777777777778,
+        "top_emotions": [
+            [
+                "negative",
+                0.2708333333333333
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 13,
+            "surprise": 4,
+            "positive": 3,
+            "trust": 4,
+            "anger": 2,
+            "fear": 10,
+            "sadness": 7,
+            "anticipation": 3,
+            "disgust": 1,
+            "joy": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4645390070921986,
+        "cttr": 5.516095082985699,
+        "diversity": 56.252924076607385,
+        "herdan": 0.8641045061365257,
+        "summer": 0.9155821915505871,
+        "dugast": 41.51651324514252,
+        "maas": 0.024086801174638652
+    },
+    "utterance_features": {
+        "num_utterances": 11,
+        "total_words": 294,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 26.727272727272727
+    },
+    "unigrams": {
+        "uh": 8,
+        "problem": 5,
+        "uhm": 5,
+        "okay": 5,
+        "know": 4,
+        "oh": 3,
+        "anything": 3,
+        "like": 3,
+        "im": 3,
+        "right": 3
+    },
+    "bigrams": {
+        "problem okay": 3,
+        "get worse": 2,
+        "oh okay": 2,
+        "uh right": 2,
+        "like get": 1,
+        "mean like": 1,
+        "urgent mean": 1,
+        "matter urgent": 1,
+        "list matter": 1,
+        "go list": 1
+    },
+    "trigrams": {
+        "hi patient live": 1,
+        "problem okay uhm": 1,
+        "worse get moved": 1,
+        "get worse get": 1,
+        "like get worse": 1,
+        "mean like get": 1,
+        "urgent mean like": 1,
+        "matter urgent mean": 1,
+        "list matter urgent": 1,
+        "go list matter": 1
+    }
+}

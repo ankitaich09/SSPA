@@ -1,0 +1,82 @@
+{
+    "Feature_set_1": {
+        "max_time": 229.0,
+        "mean_time": 25.444444444444443,
+        "positive_score": 0.23241017964071856,
+        "negative_score": 0.23016467065868262,
+        "subjective_score": 0.17841880341880342,
+        "top_emotions": [
+            [
+                "positive",
+                0.2028985507246377
+            ],
+            [
+                "negative",
+                0.2028985507246377
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 8,
+            "joy": 2,
+            "positive": 14,
+            "surprise": 2,
+            "trust": 10,
+            "negative": 14,
+            "fear": 8,
+            "sadness": 7,
+            "anger": 2,
+            "disgust": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.34710743801652894,
+        "cttr": 5.39972451087909,
+        "diversity": 37.689667688928125,
+        "herdan": 0.8288407643570602,
+        "summer": 0.8969469167787109,
+        "dugast": 36.11890929224093,
+        "maas": 0.02768632883980304
+    },
+    "utterance_features": {
+        "num_utterances": 10,
+        "total_words": 499,
+        "total_unique_words": 49,
+        "avg_word_per_utter": 49.9
+    },
+    "unigrams": {
+        "interviewer": 11,
+        "uh": 7,
+        "go": 5,
+        "going": 5,
+        "bucket": 5,
+        "fix": 5,
+        "leak": 4,
+        "okay": 4,
+        "bill": 4,
+        "need": 4
+    },
+    "bigrams": {
+        "send bill": 3,
+        "come fix": 2,
+        "two week": 2,
+        "go doctor": 2,
+        "uh go": 2,
+        "leak getting": 2,
+        "fix leak": 2,
+        "really need": 2,
+        "really really": 2,
+        "need fixed": 1
+    },
+    "trigrams": {
+        "interviewer good afternoon": 1,
+        "good afternoon patient": 1,
+        "bucket fill cannot": 1,
+        "fill cannot able": 1,
+        "cannot able sleep": 1,
+        "able sleep thinking": 1,
+        "sleep thinking bucket": 1,
+        "thinking bucket going": 1,
+        "bucket going fill": 1,
+        "going fill rainy": 1
+    }
+}

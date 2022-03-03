@@ -1,0 +1,78 @@
+{
+    "Feature_set_1": {
+        "max_time": 185.0,
+        "mean_time": 20.555555555555557,
+        "positive_score": 0.21585365853658536,
+        "negative_score": 0.20182926829268294,
+        "subjective_score": 0.13703208556149732,
+        "top_emotions": [
+            [
+                "negative",
+                0.20689655172413793
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 12,
+            "sadness": 8,
+            "positive": 10,
+            "surprise": 4,
+            "fear": 7,
+            "anticipation": 3,
+            "joy": 2,
+            "trust": 7,
+            "anger": 3,
+            "disgust": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.40609137055837563,
+        "cttr": 5.699763999032772,
+        "diversity": 55.51000157505119,
+        "herdan": 0.8492094745203018,
+        "summer": 0.9085756444724722,
+        "dugast": 39.633464306101686,
+        "maas": 0.025231203416302094
+    },
+    "utterance_features": {
+        "num_utterances": 10,
+        "total_words": 410,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 41.0
+    },
+    "unigrams": {
+        "repair": 8,
+        "going": 6,
+        "get": 5,
+        "cost": 4,
+        "job": 4,
+        "think": 4,
+        "im": 4,
+        "day": 4,
+        "could": 4,
+        "well": 4
+    },
+    "bigrams": {
+        "repair job": 4,
+        "two week": 3,
+        "youre going": 2,
+        "get somebody": 2,
+        "hi yes": 1,
+        "cost going": 1,
+        "repair im": 1,
+        "im im": 1,
+        "im thinking": 1,
+        "thinking term": 1
+    },
+    "trigrams": {
+        "hi yes patient": 1,
+        "repair versus going": 1,
+        "repair im im": 1,
+        "im im thinking": 1,
+        "im thinking term": 1,
+        "thinking term would": 1,
+        "term would cost": 1,
+        "would cost going": 1,
+        "cost going repair": 1,
+        "going repair versus": 1
+    }
+}

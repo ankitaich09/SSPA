@@ -1,0 +1,74 @@
+{
+    "Feature_set_1": {
+        "max_time": 155.0,
+        "mean_time": 19.375,
+        "positive_score": 0.33379120879120877,
+        "negative_score": 0.16346153846153846,
+        "subjective_score": 0.16366906474820145,
+        "top_emotions": [
+            [
+                "positive",
+                0.45454545454545453
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 10,
+            "anticipation": 3,
+            "trust": 6,
+            "joy": 1,
+            "surprise": 1,
+            "sadness": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4713804713804714,
+        "cttr": 5.744269579035527,
+        "diversity": 43.02512811805207,
+        "herdan": 0.8679091854237547,
+        "summer": 0.9185518175244565,
+        "dugast": 43.10467883076132,
+        "maas": 0.023199337685039373
+    },
+    "utterance_features": {
+        "num_utterances": 9,
+        "total_words": 308,
+        "total_unique_words": 44,
+        "avg_word_per_utter": 34.22222222222222
+    },
+    "unigrams": {
+        "uh": 15,
+        "need": 5,
+        "right": 4,
+        "ever": 4,
+        "im": 4,
+        "well": 3,
+        "hall": 3,
+        "across": 3,
+        "block": 3,
+        "anything": 3
+    },
+    "bigrams": {
+        "ever need": 3,
+        "across hall": 3,
+        "uh ever": 2,
+        "block uh": 2,
+        "west there": 2,
+        "feel free": 2,
+        "mean really": 1,
+        "hour keep": 1,
+        "keep uhm": 1,
+        "uhm mean": 1
+    },
+    "trigrams": {
+        "uh ever need": 2,
+        "kinda important hour": 1,
+        "important hour keep": 1,
+        "hour keep uhm": 1,
+        "keep uhm mean": 1,
+        "uhm mean really": 1,
+        "mean really everything": 1,
+        "really everything need": 1,
+        "everything need right": 1,
+        "hi saw door": 1
+    }
+}

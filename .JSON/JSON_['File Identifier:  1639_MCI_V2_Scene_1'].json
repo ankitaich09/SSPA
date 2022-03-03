@@ -1,0 +1,78 @@
+{
+    "Feature_set_1": {
+        "max_time": 183.0,
+        "mean_time": 11.4375,
+        "positive_score": 0.29829545454545453,
+        "negative_score": 0.12357954545454546,
+        "subjective_score": 0.13414634146341464,
+        "top_emotions": [
+            [
+                "positive",
+                0.2777777777777778
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 11,
+            "positive": 15,
+            "trust": 11,
+            "anger": 1,
+            "disgust": 1,
+            "fear": 2,
+            "negative": 2,
+            "sadness": 2,
+            "joy": 7,
+            "surprise": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.46827794561933533,
+        "cttr": 6.024246076107656,
+        "diversity": 44.24622170503709,
+        "herdan": 0.8692385764348507,
+        "summer": 0.9202958651831279,
+        "dugast": 44.37178960877763,
+        "maas": 0.022536841736989124
+    },
+    "utterance_features": {
+        "num_utterances": 17,
+        "total_words": 333,
+        "total_unique_words": 43,
+        "avg_word_per_utter": 19.58823529411765
+    },
+    "unigrams": {
+        "uh": 13,
+        "well": 5,
+        "know": 4,
+        "ill": 4,
+        "number": 3,
+        "got": 3,
+        "far": 3,
+        "great": 3,
+        "youll": 3,
+        "let": 2
+    },
+    "bigrams": {
+        "well great": 2,
+        "let know": 2,
+        "weve got": 2,
+        "glad meet": 2,
+        "well cool": 2,
+        "around couple": 1,
+        "report well": 1,
+        "great there": 1,
+        "there good": 1,
+        "good restaurant": 1
+    },
+    "trigrams": {
+        "hi uh yes": 1,
+        "free time report": 1,
+        "report well great": 1,
+        "well great there": 1,
+        "great there good": 1,
+        "there good restaurant": 1,
+        "good restaurant around": 1,
+        "restaurant around couple": 1,
+        "around couple friendly": 1,
+        "couple friendly bar": 1
+    }
+}

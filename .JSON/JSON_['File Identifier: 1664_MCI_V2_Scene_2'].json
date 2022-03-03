@@ -1,0 +1,78 @@
+{
+    "Feature_set_1": {
+        "max_time": 182.0,
+        "mean_time": 30.333333333333332,
+        "positive_score": 0.2135,
+        "negative_score": 0.2685,
+        "subjective_score": 0.14204545454545456,
+        "top_emotions": [
+            [
+                "negative",
+                0.20512820512820512
+            ]
+        ],
+        "emotion_scores": {
+            "surprise": 3,
+            "trust": 9,
+            "positive": 9,
+            "negative": 16,
+            "anger": 5,
+            "disgust": 5,
+            "sadness": 12,
+            "anticipation": 6,
+            "fear": 11,
+            "joy": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.33867735470941884,
+        "cttr": 5.34960152468816,
+        "diversity": 49.86202659628498,
+        "herdan": 0.8257241221894217,
+        "summer": 0.8951622679651383,
+        "dugast": 35.64811248579133,
+        "maas": 0.028051976115105147
+    },
+    "utterance_features": {
+        "num_utterances": 7,
+        "total_words": 524,
+        "total_unique_words": 44,
+        "avg_word_per_utter": 74.85714285714286
+    },
+    "unigrams": {
+        "something": 11,
+        "need": 10,
+        "uh": 9,
+        "week": 8,
+        "uhm": 8,
+        "rain": 7,
+        "get": 7,
+        "gonna": 6,
+        "quickly": 6,
+        "want": 4
+    },
+    "bigrams": {
+        "dont want": 3,
+        "plastic something": 3,
+        "need something": 3,
+        "spot ceiling": 2,
+        "there rain": 2,
+        "see anybody": 2,
+        "didnt see": 2,
+        "get worse": 2,
+        "last week": 2,
+        "something need": 2
+    },
+    "trigrams": {
+        "plastic something like": 2,
+        "didnt see anybody": 2,
+        "hey interviewer patient": 1,
+        "tell last time": 1,
+        "quickly gonna go": 1,
+        "gonna go away": 1,
+        "go away sound": 1,
+        "away sound good": 1,
+        "sound good anything": 1,
+        "good anything else": 1
+    }
+}

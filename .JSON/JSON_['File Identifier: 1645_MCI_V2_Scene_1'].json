@@ -1,0 +1,77 @@
+{
+    "Feature_set_1": {
+        "max_time": 178.0,
+        "mean_time": 13.692307692307692,
+        "positive_score": 0.29720744680851063,
+        "negative_score": 0.23337765957446807,
+        "subjective_score": 0.16433566433566432,
+        "top_emotions": [
+            [
+                "positive",
+                0.25
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 7,
+            "joy": 6,
+            "positive": 11,
+            "surprise": 3,
+            "trust": 5,
+            "negative": 6,
+            "fear": 2,
+            "sadness": 2,
+            "anger": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4966442953020134,
+        "cttr": 6.0623162118408995,
+        "diversity": 81.70685460189614,
+        "herdan": 0.8771511799132162,
+        "summer": 0.9246671130552022,
+        "dugast": 46.374832761770314,
+        "maas": 0.02156342008039246
+    },
+    "utterance_features": {
+        "num_utterances": 14,
+        "total_words": 329,
+        "total_unique_words": 54,
+        "avg_word_per_utter": 23.5
+    },
+    "unigrams": {
+        "there": 5,
+        "youll": 4,
+        "oh": 4,
+        "im": 4,
+        "uh": 3,
+        "across": 3,
+        "find": 3,
+        "always": 3,
+        "ive": 3,
+        "ill": 3
+    },
+    "bigrams": {
+        "youll find": 3,
+        "right across": 2,
+        "ive lived": 2,
+        "uh there": 2,
+        "see later": 2,
+        "ill let": 2,
+        "else ill": 1,
+        "feel safe": 1,
+        "safe anyway": 1,
+        "anyway there": 1
+    },
+    "trigrams": {
+        "supposed start hi": 1,
+        "else ill let": 1,
+        "people youll feel": 1,
+        "youll feel safe": 1,
+        "feel safe anyway": 1,
+        "safe anyway there": 1,
+        "anyway there nothing": 1,
+        "there nothing else": 1,
+        "nothing else ill": 1,
+        "ill let go": 1
+    }
+}

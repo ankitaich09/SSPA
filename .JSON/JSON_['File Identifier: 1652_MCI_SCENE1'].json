@@ -1,0 +1,78 @@
+{
+    "Feature_set_1": {
+        "max_time": 201.0,
+        "mean_time": 16.75,
+        "positive_score": 0.373546511627907,
+        "negative_score": 0.19040697674418605,
+        "subjective_score": 0.16165413533834586,
+        "top_emotions": [
+            [
+                "positive",
+                0.21875
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 8,
+            "positive": 14,
+            "trust": 12,
+            "anger": 5,
+            "disgust": 3,
+            "fear": 3,
+            "negative": 5,
+            "sadness": 4,
+            "surprise": 4,
+            "joy": 6
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.46381578947368424,
+        "cttr": 5.71830509485938,
+        "diversity": 54.089632107023405,
+        "herdan": 0.8656176161540932,
+        "summer": 0.9172261324559964,
+        "dugast": 42.54298471116426,
+        "maas": 0.02350563804559714
+    },
+    "utterance_features": {
+        "num_utterances": 13,
+        "total_words": 338,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 26.0
+    },
+    "unigrams": {
+        "yeah": 9,
+        "uhm": 9,
+        "uh": 8,
+        "there": 4,
+        "well": 4,
+        "okay": 3,
+        "walk": 3,
+        "right": 3,
+        "real": 3,
+        "people": 3
+    },
+    "bigrams": {
+        "yeah uhm": 3,
+        "real well": 3,
+        "like said": 2,
+        "there park": 2,
+        "people walk": 2,
+        "park nearby": 2,
+        "worked real": 2,
+        "nice place": 2,
+        "complex go": 1,
+        "go know": 1
+    },
+    "trigrams": {
+        "there park nearby": 2,
+        "worked real well": 2,
+        "okay uhm wer": 1,
+        "depending time leave": 1,
+        "always rider complex": 1,
+        "rider complex go": 1,
+        "complex go know": 1,
+        "go know uh": 1,
+        "know uh depending": 1,
+        "uh depending time": 1
+    }
+}

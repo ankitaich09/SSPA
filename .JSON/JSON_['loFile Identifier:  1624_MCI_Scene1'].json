@@ -1,0 +1,76 @@
+{
+    "Feature_set_1": {
+        "max_time": 177.0,
+        "mean_time": 16.09090909090909,
+        "positive_score": 0.3613744075829384,
+        "negative_score": 0.15699052132701422,
+        "subjective_score": 0.15423976608187134,
+        "top_emotions": [
+            [
+                "positive",
+                0.27419354838709675
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 11,
+            "positive": 17,
+            "trust": 11,
+            "joy": 9,
+            "surprise": 5,
+            "fear": 4,
+            "negative": 3,
+            "sadness": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.41450777202072536,
+        "cttr": 5.758526005989556,
+        "diversity": 52.37943967564821,
+        "herdan": 0.852134385209021,
+        "summer": 0.910326404702038,
+        "dugast": 40.278717793071294,
+        "maas": 0.024827006786497536
+    },
+    "utterance_features": {
+        "num_utterances": 12,
+        "total_words": 387,
+        "total_unique_words": 47,
+        "avg_word_per_utter": 32.25
+    },
+    "unigrams": {
+        "uh": 9,
+        "welcome": 5,
+        "youre": 5,
+        "know": 5,
+        "get": 5,
+        "im": 4,
+        "apartment": 4,
+        "thats": 4,
+        "far": 3,
+        "food": 3
+    },
+    "bigrams": {
+        "youre welcome": 3,
+        "get get": 2,
+        "apartment building": 2,
+        "know thats": 2,
+        "hi welcome": 1,
+        "parking situation": 1,
+        "far decide": 1,
+        "decide go": 1,
+        "go uh": 1,
+        "uh get": 1
+    },
+    "trigrams": {
+        "hi welcome neighborhood": 1,
+        "situation earlier get": 1,
+        "concert far decide": 1,
+        "far decide go": 1,
+        "decide go uh": 1,
+        "go uh get": 1,
+        "uh get early": 1,
+        "get early parking": 1,
+        "early parking situation": 1,
+        "parking situation earlier": 1
+    }
+}

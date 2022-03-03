@@ -1,0 +1,74 @@
+{
+    "Feature_set_1": {
+        "max_time": 185.0,
+        "mean_time": 9.25,
+        "positive_score": 0.33098591549295775,
+        "negative_score": 0.11795774647887323,
+        "subjective_score": 0.11993243243243243,
+        "top_emotions": [
+            [
+                "positive",
+                0.32
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 16,
+            "anticipation": 11,
+            "trust": 12,
+            "negative": 2,
+            "joy": 7,
+            "surprise": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4839650145772595,
+        "cttr": 6.337909451066064,
+        "diversity": 65.80900761787112,
+        "herdan": 0.8756806835502786,
+        "summer": 0.9247573523015451,
+        "dugast": 46.95754942898919,
+        "maas": 0.021295830216017428
+    },
+    "utterance_features": {
+        "num_utterances": 21,
+        "total_words": 365,
+        "total_unique_words": 46,
+        "avg_word_per_utter": 17.38095238095238
+    },
+    "unigrams": {
+        "uh": 10,
+        "there": 5,
+        "see": 4,
+        "right": 4,
+        "tonight": 4,
+        "well": 4,
+        "great": 4,
+        "around": 3,
+        "show": 3,
+        "go": 3
+    },
+    "bigrams": {
+        "see ya": 3,
+        "right see": 3,
+        "great uh": 2,
+        "show around": 2,
+        "ya six": 2,
+        "taco place": 2,
+        "tonight go": 2,
+        "kinda show": 2,
+        "year yeah": 1,
+        "six ive": 1
+    },
+    "trigrams": {
+        "right see ya": 2,
+        "see ya six": 2,
+        "uhm ive really": 1,
+        "ya six ive": 1,
+        "six ive uh": 1,
+        "ive uh ten": 1,
+        "uh ten year": 1,
+        "ten year yeah": 1,
+        "year yeah uhm": 1,
+        "yeah uhm ive": 1
+    }
+}

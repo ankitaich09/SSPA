@@ -1,0 +1,77 @@
+{
+    "Feature_set_1": {
+        "max_time": 192.0,
+        "mean_time": 24.0,
+        "positive_score": 0.205,
+        "negative_score": 0.206,
+        "subjective_score": 0.1174812030075188,
+        "top_emotions": [
+            [
+                "negative",
+                0.2972972972972973
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 11,
+            "positive": 3,
+            "trust": 2,
+            "anticipation": 3,
+            "anger": 2,
+            "disgust": 3,
+            "sadness": 7,
+            "fear": 5,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4483985765124555,
+        "cttr": 5.314989211680933,
+        "diversity": 47.978581887812574,
+        "herdan": 0.8577470185150584,
+        "summer": 0.9112819400302082,
+        "dugast": 39.63610892704278,
+        "maas": 0.025229519926909975
+    },
+    "utterance_features": {
+        "num_utterances": 9,
+        "total_words": 292,
+        "total_unique_words": 42,
+        "avg_word_per_utter": 32.44444444444444
+    },
+    "unigrams": {
+        "leak": 5,
+        "im": 5,
+        "might": 4,
+        "two": 4,
+        "well": 3,
+        "come": 3,
+        "concerned": 3,
+        "apartment": 3,
+        "person": 3,
+        "seems": 2
+    },
+    "bigrams": {
+        "repair person": 2,
+        "come fix": 2,
+        "im concerned": 2,
+        "day two": 2,
+        "might come": 2,
+        "week two": 2,
+        "apartment bucket": 1,
+        "damage apartment": 1,
+        "back damage": 1,
+        "renewing lease": 1
+    },
+    "trigrams": {
+        "might come fix": 2,
+        "yes patient uhm": 1,
+        "thinking moving another": 1,
+        "damage apartment bucket": 1,
+        "back damage apartment": 1,
+        "deposit back damage": 1,
+        "get deposit back": 1,
+        "may get deposit": 1,
+        "concerned may get": 1,
+        "im concerned may": 1
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "Feature_set_1": {
+        "max_time": 195.0,
+        "mean_time": 13.928571428571429,
+        "positive_score": 0.33948863636363635,
+        "negative_score": 0.1690340909090909,
+        "subjective_score": 0.15827338129496402,
+        "top_emotions": [
+            [
+                "positive",
+                0.39473684210526316
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 8,
+            "joy": 4,
+            "positive": 15,
+            "surprise": 2,
+            "trust": 7,
+            "sadness": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.477124183006536,
+        "cttr": 5.901700209217436,
+        "diversity": 51.63078901645487,
+        "herdan": 0.8707141648000256,
+        "summer": 0.9206454820622517,
+        "dugast": 44.27078258882233,
+        "maas": 0.02258826118543665
+    },
+    "utterance_features": {
+        "num_utterances": 15,
+        "total_words": 328,
+        "total_unique_words": 44,
+        "avg_word_per_utter": 21.866666666666667
+    },
+    "unigrams": {
+        "uh": 18,
+        "people": 7,
+        "okay": 6,
+        "oh": 6,
+        "well": 5,
+        "like": 5,
+        "there": 4,
+        "grocery": 4,
+        "uhm": 4,
+        "im": 3
+    },
+    "bigrams": {
+        "grocery store": 3,
+        "okay well": 2,
+        "age uhm": 2,
+        "uhm im": 2,
+        "there lot": 2,
+        "oh like": 2,
+        "okay uh": 2,
+        "oh okay": 2,
+        "hi im": 1,
+        "uh age": 1
+    },
+    "trigrams": {
+        "age uhm im": 2,
+        "oh okay well": 2,
+        "hi im patient": 1,
+        "youre going uh": 1,
+        "people uh age": 1,
+        "uh age uhm": 1,
+        "uhm im exactly": 1,
+        "im exactly sure": 1,
+        "exactly sure youre": 1,
+        "sure youre going": 1
+    }
+}

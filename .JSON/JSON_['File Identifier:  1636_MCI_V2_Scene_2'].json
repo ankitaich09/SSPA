@@ -1,0 +1,77 @@
+{
+    "Feature_set_1": {
+        "max_time": 203.0,
+        "mean_time": 18.454545454545453,
+        "positive_score": 0.2239010989010989,
+        "negative_score": 0.3021978021978022,
+        "subjective_score": 0.1558219178082192,
+        "top_emotions": [
+            [
+                "negative",
+                0.3333333333333333
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 4,
+            "negative": 15,
+            "fear": 6,
+            "sadness": 8,
+            "trust": 5,
+            "anger": 2,
+            "disgust": 2,
+            "joy": 1,
+            "anticipation": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4448051948051948,
+        "cttr": 5.519887303573855,
+        "diversity": 40.06974248927038,
+        "herdan": 0.8586204625000359,
+        "summer": 0.9126852182424375,
+        "dugast": 40.52990895500013,
+        "maas": 0.024673137092666258
+    },
+    "utterance_features": {
+        "num_utterances": 12,
+        "total_words": 314,
+        "total_unique_words": 51,
+        "avg_word_per_utter": 26.166666666666668
+    },
+    "unigrams": {
+        "know": 17,
+        "uh": 14,
+        "leak": 6,
+        "get": 4,
+        "right": 4,
+        "okay": 3,
+        "got": 3,
+        "property": 2,
+        "dont": 2,
+        "problem": 2
+    },
+    "bigrams": {
+        "know uh": 5,
+        "uh know": 2,
+        "make sure": 2,
+        "know possible": 2,
+        "damage property": 2,
+        "know make": 2,
+        "possible damage": 2,
+        "uh someone": 1,
+        "send uh": 1,
+        "done get": 1
+    },
+    "trigrams": {
+        "know possible damage": 2,
+        "know make sure": 2,
+        "possible damage property": 2,
+        "know monitor know": 1,
+        "okay well case": 1,
+        "well case ill": 1,
+        "case ill wait": 1,
+        "ill wait get": 1,
+        "wait get know": 1,
+        "get know monitor": 1
+    }
+}

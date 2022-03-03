@@ -1,0 +1,77 @@
+{
+    "Feature_set_1": {
+        "max_time": 225.0,
+        "mean_time": 16.071428571428573,
+        "positive_score": 0.21796218487394958,
+        "negative_score": 0.30619747899159666,
+        "subjective_score": 0.16346153846153846,
+        "top_emotions": [
+            [
+                "negative",
+                0.27586206896551724
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 16,
+            "fear": 5,
+            "sadness": 13,
+            "surprise": 2,
+            "trust": 7,
+            "positive": 4,
+            "anticipation": 4,
+            "anger": 4,
+            "disgust": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4103896103896104,
+        "cttr": 5.693924764235932,
+        "diversity": 55.42746113989638,
+        "herdan": 0.8503927605090292,
+        "summer": 0.9091576437394201,
+        "dugast": 39.79248166427856,
+        "maas": 0.025130375341673984
+    },
+    "utterance_features": {
+        "num_utterances": 15,
+        "total_words": 404,
+        "total_unique_words": 42,
+        "avg_word_per_utter": 26.933333333333334
+    },
+    "unigrams": {
+        "uh": 7,
+        "need": 6,
+        "okay": 5,
+        "well": 5,
+        "leak": 5,
+        "really": 5,
+        "gonna": 4,
+        "think": 4,
+        "owner": 3,
+        "look": 3
+    },
+    "bigrams": {
+        "need look": 3,
+        "think need": 2,
+        "name owner": 2,
+        "gonna damage": 2,
+        "phone number": 2,
+        "every day": 2,
+        "well thats": 2,
+        "hello well": 1,
+        "tomorrow hello": 1,
+        "come tomorrow": 1
+    },
+    "trigrams": {
+        "hi interviewer patient": 1,
+        "sooner rather later": 1,
+        "gonna know gonna": 1,
+        "know gonna cost": 1,
+        "gonna cost expense": 1,
+        "cost expense think": 1,
+        "expense think need": 1,
+        "think need get": 1,
+        "need get sooner": 1,
+        "get sooner rather": 1
+    }
+}

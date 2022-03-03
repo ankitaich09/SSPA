@@ -1,0 +1,76 @@
+{
+    "Feature_set_1": {
+        "max_time": 183.0,
+        "mean_time": 20.333333333333332,
+        "positive_score": 0.23371335504885993,
+        "negative_score": 0.2471498371335505,
+        "subjective_score": 0.17848837209302326,
+        "top_emotions": [
+            [
+                "negative",
+                0.2833333333333333
+            ]
+        ],
+        "emotion_scores": {
+            "fear": 13,
+            "negative": 17,
+            "sadness": 13,
+            "trust": 5,
+            "anticipation": 3,
+            "positive": 4,
+            "anger": 2,
+            "disgust": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.32608695652173914,
+        "cttr": 4.945353550468402,
+        "diversity": 46.3128565160158,
+        "herdan": 0.8172321317261678,
+        "summer": 0.8886993078232956,
+        "dugast": 33.54652296046383,
+        "maas": 0.029809348682083906
+    },
+    "utterance_features": {
+        "num_utterances": 10,
+        "total_words": 488,
+        "total_unique_words": 47,
+        "avg_word_per_utter": 48.8
+    },
+    "unigrams": {
+        "know": 8,
+        "get": 8,
+        "really": 8,
+        "uhm": 7,
+        "fix": 7,
+        "gonna": 6,
+        "okay": 6,
+        "uh": 6,
+        "problem": 6,
+        "well": 5
+    },
+    "bigrams": {
+        "okay well": 3,
+        "dont want": 3,
+        "cant get": 3,
+        "okay thank": 2,
+        "get bad": 2,
+        "may call": 2,
+        "come fix": 2,
+        "well uhm": 2,
+        "get worse": 2,
+        "getting worse": 2
+    },
+    "trigrams": {
+        "okay thank appreciate": 2,
+        "gonna even harder": 2,
+        "bad gonna even": 2,
+        "get bad gonna": 2,
+        "okay well uhm": 2,
+        "leak ceiling uh": 2,
+        "dont want get": 1,
+        "really need done": 1,
+        "need done even": 1,
+        "done even though": 1
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "Feature_set_1": {
+        "max_time": 188.0,
+        "mean_time": 23.5,
+        "positive_score": 0.2341101694915254,
+        "negative_score": 0.2775423728813559,
+        "subjective_score": 0.15364583333333334,
+        "top_emotions": [
+            [
+                "positive",
+                0.23529411764705882
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 7,
+            "positive": 12,
+            "trust": 11,
+            "fear": 4,
+            "sadness": 6,
+            "anticipation": 6,
+            "anger": 1,
+            "disgust": 1,
+            "surprise": 1,
+            "joy": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.39172749391727496,
+        "cttr": 5.615519856642004,
+        "diversity": 67.71740830125457,
+        "herdan": 0.84428440067116,
+        "summer": 0.9056937688107213,
+        "dugast": 38.65118999276479,
+        "maas": 0.025872424631355268
+    },
+    "utterance_features": {
+        "num_utterances": 9,
+        "total_words": 444,
+        "total_unique_words": 42,
+        "avg_word_per_utter": 49.333333333333336
+    },
+    "unigrams": {
+        "uh": 9,
+        "im": 8,
+        "uhm": 7,
+        "get": 7,
+        "apartment": 6,
+        "fix": 5,
+        "leak": 4,
+        "would": 4,
+        "dont": 4,
+        "think": 4
+    },
+    "bigrams": {
+        "get someone": 3,
+        "someone fix": 2,
+        "fix well": 2,
+        "make sure": 2,
+        "im renting": 2,
+        "well uhm": 2,
+        "somebody fix": 2,
+        "get yeah": 1,
+        "yeah leak": 1,
+        "leak place": 1
+    },
+    "trigrams": {
+        "get someone fix": 2,
+        "somebody fix well": 2,
+        "would appreciate get": 1,
+        "get yeah leak": 1,
+        "yeah leak place": 1,
+        "leak place apartment": 1,
+        "place apartment may": 1,
+        "apartment may leak": 1,
+        "may leak second": 1,
+        "leak second floor": 1
+    }
+}

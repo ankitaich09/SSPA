@@ -1,0 +1,77 @@
+{
+    "Feature_set_1": {
+        "max_time": 183.0,
+        "mean_time": 11.4375,
+        "positive_score": 0.203125,
+        "negative_score": 0.178125,
+        "subjective_score": 0.08928571428571429,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.37037037037037035
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 10,
+            "positive": 6,
+            "trust": 4,
+            "surprise": 1,
+            "fear": 2,
+            "negative": 1,
+            "sadness": 1,
+            "joy": 1,
+            "anger": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4026666666666667,
+        "cttr": 5.513740412218672,
+        "diversity": 54.435483870967744,
+        "herdan": 0.8465231073967132,
+        "summer": 0.9063685044494009,
+        "dugast": 38.617709320520085,
+        "maas": 0.0258948554327803
+    },
+    "utterance_features": {
+        "num_utterances": 17,
+        "total_words": 382,
+        "total_unique_words": 47,
+        "avg_word_per_utter": 22.470588235294116
+    },
+    "unigrams": {
+        "uh": 8,
+        "play": 7,
+        "okay": 7,
+        "neighborhood": 5,
+        "maybe": 5,
+        "im": 4,
+        "interviewer": 4,
+        "well": 3,
+        "need": 3,
+        "may": 3
+    },
+    "bigrams": {
+        "im across": 2,
+        "maybe play": 2,
+        "welcome neighborhood": 2,
+        "okay well": 2,
+        "u oh": 1,
+        "play dont": 1,
+        "dont go": 1,
+        "go around": 1,
+        "around come": 1,
+        "come u": 1
+    },
+    "trigrams": {
+        "hey neighbor hello": 1,
+        "get together sunday": 1,
+        "sunday play dont": 1,
+        "play dont go": 1,
+        "dont go around": 1,
+        "go around come": 1,
+        "around come u": 1,
+        "come u maybe": 1,
+        "u maybe play": 1,
+        "maybe play u": 1
+    }
+}

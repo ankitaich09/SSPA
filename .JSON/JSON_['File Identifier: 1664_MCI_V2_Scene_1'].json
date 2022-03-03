@@ -1,0 +1,76 @@
+{
+    "Feature_set_1": {
+        "max_time": 178.0,
+        "mean_time": 25.428571428571427,
+        "positive_score": 0.387546468401487,
+        "negative_score": 0.18169144981412638,
+        "subjective_score": 0.16402439024390245,
+        "top_emotions": [
+            [
+                "positive",
+                0.2871287128712871
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 20,
+            "positive": 29,
+            "trust": 18,
+            "joy": 17,
+            "disgust": 2,
+            "negative": 4,
+            "sadness": 4,
+            "surprise": 7
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4148471615720524,
+        "cttr": 6.277776704323353,
+        "diversity": 62.64161221239049,
+        "herdan": 0.8563956426171182,
+        "summer": 0.9144788499670479,
+        "dugast": 42.66492532520138,
+        "maas": 0.023438456586476634
+    },
+    "utterance_features": {
+        "num_utterances": 8,
+        "total_words": 487,
+        "total_unique_words": 50,
+        "avg_word_per_utter": 60.875
+    },
+    "unigrams": {
+        "uh": 16,
+        "know": 11,
+        "let": 10,
+        "anything": 7,
+        "need": 7,
+        "good": 6,
+        "uhm": 5,
+        "around": 4,
+        "think": 4,
+        "right": 4
+    },
+    "bigrams": {
+        "know need": 3,
+        "u know": 3,
+        "let u": 3,
+        "let know": 3,
+        "quiet know": 2,
+        "mmhmm let": 2,
+        "uh hopefully": 2,
+        "saw cleaning": 2,
+        "anything might": 2,
+        "need help": 2
+    },
+    "trigrams": {
+        "let u know": 3,
+        "think made right": 2,
+        "anything else let": 2,
+        "know need help": 2,
+        "u know need": 2,
+        "person nice people": 1,
+        "help neighbor next": 1,
+        "neighbor next door": 1,
+        "next door uh": 1,
+        "door uh also": 1
+    }
+}

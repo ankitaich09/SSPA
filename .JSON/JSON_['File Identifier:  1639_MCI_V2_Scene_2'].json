@@ -1,0 +1,78 @@
+{
+    "Feature_set_1": {
+        "max_time": 157.0,
+        "mean_time": 26.166666666666668,
+        "positive_score": 0.16666666666666666,
+        "negative_score": 0.3218390804597701,
+        "subjective_score": 0.15760869565217392,
+        "top_emotions": [
+            [
+                "negative",
+                0.26865671641791045
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 4,
+            "joy": 4,
+            "positive": 9,
+            "surprise": 1,
+            "trust": 5,
+            "negative": 18,
+            "fear": 7,
+            "sadness": 11,
+            "anger": 4,
+            "disgust": 4
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4269340974212034,
+        "cttr": 5.639733172578261,
+        "diversity": 45.78584994926085,
+        "herdan": 0.8546344728867462,
+        "summer": 0.9111182693767659,
+        "dugast": 40.27826981042596,
+        "maas": 0.02482728291723076
+    },
+    "utterance_features": {
+        "num_utterances": 7,
+        "total_words": 349,
+        "total_unique_words": 35,
+        "avg_word_per_utter": 49.857142857142854
+    },
+    "unigrams": {
+        "uh": 17,
+        "know": 7,
+        "leak": 4,
+        "water": 3,
+        "getting": 3,
+        "day": 3,
+        "problem": 3,
+        "there": 3,
+        "week": 3,
+        "well": 3
+    },
+    "bigrams": {
+        "water damage": 2,
+        "know uh": 2,
+        "last week": 2,
+        "ceiling getting": 2,
+        "get kind": 1,
+        "uh inspector": 1,
+        "inspector opt": 1,
+        "opt well": 1,
+        "well least": 1,
+        "least know": 1
+    },
+    "trigrams": {
+        "hey interviewer good": 1,
+        "full plumbing job": 1,
+        "call know city": 1,
+        "know city uh": 1,
+        "city uh inspector": 1,
+        "uh inspector opt": 1,
+        "inspector opt well": 1,
+        "opt well least": 1,
+        "well least know": 1,
+        "least know get": 1
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "Feature_set_1": {
+        "max_time": 176.0,
+        "mean_time": 29.333333333333332,
+        "positive_score": 0.2506443298969072,
+        "negative_score": 0.21327319587628865,
+        "subjective_score": 0.13472222222222222,
+        "top_emotions": [
+            [
+                "negative",
+                0.18181818181818182
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 7,
+            "negative": 10,
+            "fear": 5,
+            "sadness": 6,
+            "trust": 6,
+            "anticipation": 7,
+            "surprise": 4,
+            "joy": 4,
+            "anger": 3,
+            "disgust": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.44173441734417346,
+        "cttr": 6.000112916733329,
+        "diversity": 68.41671087533156,
+        "herdan": 0.8617705036329512,
+        "summer": 0.9162720038028097,
+        "dugast": 42.76074788224101,
+        "maas": 0.023385933350695918
+    },
+    "utterance_features": {
+        "num_utterances": 7,
+        "total_words": 392,
+        "total_unique_words": 43,
+        "avg_word_per_utter": 56.0
+    },
+    "unigrams": {
+        "im": 8,
+        "day": 6,
+        "would": 4,
+        "come": 4,
+        "plumber": 4,
+        "well": 4,
+        "ceiling": 4,
+        "leak": 4,
+        "still": 3,
+        "call": 3
+    },
+    "bigrams": {
+        "im gonna": 3,
+        "much worse": 2,
+        "day two": 2,
+        "still well": 2,
+        "next day": 2,
+        "tomorrow next": 2,
+        "leak ceiling": 2,
+        "look leak": 2,
+        "come look": 2,
+        "send bill": 2
+    },
+    "trigrams": {
+        "come look leak": 2,
+        "tomorrow next day": 2,
+        "day bucket fill": 1,
+        "ive got bucket": 1,
+        "got bucket trying": 1,
+        "bucket trying catch": 1,
+        "trying catch water": 1,
+        "catch water every": 1,
+        "water every day": 1,
+        "every day bucket": 1
+    }
+}

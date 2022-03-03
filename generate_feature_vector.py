@@ -60,7 +60,9 @@ def maxTime(data):
                 list_of_differences_in_seconds.append((diff))
     return sum(list_of_differences_in_seconds), np.mean(list_of_differences_in_seconds)
 
-def lexicalFeatures(text):
+def lexicalFeatures(data):
+    pd = data['patient_dialogue']
+    text = ' '.join(pd)
     lex = LexicalRichness(text)
     ttratio = lex.ttr
     cttration = lex.cttr
@@ -70,7 +72,17 @@ def lexicalFeatures(text):
     summer = lex.Summer
     dug = lex.Dugast
     mas = lex.Maas
-    return lex, ttratio, cttration, mtld, herdan, summer, dug, mas
+    lexical = {
+        'ttr': ttratio,
+        'cttr': cttration,
+        'diversity' : mtld,
+        'herdan':herdan,
+        'summer': summer,
+        'dugast': dug,
+        'maas' : mas
+
+    }
+    return lexical
 
 
 #return number of utterances
@@ -138,6 +150,7 @@ def process(filepath):
 def makeJSON(filepath_to_initial_data):
     data = pd.read_csv(filepath_to_initial_data)
     output_dict, utterance_features, unigrams, bigrams, trigrams = generateVector(data)
+    lexical = lexicalFeatures(data)
     #fixing the ngrams bc they are procuded as tuples and digits
     #this way we make them into phrases and integers using json format
     unigrams = {k[0]:int(v) for k,v in unigrams.items()}
@@ -145,6 +158,7 @@ def makeJSON(filepath_to_initial_data):
     trigrams = {str(' '.join(k[0:])):int(v) for k,v in trigrams.items()}
     json_object = {
         str('Feature_set_1'): output_dict,
+        'lexical_features' : lexical,
         'utterance_features': utterance_features,
         'unigrams':unigrams,
         'bigrams':bigrams,

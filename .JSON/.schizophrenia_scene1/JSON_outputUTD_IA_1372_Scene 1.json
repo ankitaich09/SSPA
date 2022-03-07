@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 181.0,
+        "mean_time": 18.1,
+        "positive_score": 0.44431818181818183,
+        "negative_score": 0.11477272727272728,
+        "subjective_score": 0.18333333333333332,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.25
+            ]
+        ],
+        "emotion_scores": {
+            "anger": 1,
+            "fear": 1,
+            "negative": 1,
+            "anticipation": 12,
+            "joy": 7,
+            "positive": 11,
+            "surprise": 4,
+            "trust": 11
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5974842767295597,
+        "cttr": 5.327335463874421,
+        "diversity": 68.20738636363637,
+        "herdan": 0.8983947437013894,
+        "summer": 0.9339879869293302,
+        "dugast": 49.88820841436672,
+        "maas": 0.020044816837159092
+    },
+    "utterance_features": {
+        "num_utterances": 11,
+        "total_words": 175,
+        "total_unique_words": 41,
+        "avg_word_per_utter": 15.909090909090908
+    },
+    "unigrams": {
+        "uh": 6,
+        "well": 5,
+        "wer": 4,
+        "pretty": 3,
+        "im": 3,
+        "uhm": 3,
+        "neighborhood": 3,
+        "go": 2,
+        "get": 2,
+        "there": 2
+    },
+    "bigrams": {
+        "uh uh": 2,
+        "uhm im": 2,
+        "wer thank": 1,
+        "far get": 1,
+        "wer uhm": 1,
+        "seen wer": 1,
+        "hadnt seen": 1,
+        "yeah hadnt": 1,
+        "wer yeah": 1,
+        "around wer": 1
+    },
+    "trigrams": {
+        "wer thank whered": 1,
+        "far get need": 1,
+        "uhm im really": 1,
+        "wer uhm im": 1,
+        "seen wer uhm": 1,
+        "hadnt seen wer": 1,
+        "yeah hadnt seen": 1,
+        "wer yeah hadnt": 1,
+        "around wer yeah": 1,
+        "need around wer": 1
+    }
+}

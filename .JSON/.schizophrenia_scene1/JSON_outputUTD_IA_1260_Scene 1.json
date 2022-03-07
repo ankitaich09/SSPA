@@ -1,0 +1,75 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 193.0,
+        "mean_time": 24.125,
+        "positive_score": 0.316340782122905,
+        "negative_score": 0.1564245810055866,
+        "subjective_score": 0.15016778523489932,
+        "top_emotions": [
+            [
+                "positive",
+                0.3409090909090909
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 15,
+            "trust": 9,
+            "anticipation": 9,
+            "joy": 8,
+            "surprise": 2,
+            "negative": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4393939393939394,
+        "cttr": 5.644117345171042,
+        "diversity": 35.551548945571376,
+        "herdan": 0.8581917963653483,
+        "summer": 0.9129956545472652,
+        "dugast": 40.89391520254389,
+        "maas": 0.02445351576260404
+    },
+    "utterance_features": {
+        "num_utterances": 9,
+        "total_words": 359,
+        "total_unique_words": 48,
+        "avg_word_per_utter": 39.888888888888886
+    },
+    "unigrams": {
+        "need": 7,
+        "theyre": 6,
+        "uhm": 6,
+        "know": 5,
+        "help": 4,
+        "uh": 4,
+        "walk": 3,
+        "anything": 3,
+        "wer": 3,
+        "go": 3
+    },
+    "bigrams": {
+        "know need": 2,
+        "afterschool program": 2,
+        "let know": 2,
+        "theyre pretty": 2,
+        "need help": 2,
+        "uhm theyre": 2,
+        "wer yes": 1,
+        "right long": 1,
+        "midnight think": 1,
+        "think youll": 1
+    },
+    "trigrams": {
+        "wer yes wer": 1,
+        "right long dont": 1,
+        "safe know get": 1,
+        "know get 11": 1,
+        "get 11 midnight": 1,
+        "11 midnight think": 1,
+        "midnight think youll": 1,
+        "think youll right": 1,
+        "youll right long": 1,
+        "long dont walk": 1
+    }
+}

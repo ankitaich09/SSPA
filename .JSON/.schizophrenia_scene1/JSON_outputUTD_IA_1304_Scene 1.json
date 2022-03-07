@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 151.0,
+        "mean_time": 21.571428571428573,
+        "positive_score": 0.2833333333333333,
+        "negative_score": 0.22023809523809523,
+        "subjective_score": 0.12995049504950495,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.23809523809523808
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 10,
+            "positive": 8,
+            "trust": 7,
+            "anger": 3,
+            "negative": 4,
+            "disgust": 1,
+            "fear": 1,
+            "sadness": 1,
+            "joy": 5,
+            "surprise": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5774647887323944,
+        "cttr": 5.959369472271563,
+        "diversity": 75.54390595009596,
+        "herdan": 0.8975792041610647,
+        "summer": 0.9356517451090465,
+        "dugast": 52.345738204773134,
+        "maas": 0.01910375198240714
+    },
+    "utterance_features": {
+        "num_utterances": 8,
+        "total_words": 232,
+        "total_unique_words": 47,
+        "avg_word_per_utter": 29.0
+    },
+    "unigrams": {
+        "uhm": 8,
+        "im": 7,
+        "okay": 6,
+        "noisy": 3,
+        "sorry": 3,
+        "oh": 2,
+        "want": 2,
+        "theyre": 2,
+        "nice": 2,
+        "time": 2
+    },
+    "bigrams": {
+        "im sorry": 3,
+        "uhm im": 2,
+        "oh supposed": 1,
+        "time come": 1,
+        "good youre": 1,
+        "pretty good": 1,
+        "theyre pretty": 1,
+        "theyre theyre": 1,
+        "need theyre": 1,
+        "regularly need": 1
+    },
+    "trigrams": {
+        "oh supposed start": 1,
+        "want check see": 1,
+        "good youre moving": 1,
+        "pretty good youre": 1,
+        "theyre pretty good": 1,
+        "theyre theyre pretty": 1,
+        "need theyre theyre": 1,
+        "regularly need theyre": 1,
+        "thing regularly need": 1,
+        "fix thing regularly": 1
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 185.0,
+        "mean_time": 15.416666666666666,
+        "positive_score": 0.36151960784313725,
+        "negative_score": 0.18995098039215685,
+        "subjective_score": 0.17708333333333334,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.28888888888888886
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 13,
+            "positive": 11,
+            "trust": 8,
+            "joy": 4,
+            "fear": 2,
+            "negative": 2,
+            "sadness": 5
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4212218649517685,
+        "cttr": 5.252621455458296,
+        "diversity": 45.35416666666667,
+        "herdan": 0.8493681562720665,
+        "summer": 0.9065695374405569,
+        "dugast": 38.10477764944753,
+        "maas": 0.026243428296569494
+    },
+    "utterance_features": {
+        "num_utterances": 13,
+        "total_words": 313,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 24.076923076923077
+    },
+    "unigrams": {
+        "okay": 5,
+        "neighborhood": 5,
+        "im": 5,
+        "neighbor": 5,
+        "well": 4,
+        "nice": 4,
+        "know": 4,
+        "awesome": 4,
+        "sweetheart": 3,
+        "welcome": 3
+    },
+    "bigrams": {
+        "youre welcome": 2,
+        "shes okay": 2,
+        "awesome awesome": 2,
+        "okay uhm": 2,
+        "around really": 2,
+        "im disabled": 2,
+        "new neighbor": 2,
+        "nice meet": 2,
+        "sweetheart ill": 1,
+        "moving dont": 1
+    },
+    "trigrams": {
+        "well hello name": 1,
+        "hello name patient": 1,
+        "lady wer mmhmm": 1,
+        "nice lady wer": 1,
+        "seems nice lady": 1,
+        "okay seems nice": 1,
+        "shes okay seems": 1,
+        "moved shes okay": 1,
+        "know moved shes": 1,
+        "even know moved": 1
+    }
+}

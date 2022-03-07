@@ -1,0 +1,78 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 165.0,
+        "mean_time": 8.68421052631579,
+        "positive_score": 0.40714285714285714,
+        "negative_score": 0.14285714285714285,
+        "subjective_score": 0.18041237113402062,
+        "top_emotions": [
+            [
+                "positive",
+                0.2702702702702703
+            ],
+            [
+                "anticipation",
+                0.2702702702702703
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 10,
+            "positive": 10,
+            "trust": 7,
+            "joy": 6,
+            "surprise": 4
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.462882096069869,
+        "cttr": 4.9530547232695765,
+        "diversity": 41.50797862606595,
+        "herdan": 0.858240280062483,
+        "summer": 0.9096839343482724,
+        "dugast": 38.33050746678424,
+        "maas": 0.026088879748502207
+    },
+    "utterance_features": {
+        "num_utterances": 20,
+        "total_words": 230,
+        "total_unique_words": 43,
+        "avg_word_per_utter": 11.5
+    },
+    "unigrams": {
+        "uhm": 6,
+        "got": 4,
+        "place": 4,
+        "nice": 4,
+        "yes": 4,
+        "good": 4,
+        "theyve": 4,
+        "oh": 3,
+        "like": 3,
+        "move": 3
+    },
+    "bigrams": {
+        "theyve got": 4,
+        "im sure": 2,
+        "uhm theyve": 2,
+        "storage place": 2,
+        "got storage": 2,
+        "theyre nice": 2,
+        "sure youll": 2,
+        "nice meet": 2,
+        "youll like": 2,
+        "welcome neighborhood": 1
+    },
+    "trigrams": {
+        "im sure youll": 2,
+        "uhm theyve got": 2,
+        "got storage place": 2,
+        "theyve got storage": 2,
+        "sure youll like": 2,
+        "around corner street": 1,
+        "storage place yes": 1,
+        "stuff theyve got": 1,
+        "store stuff theyve": 1,
+        "need store stuff": 1
+    }
+}

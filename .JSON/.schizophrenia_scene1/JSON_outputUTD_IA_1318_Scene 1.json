@@ -1,0 +1,76 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 148.0,
+        "mean_time": 13.454545454545455,
+        "positive_score": 0.42604166666666665,
+        "negative_score": 0.11770833333333333,
+        "subjective_score": 0.12195121951219512,
+        "top_emotions": [
+            [
+                "positive",
+                0.26666666666666666
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 10,
+            "positive": 12,
+            "trust": 10,
+            "joy": 6,
+            "surprise": 5,
+            "fear": 1,
+            "negative": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5164835164835165,
+        "cttr": 6.034242944403871,
+        "diversity": 68.69368287167892,
+        "herdan": 0.8822149519721392,
+        "summer": 0.9273280952464119,
+        "dugast": 47.62465091373989,
+        "maas": 0.020997529237773295
+    },
+    "utterance_features": {
+        "num_utterances": 12,
+        "total_words": 292,
+        "total_unique_words": 43,
+        "avg_word_per_utter": 24.333333333333332
+    },
+    "unigrams": {
+        "uh": 12,
+        "there": 5,
+        "go": 3,
+        "im": 3,
+        "nice": 3,
+        "really": 3,
+        "good": 3,
+        "around": 3,
+        "well": 3,
+        "street": 3
+    },
+    "bigrams": {
+        "there bus": 2,
+        "people around": 2,
+        "across street": 2,
+        "uh there": 2,
+        "wow thats": 2,
+        "uh w": 2,
+        "nice meet": 1,
+        "right well": 1,
+        "well good": 1,
+        "good luck": 1
+    },
+    "trigrams": {
+        "hi im patient": 1,
+        "nice meet oh": 1,
+        "directly bachman right": 1,
+        "bachman right well": 1,
+        "right well good": 1,
+        "well good luck": 1,
+        "good luck nice": 1,
+        "luck nice meet": 1,
+        "meet oh uh": 1,
+        "itll take directly": 1
+    }
+}

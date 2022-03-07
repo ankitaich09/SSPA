@@ -1,0 +1,75 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 143.0,
+        "mean_time": 7.944444444444445,
+        "positive_score": 0.3696808510638298,
+        "negative_score": 0.26595744680851063,
+        "subjective_score": 0.12771739130434784,
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 3,
+            "positive": 5,
+            "sadness": 2,
+            "joy": 2,
+            "trust": 2,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5655737704918032,
+        "cttr": 4.4172723576849116,
+        "diversity": 46.42701722074871,
+        "herdan": 0.8813671849417051,
+        "summer": 0.9195382499800366,
+        "dugast": 40.49487523643953,
+        "maas": 0.02469448279964435
+    },
+    "utterance_features": {
+        "num_utterances": 19,
+        "total_words": 131,
+        "total_unique_words": 41,
+        "avg_word_per_utter": 6.894736842105263
+    },
+    "unigrams": {
+        "yes": 6,
+        "uhm": 5,
+        "around": 4,
+        "nice": 3,
+        "see": 3,
+        "uh": 3,
+        "wer": 3,
+        "meet": 2,
+        "quiet": 2,
+        "im": 2
+    },
+    "bigrams": {
+        "wer uh": 2,
+        "nice meet": 2,
+        "yes yes": 2,
+        "see around": 2,
+        "im papatient": 1,
+        "papatient nice": 1,
+        "uhm usually": 1,
+        "usually stay": 1,
+        "stay home": 1,
+        "home yes": 1
+    },
+    "trigrams": {
+        "wer uh yeah": 1,
+        "evening yes yes": 1,
+        "quiet uhm usually": 1,
+        "uhm usually stay": 1,
+        "usually stay home": 1,
+        "stay home yes": 1,
+        "home yes wer": 1,
+        "yes wer uhm": 1,
+        "wer uhm would": 1,
+        "uhm would say": 1
+    }
+}

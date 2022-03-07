@@ -1,0 +1,76 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 170.0,
+        "mean_time": 13.076923076923077,
+        "positive_score": 0.375,
+        "negative_score": 0.14210526315789473,
+        "subjective_score": 0.16267123287671234,
+        "top_emotions": [
+            [
+                "positive",
+                0.20588235294117646
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 6,
+            "joy": 5,
+            "positive": 7,
+            "trust": 5,
+            "sadness": 4,
+            "surprise": 4,
+            "negative": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5364583333333334,
+        "cttr": 5.256196739722236,
+        "diversity": 72.10948191593353,
+        "herdan": 0.8815469458876672,
+        "summer": 0.9240341873103629,
+        "dugast": 44.384633316773204,
+        "maas": 0.022530320186786232
+    },
+    "utterance_features": {
+        "num_utterances": 14,
+        "total_words": 200,
+        "total_unique_words": 53,
+        "avg_word_per_utter": 14.285714285714286
+    },
+    "unigrams": {
+        "uh": 5,
+        "right": 4,
+        "good": 3,
+        "need": 2,
+        "yeah": 2,
+        "long": 2,
+        "late": 2,
+        "yes": 2,
+        "pretty": 2,
+        "yep": 2
+    },
+    "bigrams": {
+        "across hall": 2,
+        "hello doin": 1,
+        "see car": 1,
+        "long youll": 1,
+        "yes long": 1,
+        "mm yes": 1,
+        "later mm": 1,
+        "talk later": 1,
+        "ill talk": 1,
+        "im ill": 1
+    },
+    "trigrams": {
+        "hello doin okay": 1,
+        "youll dark yep": 1,
+        "yes long youll": 1,
+        "mm yes long": 1,
+        "later mm yes": 1,
+        "talk later mm": 1,
+        "ill talk later": 1,
+        "im ill talk": 1,
+        "know im ill": 1,
+        "car know im": 1
+    }
+}

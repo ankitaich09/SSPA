@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 187.0,
+        "mean_time": 11.6875,
+        "positive_score": 0.34206586826347307,
+        "negative_score": 0.22604790419161677,
+        "subjective_score": 0.21301020408163265,
+        "top_emotions": [
+            [
+                "positive",
+                0.22580645161290322
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 4,
+            "positive": 7,
+            "trust": 5,
+            "joy": 4,
+            "anger": 2,
+            "negative": 5,
+            "fear": 1,
+            "sadness": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4517543859649123,
+        "cttr": 4.823416929645724,
+        "diversity": 62.26782839890768,
+        "herdan": 0.8536441230620588,
+        "summer": 0.9064669886948712,
+        "dugast": 37.096874703956225,
+        "maas": 0.026956448703031963
+    },
+    "utterance_features": {
+        "num_utterances": 17,
+        "total_words": 256,
+        "total_unique_words": 44,
+        "avg_word_per_utter": 15.058823529411764
+    },
+    "unigrams": {
+        "yeah": 13,
+        "uh": 7,
+        "nice": 7,
+        "like": 6,
+        "youll": 5,
+        "okay": 4,
+        "thats": 4,
+        "uhm": 4,
+        "problem": 3,
+        "lot": 3
+    },
+    "bigrams": {
+        "youll like": 4,
+        "pretty much": 2,
+        "oh okay": 2,
+        "like nice": 2,
+        "think youll": 2,
+        "san diego": 2,
+        "need help": 2,
+        "thats cool": 2,
+        "yeah thats": 2,
+        "let know": 2
+    },
+    "trigrams": {
+        "youll like nice": 2,
+        "think youll like": 2,
+        "yeah think youll": 2,
+        "san diego yeah": 2,
+        "okay hi uh": 1,
+        "rent hell help": 1,
+        "youre late rent": 1,
+        "late rent hell": 1,
+        "hell help uh": 1,
+        "really nice youre": 1
+    }
+}

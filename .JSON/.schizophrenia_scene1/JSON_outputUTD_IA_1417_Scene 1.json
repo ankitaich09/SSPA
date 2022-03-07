@@ -1,0 +1,75 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 172.0,
+        "mean_time": 15.636363636363637,
+        "positive_score": 0.25,
+        "negative_score": 0.275,
+        "subjective_score": 0.13541666666666666,
+        "top_emotions": [
+            [
+                "positive",
+                0.23076923076923078
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 2,
+            "positive": 3,
+            "trust": 2,
+            "fear": 2,
+            "negative": 2,
+            "sadness": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.6884057971014492,
+        "cttr": 5.718328021574037,
+        "diversity": 101.06114551083593,
+        "herdan": 0.9242221291180075,
+        "summer": 0.9505870720457164,
+        "dugast": 65.02232944536445,
+        "maas": 0.015379332123747709
+    },
+    "utterance_features": {
+        "num_utterances": 12,
+        "total_words": 146,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 12.166666666666666
+    },
+    "unigrams": {
+        "wer": 4,
+        "okay": 3,
+        "well": 3,
+        "plannin": 2,
+        "yeah": 2,
+        "thats": 2,
+        "great": 2,
+        "keep": 2,
+        "im": 2,
+        "know": 2
+    },
+    "bigrams": {
+        "wer yeah": 2,
+        "thats great": 2,
+        "wer okay": 2,
+        "nice meet": 2,
+        "yes ya": 1,
+        "say piece": 1,
+        "know say": 1,
+        "casual know": 1,
+        "keep casual": 1,
+        "know keep": 1
+    },
+    "trigrams": {
+        "yes ya oh": 1,
+        "keep movin wer": 1,
+        "say piece keep": 1,
+        "know say piece": 1,
+        "casual know say": 1,
+        "keep casual know": 1,
+        "know keep casual": 1,
+        "everybody know keep": 1,
+        "pain everybody know": 1,
+        "real pain everybody": 1
+    }
+}

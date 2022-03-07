@@ -1,0 +1,83 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 181.0,
+        "mean_time": 12.928571428571429,
+        "positive_score": 0.301056338028169,
+        "negative_score": 0.14788732394366197,
+        "subjective_score": 0.11993243243243243,
+        "top_emotions": [
+            [
+                "trust",
+                0.2222222222222222
+            ],
+            [
+                "positive",
+                0.2222222222222222
+            ],
+            [
+                "negative",
+                0.2222222222222222
+            ]
+        ],
+        "emotion_scores": {
+            "joy": 2,
+            "positive": 4,
+            "trust": 4,
+            "anticipation": 3,
+            "anger": 1,
+            "negative": 4
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5722222222222222,
+        "cttr": 5.428576649955718,
+        "diversity": 79.84198645598195,
+        "herdan": 0.8925028882986232,
+        "summer": 0.9309626028185128,
+        "dugast": 48.307873287945306,
+        "maas": 0.02070055938996468
+    },
+    "utterance_features": {
+        "num_utterances": 15,
+        "total_words": 191,
+        "total_unique_words": 46,
+        "avg_word_per_utter": 12.733333333333333
+    },
+    "unigrams": {
+        "uhm": 6,
+        "uh": 5,
+        "wer": 4,
+        "dont": 3,
+        "yeah": 3,
+        "knock": 2,
+        "door": 2,
+        "want": 2,
+        "right": 2,
+        "okay": 2
+    },
+    "bigrams": {
+        "come knock": 2,
+        "wer yeah": 2,
+        "knock door": 2,
+        "dont want": 2,
+        "uhm mind": 1,
+        "parking slot": 1,
+        "work uhm": 1,
+        "face work": 1,
+        "gotta face": 1,
+        "always gotta": 1
+    },
+    "trigrams": {
+        "come knock door": 2,
+        "uhm mind went": 1,
+        "place may may": 1,
+        "uhm pretend really": 1,
+        "work uhm pretend": 1,
+        "face work uhm": 1,
+        "gotta face work": 1,
+        "always gotta face": 1,
+        "slot always gotta": 1,
+        "parking slot always": 1
+    }
+}

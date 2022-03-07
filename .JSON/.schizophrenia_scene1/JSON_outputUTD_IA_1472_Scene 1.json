@@ -1,0 +1,76 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 179.0,
+        "mean_time": 25.571428571428573,
+        "positive_score": 0.29292929292929293,
+        "negative_score": 0.24116161616161616,
+        "subjective_score": 0.16071428571428573,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.2413793103448276
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 7,
+            "joy": 4,
+            "positive": 4,
+            "surprise": 1,
+            "trust": 6,
+            "negative": 4,
+            "sadness": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5027624309392266,
+        "cttr": 4.782853814171494,
+        "diversity": 54.63799488853628,
+        "herdan": 0.8677237823522355,
+        "summer": 0.9139259531062718,
+        "dugast": 39.30031508089225,
+        "maas": 0.025445088619307242
+    },
+    "utterance_features": {
+        "num_utterances": 8,
+        "total_words": 182,
+        "total_unique_words": 44,
+        "avg_word_per_utter": 22.75
+    },
+    "unigrams": {
+        "uhm": 6,
+        "uh": 4,
+        "neighborhood": 4,
+        "day": 4,
+        "walk": 3,
+        "lost": 3,
+        "wer": 3,
+        "every": 3,
+        "meet": 2,
+        "safe": 2
+    },
+    "bigrams": {
+        "lost every": 3,
+        "every day": 3,
+        "nice meet": 2,
+        "dont know": 2,
+        "would suggest": 2,
+        "ill lost": 2,
+        "neighborhood uhm": 2,
+        "uhm ive": 1,
+        "ive 12": 1,
+        "12 year": 1
+    },
+    "trigrams": {
+        "lost every day": 3,
+        "ill lost every": 2,
+        "uh wer thank": 1,
+        "12 year havent": 1,
+        "neighborhood evening daytime": 1,
+        "walk neighborhood evening": 1,
+        "suggest walk neighborhood": 1,
+        "would suggest walk": 1,
+        "issue would suggest": 1,
+        "havent issue would": 1
+    }
+}

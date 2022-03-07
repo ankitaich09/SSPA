@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 163.0,
+        "mean_time": 13.583333333333334,
+        "positive_score": 0.5166184971098265,
+        "negative_score": 0.1199421965317919,
+        "subjective_score": 0.18804347826086956,
+        "top_emotions": [
+            [
+                "positive",
+                0.2972972972972973
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 5,
+            "positive": 11,
+            "trust": 5,
+            "fear": 2,
+            "negative": 3,
+            "sadness": 2,
+            "joy": 4,
+            "surprise": 2,
+            "anger": 2,
+            "disgust": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.39923954372623577,
+        "cttr": 4.578217562067947,
+        "diversity": 35.3477408008658,
+        "herdan": 0.8352174622743901,
+        "summer": 0.8951769283436773,
+        "dugast": 33.815197344856536,
+        "maas": 0.029572502262865105
+    },
+    "utterance_features": {
+        "num_utterances": 13,
+        "total_words": 264,
+        "total_unique_words": 42,
+        "avg_word_per_utter": 20.307692307692307
+    },
+    "unigrams": {
+        "uhm": 16,
+        "nice": 10,
+        "yeah": 6,
+        "ill": 5,
+        "oh": 4,
+        "okay": 3,
+        "lot": 3,
+        "box": 3,
+        "van": 3,
+        "apartment": 3
+    },
+    "bigrams": {
+        "talk bit": 2,
+        "uhm uhm": 2,
+        "uhm yeah": 2,
+        "arent many": 2,
+        "he nice": 2,
+        "ill talk": 2,
+        "get box": 2,
+        "go get": 2,
+        "ill go": 2,
+        "nice uhm": 2
+    },
+    "trigrams": {
+        "ill talk bit": 2,
+        "go get box": 2,
+        "ill go get": 2,
+        "thats nice kind": 1,
+        "many homeless people": 1,
+        "arent many homeless": 1,
+        "many arent many": 1,
+        "arent many arent": 1,
+        "crime arent many": 1,
+        "lot crime arent": 1
+    }
+}

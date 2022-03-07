@@ -1,0 +1,78 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 180.0,
+        "mean_time": 13.846153846153847,
+        "positive_score": 0.37004950495049505,
+        "negative_score": 0.12623762376237624,
+        "subjective_score": 0.11799065420560748,
+        "top_emotions": [
+            [
+                "positive",
+                0.2391304347826087
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 19,
+            "positive": 22,
+            "trust": 15,
+            "joy": 18,
+            "surprise": 6,
+            "anger": 3,
+            "negative": 5,
+            "disgust": 3,
+            "sadness": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.32922535211267606,
+        "cttr": 5.548204252056264,
+        "diversity": 38.27902378745752,
+        "herdan": 0.8248200044567117,
+        "summer": 0.8957401992144355,
+        "dugast": 36.20345690186962,
+        "maas": 0.027621671673799687
+    },
+    "utterance_features": {
+        "num_utterances": 14,
+        "total_words": 571,
+        "total_unique_words": 43,
+        "avg_word_per_utter": 40.785714285714285
+    },
+    "unigrams": {
+        "know": 14,
+        "uh": 11,
+        "theyre": 10,
+        "like": 10,
+        "im": 8,
+        "oh": 7,
+        "going": 7,
+        "yeah": 6,
+        "tell": 5,
+        "dont": 5
+    },
+    "bigrams": {
+        "know like": 3,
+        "im going": 3,
+        "oh dallas": 2,
+        "like know": 2,
+        "like okay": 2,
+        "oh thats": 2,
+        "know know": 2,
+        "going tell": 2,
+        "theyre theyre": 2,
+        "hows going": 2
+    },
+    "trigrams": {
+        "hows going im": 2,
+        "think theyre going": 1,
+        "going super bowl": 1,
+        "super bowl yeah": 1,
+        "bowl yeah well": 1,
+        "yeah well im": 1,
+        "well im going": 1,
+        "im going ive": 1,
+        "going ive run": 1,
+        "ive run thing": 1
+    }
+}

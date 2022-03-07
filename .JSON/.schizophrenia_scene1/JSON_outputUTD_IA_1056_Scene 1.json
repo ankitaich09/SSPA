@@ -1,0 +1,81 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 191.0,
+        "mean_time": 7.958333333333333,
+        "positive_score": 0.3463740458015267,
+        "negative_score": 0.16603053435114504,
+        "subjective_score": 0.11139455782312925,
+        "top_emotions": [
+            [
+                "positive",
+                0.23076923076923078
+            ],
+            [
+                "anticipation",
+                0.23076923076923078
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 6,
+            "anticipation": 6,
+            "joy": 3,
+            "trust": 4,
+            "fear": 2,
+            "negative": 3,
+            "sadness": 1,
+            "anger": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.45806451612903226,
+        "cttr": 5.702857235207742,
+        "diversity": 42.91802700079414,
+        "herdan": 0.8639003921869838,
+        "summer": 0.9162510751117863,
+        "dugast": 42.14980770084601,
+        "maas": 0.02372490064717255
+    },
+    "utterance_features": {
+        "num_utterances": 25,
+        "total_words": 333,
+        "total_unique_words": 49,
+        "avg_word_per_utter": 13.32
+    },
+    "unigrams": {
+        "yeah": 19,
+        "know": 11,
+        "there": 8,
+        "uh": 6,
+        "uhm": 5,
+        "steelers": 4,
+        "ya": 4,
+        "cool": 3,
+        "oh": 3,
+        "fan": 3
+    },
+    "bigrams": {
+        "yeah yeah": 5,
+        "there also": 2,
+        "kinda city": 2,
+        "laugh yeah": 2,
+        "go know": 2,
+        "ya know": 2,
+        "there there": 2,
+        "know there": 2,
+        "know kinda": 2,
+        "yeah uhm": 2
+    },
+    "trigrams": {
+        "know kinda city": 2,
+        "hi hows goin": 1,
+        "there also there": 1,
+        "also there there": 1,
+        "there there many": 1,
+        "there many venue": 1,
+        "many venue go": 1,
+        "venue go know": 1,
+        "go know dallas": 1,
+        "know dallas yeah": 1
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 166.0,
+        "mean_time": 18.444444444444443,
+        "positive_score": 0.4594594594594595,
+        "negative_score": 0.16418918918918918,
+        "subjective_score": 0.20464601769911506,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.2916666666666667
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 21,
+            "positive": 18,
+            "trust": 15,
+            "joy": 12,
+            "surprise": 3,
+            "sadness": 2,
+            "negative": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.39636363636363636,
+        "cttr": 4.647775616552307,
+        "diversity": 32.621173469387756,
+        "herdan": 0.8352392861760228,
+        "summer": 0.8956764892269349,
+        "dugast": 34.090475619493084,
+        "maas": 0.0293337063161476
+    },
+    "utterance_features": {
+        "num_utterances": 10,
+        "total_words": 275,
+        "total_unique_words": 43,
+        "avg_word_per_utter": 27.5
+    },
+    "unigrams": {
+        "uh": 7,
+        "neighborhood": 6,
+        "pretty": 5,
+        "like": 4,
+        "nice": 4,
+        "get": 4,
+        "good": 3,
+        "well": 3,
+        "thats": 3,
+        "walk": 3
+    },
+    "bigrams": {
+        "pretty quiet": 2,
+        "pretty nice": 2,
+        "thats good": 2,
+        "good well": 2,
+        "ive five": 2,
+        "five year": 2,
+        "get know": 2,
+        "people surroundings": 2,
+        "really enjoying": 1,
+        "like said": 1
+    },
+    "trigrams": {
+        "ive five year": 2,
+        "thats good well": 2,
+        "yes hi uh": 1,
+        "whole lot uh": 1,
+        "enjoying uh neighborhood": 1,
+        "really enjoying uh": 1,
+        "six really enjoying": 1,
+        "going six really": 1,
+        "nearly going six": 1,
+        "year nearly going": 1
+    }
+}

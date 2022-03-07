@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 148.0,
+        "mean_time": 21.142857142857142,
+        "positive_score": 0.30973451327433627,
+        "negative_score": 0.21349557522123894,
+        "subjective_score": 0.15353260869565216,
+        "top_emotions": [
+            [
+                "positive",
+                0.3076923076923077
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 10,
+            "positive": 16,
+            "trust": 12,
+            "joy": 5,
+            "surprise": 2,
+            "fear": 2,
+            "negative": 2,
+            "sadness": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5257731958762887,
+        "cttr": 5.178265442181457,
+        "diversity": 29.082427536231883,
+        "herdan": 0.8779607714621215,
+        "summer": 0.9216709816083953,
+        "dugast": 43.165285639512966,
+        "maas": 0.023166764338160954
+    },
+    "utterance_features": {
+        "num_utterances": 8,
+        "total_words": 210,
+        "total_unique_words": 38,
+        "avg_word_per_utter": 26.25
+    },
+    "unigrams": {
+        "neighbor": 5,
+        "mean": 3,
+        "like": 3,
+        "im": 3,
+        "problem": 3,
+        "help": 3,
+        "great": 3,
+        "yes": 3,
+        "get": 2,
+        "area": 2
+    },
+    "bigrams": {
+        "im neighbor": 2,
+        "grocery store": 2,
+        "pretty good": 2,
+        "great neighbor": 2,
+        "like great": 1,
+        "neighbor uh": 1,
+        "take need": 1,
+        "ill take": 1,
+        "help ill": 1,
+        "ill help": 1
+    },
+    "trigrams": {
+        "hello im neighbor": 1,
+        "street house cant": 1,
+        "help ill take": 1,
+        "ill help ill": 1,
+        "course ill help": 1,
+        "get course ill": 1,
+        "way get course": 1,
+        "dont way get": 1,
+        "cant dont way": 1,
+        "house cant dont": 1
+    }
+}

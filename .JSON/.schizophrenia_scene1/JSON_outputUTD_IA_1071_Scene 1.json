@@ -1,0 +1,75 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 165.0,
+        "mean_time": 11.0,
+        "positive_score": 0.31644144144144143,
+        "negative_score": 0.15315315315315314,
+        "subjective_score": 0.13602941176470587,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.3333333333333333
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 7,
+            "positive": 5,
+            "trust": 3,
+            "joy": 2,
+            "surprise": 2,
+            "sadness": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4628975265017668,
+        "cttr": 5.5063407073905015,
+        "diversity": 33.31421068340935,
+        "herdan": 0.8635626924834531,
+        "summer": 0.9152504056463407,
+        "dugast": 41.37758946143498,
+        "maas": 0.024167671752169776
+    },
+    "utterance_features": {
+        "num_utterances": 16,
+        "total_words": 288,
+        "total_unique_words": 50,
+        "avg_word_per_utter": 18.0
+    },
+    "unigrams": {
+        "uh": 14,
+        "there": 10,
+        "well": 6,
+        "yeah": 5,
+        "neighborhood": 4,
+        "know": 4,
+        "uhm": 4,
+        "street": 3,
+        "bus": 3,
+        "get": 3
+    },
+    "bigrams": {
+        "uh club": 2,
+        "there uh": 2,
+        "street there": 2,
+        "there one": 2,
+        "uh get": 2,
+        "uh see": 1,
+        "wer uh": 1,
+        "like oh": 1,
+        "oh yeah": 1,
+        "yeah walking": 1
+    },
+    "trigrams": {
+        "uh see youre": 1,
+        "see youre new": 1,
+        "like oh yeah": 1,
+        "oh yeah walking": 1,
+        "yeah walking distance": 1,
+        "walking distance wer": 1,
+        "distance wer uh": 1,
+        "wer uh get": 1,
+        "uh get work": 1,
+        "get work morning": 1
+    }
+}

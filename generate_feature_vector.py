@@ -147,7 +147,7 @@ def process(filepath):
 
 
 
-def makeJSON(filepath_to_initial_data):
+def makeJSON(filepath_to_initial_data, label_of_health):
     data = pd.read_csv(filepath_to_initial_data)
     output_dict, utterance_features, unigrams, bigrams, trigrams = generateVector(data)
     lexical = lexicalFeatures(data)
@@ -157,6 +157,7 @@ def makeJSON(filepath_to_initial_data):
     bigrams = {str(' '.join(k[0:])):int(v) for k,v in bigrams.items()}
     trigrams = {str(' '.join(k[0:])):int(v) for k,v in trigrams.items()}
     json_object = {
+        'label' : label_of_health,
         str('Feature_set_1'): output_dict,
         'lexical_features' : lexical,
         'utterance_features': utterance_features,
@@ -168,9 +169,13 @@ def makeJSON(filepath_to_initial_data):
     with open(name, 'w') as jf:
         json.dump(json_object, jf, indent=4)
 
+def runRemote(path):
+    makeJSON(path)
+
 
 def main():
     filepath = input('Enter the path to the CSV file: ')
+    label_of_health = input('Enter provided level of health: ')
     makeJSON(filepath)
 
 

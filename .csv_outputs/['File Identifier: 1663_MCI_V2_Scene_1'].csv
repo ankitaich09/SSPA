@@ -1,0 +1,15 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:14, Do I start? Uh.. hi. Are you- are you my new neighbor?, Yes. Yeah. I think I’m your new neighbor.
+1, 00:00:21," Oh, good. Nice to meet you. Uhm.. my name is Patient. What’s your name?"," Hi, Patient. My name is Interviewer. It’s nice to meet you."
+2, 00:00:31," It’s nice to meet you too. Well, uhm.. I- I live right across the hall. If there’s anything you need, just feel free to knock on the door.", Okay. Thank you.
+3, 00:00:44, Uhm.. did you move-- have you-- were you living in Dallas before?," So, I just moved from across the state."
+4, 00:00:53," Oh, okay. So, uh.. what brought you here? What brought you to Dallas?", I got a new job.
+5, 00:01:01," Great. Well, that’s good. I hope you enjoy living here. It’s a pretty nice apartment building. If you have any issues, let me know too because I can fill you in on the management company.",  Okay. Thank you.
+6, 00:01:15," Okay. Well, good. It was very nice to meet you. I hope you enjoy living here and I hope you enjoy your new job and living in Dallas."," Uhm.. so, since I’m new to the area, can you tell me more about this neighborhood?"
+7, 00:01:28," Uh.. it’s a pretty nice neighborhood. It- it’s-- I would think it’s pretty safe. There’s a walking trail uhm.. not too far away uhm.. where, you know, a lot of people like to walk and walk their dogs. So, uhm.. you know, I can point that out to you if you ever wanna use it.", Okay.
+8, 00:01:52," And I’m just thinking that there’s a-- there’s quite a few good restaurants not too far away, you- you know, probably not walking distance. You- you’d need to drive, but there’s some good restaurants. If you need any recommendations, you know, I can help you with that too. I’ve lived here for quite a while.", Okay. Thank you.
+9, 00:02:13,"wer: Yeah. So, are the residents here friendly?", Uhm...
+10, 00:02:23," I would say uhm.. maybe most of them are friendly, you know, not everybody. Some people like to keep to themselves, but uh.. I would say for the most part, everybody, you know, is friendly and pretty cooperative.", Okay.
+11, 00:02:40, Any other questions about the neighborhood or the apartment complex?, Is it safe to walk in the neighborhood in the evening?
+12, 00:02:50," I would think it’s pretty safe in the neighborhood. Uhm.. uh.. you know, I usually wouldn’t go out walking after dark, but uhm.. yeah, it’s pretty safe, especially around the complex and there’s, you know, like I had said before, there are some-- there’s a nice uh.. walking trail that’s nearby that uhm.. is- is pretty and it- it’s-- on a nice day, it’s a really nice walk."," Okay. Great. Well, it was nice to meet you. I still need to go do some unpacking, uhm.. but yeah, it was nice to meet you and I’ll talk to you later."
+13, 00:03:24, Okay. Thanks. Nice to meet you too. Bye., Bye.

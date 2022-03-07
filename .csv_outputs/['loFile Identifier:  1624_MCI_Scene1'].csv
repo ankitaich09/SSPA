@@ -1,0 +1,14 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:15,  Hi.  Welcome to the neighborhood.  My name is Patient.  What's yours?,  Hi Patient.  I'm Interviewer.
+1, 00:00:23,"  Hi Interviewer.  So you're my new neighbor, that's exciting.  What do you think so far of your apartment?","  I really like it yeah, thanks for asking."
+2, 00:00:34,"  Do you need any help with uh.. loading, unloading anything or putting stuff away?  I just got home from work, but I can change real quick and come over and help you unpack.","  Oh, thank you.  I think I'm pretty much uh.. all loaded in though."
+3, 00:00:51,"  Great.  Well listen, I have a bottle of wine in my apartment, I-- if you wanna come over and have some wine with me, that's great, if you want me to come over and bring you some wine, we can sit and get- get to know each other, that's good.  But if you'd rather be alone and take some time out to rest and all that, I understand it completely.  This is my phone number.  Call me if you need anything and I can tell you the ins and outs of the apartment building.",  Thank you.  That is so nice of you.
+4, 00:01:22,"  Well you're welcome.  Again, call me any time.  I'm usually home on the weekends.  If you wanna know where the best restaurants are, uh.. who to avoid in the building, just let me know.",  That's awesome.  Thank you very much.
+5, 00:01:39,"  You're welcome.  And again, welcome to the apartment building.","  Thank you. Uhm.. so before you go, you were talking about restaurants, can you tell me some of those real quick?"
+6, 00:02:01,"  Oh yeah, we have a wide range of uh.. of restaurants here.  There's a- a little neighborhood, it's called the Fire- Firewheel and usually on the weekends they have some dancing there, they have little concerts.  It's not far from here.  If you do decide to go uh.. you do have to get there early because of the parking situation, the earlier you get- you get there the better chance you have of finding parking.  Uh.. I'm more than happy to take you out there, you know, whenever you're ready and", 
+7, 00:02:32, ,  Very cool.  Thank you.  That sounds great.
+8, 00:02:54,  Is there any preference you like as far as uh.. types of food you like?,  Uhm.. I really like sushi.
+9, 00:03:02,"  Oh, okay, okay.  I'm not a big fan of that, but uh.. I have a girlfriend that loves it, I'm sure we could invite her, she could tell you all the good places that have that.",  That's awesome.
+10, 00:03:14,"  Uh.. I'll tag along, but uh.. again it's not my favorite food.  But, you know, that's fine.  I prefer Mexican food.","  Well maybe we could go somewhere else, yeah.  But that's sounds like a lot of fun.  Thank you.  Uhm…"
+11, 00:03:25,  You're welcome.,"  Uhm.. yeah so I'm just gonna finish unpacking, but it was great to meet you and I'm looking forward to seeing you around."
+12, 00:03:34,  Mm-hmm.  Bye.,  Thank you.  Bye-bye.

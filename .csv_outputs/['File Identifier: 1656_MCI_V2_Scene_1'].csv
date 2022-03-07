@@ -1,0 +1,19 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:13," All right. So, now we begin?"," Hi, I think I’m your new neighbor."
+1, 00:00:21," Uh.. it’s great to meet you. Yes, I live here in the building and my name is Patient. What’s your name?", My name is Interviewer.
+2, 00:00:30," Well, and I live alone. Do you have any roommates?", I will be living alone as well.
+3, 00:00:39, And I’m a native of this area. How long have- have you lived in this city?, I’m just moving here for the first time.
+4, 00:00:50," Well, if you have uhm.. any questions about uh.. business services or places to go, I’d be glad to answer them.", Okay.
+5, 00:01:02, Did you move here for a job?," Yes, I got a new job."
+6, 00:01:08, Great and where will you be working?, I’ll be working at the uh.. grocery store just down the road.
+7, 00:01:17," Oh, great. That’s where I shop. So, I’ll probably see you there.", Okay.
+8, 00:01:22," Well, I’m self-employed and so, I’m at- at home a lot.", Okay. Cool.
+9, 00:01:28," So, do- do you know anybody else that lives in this area?", I do not. No.
+10, 00:01:36," Oh, well, I would say working at the grocery store, you should meet lots of people.", Yeah. Yeah. I hope so.
+11, 00:01:45," Well, this is a great apartment complex. We have a really good uh.. manager and you- you’ve chosen a great place to live.", Okay. Good to know.
+12, 00:01:58," And I just- just say there’s lots of things around here, lots of uhm.. uh.. shops and restaurants and uh.. I hope maybe we can get to know each other better."," Yeah, definitely."
+13, 00:02:12," All right. Well, we’re glad to have you in the building and I hope- hope you have a- have a great stay here. I’ll see you soon."," Uh.. so, real quick, uhm.. what is the landlord like?"
+14, 00:02:30," Uhm.. he’s very responsive. If you have a dripping faucet or problems with your cable, uhm.. he’s very responsive and uh.. he even has a Christmas party for us. He’s uh.. one of the best landlords I’ve ever had.", Okay. Cool.
+15, 00:02:50, Do you have any other questions?, Uhm.. are the residents in this building friendly?
+16, 00:03:00," I think they are and uh.. because I uh.. walk a dog and so, I- I meet a lot of people walking my dog because this is a pet-friendly apartment. But uh.. I find the neighbors to be- be very friendly."," Okay. Sounds good. Uhm.. well, I got to go keep packing, but it was nice to meet you and I’ll talk to you later."
+17, 00:03:22, All right., All right. Bye.

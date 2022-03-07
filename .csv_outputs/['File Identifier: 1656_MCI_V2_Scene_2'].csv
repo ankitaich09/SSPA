@@ -1,0 +1,11 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi, this is Interviewer, the landlord."
+1, 00:00:11, Yes. This is Patient and uhm.. I live in Apartment 101 and I have a leak and you had said that you might come and fix it in a day or two and I haven’t seen any repair person arrive. Can you give me a status on- on when somebody might come to fix my leak?," It might take me about a week, maybe even two weeks before I’ll have time to fix it."
+2, 00:00:44," Well, it seems to be causing more and more damage. The leak seems to be getting worse and I’m- I’m just concerned if- if you wait a week or two. Uh.. will you be fixing it yourself or are you having a worker come in?", I do all the repairs myself for the whole building.
+3, 00:01:05, Is anybody else having a leak problem?, Uhm.. I do have a lot of other tenants with problems that are ahead of yours.
+4, 00:01:21," All right. Well, I- I’m even considering hiring my own repair person. Is that allowed?", Uhm.. you don’t need to call. Uh.. I’m aware of the problem and I will be over as soon as I can.
+5, 00:01:37," But you initially told me a day or two and now, you’re telling me a week or two. So, how do I know it will happen in that timeframe or it might be longer?"," Uhm.. I’m sorry. I just-- I haven’t had enough time to get over to fix it, but I’ve been very busy."
+6, 00:01:59, I understand. Uhm.. my lease is going to be up soon and I’m thinking of moving to another apartment and not renewing my lease and I’m concerned I may not get my deposit back because of the damage in my apartment.," Uhm.. so, what have you done about the problem so far?"
+7, 00:02:34," I just have a bucket, just have a bucket to catch the drips and I was wondering what’s above me that might be causing the leak, if there are pipes in the ceiling or if the person above me, you know, is having problems I- I knocked on their door and uh.. I haven’t gotten an answer.", Mm-hmm.
+8, 00:03:07, But I- I was just concerned maybe their toilet’s overflowing or something is doing to make it be le- leaking through my ceiling.," Okay. Uhm.. well, thank you for calling, but it will still be about a week or two weeks before I’ll have time to fix it."
+9, 00:03:23," Well, I may just...", 

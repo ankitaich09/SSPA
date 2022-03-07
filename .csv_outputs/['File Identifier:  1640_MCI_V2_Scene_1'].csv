@@ -1,0 +1,18 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:10,"  Hey, neighbor.  Hello.  How are you?  I just saw from my door over here that it was open the door and I'm coming here to say hello.  How are you?","  Hi, I'm good.  How are you?"
+1, 00:00:22,  I'm doing okay.  What is your name?,  My name is Interviewer.
+2, 00:00:27,"  Hey Interviewer, welcome to the neighborhood.",  Thank you.
+3, 00:00:30,  So I saw that uh.. this morning a moving wagon uh.. I guess it was trying to move everything to the- to the house huh?,"  Yeah, yeah."
+4, 00:00:43,  Okay.  Uh.... anything that you may need?,  Uhm.. I think I should be okay for now.
+5, 00:00:52,"  Okay.  Well just in case Interviewer, uh.. my name is Patient.  I’m across the street and if you need me, you can go to the house or let me give you my phone number if you need some help and I can come and help you. Is that okay with you?"," Uhm.. yeah. Yeah. I- I would appreciate that. But first, uhm.. have you lived here very long?"
+6, 00:01:18, Yeah. I’ve been more than 20 years., Okay.
+7, 00:01:25," So, anything especially you want to know about the neighborhood?", Would you-- are the residents in this building friendly?
+8, 00:01:34," Well, you know what? There’s all kind of neighbors here, but I have not had any problems with uhm.. neither one of them.", Okay.
+9, 00:01:42," Did you-- do you do any specific activities that maybe uhm.. impact them or may impact anybody else on this uh.. neighborhood? Like, maybe you play the trombone or the rings or your family do some activities.", Yeah. I like to do a couple things.
+10, 00:02:06, Okay. What you can tell me about that?, Uhm.. I like to play soccer. I like to play the drums.
+11, 00:02:15," Play soccer? Let me tell you, around here, there is a court with uh.. a lot of the kids and other adults get together on Sunday and they play. So, why you don’t go around and come with us and maybe we can play with us?", Yeah. That sounds like fun.
+12, 00:02:32," And oh, you say that you play the- the tambourine, you said?", I said the drums.
+13, 00:02:39," Oh, the drums. Sorry. I thought the tambourine.", Yes.
+14, 00:02:42," Drums-- hey, do you know what? Uhm.. also, here in this neighborhood, there are some people that play guitar and play saxophone and things like that, but they don’t have any drums. Maybe you can join them and that way, you can do some community at the same time."," Yeah, maybe."
+15, 00:03:01," Okay. So, when is the days that you may be free and I maybe introduce you to some of them?"," Uhm.. I could be free any time, but I- I got to go right now."
+16, 00:03:13," Okay. Well, Interviewer, thank you so much and again, I’m across uh.. the street and my name is uh.. Patient and again, welcome to the neighborhood. Bye, Interviewer.", All right. Thank you. It was nice to meet you. Bye.

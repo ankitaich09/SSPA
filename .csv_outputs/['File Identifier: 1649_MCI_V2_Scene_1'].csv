@@ -1,0 +1,22 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:09," I would knock on the door jam and say hi, I’m Patient. I’m your neighbor across the hall. Glad to have you as a- a new apartment mate."," Hi, nice to meet you."
+1, 00:00:23, And your name is?, My name is Interviewer.
+2, 00:00:26," Interviewer, what brings you to uh.. to the city?", I just got a new job in the area.
+3, 00:00:33," Oh, great. What do you do?", I’m a manager.
+4, 00:00:37, Uh.. what do you manage?, Uhm.. just at the grocery store down the- down the uh.. street.
+5, 00:00:45," Oh, that sounds interesting. I shop there all the time.", Okay. Cool.
+6, 00:00:51," So, are you married? Do you have any kids or anything like that?", I’m currently single right now.
+7, 00:00:58," Ah, me too. Maybe we could uh.. go out sometime and I can show you around the city."," Yeah, definitely."
+8, 00:01:08," Great. Great. Well, how-- what are you doing tonight? Do you have any plans tonight? We can go get a bite to eat?"," Uhm.. yeah, that sounds good."
+9, 00:01:19, Okay. How about uh.. do you-- are you hungry for anything in particular? There’s a great uh.. taco bar around the corner if you-- if you’re up to that., Okay.
+10, 00:01:30," All right. Well, how about six o’clock. Does that sound good?", Sure.
+11, 00:01:34, All right. See you then.," Uhm.. so, real quick. I’m new to the area. Can you tell me about this neighborhood?"
+12, 00:01:42, Yes. It’s uh.. well-- it’s pretty much crime-free. Everybody kind of knows everybody. It’s very neighborly and friendly and uh.. I think you’re really gonna enjoy it. We’re close to the park and a lot of things are within walking distance and I’ll kinda show you around tonight as we go over to the taco place., Okay. Cool. Thank you.
+13, 00:02:06, All right. See ya at six., Uhm.. have you lived here very long?
+14, 00:02:12, I’ve been here uh.. ten years.," Oh, wow. Okay."
+15, 00:02:16," Yeah. So, uhm.. and I’ve really enjoyed it. That’s why I probably have stayed as long as I have.", Okay.
+16, 00:02:26, All right. See ya at six then.," Uhm.. just uh.. so, are the residents in this building friendly?"
+17, 00:02:35," Yes, they are and- and we have a wide range of ages, from-- there’s a couple up a floor above us that’s very elderly and then there’s some younger couples, young marrieds, and there’s several guys single like us and there’s some single ladies too and- and uh.. I- I’ll be happy to introduce you to them as well.", Okay. Okay.
+18, 00:03:00," So, looking forward to tonight and uh.. I can kinda show you some points of interest as we walk to the taco place.", All right. That sounds good. I’m looking forward to it.
+19, 00:03:11,wer: I’ll see ya then., All right.
+20, 00:03:14, Bye., Bye.

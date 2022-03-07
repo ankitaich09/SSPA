@@ -1,0 +1,17 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi, this is Interviewer, the landlord."
+1, 00:00:11," Hi, Interviewer. It’s Patient in Apartment 1A. I called you uh.. last week about the leak in the ceiling. Do you remember?"," Yeah. I’m sorry. I haven’t had enough time to get over to fix it, but I’ve been very busy."
+2, 00:00:25," I understand. The- the leak has gotten much worse and now, it’s gone from a leak to a steady drip and I think it’s something we probably need to look at fairly quickly because it’s damaging the ceiling, not to mention some of my furniture.", Okay.
+3, 00:00:43," So, when- when can I expect you here to fix the leak?"," Well, it might take me about a week, maybe even two weeks before I’ll have time to fix it."
+4, 00:00:55," Well, I- I really think you need to look at it sooner than that because it’s really starting to-- it gets worse every day and from a structural standpoint, uh.. the apartment needs to be taken care of because internet of things only are you gonna have damage. I’m gonna have damage as well.", Mm-hmm.
+5, 00:01:14," So, uh.. I- I think you really need to look at it a lot sooner than a week. How about- how about tomorrow?"," Uhm.. well, I do all the repairs myself for the whole building."
+6, 00:01:29, Okay and is any of the repairs you have lined up as bad as a ceiling falling down?," Uh.. yeah, I have a lot of other tenants with problems that are ahead of yours."
+7, 00:01:46," Okay. So, what do you suggest I do about this water leak in the apartment?"," Well, uh.. what have you done about the problem so far?"
+8, 00:01:58," Well, nothing because it’s really not my problem. It’s your problem. I didn’t move my furniture around but uh.. I didn’t notice it until after it dripped on the couch quite a bit, but I have since moved the couch. But now, it’s affecting the floorboards. The wood is starting to warp in the floor and- and all of that is gonna, you know, it’s gonna be a cost and an expense to you, not me.", Okay.
+9, 00:02:24," So, I think you need to get here sooner rather than later. So, how about you come tomorrow? Hello? Are you there?"," Uhm.. yeah. It- it might take me about a week, maybe even two weeks before I’ll have time to fix it."
+10, 00:02:54," Well, that’s kinda-- that’s unacceptable. Uh.. how about I-- how about we do this-- for every day you don’t show up, I take that daily rental amount off my next month’s rent amount?"," Uhm.. well, I’m- I’m aware of the problem and I’ll be over as soon as I can."
+11, 00:03:16, Okay and soon as you can is when?," Uhm.. it- it’ll still be about a week or two weeks, but I- I’ll be over as soon as I can."
+12, 00:03:29, Okay. Uh.. could I possibly get the name of the owner of the building?, Uhm...
+13, 00:03:37, The owner?," Yeah. Sure. But I- I gotta go right now. I’ll give you a call right back real quick, okay?"
+14, 00:03:43," Well, that’s un- unacceptable. I really would like the name of the owner now and a phone number.", Okay. Uhm.. just real quick. I’ll give you a call back. Okay?
+15, 00:03:56, Uh.. no. It’s not okay. I need a phone number and it shouldn’t take you but a second to give it to me., Okay. Uhm.. all right.

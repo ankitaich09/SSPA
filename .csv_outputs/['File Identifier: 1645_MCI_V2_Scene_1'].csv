@@ -1,0 +1,15 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:16, Am I supposed to start?, Hi. I think I’m your new neighbor.
+1, 00:00:23," Hi. Oh, goodness. I’m glad to have a new neighbor. I live right across the hall from you.", Okay.
+2, 00:00:33," My name is Patient, by the way. I’ve lived here quite a while. Where are you from?"," So, I moved from across the country."
+3, 00:00:43," Oh, across the country. That must be exciting. Do you- do you have a new job?", Yeah. I got a new job right down the street.
+4, 00:00:53," Oh, that’s wonderful. Well, there are a lot of things to do in this area of town. You’ll find that there are restaurants close by. There’s a park close by and of course, I’m always right across the hallway if you need anything.", Okay. Thank you.
+5, 00:01:10," Okay. Well, I’ll let you move in then. I know you’re very busy. So, uh.. just letting you know <inaudible 00:01:17>."," Uhm.. so, have you lived here long?"
+6, 00:01:25, Yes. I’ve lived in this building for five years.," Oh, okay."
+7, 00:01:32," I’ve always enjoyed living here. I think you’ll find that the people in the building are very friendly. Man, I’m thinking to myself “Ooh, this <inaudible 00:01:52>,” but I know. Okay. I’ll see you later. Bye-bye."," Uhm.. just real quick, is it- is it safe to walk in this neighborhood in the evening?"
+8, 00:02:03," Oh, yes. I do it all the time. There are lots of streetlights. There’s usually a lot of people out. You’ll feel very safe.", Okay.
+9, 00:02:15," Anyway, if there’s nothing else, I’ll let you go."," So, I have to go to work in the morning. Where is the bus Downtown?"
+10, 00:02:25, Uh.. there’s a bus that stops right on the corner of the street in front of our building and it’s usually there every 15 minutes starting at about five-thirty in the morning., Okay. Great.
+11, 00:02:44, Is there anything else I could help you with?, Uhm.. what is the landlord like?
+12, 00:02:53," You’ll find the landlord to be a very easy person to work with. If you ever have a- a problem with your apartment, just call him. Uh.. if there’s a- a problem with noisy neighbors, not that I’m going to be noisy, but if there is, he’s always willing to work with you."," Okay. Sounds good. Well, it was nice to meet you."
+13, 00:03:14, It was nice meeting you. See you later., Thank you. See ya.

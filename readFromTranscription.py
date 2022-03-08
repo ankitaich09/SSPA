@@ -123,23 +123,34 @@ def make_subarrays(processed_data):
 
     return timestamps, dialogues
 
+#check if the first time people speak there's no time stamp
+#if so return True
+def condition(time, p, t):
+    if time == p and time == t:
+        return False
+    else:
+        return True
+
+
 def make_dataframe(times, dialogues):
     time = []
     p = []
     i = []
     for t in times:
         time.append(t[0][3:12])
+        #Getting rid of the plus signs
     for d in dialogues:
        d.sort()
        p.append(d[1][8:])
        i.append(d[0][12:])
+       #getting rid of the words Patient : and Interviewer :
 
 
-    print(time[0])
-    print(len(p))
-    print(len(i))
-    if time[0] != '00:00:00':
+
+    if condition(len(time),len(p),len(i)) == True:
         time.insert(0, '00:00:00')
+
+
     dataframe = pd.DataFrame(
         {
             'timestamp': time,
@@ -157,7 +168,7 @@ def namemaker(filepath):
 
 
 def main():
-    filepath = '/Users/ankit/Documents/SSPA Project/Text Files/[\'File Identifier:  1624_MCI_Scene2\'].txt'
+    filepath = input('Enter Text File Path ')
     name = namemaker(filepath)
     data = read_file_fron_path(filepath)
     processed_data = pre_process(data)

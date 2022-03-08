@@ -1,0 +1,15 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:09," Hi, uhm.. how are you doing? My name’s uh.. Patient. Very nice to meet you."," Hi, Patient. Nice to meet you too."
+1, 00:00:19, Uhm.. I see you’re going to be my new neighbor?," Yes, I am."
+2, 00:00:24,wer: My name’s Interviewer., Mm-hmm.
+3, 00:00:32," That’s good. Uhm.. so, I live across the hall. Uhm.. I have two dogs and uh.. you’ll see me outside walking them quite a bit, but uhm.. if you ever need anything, just let me know.", Awesome. That’s so good to know. Thank you so much.
+4, 00:00:49,"wer: Uhm.. actually, before you go, I am new to this area. Could you tell me a little bit about the neighborhood?", Thank you.
+5, 00:01:06," Uh.. it’s a pretty quiet, clean neighborhood. Uh.. we have the occasional, you know, uhm.. disturbance. But for the most part, we really don’t see much uhm.. activity out here, except for the mailman and there’s a dog walking uhm.. trail out back, but besides that, there’s not-- there’s not much uh.. really around. Uhm.. there’s some good eating places in town", 
+6, 00:01:36,wer: Okay. Awesome. Quiet’s good., Nothing wrong with that.
+7, 00:01:55, Mm.. No. We- we’re just uhm.. a- a old-- I guess you’d call it an old town., Yeah. Yeah. That’s nice though. I’m glad that it sounds quiet and safe.
+8, 00:02:13, Yeah. Uh.. anything in particular you’re looking for or...," Uhm.. I mean, if you have any recommendations for food places or anything, I’d love- love to take them."
+9, 00:02:29," Uh.. there’s a barbeque place up town uhm.. called Gruthers. They serve a bar-- of course, home-smoked barbeque, where they smoke it every day right there."," Oh, yum."
+10, 00:02:40," And they- they also have things like chicken fried steak, you know, like country cooking.", Yum.
+11, 00:02:45," Uhm.. yeah, we have a pizza parlor or it’s a buffet or you can do just uhm.. a regular meal. Uh.. their pretty considered really good. It’s called Potter’s.", Mm...
+12, 00:03:00, And there’s a Mexican restaurant called Mi Familia that’s owned by a family here in town and they’re authentic Mexican food. It’s really good. Those would be my three that I would try out first.," Yum. Those sound delicious. You’re making me hungry. All right. Well, it was so nice to meet you. Thank you so much for coming over to meet me. Uhm.. hopefully we’ll see you around soon."
+13, 00:03:25, Okay. Take care., All right. You too. Bye-bye.

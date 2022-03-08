@@ -1,0 +1,15 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:12," Oh, okay. Hi. I’m- I live in your apartment building right across the hallway from you. Do you like the area?"," Hi. It’s nice to meet you. Uhm.. yeah, it’s good. Uhm.. I just moved here."
+1, 00:00:25,"wer: Uhm.. so, I moved from Wylie.", Uhm.. maybe about like 40 minutes from Dallas or so.
+2, 00:00:36," Oh, okay. Well, you’ll love it here. Oh, I’m sorry, by the way, my name is Patient and I’m your across the hall neighbor."," It’s nice to meet you, Patient. My name’s Interviewer."
+3, 00:00:46,"wer: Uhm.. yeah, I have one dog.", Hopefully I can get everything moved here today.
+4, 00:01:02,wer: Yeah., Hopefully.
+5, 00:01:09,"wer: Yeah. Thank you so much. Uhm.. really quick before you go, uhm..."," Can you tell me a little bit about this area and neighborhood? Like, I’m brand new."
+6, 00:01:23," Oh, well, this is a real nice, family-oriented neighborhood and area. We have a mall down the street. We have a coffee shop around the corner. You’ll enjoy the area.", Cool. That’s awesome. That all sounds really great.
+7, 00:01:39,wer: Yeah. You too. Sorry. I have a couple more questions., Uhm.. are the other residents in this building friendly?
+8, 00:01:50,wer: Okay., Mm-hmm.
+9, 00:02:00," Once you get-- once they see you and once they get-- once you get to see them, then you can get more familiar with the area or- or the location or the apartment of people who’s in it.", Okay. Yeah.
+10, 00:02:12," But you have to watch the kids, though. Some kids are not really kids. They’re- they’re just really- really hype, but they’re still kids."," Okay. All right. Well, that’s all good to know."
+11, 00:02:27," Okay, then. So, if anything else you need to know or have to ask a question about or any information or you need help, just let me know.", Awesome. Yeah. Uh.. can you tell me a little bit about the landlord? What are they like?
+12, 00:02:40," Uhm.. well, I would say they’re pretty-- they’re okay, but it’s just certain procedure a certain way and a certain time that you have to have your rent in."," Mm.. yeah, yeah. That’s pretty normal for all places. Uhm.. all right. Well, thank you so much for coming by. It was really nice to meet you."
+13, 00:02:58, Sure. No problem. I’ll- I’ll be back with the neighborhood present., Awesome. Thank you so much. That’s so nice.

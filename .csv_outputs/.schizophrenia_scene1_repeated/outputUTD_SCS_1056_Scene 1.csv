@@ -1,0 +1,12 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:12,wer: Yeah. I just moved here., Hi. I’m good. How are you?
+1, 00:00:21, Cool. Where are you from?, Uhm.. I just moved from Wylie.
+2, 00:00:26," Oh, nice. Is that-- uh.. is that like in Northeast Dallas or..."," Oh, gosh. I’m not that great with directions. Uhm.. it’s kind of near like Garland or like Rowlett, in that direction."
+3, 00:00:41," Okay. Cool. Yeah. I’m from Grand Prairie. Uhm.. it’s kind of in the opposite direction of Central Dallas, but it’s uh.. it’s really nice around this new neighborhood. I think you’ll- you’ll really like it here. It’s pretty quiet and it’s a- it’s a nice neighborhood.", Yeah. That’s great to hear.
+4, 00:01:04," Uhm.. well, it was nice meeting you. Thank you so much for uhm.. for talking with me."," Uhm.. really quick before you leave, uhm.. can you tell me like a little bit about what the landlord’s like here?"
+5, 00:01:21," Uhm.. he’s okay. I mean, he’s uh.. sometimes, he’s a little late, you know, fixing up things around the apartment building, but uhm.. for the most part, you know, he’s uhm.. really easy to get along with and, you know...", Okay. That’s good.
+6, 00:01:40," Yeah. So, it was nice meeting you."," Uhm.. hold on really quick. Uh.. can you tell me a little bit about like the residents? Are they friendly, the ones that like live in this building?"
+7, 00:01:54,wer: Uhm.. is this building like quiet?, Okay. That’s awesome. That’s nice to hear.
+8, 00:02:23," Yeah. Yeah. It’s pretty quiet. Uhm.. uh.. but you know, there’s still a lot to do around Dallas. You know, there’s- there’s a lot of uh.. entertainment, you know, around Dallas, you know. There’s the Texas Rangers games, you know, the Dallas Cowboys games and the uhm.. you know, you got Six Flags here and Lone Star Park and I mean, there’s like a ton of uh.. different", 
+9, 00:02:55, , Yeah. That sounds like a lot of fun.
+10, 00:03:03, Nice meeting you.," Okay. Well, I still have to unpack and stuff. Uhm.. but it was really nice meeting you."

@@ -1,0 +1,17 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:14,wer: Good.  How are you?  Hm., Good.  Hm.
+1, 00:00:22,wer: My name’s Interviewer., Cool.
+2, 00:00:30,wer: Mm-hm., Hello.
+3, 00:00:33,wer: To your door?," Oh, I’m sorry.  Huh."
+4, 00:00:43,wer: Before you go--," --actually, could I ask you a question?"
+5, 00:00:57,wer: That’s good.  Good to know., Okay.
+6, 00:01:13,wer: Okay., It is?
+7, 00:01:31,wer: Have you lived here very long?, Good.
+8, 00:01:48,wer: Hm., Couple years?
+9, 00:02:01,wer: Pretty what?," Oh, okay."
+10, 00:02:08,wer: Uh.. so I hafta go to work in the morning.  Do you know where the bus stop is?, All right.
+11, 00:02:27," Ah, yeah.  The bus stop’s couple of blocks.  Like, couple of blocks, two blocks up the street.", Okay.
+12, 00:02:33,"wer: Oh, good.  That’s good.", All right.
+13, 00:02:44,"wer: Well, it was really nice meeting you.", <laughs> Okay.  Cool.
+14, 00:02:50,"wer: Thank you for coming over, mm, to meet me."," Okay.  Hopefully I’ll see ya around, hm."
+15, 00:02:55, Bye-bye., All right.  Bye-bye.  Hm.

@@ -1,0 +1,18 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:11,wer: I’m doing well. How are you?, Hi.
+1, 00:00:15," Yes, uh.. I’m fine. I’m fine. I don’t-- I noticed you were out here and your door was open. Uh.. I just noticed that was a little unusual. I don’t mean to be uhm.. overly inquisitive, but are you uh.. moving in here?", I am. I am. I’m just moving in today.
+2, 00:00:35," Well, hey, I wanted to welcome you to the neighborhood. My name is Patient, by the way."," Nice to meet you, Patient. My name is Interviewer."
+3, 00:00:43," Well, it’s good to have you as a part of this neighborhood. This neighborhood is actually a- a good neighborhood. It’s pretty safe and uh.. we have uh.. a lot of things to do around here.", That’s great. That’s really good to hear.
+4, 00:00:56, It’s uhm.. it’s a good uhm.. it’s a good place to live. What made you choose these apartment complexes?," Yeah. Uhm.. you know, I just wanted to be closer to work."
+5, 00:01:06," Oh, okay. Where do you work at?", I work at the University of Texas at Dallas.
+6, 00:01:11," Oh, wow. That’s great. Yeah. That’s uhm.. that’s a highly accredited university. I bet uhm.. I bet you have a good uh.. good- good rapport with a lot of the students. Are you a student out there or do you work out there?"," Uh.. yeah, I’m not a student anymore. I actually just work there now."
+7, 00:01:30," Okay. Oh, well, good to meet you, Interviewer. Uhm.. you know, if there’s anything you ever need, well, I’ll be right across the hall here and just come over and uh.. you know, knock on my door and I’ll be available. So, uhm.. we’ll look forward to seeing you later on in the week and later on throughout the duration of your tenure here uh.. as tenant, whatever. I’m sorry."," Yeah. No, uh.. thank you so much for coming by. Really quick, before you go, uhm.. could you tell me a little bit about like the landlord? What are they like here?"
+8, 00:02:10," Yeah. The landlord, uh.. pretty much, it’s good management.", Yeah.
+9, 00:02:14," Uh.. the management is like uhm.. pretty- pretty responsive to your needs. All you have to do if you need anything done in your apartment as far as work goes, just call uhm.. the line that they have given you. Did they give you the number for work and maintenance line?", Yeah. They did. They did.
+10, 00:02:35,wer: Yeah., Okay. That’s great.
+11, 00:02:46," Pretty much they’re responsive and if you need to get some leeway on the rent, they’re usually pretty understanding about that too."," Oh, wow. That’s great. That’s really nice."
+12, 00:02:56, If you ever get locked out of your apartment like I did one time. I- I locked the key in my apartment.," Oh, no."
+13, 00:03:01,wer: I still need to like unpack and stuff. But it was really nice to meet you.," Cool. That’s awesome. That’s good to know. All right. Well, uhm.. thank you so much for- for coming by."
+14, 00:03:19," Well, if you need any help unpacking or you got it covered?"," Yeah. If you want to help, that would be awesome."
+15, 00:03:24, Sure. Sure. You want me to-- just show me what to do and I’ll be- be glad to take care of it.," Cool. Well, thank you so much. I appreciate it."
+16, 00:03:33," Okay. You have a good day, Interviewer.", You too.

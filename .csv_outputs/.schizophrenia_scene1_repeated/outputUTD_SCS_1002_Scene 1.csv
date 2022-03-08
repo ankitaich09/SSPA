@@ -1,0 +1,17 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi, uhm.. were you coming by to- to talk to me?"
+1, 00:00:28,wer: I’m doing well. How are you?, Hi.
+2, 00:00:37,"wer: Uhm.. really quick before you go, uhm.. are the residents in this building friendly?", Nice to see you too.
+3, 00:00:52, Yeah., Yeah? Cool. That’s good.
+4, 00:01:02, It was nice meeting you.," Yeah. It’s nice to meet you too. Uhm.. really quick before you go, I have a couple questions like about the neighborhood. Uhm.. do you think it’s like safe to walk in this neighborhood at night?"
+5, 00:01:13,"wer: Oh, okay."," Oh, it’s not."
+6, 00:01:26,wer: Okay. That’s not good. Wow. Packs of dogs. Hmm., Oh...
+7, 00:01:37, Got the big pack and then you got the little chihuahua pack.," Oh, wow. Hmm. Okay. That’s kinda scary."
+8, 00:01:48, Yeah.," Uhm.. can you tell me a little bit about the landlord? Like, what are they like?"
+9, 00:02:02," Ah, they- they okay. They good. They’re good people.", Okay.
+10, 00:02:08," If you have any problems or anything, just call them.", Okay. Yeah.
+11, 00:02:14, Because our-- uhm.. our manager-- we don’t have an on-site manager. Our manager’s uhm.. out of San Antonio.," Oh, okay."
+12, 00:02:24, He usually come up like twice a year., Okay. Hmm.
+13, 00:02:39,wer: Yeah. Uhm...," It’s nice to talk to you too. Uhm.. before you go, uhm.. so, like how do you like living here and how long have you lived here?"
+14, 00:02:51, Uhm.. I like it pretty good. I’ve been here uhm.. nine years.," Oh, okay. Yeah. So, but you like it? You like living here?"
+15, 00:03:01, Okay.," Okay. Cool. All right. Well, uhm.. thank you so much for- for stopping by. I still have to like unpack and stuff. So, I’ll uh.. I’ll talk to you later, okay?"

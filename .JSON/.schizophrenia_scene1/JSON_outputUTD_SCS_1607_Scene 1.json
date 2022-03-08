@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 171.0,
+        "mean_time": 17.1,
+        "positive_score": 0.30067567567567566,
+        "negative_score": 0.19256756756756757,
+        "subjective_score": 0.15677966101694915,
+        "top_emotions": [
+            [
+                "positive",
+                0.24
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 4,
+            "positive": 6,
+            "sadness": 1,
+            "joy": 4,
+            "negative": 2,
+            "trust": 4,
+            "surprise": 3,
+            "anger": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.6218487394957983,
+        "cttr": 4.796707554286017,
+        "diversity": 51.2843559296351,
+        "herdan": 0.9005971700475844,
+        "summer": 0.9330690527808388,
+        "dugast": 48.078344403266115,
+        "maas": 0.02079938509554973
+    },
+    "utterance_features": {
+        "num_utterances": 11,
+        "total_words": 127,
+        "total_unique_words": 47,
+        "avg_word_per_utter": 11.545454545454545
+    },
+    "unigrams": {
+        "yeah": 6,
+        "nice": 3,
+        "like": 3,
+        "living": 3,
+        "good": 2,
+        "bother": 2,
+        "meet": 2,
+        "uhm": 2,
+        "one": 2,
+        "self": 1
+    },
+    "bigrams": {
+        "like living": 3,
+        "living like": 2,
+        "coming meet": 1,
+        "yeah dont": 1,
+        "yeah one": 1,
+        "one really": 1,
+        "really bother": 1,
+        "bother unless": 1,
+        "unless bother": 1,
+        "bother everybody": 1
+    },
+    "trigrams": {
+        "like living like": 2,
+        "living like living": 2,
+        "coming meet oh": 1,
+        "self yeah dont": 1,
+        "uh yeah one": 1,
+        "yeah one really": 1,
+        "one really bother": 1,
+        "really bother unless": 1,
+        "bother unless bother": 1,
+        "unless bother everybody": 1
+    }
+}

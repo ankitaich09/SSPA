@@ -169,14 +169,13 @@ def makeJSON(filepath_to_initial_data, label_of_health):
     with open(name, 'w') as jf:
         json.dump(json_object, jf, indent=4)
 
-def runRemote(path):
-    makeJSON(path)
+
 
 
 def main():
     filepath = input('Enter the path to the CSV file: ')
-    label_of_health = input('Enter provided level of health: ')
-    makeJSON(filepath)
+    label_of_health = 'schizophrenia'
+    makeJSON(filepath, label_of_health)
 
 
 

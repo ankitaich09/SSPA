@@ -1,0 +1,15 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:16,  Are you my new neighbor?,  Yes!
+1, 00:00:19,  Uh.. do you have a lot of boxes to unpack?,"  A couple, yes."
+2, 00:00:25,  Uhm.. maybe I can help you move some stuff from the van to your apartment.,  That'd be nice.
+3, 00:00:31,"  Okay, great. Uhm.. uhm.. how do you like the new building?",  It's nice!
+4, 00:00:39,"  Yeah, I- I think it is nice, here. Uhm.. uhm.. I'll go get a box from the tra-- from the van. Okay, I'll talk to you in a bit.","  Before you go, how-- what's the landlord like?"
+5, 00:00:57,"  Oh, he's very nice. If you have a problem with your apartment, he fixes it very quickly. So, yeah, he's a very nice guy. Uhm.. yeah, well, I'll go get a box from the van.",  Mm hm. Uhm.. how do you find living here?
+6, 00:01:19,"  Uhm.. it's good. The people are very nice. Uhm.. they have a nice pool. Uhm.. the-- there's a coffee shop right across the street, which is convenient. Uhm.. yeah, it's a nice apartment complex.",  Okay.
+7, 00:01:38,"  So, so. And anyway, I'll talk to you in a bit. I'll--",  I'm new to the area. Can you tell me about the neighborhood?
+8, 00:01:49,"  Oh, uhm.. there are lot of stores within walking distance, so that's nice. It's kind of a mixed-use area, as you know. So, there's not a lot of crime. There aren't many- there aren't many homeless people. It's a pretty nice part of town. So, it's good for walking places. So, right. Uhm.. are you from", 
+9, 00:02:20, ,  I'm from near Dallas.
+10, 00:02:25,"  Oh, okay, cool. Uhm.. what do you do?",  I'm a Research Assistant.
+11, 00:02:32,"  Oh, you're a Research Assistant. Cool! Uhm.. anyway, yeah. So, uhm.. my- my name's Patient, by the way.",  Oh! Nice to meet you.
+12, 00:02:46,  Nice to meet you. Uhm.. hm.,"  Well, I still have a few things to unpack, but it was very nice to meet you."
+13, 00:03:04,"  Yeah, nice to meet you.",  All right. Have a good day.

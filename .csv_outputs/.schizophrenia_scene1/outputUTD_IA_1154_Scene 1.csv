@@ -1,0 +1,16 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:17, Hi.  My name is Patient.  What’s your name?, Hi.  My name is Interviewer.
+1, 00:00:22," Interviewer, you’re my new neighbor.  When’d you move h-- ge-- are you planning on staying long?"," Uhm.. I think so.  I’m not really sure what my next plan is, but yeah, I just moved in today."
+2, 00:00:34,"wer: Yes, I am.", Mm-hm.
+3, 00:00:40," Uhm.. well, if you need anything, uh.. I live right across the way here.  You- you can knock on my door.  If you have any packages or anything like that you need watched over or you get deliveries, I’ll put ‘em in my apartment for ya so they don’t get stolen."," Okay.  Yeah, that’s very nice.  Thanks."
+4, 00:00:57," Okay.  Well, I’ll see ya later."," Oh, well, before you go, I’m new to the area.  Can you maybe tell me a little bit about this neighborhood?"
+5, 00:01:06," Oh, it’s a good neighborhood.  It’s nice and quiet.  Uhm.. the- the- the streets are pretty busy sometimes durin’ rush hour.", Mm.
+6, 00:01:15, But it’s a quiet neighborhood.  There’s a Fox station on the corner if you saw when you drove in.  It’s nice for convenience store.  You can get tacos or stuff there., Mm-hm.
+7, 00:01:24,wer: Uhm.. maybe could you tell me what the landlord here is like?," Oh, mm-hm."
+8, 00:01:44, What the landlord is like?, Yeah.
+9, 00:01:47," Well, uhm.. they uh.. they’re pretty strict.  They- they keep up with the apartments.  They do all the maintenance.  It’s- it’s good that they do the maintenance around here.  Uhm.. they just had the old apartment complex uh.. r- resided and put new windows in, so they have ener- energy efficient windows.", Hm.
+10, 00:02:12,wer: Okay.  Got it.  Thanks for the information., Mm-hm.
+11, 00:02:31," Okay.  Well, you have a good day."," Well, actually, real quick before you go, uhm.. can you tell me, is it, like, safe to walk in this neighborhood in the evening?"
+12, 00:02:41,"wer: Uhm.. yeah, I think that’s it.  Uh.. thanks for all the information again.  It was nice to meet you.", Mm-hm.  Okay.  Cool.
+13, 00:03:09, Do you n- do you- do you need any help movin’ anything in?  Is everything moved in?, I still have a little bit to unpack.  Uhm.. I think I’m good now though.  Thanks for the offer.
+14, 00:03:19," Okay.  You’re welcome.  Listen, if you need anything, knock on my door.  I’ll talk to you later.", All right.  Bye-bye.

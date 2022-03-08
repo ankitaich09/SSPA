@@ -1,0 +1,14 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:14,  Well hello.  How are you?  My name's Patient.,  Hi Patient.  It's nice to meet you.
+1, 00:00:21,"  I- I see I have a new neighbor.  I seen that I had a new neighbor when I came in from work today, so I started-- decided to come over and meet you.","  Ah, thank you.  That's really nice."
+2, 00:00:34,  How are you doing?  H- how do you like the area so far?,"  I'm doing all right.  Uhm.. I don't know that much about the area, but it seems nice."
+3, 00:00:44,  It's pretty-- it- it's okay.  Uhm.. what made you move here?,  Uh.. moving closer to work.
+4, 00:00:53,  Awesome.  Awesome.  What type of work do you do?,"  Uhm.. I work at UT Dallas, the University."
+5, 00:01:04,"  Awesome.  Awesome.  Okay.  Well I don't work, I'm disabled right now as of the moment.  Uhm.. I'm not able to find a job right now, so-- that will not, you know, have me liable on their insurance.  So I'm- I'm disabled and I just sit around and just- really just care of the neighborhood actually, just community lookout actually.","  Okay, yeah."
+6, 00:01:33,"  So if you need anything just come on over, I'm here all the time sweetheart.","  All right, thank you.  That's very nice."
+7, 00:01:42,  You're very welcome.  It was nice to meet you again sweetheart.  I'll be seeing you soon.,"  Yeah, it's nice to meet you too.  Uhm.. before you go though, can you tell me a little bit about what the landlord here is like?"
+8, 00:01:58,"  The landlord?  Well, uh.. she's okay.  Uhm.. I didn't know that my neighbor and my other neighbors were moving out and I don't even know why they moved, but she- she- she's okay, she seems to be a very nice lady.","  Okay, cool."
+9, 00:02:15,wer:  Mm-hmm.,  Gotcha.  Well thanks for the information.
+10, 00:02:32,"  You're very welcome sweetheart,  Yeah, it's very nice to meet you and I-- welcome to the neighborhood.",  Thanks.  Uhm.. real quick though before you go uh.. <phone ringing> uhm.. have you lived here long?
+11, 00:02:47,"  Well I lived here quite a bit.  <coughs>  I've lived here probably maybe five years at the most and it- it's been okay.  I was in a rough neighborhood, so I moved over to this neighborhood and it's- it's very nice over here, the neighbors are all respectful and we all, you know, we talk around here, so it's really-- it's a neighborhood.","  Okay, sounds great.  Well I have to get back to unpacking, but it was really nice to meet you."
+12, 00:03:19,  Bye-bye.,"  All right, sounds good.  Bye-bye."

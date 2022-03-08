@@ -1,0 +1,11 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:10, Hi. My name is Patient. What’s your name?, Hi. My name’s Interviewer.
+1, 00:00:15,"wer: Uhm.. so, I’m actually moving from kind of outside of Dallas.", Thank you so much. It’s nice of you to- to come by.
+2, 00:00:35," Oh, okay. Dallas-- I’ve been in Dallas. I love Dallas. It’s really beautiful over there. Well, I hope you enjoy it and I hope to see you around."," Yeah. Awesome. Uhm.. really quick before you go, uh.. I’m like brand new to this part of town. Could you tell me a little bit about the neighborhood here?"
+3, 00:00:55," Okay. Newman is pretty quiet and chill. I mean, if you want to walk around and find nice things to do, Downtown Houston’s really lit. Uhm.. everyone here is super friendly. Uhm.. you know, we usually get together. Everyone stays to-- you know, if you have time, we can go down uhm.. in the loose area and just meet new people.", Yeah. That sounds really fun.
+4, 00:01:26,"wer: Oh, sorry. What was that?"," Oh, sorry. Uhm.. really quick before you leave, uhm.. could you tell me a little bit about the landlord? Like, what’s the landlord like here?"
+5, 00:01:51," The landlord is-- if you weren’t-- it- it depends on his mood, but most of the time, he’s really chill. I just wouldn’t, you know, get on his bad side.", Mm-hmm. Yeah. That makes sense.
+6, 00:02:07," Yeah. He’s not really big on pardons. So, you know...", Okay. Yeah. That- that’s good to keep in mind.
+7, 00:02:21," Yeah. Other than that, this place is, you know, a really uhm.. nice area. Everyone minds their own business and everyone’s really friendly. I’m sure you’re gonna enjoy it.", Awesome. That sounds great.
+8, 00:02:35," Yep. Well, I hope you have a nice day. I will go inside.", 
+9, 00:02:56, , You too. Bye.

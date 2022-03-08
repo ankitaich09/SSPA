@@ -1,0 +1,19 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:08," Hello, new neighbor. What’s your name?", Interviewer.
+1, 00:00:12," Hi, Interviewer. Nice to meet you. I’m Patient.", Nice to meet you.
+2, 00:00:18, Are you just- just now moving in?, Yep.
+3, 00:00:26, Uhm.. where’d you live before this?, I moved from uhm.. North Carolina.
+4, 00:00:34, Really? What were you doing up there?, Going to school.
+5, 00:00:38, Wow. What’d you study?, Psychology.
+6, 00:00:41," Interesting. Uhm.. well, it’s nice to have a new neighbor. Uh.. glad I met you. My mind just went blank. Uhm...", Uhm.. how do you find living here?
+7, 00:01:04, I like it. Most of the neighbors are fairly quiet and they keep to themselves. It’s- it’s a good neighborhood. Uhm.. there’s a few good schools in the area if you have kids. Do you have kids?," Uh.. no, I don’t."
+8, 00:01:23, Uhm... are you still studying psychology here?, I work full-time.
+9, 00:01:32, Wow. What- what exactly are you doing?, I’m a research assistant.
+10, 00:01:36, Ah. Anything I might know about?, Uhm.. I don't know. It’s psychology-related.
+11, 00:01:44," Ah. Well, they say I’m crazy.", Interesting.
+12, 00:01:50," <laughs> Well, welcome to the building. It’s nice to meet you.", It’s nice to meet you too. Uhm.. are the residents in this building friendly?
+13, 00:02:05," Yes, they are. A lot of them are actually older. So, you know, you don’t have people partying all the time or making noise.", Good. Uhm... What’s the landlord like?
+14, 00:02:31," The landlord is a very nice person. He’ll work with you if you run into problems with paying your rent. Uhm.. it’s all bills paid. So, you don’t have to worry about that. Uhm.. but he’s a very nice guy."," Well, that’s good."
+15, 00:02:56, I keep expecting it to end. Uhm.. are you single?, Uhm.. no.
+16, 00:03:09," Boyfriend, husband?"," Yeah, I have a boyfriend. Uhm.. but I’m gonna go unpack some more. So, it was nice meeting you."
+17, 00:03:17, It was great meeting you as well. Thank you., 

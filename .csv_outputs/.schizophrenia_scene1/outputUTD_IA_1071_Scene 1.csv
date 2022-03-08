@@ -1,0 +1,17 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:10,  So uh.. I see you're the new neighbor.,"  Yeah, I'm just moving in right now."
+1, 00:00:14,"  Well, that's good.  That's great to hear.  Uhm.. well, my name is Patient.  What's your ha-- what's your name?","  Oh, I'm Interviewer.  It's nice to meet you."
+2, 00:00:23,"  Okay.  Well, uhm.. welcome to the neighborhood.",  Thank you. I'm happy to be here.
+3, 00:00:30,"  Well, I'll be-- I'll be heading out, so I'll talk to you later.","  Uh.. actually, before you go, uh.. I'm pretty new to the area.  Could you tell me a little bit about the neighborhood?"
+4, 00:00:40,"  Well, the neighborhood uh.. is uh.. here in old east Dallas, this is a-- that- the better part of the-- of the area, as quiet neighborhood.  Not much goes on in the round uh.. around these areas.  Uh.. we have block parties every now and then.",  Okay.  Sounds pretty nice.  Have you lived here long?
+5, 00:01:04,"  I've lived here about seven, eight years.","  Okay, that's a pretty long time.  Uh.. and would you say the people in this neighborhood are pretty friendly?"
+6, 00:01:15,"  Uh.. yeah, we're all friendly, we all know uh.. we all know one another here in this neighborhood.",  Okay.
+7, 00:01:20,"  Yes.  There's uh.. some clubs down uh.... clubs down the-- on Greenwood Avenue, and there's uh.. taquerias down there.  There's a McDonald's and there's a- a-- aw shucks, don't know if you're into uh.. horseshoes and _______ 00:01:41.  There's a place like that.","  Okay, that all sounds pretty good.  Everything you want's pretty nearby then?"
+8, 00:01:46,  Oh yeah.  Walking distance.,"  Okay, great.  Uh.. is it safe to walk around the neighborhood that you've--?"
+9, 00:01:52,wer:  Uh.. and I have to get to work in the morning.  Uhm.. do you know where I can catch the bus?,  Okay.  Uhm.. so would you say you've liked living here?
+10, 00:02:10,"  There's a-- yeah, buses are just on the other side of the street.  There's- there's one on Ross and there's one on- on the street behind it.  I can't think of the name of the street, but there's a couple buses get-- are frequent uh.. commuters.",  Okay.  Uh.. that'll probably get me downtown?
+11, 00:02:28,  Yeah.,  Awesome.  Uhm.. and is it usually pretty quiet around here?
+12, 00:02:34,"  Somewhat, except for when it had-- and uh.. when it gets dark, it's kinda busy.","  Okay.  Uhm.. well, thank you.  Uhm.. it was nice meeting you.  I still have to unpack some of my stuff and uhm.. get everything set up, so I'm gonna be going--"
+13, 00:02:49,"  All right, well--",  But--
+14, 00:02:50,"wer:  Yeah, I'm Interviewer.  Uhm..","  So if I see you around, I'll say hello."
+15, 00:02:55,  All right-y.,"  All right, thanks, Patient."

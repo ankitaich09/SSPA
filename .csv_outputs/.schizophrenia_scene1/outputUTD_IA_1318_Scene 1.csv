@@ -1,0 +1,14 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:08," Hi, how are you?  I’m Patient.  I’m your new neigh-- I’m your neighbor."," Hi, Patient.  It’s nice to meet you.  I’m Interviewer."
+1, 00:00:14, Uh.. looks like you’ve been moving in all day., That’s correct.
+2, 00:00:18, Uh.. so w- where are you coming from?, Uhm.. I’m comin’ from outside of Pittsburgh.
+3, 00:00:23," Wow, that’s a long ways away.  Are you moving here for your work?"," I am, yes."
+4, 00:00:30, What do you do?, Uh.. I’m a research assistant at UT Dallas.
+5, 00:00:34," Wow, that’s interesting.  Well, welcome to the neighborhood.  Uhm.. it’s good to meet you, Interviewer."," Uh.. thank you.  It’s nice to meet you.  Uhm.. well, I’m actually new to the area.  Uh.. could you tell me a little bit about your neighborhood?"
+6, 00:00:49," Uh.. yeah.  We have a lotta fast food restaurants in the area.  We have a dispensary across the street, and uh.. for medical marijuana, if you like to do that.  I don’t know, but I do.", Okay.
+7, 00:01:07," And uh.. also, we have a Laundromat and a movie theater close by.  Is there anything you’re looking for that I could help you with?"," Uhm.. not specifically.  Actually, uhm.. well, I do hafta go to work in the morning, uhm.. so could you tell me where the nearest bus station is?"
+8, 00:01:28," Well, there’s a bus stop right across the street on Harry Hines and uh.. w-- Northwest Highway.  Or there’s a bus station at Bachman just down the street.  All ya hafta do is go around the corner and head straight, uh.. head south on Community and it’ll take you directly to Bachman.", Okay.  Sounds great.
+9, 00:01:54," All right.  Well, good luck, and it was nice to meet you."," It was nice meet you too.  Uh.. before you go, actually, uhm.. do you think that the residents in this building are friendly?"
+10, 00:02:03," Oh, uh.. some of ‘em are.  Some of ‘em aren’t.  I don’t really get to know too many people around here, but uh.. there’s one lady, Ernestine, who’s really nice.  Uh.. she really helps out with everybody in the neighborhood.  If uh.. you have any problems you can go to her and she’s a real good friend to have.  Uh.. there’s other people around here that just pop in and out and go to work like most everybody else, but there’s a", 
+11, 00:02:36, ," Okay.  I’m glad to hear that.  Uhm.. well, I hafta keep on packing, uhm.. so I’ll let ya go, but it was really nice meeting you."
+12, 00:02:53, Nice meeting you too., Alrighty.  Have a good one.

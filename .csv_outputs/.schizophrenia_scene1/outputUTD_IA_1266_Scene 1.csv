@@ -1,0 +1,22 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," This is 1266 on 3/6/2019, and this is Scene 1."
+1, 00:00:13," Anything?  Oh, uhm.. would you-- are you a new neighbor here in this apartment complex?"," Uh.. yeah, I just am moving in now actually."
+2, 00:00:34," Oh cool, what's your name?"," My name's Interviewer, how about you?"
+3, 00:00:38, Uh.. Patient., It's nice to meet you.
+4, 00:00:40, Nice to meet you.  So where have-- where did you move from?, Uh.. I moved from Pittsburgh in Pennsylvania.
+5, 00:00:47," Oh okay, what made you move over here?", Uhm.. I got a job at U.T. Dallas.
+6, 00:00:52," Okay, cool.  Cool, well this is a good neighborhood so I'm sure you'll like it.  If you have any questions or anything, let me know.  I could help you out."," Okay, thank you.  Uh.. that's good to hear."
+7, 00:01:05, Good., Uh.. so have you lived here long?
+8, 00:01:13," Uhm.. yes, I've lived here two years.", Okay.
+9, 00:01:19, So I- I like it.  It's- it's uhm.. this place has been good to me., That's good.
+10, 00:01:25, I'm sure you'll like it.," I hope so, yeah."
+11, 00:01:29, So has it taken you long to move in or unpack?," Uh.. yeah, I've been unpacking most of the day.  Uhm.. so it's been a little while but it's not too bad."
+12, 00:01:38," That's good.  Well, I uh.. I hope you uhm.. enjoy living here and...", Thank you.
+13, 00:01:50, Welcome to the neighborhood.," Thank you.  Uh.. before you go, uh.. I'm pretty new to the area in general.  Uh.. so could you tell me a little bit about what's around here?"
+14, 00:02:00," Uhm.. they've got gas stations and food places around the corner, up the street, and uhm.. they've got a storage place, too.  If you need to store your stuff, they've got a storage place."," Okay, that's good.  Uh.. would you say it's uh.. safe to walk in the neighborhood during the evening?"
+15, 00:02:23," Yes.  Yes, I would say so.  They've got a dog park, too.", Oh really?
+16, 00:02:27," Uh-huh, so if you have any pets."," Okay, yeah, I may get one.  Uh.. and what's the landlord like?"
+17, 00:02:40, They're nice.  They're nice.  I haven't had any problems yet., That's good.  Uhm.. any issues with maintenance or anything?
+18, 00:02:47," Nope, nope, they come right away."," Well, that's good to hear."
+19, 00:02:50," Yeah, you can email them or call them, so."," Okay.  Uhm.. well I'm going to keep on unpacking, uh.. but it was nice to meet you."
+20, 00:02:58," Yes, it's nice to meet you."," Alrighty, have a good one."

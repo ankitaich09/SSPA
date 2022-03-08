@@ -1,0 +1,18 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:00, Okay. Hi. Uh.. Hi. My name is Patient.  I’m your new neighbor.,": Hi, Patient.  Nice to meet you.  My name is Interviewer:."
+1, 00:00:23,wer:: I’m liking it so far.,: I moved from Dallas.
+2, 00:00:33," Oh, okay.  That’s cool.  Yeah.  I’ve been here for 15 years.  So I pretty much know San Diego.",: Wow. That’s a long time.
+3, 00:00:43, Yeah. Okay. Uhm.. So let me know if you need any help with anything.,": Uhm.. Before you go uhm.. since you know the area so much, could you tell me a little bit about the neighborhood?"
+4, 00:00:57, Uh.. It’s a nice neighborhood. Uh..  Quiet. Uhm..  It’s not too noisy.  You’ll like it.  The beach is uh.. not too far.,: Oh that’s great to hear.
+5, 00:01:08," Yeah. And, yeah, I think you’ll like it.  It’s nice.",: Hmm. That’s exciting.
+6, 00:01:17," Yeah.  There’s a lot to do here in San Diego. Yeah. Uh.. So, yeah, if you need any help just let me know. I’ll give you my number.",: Uh..  Have you lived here long?
+7, 00:01:31,"wer:: Oh, okay.  That’s--okay.",: How do you find living here?
+8, 00:01:44, Uhm..  I like it.  No problem. Uhm..  I don’t have any problems or anything.  Nobody bothers me.  Yeah. . I think you’ll like it.  It’s a nice area.,: Okay.
+9, 00:02:01," And yeah, that’s pretty much it.",: What’s the landlord like?
+10, 00:02:06, The landlord is really nice.  If you’re late on your rent he’ll help you out. Uh.. If you take like a couple of days he’ll let-- he won’t give you a late fee.,: That’s always good to hear.
+11, 00:02:19," Yeah, he’s nice.  And, yeah, you’ll- you’ll like the people around you.  They work a lot.  A lot of them work.  So no problems.",: Is it safe to walk in this neighborhood at night?
+12, 00:02:37," Uh.. Yes, it is.  I’ve never had any complaints.",: Okay. That’s always good here.
+13, 00:02:44, Yeah. That’s cool.,: Are the residents in this building friendly?
+14, 00:02:57,wer:: That’s always nice to hear.,: Okay.
+15, 00:03:02, Yeah.,": Well, it was nice meeting you."
+16, 00:03:07," Nice meeting you, too. Thank you.", 

@@ -1,0 +1,16 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:00,"wer:This is subject 1039. The date is January 8, 2019, and this is scene one.",If you could put your phone away.
+1, 00:00:16, Okay. Okay.,Hm?
+2, 00:00:29,wer:I’m doing well.,Hello.
+3, 00:00:35,wer:Yes.,Mmhmm.
+4, 00:00:42,wer:Thank you.,Mmhmm.
+5, 00:00:50," So, how do you like it so far, you know, the apartment? The new apartment. How, how do you like it so far?",It’s nice.
+6, 00:00:56," Okay, okay, okay, okay, okay. So you, so you think, think it will be good for you? Benefit for you?","I think so, yeah."
+7, 00:01:06," Okay, okay, okay. Yeah, that’s, you know, it’s nice, peaceful, quiet, you know. People look out for each other, one another if we can.",Mmhmm.
+8, 00:01:18," Yeah, yeah, yeah, yeah, yeah, yeah, yep, yep, yep. So that’s good. So you shouldn’t, you, you won’t be disappointed. You will like it, you know. Yeah, yeah.",That’s good.
+9, 00:01:32," Yeah, so <inaudible 00:01:33>, yeah, yeah.",Mmhmm.
+10, 00:01:36," Okay. So, nice meeting you. And, uhm.., so enjoy the new, the new, uh.., the new apartment. Okay. Oh, so, uhm.. enjoy and, once again, nice knowing you, new neighbor.",What’s the landlord like?
+11, 00:02:05," She’s okay. Fair, you know.",Okay.
+12, 00:02:09," Yeah, she’s fair, yeah. She okay. Yeah, yeah. So, she’s real fair and decent, you know, on the, you know, when you need something done. Yeah. Just tell her ahead of time, you know. Mmhmm, yeah. It’s a, it’s, that’s as I can say on the landlord. Yeah. Over in these quarters. You know?",So I'm new to the area. Can you tell me about the neighborhood?
+13, 00:02:49,wer:Thanks.,Okay.
+14, 00:03:10,wer:Thank you.,All right.

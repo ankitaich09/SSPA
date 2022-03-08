@@ -1,0 +1,20 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:17,"wer: Uh.. yeah, I just moved in.", Uh.. I’m Interviewer.
+1, 00:00:25, I’m Pa-Patient., Uh.. it’s nice to meet you.
+2, 00:00:30," Nice to meet you, too. Did you, uhm.. unpack everything?"," Uh.. I’m still working on it. I have a lot to unpack, so…"
+3, 00:00:37,wer: Uh.. I’m new to the area. Uh.. could you tell me a little bit about the neighborhood?," Okay, thank you."
+4, 00:00:48," Uhm.. it’s quiet. There’s places to eat around here and, and nice schools. And I think that’s about it.", Okay. That sounds nice.
+5, 00:01:02, All right. See you around.," Uh.. actually, before you go, uhm.. how do you find living here? Do you like it?"
+6, 00:01:09," Yes, I, it’s quiet.", Okay. Uhm.. and what do you like to do around here?
+7, 00:01:16, Uhm.. I usually stay home., Okay. Uhm.. would you say that the residents around here are pretty friendly?
+8, 00:01:25," Yes, they are.", Okay. Uhm.. and have you lived here long?
+9, 00:01:34,wer: Uhm.. would you say it’s safe to walk around the neighborhood in the evening?, Okay. So you’ve been here for a pretty long time.
+10, 00:01:45," Yes, it is."," Okay. Uhm.. and you said it’s pretty quiet around here, right?"
+11, 00:01:55, Yes., Does anyone ever cause a ruckus at all?
+12, 00:01:58, No., Okay. Uhm.. and what’s the landlord like here?
+13, 00:02:06, Uhm.. they’re good people., Okay. That’s good. Uhm.. and I have to go to work in the morning. Uhm.. do you know where I could catch the bus downtown?
+14, 00:02:18, No., No? Okay. The nearest bus stop at all?
+15, 00:02:23, On the corner of the house., It’s at the corner?
+16, 00:02:25," Down the block, yes.", Okay. Uhm.. is it pretty easy to find my way there?
+17, 00:02:29, Yes. You will see the stop sign.," Okay, cool. Uhm.. well, I still have to unpack and, uhm.. get everything ready, so I’m gonna get going. But it was really nice to meet you."
+18, 00:02:40, Nice to meet you. See you around., See you.

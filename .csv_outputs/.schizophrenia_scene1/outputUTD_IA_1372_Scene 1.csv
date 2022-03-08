@@ -1,0 +1,12 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:13,wer: Thank you., I’m doing good.  How are you?
+1, 00:00:27, Where’d you move from?," Oh, just the other side of town."
+2, 00:00:33, Okay.  So it wasn’t- so it wasn’t a far move foe you then?," Yeah, no, not too far."
+3, 00:00:43," Well, that’s good.  Well, would you like to have dinner with me and my family tomorrow night just to get you uh.. introduced to the neighborhood?"," Yeah, that’d be really nice.  Thank you."
+4, 00:00:58,"wer: Well, actually, be-- sorry.  Before you go real quick, uhm.. I’m kinda new to this area.  Can you tell me a little bit about the neighborhood?", Okay.  Thanks.  I will.
+5, 00:01:23, Uh.. sure.  It’s a nice neighborhood.  It’s- it’s pretty safe.  There’s plenty of restaurants around as well.  There’s lotta shopping., Okay.
+6, 00:01:36," Uh.. and uh.. you don’t hafta go very far to get what you need here, around here.", Okay.  That’s nice.
+7, 00:01:53,"wer: Yeah, I hadn’t seen that.", Oh.
+8, 00:02:08,wer: Uhm.. I’m really good with anything.  Uhm.. whatever you cook I’m sure would be great., Maybe can you tell me a little bit about what the landlord here is like?
+9, 00:02:38," Well, they always expect the rent on time, but they’re pretty nice.  They uh.. they uh.. they are pretty prompt with the maintenance, so that helps."," Okay.  All right.  Well, I think I hafta go finish unpacking now, but it was nice to meet you.  I’ll see you around?"
+10, 00:03:14, Bye-bye., Thanks.  Bye.

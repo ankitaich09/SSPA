@@ -1,0 +1,16 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ,"  So, this is Participant 1002. The date is February 19th, 2019. And this is Scene 1."
+1, 00:00:12,"  Hello, how you doin'?",  Good.
+2, 00:00:17,"  Okay, that's _______ 00:00:18 from across the hall. I was seeing you movin' in. What can I do for _______ 00:00:25?","  Nice. Thanks, I'm Interviewer."
+3, 00:00:29,"wer:  Yeah, I have great furniture.",  Good.
+4, 00:00:37,  <laughs> Uh.. it's pretty- pretty quiet over here in this area.,  That's nice.
+5, 00:00:53,  And uh.. it's good to meet you. Are you going to put me on my heel one day?,  <laughs>
+6, 00:01:09,  What were  we talking about?,"  So, what's the landlord like?"
+7, 00:01:14,"  Uh.. he all right. He uh.. long as you ain't late. He all right. But if you late, he goin' charge ya.","  Hm, yeah, that makes sense."
+8, 00:01:40,"  Yeah, I suppo', yep. Do you need any help?","  No, I think I got this."
+9, 00:01:40,"  Okay, well, it's good seeing you. And I'm just right across the hall if you need me.",  Okay.
+10, 00:01:48,"  That's my car down there, so if you can see my car, you know I'm here. And I, so I'll talk to you later!",  Uhm.. is it safe to walk in this neighborhood in the evening?
+11, 00:01:59,"  Mm, yes. Long as you'll be in before dark.","  <laughs> So, have you lived here long?"
+12, 00:02:13,"  Yep, about three year here.",  <laughs> Uhm.. so I still have to go to work in the morning. Do you know where the bus is downtown?
+13, 00:02:40,  Uh.. yes. There's actually a bus stop just right a little bit past the apartments that you can catch and it'll take you straight downtown.,"  All right, well, it was great meeting you!"
+14, 00:03:02,"  Nice meeting you, too. Have a good day!", 

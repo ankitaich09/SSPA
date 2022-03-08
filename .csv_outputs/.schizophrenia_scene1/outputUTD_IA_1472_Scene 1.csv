@@ -1,0 +1,10 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ,"  Hi, are you coming over to meet me, your new neighbor?"
+1, 00:00:27,  Uh..,  Okay.
+2, 00:00:37,wer:  Thank you.  Hi Patient.  I'm Interviewer.  Nice to meet you.,  Good.  How are you?
+3, 00:00:49,"  Nice to meet you too.  Okay, bye.  Have a good day.","  Before you go, actually uhm.. I just moved to the area, do you mind telling me about the neighborhood a little bit?"
+4, 00:01:02,"  Uh.. no I moved here from San Diego, California, don't know much about the neighborhood.  Uhm.. I'll have you lost every day.  I get lost every day, so I'll have you lost every day, so I'm probably not the best person to ask about the neighborhood or directions.","  Okay, I understand, that's okay. Are the people in the neighborhood pretty friendly?"
+5, 00:01:44,"wer:  That's okay, yeah. Uhm.. how about safety, is it safe to walk around here in the evening?",  Okay.
+6, 00:02:24,"  <sighs>  Uhm.. I don't know how safe it is, uhm.. I've been here 12 years and I haven't had any issues, but I would not suggest that you walk in this neighborhood in the evening or the daytime uh.. at all.  Uhm.. there's a lot of loose dogs, stray cats, uh.. this is not the best neighborhood uhm.. So…",  Okay.
+7, 00:03:02,  …I wouldn't- I would suggest you go to a park or walk with a buddy or something.,"  Okay.  No, that's good to know.  Thank you.  I appreciate it.  Uhm.. all right, well it was so nice to meet you.  Uhm.. I've still gotta unpack, I'm sure you have things to do at home, so I'll let you go, but uhm.. thank you for meeting me and…"
+8, 00:03:26,wer:  …hope to see you around.,  All right.  Bye-bye.

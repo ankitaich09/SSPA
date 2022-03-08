@@ -1,0 +1,74 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 202.0,
+        "mean_time": 12.625,
+        "positive_score": 0.37452107279693486,
+        "negative_score": 0.12116858237547892,
+        "subjective_score": 0.16904145077720206,
+        "top_emotions": [
+            [
+                "positive",
+                0.2803738317757009
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 30,
+            "trust": 26,
+            "anticipation": 24,
+            "joy": 17,
+            "surprise": 10
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.41625615763546797,
+        "cttr": 5.93073733360339,
+        "diversity": 45.374469541409994,
+        "herdan": 0.8540787693648079,
+        "summer": 0.9120201414849206,
+        "dugast": 41.16161255943499,
+        "maas": 0.024294480653692992
+    },
+    "utterance_features": {
+        "num_utterances": 17,
+        "total_words": 428,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 25.176470588235293
+    },
+    "unigrams": {
+        "uh": 10,
+        "good": 10,
+        "uhm": 9,
+        "well": 7,
+        "need": 6,
+        "pretty": 6,
+        "neighborhood": 4,
+        "im": 4,
+        "work": 4,
+        "apartment": 4
+    },
+    "bigrams": {
+        "pretty much": 2,
+        "im fine": 2,
+        "well good": 2,
+        "uhm good": 2,
+        "responsive need": 2,
+        "wer im": 1,
+        "done apartment": 1,
+        "like uhm": 1,
+        "uhm pretty": 1,
+        "pretty pretty": 1
+    },
+    "trigrams": {
+        "wer im well": 1,
+        "anything done apartment": 1,
+        "management uh management": 1,
+        "uh management like": 1,
+        "management like uhm": 1,
+        "like uhm pretty": 1,
+        "uhm pretty pretty": 1,
+        "pretty pretty responsive": 1,
+        "pretty responsive need": 1,
+        "responsive need need": 1
+    }
+}

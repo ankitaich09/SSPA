@@ -1,0 +1,74 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 153.0,
+        "mean_time": 10.928571428571429,
+        "positive_score": 0.3620689655172414,
+        "negative_score": 0.15948275862068967,
+        "subjective_score": 0.21323529411764705,
+        "top_emotions": [
+            [
+                "positive",
+                0.25806451612903225
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 8,
+            "anticipation": 6,
+            "joy": 6,
+            "trust": 7,
+            "surprise": 4
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.6869565217391305,
+        "cttr": 5.209105739826717,
+        "diversity": 55.6021630472251,
+        "herdan": 0.9208662493501776,
+        "summer": 0.9470543397801467,
+        "dugast": 59.96091540460678,
+        "maas": 0.016677530575578407
+    },
+    "utterance_features": {
+        "num_utterances": 15,
+        "total_words": 122,
+        "total_unique_words": 43,
+        "avg_word_per_utter": 8.133333333333333
+    },
+    "unigrams": {
+        "uhm": 7,
+        "wer": 5,
+        "good": 4,
+        "okay": 4,
+        "yeah": 3,
+        "pack": 3,
+        "manager": 3,
+        "year": 2,
+        "got": 2,
+        "like": 2
+    },
+    "bigrams": {
+        "wer im": 1,
+        "uhm manager": 1,
+        "uhm san": 1,
+        "manager uhm": 1,
+        "manager manager": 1,
+        "onsite manager": 1,
+        "dont onsite": 1,
+        "manager dont": 1,
+        "call uhm": 1,
+        "im well": 1
+    },
+    "trigrams": {
+        "wer im well": 1,
+        "san antonio usually": 1,
+        "good theyre good": 1,
+        "theyre good people": 1,
+        "good people problem": 1,
+        "people problem anything": 1,
+        "problem anything call": 1,
+        "anything call uhm": 1,
+        "call uhm manager": 1,
+        "uhm manager dont": 1
+    }
+}

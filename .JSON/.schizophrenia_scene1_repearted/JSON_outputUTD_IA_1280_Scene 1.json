@@ -1,0 +1,74 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 161.0,
+        "mean_time": 10.733333333333333,
+        "positive_score": 0.576171875,
+        "negative_score": 0.041015625,
+        "subjective_score": 0.17391304347826086,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.29411764705882354
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 5,
+            "joy": 3,
+            "positive": 3,
+            "surprise": 3,
+            "trust": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.63,
+        "cttr": 4.4547727214752495,
+        "diversity": 30.98014311621482,
+        "herdan": 0.8996702747267907,
+        "summer": 0.9307698044077096,
+        "dugast": 45.90035678307391,
+        "maas": 0.021786323028511998
+    },
+    "utterance_features": {
+        "num_utterances": 16,
+        "total_words": 106,
+        "total_unique_words": 42,
+        "avg_word_per_utter": 6.625
+    },
+    "unigrams": {
+        "wer": 14,
+        "good": 5,
+        "block": 3,
+        "thats": 2,
+        "couple": 2,
+        "stop": 2,
+        "know": 2,
+        "bus": 2,
+        "go": 2,
+        "hm": 2
+    },
+    "bigrams": {
+        "hm wer": 2,
+        "bus stop": 2,
+        "couple block": 2,
+        "thats good": 2,
+        "wer good": 1,
+        "wer oh": 1,
+        "stop ah": 1,
+        "ah yeah": 1,
+        "yeah bus": 1,
+        "stop couple": 1
+    },
+    "trigrams": {
+        "wer good hm": 1,
+        "morning know bus": 1,
+        "bus stop ah": 1,
+        "stop ah yeah": 1,
+        "ah yeah bus": 1,
+        "yeah bus stop": 1,
+        "bus stop couple": 1,
+        "stop couple block": 1,
+        "couple block like": 1,
+        "block like couple": 1
+    }
+}

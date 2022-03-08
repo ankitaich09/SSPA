@@ -1,0 +1,82 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 196.0,
+        "mean_time": 15.076923076923077,
+        "positive_score": 0.40214285714285714,
+        "negative_score": 0.1657142857142857,
+        "subjective_score": 0.1551418439716312,
+        "top_emotions": [
+            [
+                "trust",
+                0.20634920634920634
+            ],
+            [
+                "positive",
+                0.20634920634920634
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 10,
+            "positive": 13,
+            "trust": 13,
+            "joy": 10,
+            "surprise": 8,
+            "sadness": 2,
+            "anger": 2,
+            "fear": 2,
+            "negative": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5555555555555556,
+        "cttr": 6.666666666666667,
+        "diversity": 79.18514899853444,
+        "herdan": 0.8962050561779642,
+        "summer": 0.936799655956865,
+        "dugast": 54.55911696282157,
+        "maas": 0.0183287423929796
+    },
+    "utterance_features": {
+        "num_utterances": 14,
+        "total_words": 312,
+        "total_unique_words": 50,
+        "avg_word_per_utter": 22.285714285714285
+    },
+    "unigrams": {
+        "uhm": 14,
+        "uh": 8,
+        "there": 6,
+        "good": 5,
+        "really": 4,
+        "town": 4,
+        "called": 3,
+        "see": 3,
+        "know": 3,
+        "wer": 3
+    },
+    "bigrams": {
+        "place town": 2,
+        "really good": 2,
+        "neighborhood uh": 2,
+        "uh pretty": 2,
+        "course homesmoked": 1,
+        "town uhm": 1,
+        "uhm called": 1,
+        "called gruthers": 1,
+        "gruthers serve": 1,
+        "serve bar": 1
+    },
+    "trigrams": {
+        "hi uhm name": 1,
+        "course homesmoked barbeque": 1,
+        "barbeque place town": 1,
+        "place town uhm": 1,
+        "town uhm called": 1,
+        "uhm called gruthers": 1,
+        "called gruthers serve": 1,
+        "gruthers serve bar": 1,
+        "serve bar course": 1,
+        "bar course homesmoked": 1
+    }
+}

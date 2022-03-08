@@ -1,0 +1,76 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 163.0,
+        "mean_time": 18.11111111111111,
+        "positive_score": 0.4653361344537815,
+        "negative_score": 0.14285714285714285,
+        "subjective_score": 0.15824468085106383,
+        "top_emotions": [
+            [
+                "positive",
+                0.32142857142857145
+            ]
+        ],
+        "emotion_scores": {
+            "joy": 4,
+            "positive": 9,
+            "trust": 4,
+            "anticipation": 5,
+            "sadness": 4,
+            "negative": 1,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4265402843601896,
+        "cttr": 4.381131451601119,
+        "diversity": 40.30762331838565,
+        "herdan": 0.8407938996334362,
+        "summer": 0.8966232351285403,
+        "dugast": 33.61591120662895,
+        "maas": 0.029747817747769488
+    },
+    "utterance_features": {
+        "num_utterances": 10,
+        "total_words": 230,
+        "total_unique_words": 47,
+        "avg_word_per_utter": 23.0
+    },
+    "unigrams": {
+        "know": 9,
+        "uhm": 9,
+        "nice": 6,
+        "uh": 6,
+        "dallas": 5,
+        "yeah": 5,
+        "there": 5,
+        "around": 4,
+        "like": 4,
+        "he": 4
+    },
+    "bigrams": {
+        "know there": 3,
+        "nice meeting": 3,
+        "dallas know": 2,
+        "pretty quiet": 2,
+        "around dallas": 2,
+        "building like": 1,
+        "still lot": 1,
+        "there still": 1,
+        "uh know": 1,
+        "uhm uh": 1
+    },
+    "trigrams": {
+        "dallas know there": 2,
+        "around dallas know": 2,
+        "uhm part know": 1,
+        "lot around dallas": 1,
+        "still lot around": 1,
+        "there still lot": 1,
+        "know there still": 1,
+        "uh know there": 1,
+        "uhm uh know": 1,
+        "quiet uhm uh": 1
+    }
+}

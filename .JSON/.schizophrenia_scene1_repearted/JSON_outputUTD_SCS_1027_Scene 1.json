@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 166.0,
+        "mean_time": 12.76923076923077,
+        "positive_score": 0.2793560606060606,
+        "negative_score": 0.16382575757575757,
+        "subjective_score": 0.14601769911504425,
+        "top_emotions": [
+            [
+                "positive",
+                0.2972972972972973
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 11,
+            "joy": 4,
+            "anticipation": 9,
+            "trust": 6,
+            "fear": 3,
+            "negative": 2,
+            "sadness": 1,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4979757085020243,
+        "cttr": 5.534031629189925,
+        "diversity": 42.86176470588235,
+        "herdan": 0.8734516540392787,
+        "summer": 0.9207112940149961,
+        "dugast": 43.53583837704213,
+        "maas": 0.022969581780865223
+    },
+    "utterance_features": {
+        "num_utterances": 14,
+        "total_words": 262,
+        "total_unique_words": 43,
+        "avg_word_per_utter": 18.714285714285715
+    },
+    "unigrams": {
+        "wer": 6,
+        "okay": 5,
+        "theyre": 5,
+        "uhm": 5,
+        "oh": 4,
+        "area": 4,
+        "kid": 4,
+        "really": 4,
+        "yeah": 4,
+        "get": 4
+    },
+    "bigrams": {
+        "wer yeah": 3,
+        "oh okay": 2,
+        "area wer": 2,
+        "get see": 2,
+        "see get": 2,
+        "wer uhm": 2,
+        "theyre theyre": 1,
+        "theyre really": 1,
+        "really really": 1,
+        "really hype": 1
+    },
+    "trigrams": {
+        "get see get": 2,
+        "oh okay hi": 1,
+        "who watch kid": 1,
+        "still kid okay": 1,
+        "theyre still kid": 1,
+        "hype theyre still": 1,
+        "really hype theyre": 1,
+        "really really hype": 1,
+        "theyre really really": 1,
+        "theyre theyre really": 1
+    }
+}

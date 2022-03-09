@@ -1,0 +1,78 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 233.0,
+        "mean_time": 17.923076923076923,
+        "positive_score": 0.23375,
+        "negative_score": 0.15125,
+        "subjective_score": 0.10775862068965517,
+        "top_emotions": [
+            [
+                "positive",
+                0.24
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 9,
+            "anticipation": 10,
+            "anger": 3,
+            "fear": 3,
+            "sadness": 5,
+            "positive": 12,
+            "trust": 6,
+            "disgust": 1,
+            "joy": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.3619246861924686,
+        "cttr": 5.595219866604755,
+        "diversity": 62.46932856070394,
+        "herdan": 0.8352701358221251,
+        "summer": 0.9010790533572691,
+        "dugast": 37.45289758649667,
+        "maas": 0.0267002038411186
+    },
+    "utterance_features": {
+        "num_utterances": 14,
+        "total_words": 494,
+        "total_unique_words": 41,
+        "avg_word_per_utter": 35.285714285714285
+    },
+    "unigrams": {
+        "interviewer": 12,
+        "get": 9,
+        "come": 6,
+        "okay": 5,
+        "someone": 4,
+        "solution": 4,
+        "week": 4,
+        "time": 4,
+        "situation": 3,
+        "take": 3
+    },
+    "bigrams": {
+        "someone come": 3,
+        "okay interviewer": 3,
+        "get someone": 3,
+        "go ahead": 2,
+        "solution given": 2,
+        "month rent": 2,
+        "get fixed": 2,
+        "come get": 2,
+        "interviewer thats": 2,
+        "next month": 2
+    },
+    "trigrams": {
+        "get someone come": 2,
+        "someone come get": 2,
+        "come get fixed": 2,
+        "next month rent": 2,
+        "hi interviewer leak": 1,
+        "waited whole week": 1,
+        "little bit long": 1,
+        "bit long ive": 1,
+        "long ive already": 1,
+        "ive already like": 1
+    }
+}

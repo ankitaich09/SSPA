@@ -1,0 +1,75 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 134.0,
+        "mean_time": 10.307692307692308,
+        "positive_score": 0.25,
+        "negative_score": 0.19060283687943264,
+        "subjective_score": 0.15878378378378377,
+        "top_emotions": [
+            [
+                "negative",
+                0.34782608695652173
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 3,
+            "negative": 8,
+            "trust": 5,
+            "fear": 3,
+            "sadness": 3,
+            "anticipation": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4827586206896552,
+        "cttr": 5.199469468957452,
+        "diversity": 39.43624595469255,
+        "herdan": 0.8662982165875152,
+        "summer": 0.9153246916102701,
+        "dugast": 40.73795601411331,
+        "maas": 0.02454713240039728
+    },
+    "utterance_features": {
+        "num_utterances": 14,
+        "total_words": 248,
+        "total_unique_words": 44,
+        "avg_word_per_utter": 17.714285714285715
+    },
+    "unigrams": {
+        "okay": 17,
+        "wer": 5,
+        "yeah": 5,
+        "maintenance": 4,
+        "leak": 4,
+        "fix": 3,
+        "uhm": 3,
+        "thats": 3,
+        "yall": 3,
+        "come": 3
+    },
+    "bigrams": {
+        "okay okay": 10,
+        "wer yeah": 2,
+        "got lot": 2,
+        "lot work": 2,
+        "work order": 2,
+        "wish yall": 2,
+        "wer okay": 2,
+        "oh okay": 2,
+        "yeah yeah": 2,
+        "maybe even": 1
+    },
+    "trigrams": {
+        "okay okay okay": 4,
+        "got lot work": 2,
+        "lot work order": 2,
+        "oh okay okay": 2,
+        "week ill time": 1,
+        "busy wish yall": 1,
+        "sorry busy wish": 1,
+        "im sorry busy": 1,
+        "okay im sorry": 1,
+        "okay okay im": 1
+    }
+}

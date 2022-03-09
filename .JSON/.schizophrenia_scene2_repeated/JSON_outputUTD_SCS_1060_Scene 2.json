@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 277.0,
+        "mean_time": 16.294117647058822,
+        "positive_score": 0.2510245901639344,
+        "negative_score": 0.14959016393442623,
+        "subjective_score": 0.12348178137651822,
+        "top_emotions": [
+            [
+                "positive",
+                0.25806451612903225
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 19,
+            "joy": 8,
+            "positive": 24,
+            "surprise": 2,
+            "trust": 17,
+            "negative": 10,
+            "anger": 3,
+            "disgust": 4,
+            "sadness": 5,
+            "fear": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.36042402826855124,
+        "cttr": 6.063270642433193,
+        "diversity": 54.99412406614623,
+        "herdan": 0.8390062414837198,
+        "summer": 0.9049432924824365,
+        "dugast": 39.37167587501353,
+        "maas": 0.02539896963427535
+    },
+    "utterance_features": {
+        "num_utterances": 18,
+        "total_words": 601,
+        "total_unique_words": 51,
+        "avg_word_per_utter": 33.388888888888886
+    },
+    "unigrams": {
+        "know": 12,
+        "uh": 11,
+        "uhm": 9,
+        "think": 8,
+        "pretty": 6,
+        "get": 6,
+        "time": 5,
+        "okay": 5,
+        "well": 4,
+        "gonna": 4
+    },
+    "bigrams": {
+        "uhm know": 3,
+        "signing lease": 2,
+        "well thats": 2,
+        "pretty pronounced": 2,
+        "im okay": 2,
+        "youre gonna": 2,
+        "long time": 1,
+        "quite long": 1,
+        "thats quite": 1,
+        "possible structural": 1
+    },
+    "trigrams": {
+        "hello miss jones": 1,
+        "uhm possible structural": 1,
+        "able get fix": 1,
+        "get fix well": 1,
+        "fix well thats": 1,
+        "well thats quite": 1,
+        "thats quite long": 1,
+        "quite long time": 1,
+        "long time sure": 1,
+        "time sure want": 1
+    }
+}

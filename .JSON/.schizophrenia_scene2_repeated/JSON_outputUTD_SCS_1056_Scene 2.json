@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 206.0,
+        "mean_time": 20.6,
+        "positive_score": 0.22861842105263158,
+        "negative_score": 0.1825657894736842,
+        "subjective_score": 0.14615384615384616,
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 6,
+            "trust": 7,
+            "positive": 6,
+            "anticipation": 3,
+            "joy": 1,
+            "surprise": 1,
+            "fear": 2,
+            "sadness": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.40062111801242234,
+        "cttr": 5.0833121202422,
+        "diversity": 56.49223200947819,
+        "herdan": 0.8415913107765848,
+        "summer": 0.901645487897645,
+        "dugast": 36.45350248053715,
+        "maas": 0.0274322062889268
+    },
+    "utterance_features": {
+        "num_utterances": 11,
+        "total_words": 334,
+        "total_unique_words": 39,
+        "avg_word_per_utter": 30.363636363636363
+    },
+    "unigrams": {
+        "uhm": 13,
+        "okay": 9,
+        "fix": 8,
+        "ceiling": 6,
+        "well": 6,
+        "could": 5,
+        "uh": 5,
+        "come": 5,
+        "know": 5,
+        "would": 4
+    },
+    "bigrams": {
+        "okay uhm": 4,
+        "okay well": 3,
+        "come fix": 3,
+        "oh okay": 3,
+        "worse know": 2,
+        "ceiling uhm": 2,
+        "leak ceiling": 2,
+        "fix oh": 2,
+        "would okay": 2,
+        "besides wait": 1
+    },
+    "trigrams": {
+        "oh okay uhm": 3,
+        "fix oh okay": 2,
+        "hi asking uhm": 1,
+        "okay call someone": 1,
+        "else guess besides": 1,
+        "guess besides wait": 1,
+        "besides wait would": 1,
+        "wait would would": 1,
+        "would would okay": 1,
+        "would okay call": 1
+    }
+}

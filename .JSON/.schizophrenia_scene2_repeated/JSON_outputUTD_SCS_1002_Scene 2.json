@@ -1,0 +1,76 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 188.0,
+        "mean_time": 12.533333333333333,
+        "positive_score": 0.2725409836065574,
+        "negative_score": 0.19672131147540983,
+        "subjective_score": 0.12298387096774194,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.3
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 6,
+            "negative": 3,
+            "positive": 4,
+            "trust": 3,
+            "joy": 2,
+            "anger": 1,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5447761194029851,
+        "cttr": 4.45918471900514,
+        "diversity": 44.666666666666664,
+        "herdan": 0.8759901541065905,
+        "summer": 0.9166660959088165,
+        "dugast": 39.49557202224703,
+        "maas": 0.025319294006850207
+    },
+    "utterance_features": {
+        "num_utterances": 16,
+        "total_words": 143,
+        "total_unique_words": 41,
+        "avg_word_per_utter": 8.9375
+    },
+    "unigrams": {
+        "fix": 6,
+        "rent": 5,
+        "need": 4,
+        "well": 4,
+        "leak": 4,
+        "week": 3,
+        "two": 3,
+        "thats": 2,
+        "come": 2,
+        "im": 2
+    },
+    "bigrams": {
+        "fix well": 3,
+        "two week": 2,
+        "need fix": 2,
+        "leak rent": 2,
+        "fix leak": 2,
+        "leak im": 1,
+        "im happy": 1,
+        "happy fix": 1,
+        "well im": 1,
+        "rent money": 1
+    },
+    "trigrams": {
+        "fix leak rent": 2,
+        "need fix well": 2,
+        "hello there leaking": 1,
+        "well im gonna": 1,
+        "two portion rent": 1,
+        "week two portion": 1,
+        "take week two": 1,
+        "gonna take week": 1,
+        "im gonna take": 1,
+        "fix well im": 1
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 162.0,
+        "mean_time": 16.2,
+        "positive_score": 0.09313725490196079,
+        "negative_score": 0.3799019607843137,
+        "subjective_score": 0.2125,
+        "top_emotions": [
+            [
+                "fear",
+                0.21052631578947367
+            ],
+            [
+                "negative",
+                0.21052631578947367
+            ],
+            [
+                "sadness",
+                0.21052631578947367
+            ]
+        ],
+        "emotion_scores": {
+            "fear": 4,
+            "negative": 4,
+            "sadness": 4,
+            "anger": 3,
+            "disgust": 3,
+            "anticipation": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.6133333333333333,
+        "cttr": 3.7558842722675396,
+        "diversity": 25.555555555555557,
+        "herdan": 0.8867752025733275,
+        "summer": 0.917846503943372,
+        "dugast": 38.132001219365705,
+        "maas": 0.026224692332490026
+    },
+    "utterance_features": {
+        "num_utterances": 11,
+        "total_words": 81,
+        "total_unique_words": 36,
+        "avg_word_per_utter": 7.363636363636363
+    },
+    "unigrams": {
+        "wer": 9,
+        "okay": 5,
+        "yeah": 3,
+        "bad": 3,
+        "course": 2,
+        "uhm": 2,
+        "nah": 2,
+        "well": 1,
+        "yep": 1,
+        "cool": 1
+    },
+    "bigrams": {
+        "wer okay": 5,
+        "okay wer": 3,
+        "wer yeah": 2,
+        "wer uhm": 2,
+        "yep wer": 1,
+        "bad wasnt": 1,
+        "wasnt bad": 1,
+        "bad got": 1,
+        "got worser": 1,
+        "worser wer": 1
+    },
+    "trigrams": {
+        "wer okay wer": 3,
+        "time called nah": 1,
+        "nah nah bad": 1,
+        "nah bad wasnt": 1,
+        "bad wasnt bad": 1,
+        "wasnt bad got": 1,
+        "bad got worser": 1,
+        "got worser wer": 1,
+        "worser wer okay": 1,
+        "wer okay yeah": 1
+    }
+}

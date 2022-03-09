@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 168.0,
+        "mean_time": 21.0,
+        "positive_score": 0.1922554347826087,
+        "negative_score": 0.2982336956521739,
+        "subjective_score": 0.15862068965517243,
+        "top_emotions": [
+            [
+                "negative",
+                0.16883116883116883
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 13,
+            "fear": 8,
+            "sadness": 9,
+            "anger": 5,
+            "disgust": 3,
+            "surprise": 4,
+            "anticipation": 8,
+            "trust": 11,
+            "joy": 6,
+            "positive": 10
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5066225165562914,
+        "cttr": 6.22548170959937,
+        "diversity": 87.0675191790276,
+        "herdan": 0.8809214978295912,
+        "summer": 0.9272299755600817,
+        "dugast": 47.955146506654,
+        "maas": 0.020852819203904326
+    },
+    "utterance_features": {
+        "num_utterances": 9,
+        "total_words": 324,
+        "total_unique_words": 42,
+        "avg_word_per_utter": 36.0
+    },
+    "unigrams": {
+        "uhm": 8,
+        "gonna": 5,
+        "im": 4,
+        "mean": 4,
+        "thats": 4,
+        "worse": 4,
+        "know": 3,
+        "leak": 3,
+        "need": 3,
+        "work": 3
+    },
+    "bigrams": {
+        "gonna work": 3,
+        "thats gonna": 3,
+        "dont know": 2,
+        "ceiling uhm": 2,
+        "need fixed": 1,
+        "fixed im": 1,
+        "im wondering": 1,
+        "wondering expect": 1,
+        "expect somebody": 1,
+        "somebody well": 1
+    },
+    "trigrams": {
+        "thats gonna work": 3,
+        "hi uhm patient": 1,
+        "well im uhm": 1,
+        "need fixed im": 1,
+        "fixed im wondering": 1,
+        "im wondering expect": 1,
+        "wondering expect somebody": 1,
+        "expect somebody well": 1,
+        "somebody well im": 1,
+        "im uhm today": 1
+    }
+}

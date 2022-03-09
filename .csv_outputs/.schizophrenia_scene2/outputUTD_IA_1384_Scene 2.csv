@@ -1,0 +1,11 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ,"  Hi, this is Interviewer, the landlady."
+1, 00:00:15,"  Yes, how you doing?",  I'm doing all right.
+2, 00:00:18,"  I'm having a slow leak in my ceiling. So, you can come by and take a look at it and fix it, because it's- it's-- it done got worse.","  I'm sorry, I haven't had enough time to get over to fix it, but I've been very busy."
+3, 00:00:43,"  Okay, when is a good day for you to come by and check-- to fix it?","  I have a list and you're on the list, but there are other prob- problems that are more serious."
+4, 00:01:06,"  Well, mines is, it has got worse now, and I need you to come by and fix it. When is a-- can you have somebody else to come by and fix it? Have somebody else to come by and fix it, because it's actually leaking really bad.",  I do all the repairs myself for the whole building.
+5, 00:01:35,"  Okay, well, I need you to come by s- soon as possit-- so as possible to fix it, if you don't mind.","  So, what have you done about the problem so far?"
+6, 00:01:58,"  I put a bucket up under it. You know, it's started filling up real fast. So, I need you to come by and fix it soon as you can.",  I'm not sure what I can do about your problem right now.
+7, 00:02:25,"  Well, I will be calling-- I will be calling in and reporting it to someone in higher-- at a higher level.",  It didn't sound that bad the last time you called.
+8, 00:02:51,"  Well, it got worser in the last two days.","  Okay, you don't need to call. I'm aware of the problem, and I'll be over as soon as I can."
+9, 00:03:05,"  Okay, thanks a lot.","  All right, thank you."

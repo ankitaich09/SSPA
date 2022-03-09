@@ -1,0 +1,9 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi.  This is Interviewer, the landlady."
+1, 00:00:16," Hi.  This is Patient.  Uh.. I was calling because the leak I had told you about earlier this week, it’s gotten much worse, and I was hoping that you could come by as soon as possible.  Uh.. maybe we can schedule a-- an apartment to- to come by, something that’s real soon.  Because it’s gotten much, much worse.", Mm-hm.
+2, 00:00:54, Hello?, I’m here.  Uhm.. I’m sorry.  I’m not sure what I can do about the problem right now.
+3, 00:01:06," Well, maybe uh.. tomorrow?", I don’t know if that would work.  It’s just that I have a lot of other tenants right now with problems that are ahead of yours.
+4, 00:01:20," Well, then maybe- maybe we can schedule an appointment for this."," I’m not sure exactly when I’ll be available.  Uhm.. might take me about a week, maybe two weeks, before I’ll have time to fix it."
+5, 00:01:37," Okay.  Well, it’s-- to me, it- it- it should be gettin’ done sooner because you told me the last time I called that you’d be in a- at my apartment in the next couple days, and- and then you didn’t show up.  So I was hopin’ maybe in the next few days."," Mm-hm.  I’m sorry I wasn’t able to get over uhm.. right away.  It’s just that I’ve been very busy.  Like I said, there’s some other problems that are uhm.. going on."
+6, 00:02:35," Okay.  Well, I guess I can call you back in a week and see uh.. how far along you are on getting- getting to my problem."," Okay.  Yeah, it still, like I said, might take longer, maybe a week or maybe two weeks, before I’ll get to it.  Uhm..--"
+7, 00:02:57, Bye-bye., All right.  Bye-bye.

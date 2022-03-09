@@ -1,0 +1,9 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi, this is Interviewer, the landlady."
+1, 00:00:15," Hi, Interviewer, this is Patient over here in 315.  Uh.. how are you doing today?", I'm doing all right.
+2, 00:00:25," Good, good, well, you know, the reason I'm calling you is because I called you a couple of days back about possibly fixing the leak that was in my ceiling.  Uh.. did you get that message or did you not get that message?", Uhm.. I did get your message.  I'm aware of the problem.
+3, 00:00:46," Oh okay, I was just kind of uh.. like calling to let you know that leak has not gotten any better and as a matter of fact, it's gotten kind of a little bit worse and it's dripping on the carpet.  The carpet has begun to mildew a little bit and it's all wet, so it's got damage to the ceiling and then damage to the carpet so it's, uh.. the longer it goes, the more area it's going to cause damage to, and, you know, uh.. I don't", 
+4, 00:01:19, ," Well, I'm sorry I haven't had enough time to get over to fix it.  I've been very busy."
+5, 00:02:15," Well you understand the dilemma that I'm in, don't you?"," Uh-huh, I just don't know what I can do about your problem right now."
+6, 00:02:24," Well, it's kind of urgent that you get over here.  I- I know you- you've got a lot of people that are- are piled up as far as work orders go but this is really important and I think it would benefit the apartment as far as the overall, uh.. finances of the apartment go as well as it would benefit me because this smell is like pretty bad, you know, it's like uh.. mildew and carpet and pairing is going to have to be", 
+7, 00:02:56, ," Okay, well, it might take me about a week, maybe even two weeks before I'll have time to fix it but thank you for giving me a call."

@@ -1,0 +1,14 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi.  This is Interviewer, the landlady."
+1, 00:00:12, Hi.  I have a leak that’s in my bedroom and I was supposed to have someone come and look at it about uh.. past week or a couple days ago and no one has came to check up on it.," Okay.  Uhm.. I’m sorry I haven’t had enough time to get over to fix it, but I’ve been very busy."
+2, 00:00:31," Okay.  Well, the leak has gotten much worse now that we’ve let it uh.. pass a few days.  So it’s gotten much worse.  Is there anyone that’s gonna come and look at it soon?"," I have a list and you’re on the list, but there are other problems that are more serious."
+3, 00:00:53, Okay.  So uhm.. how long do you think it’ll be before you can come and fix it?, I’m not sure what I can do about your problem right now.
+4, 00:01:07," Okay.  Uhm.. well, I’ll hold off for little days, but if it gets much worser I’m gonna need to move to another apartment.  Do you have another apartment op-- available?", It didn’t sound that bad the last time you called.
+5, 00:01:28," Well, yes.  But now that it’s been neglected it’s gotten worser and worse, and if we wait any longer it’ll be much worser.", I have a lot of other tenants with problems that are currently ahead of yours.
+6, 00:01:48," Okay.  I’ll wait.  If it’s not that bad, I’ll stay on.  If it gets really worse, then I want to know if I can move to another apartment.", There currently aren’t any other apartments that you could move to.
+7, 00:02:07, Okay.  So uhm.. we’ll just see how it goes from here then and see how long it takes you to come and fix it.  If it takes longer than I think is appropriate then I’ll just go ahead and contact the- the Tenants’ Association in regards to this uh.. situation., I do do all the repairs myself for the whole building.
+8, 00:02:36," Okay.  All right.  Well, I’ll try to work with you then, okay?", All right.
+9, 00:02:42," And well, let’s see if we can get to it quicker and faster.", Mm.
+10, 00:02:50, Will that work for you?," It might take me about a week, maybe even two weeks before I’ll have time to fix it, but I’ll try to stop by as soon as I can."
+11, 00:03:00," Okay.  Just come have a look at it and see how much worser it’s gotten to see if you can wait for longer than that, okay?", All right.
+12, 00:03:06," Okay, bye-bye.", You’re welcome.  Bye-bye.

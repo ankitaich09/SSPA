@@ -1,0 +1,15 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:00, ,"  Hi, this is Interviewer, the landlady."
+1, 00:00:11," Hi, uhm.. this is Patient.  Uhm.. I’m a tenant at your residence.  And I was wondering when are you going to fix the ceiling?  There’s- there’s a hole in it.  It needs to be fixed.","  Yes.  I’m sorry, I haven’t had enough time to get over to fix your problem, but I’ve been very busy."
+2, 00:00:26," Oh, okay.  That’s understandable. So when will you be able to fix it?",  Uhm.. It’s just that I have a lot of other tenants with problems that are ahead of yours.
+3, 00:00:35," Mm-Hm. Well, the water is really leaking and it’s really bad and I need help with it. uh.. My couch is getting wet.  Everything is getting wet, computer.  And uh.. I really need help, please.","  Uh.. Well, it didn’t sound that bad the last time you spoke."
+4, 00:00:53," It got worse, like the hole is opening more through the ceiling.","  Oh, okay.  Well, uhm.. what have you done about the problem so far?"
+5, 00:01:05, Uh.. Trying to patch it up.  I called a roofing person but uhm.. really that’s-- I don’t have money and it’s really- really expensive for them to fix it.  So can you please fix it as soon as possible?,  Yeah. Uhm.. I have a list and you’re on that list- that list but there are other problems that are more serious currently.
+6, 00:01:33," Okay.  Well, I’ll just wait. Uhm.. After a week, if it’s not fixed in a week then I’ll call you back.","  Okay. Uhm.. Before you go, uhm.. can you tell me a little bit about what the issue looks like?"
+7, 00:01:49," Uhm.. It’s bad. It’s like there’s a big hole and it’s getting all my stuff wet.  I have to move everything, put pots under the- under the ceiling.  It’s really bad.",  Okay. Uhm.. I do all the repairs myself for the whole building.
+8, 00:02:06," Mm-Hm.  Okay.  Uhm.. Well, maybe you could call someone and they could do it for you.",  Uhm.. I just prefer to do it for myself.
+9, 00:02:19," Oh, okay. That’s fine.  As long as it gets fixed that’s all I care about. That’s all I’m worried about.  Thank you.","  Uhm.. Wait, before you go, uhm.. it might take me about a week, maybe even two weeks before I’ll have time to fix it."
+10, 00:02:40," Oh, wow. That’s a long time.  Uhm.. Yeah, I don’t know about that.  Two weeks.  I don’t know if I could wait that long because it’s really bad, but I guess I have to wait then.",  Yeah. Uhm.. Is that okay with you?
+11, 00:03:02," Yes, that’s fine.","  Okay. Well, then I will be over to fix it soon."
+12, 00:03:08, Okay.  Thank you.,  No problem.  Have a good day.
+13, 00:03:11, Okay.  Bye., 

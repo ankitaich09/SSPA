@@ -1,0 +1,12 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi.  This is Interviewer, the landlady."
+1, 00:00:12," Yes.  Just uhm.. I don’t know if it’s your husband or you that is going to come by here and fix this leak in my ceiling, but uhm.. it’s becoming damaging to my clothes and my furniture.  You said you would be by here two days ago and you haven’t showed up at all.  This is your property that’s damaging my property.  Uhm.. I don’t know if my renters’ insurance will cover this, but uh.. it needs to be fixed.", Mm-hm.  Uhm..--
+2, 00:00:48, Interviewer?," Yes, I’m here.  I’m sorry I haven’t had enough time to get over to fix it, but I’ve been very busy."
+3, 00:00:57," Well, uhm.. I’m begin-- I- I’m going to hafta start uhm.. the process of damage fees to my property, uhm.. and I don’t know if my renters’ insurance will cover it.  Uhm.. will you cover it?", Uhm.. I’m not sure.  We’ll hafta look about it.  The problem didn’t sound that bad the last time that you called.
+4, 00:01:20,wer: Well--, Mm-hm.  I’m here.  I don’t know what I can do about your problem right now.
+5, 00:01:49," Well, <laughs> I-- this is a very dissatisfying phone call because usually someone has a plan of action and especially owning apartment complex.  They know they have services that are required, but if you’re not fully equipped to acquire [ph?], maybe I need you to uh.. I’ll report you to the housing authority."," Hm, y--"
+6, 00:02:18, Are you preoccupied?," No, I’m still here."
+7, 00:02:23, You don’t sound very enthused about this repair., Mm-hm.  It’s just that I have a lot of other tenants right now with problems that are ahead of yours.
+8, 00:02:41, Do you need to hire more help or do you want me to fix this myself?," You don’t need to do that.  I’m aware of the problem, so I’ll be over to fix it as soon as I can."
+9, 00:02:51, That doesn’t do anything for my leaky roof.  It’s leakin’ water all over the floor.  It’s an emergency.," Well, like I said, I’m not sure what I can do about your problem right now.  I hafta run now, uhm.. but thanks for giving me a call about the problem.  Uhm.. so like I said, I’m aware of it and I will fix it when I can."
+10, 00:03:20," Okay.  Well, I expect you-- I’m gonna report you to the housing authority.  I’ll talk to you later.  Bye.", 

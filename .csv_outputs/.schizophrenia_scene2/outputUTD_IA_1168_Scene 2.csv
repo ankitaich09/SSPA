@@ -1,0 +1,13 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:00, ,"Hi.  This is Interviewer, the landlady."
+1, 00:00:12," Hi, Interviewer.  This is Patient in 3B.  I’m calling because-- I called a couple days ago.  There was a slow uh.. water leak in the ceiling, and uh.. I’m just following up with you tryin’ to find out when you might be able to come fix it."," Uhm.. I’m sorry I haven’t had enough time to get over to fix it, but I’ve been very busy."
+2, 00:00:37, I understand.  Uhm.. when do you think you’ll be able to get back over here?, I have a lot of other tenants with problems that are ahead of yours.
+3, 00:00:49, Okay.  Are they wor-- the leak has gotten so much worse.  Can you please get here as soon as possible?, It didn’t sound that bad the last time you called.
+4, 00:00:59," It wasn’t, but now i- it’s a lot worse than it was.  Uhm.. it’s ruining the sheetrock.  Uhm.. the sheetrock’s falling in from the ceiling and I’m really worried that it’s gonna fall on me."," It might take me about a week, maybe even two weeks, before I’ll have time to fix it."
+5, 00:01:17," Oh, my.  Okay.  If there’s any water damage between then and now, I do expect you will cover that?", I do all the repairs myself for the whole building.
+6, 00:01:37," Oh.  Well, all right.", Mm. <laughs> Uhm.. so what have you done about the problem so far?
+7, 00:01:48, Uhm.. I’ve put buckets out to catch the water.  I’ve put towels on the floor.  Uhm.. that’s really all I could do.," I have a list and you’re on the list, but there are problems that are more serious."
+8, 00:02:15," Okay.  Well, it’s really important that you get here as soon as possible so we don’t have any mo-- any further damage."," Well, I don’t know what I can do about your problem right now."
+9, 00:02:40," <laughs> Uh.. I would’ve-- uh.. tell you the truth, I would’ve hung up. <laughs> I just woulda hung up."," Hm.  Mm... I’m sorry I haven’t had enough time to get over to fix it, but I’m very busy."
+10, 00:03:05, Okay.  How about you buy the parts and I’ll fix it myself?," No, you don’t need to do that.  I’m aware of the problem and I’ll be over as soon as I can."
+11, 00:03:15, All--, 

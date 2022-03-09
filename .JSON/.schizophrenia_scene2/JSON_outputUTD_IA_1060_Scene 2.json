@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 105.0,
+        "mean_time": 21.0,
+        "positive_score": 0.2889072847682119,
+        "negative_score": 0.1837748344370861,
+        "subjective_score": 0.15861344537815125,
+        "top_emotions": [
+            [
+                "negative",
+                0.1896551724137931
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 4,
+            "joy": 5,
+            "positive": 9,
+            "surprise": 2,
+            "trust": 7,
+            "negative": 11,
+            "fear": 3,
+            "sadness": 5,
+            "disgust": 7,
+            "anger": 5
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.42913385826771655,
+        "cttr": 4.83609297631782,
+        "diversity": 38.16505145420808,
+        "herdan": 0.8472213624833421,
+        "summer": 0.9031305928208805,
+        "dugast": 36.244165788000224,
+        "maas": 0.027590647439624107
+    },
+    "utterance_features": {
+        "num_utterances": 5,
+        "total_words": 255,
+        "total_unique_words": 41,
+        "avg_word_per_utter": 51.0
+    },
+    "unigrams": {
+        "uh": 7,
+        "know": 5,
+        "well": 4,
+        "carpet": 4,
+        "go": 3,
+        "like": 3,
+        "damage": 3,
+        "kind": 3,
+        "get": 3,
+        "going": 2
+    },
+    "bigrams": {
+        "little bit": 2,
+        "get message": 2,
+        "would benefit": 2,
+        "dont well": 2,
+        "well kind": 1,
+        "piled far": 1,
+        "people piled": 1,
+        "lot people": 1,
+        "got lot": 1,
+        "youve got": 1
+    },
+    "trigrams": {
+        "hi interviewer patient": 1,
+        "dilemma im dont": 1,
+        "people piled far": 1,
+        "lot people piled": 1,
+        "got lot people": 1,
+        "youve got lot": 1,
+        "know youve got": 1,
+        "get know youve": 1,
+        "urgent get know": 1,
+        "kind urgent get": 1
+    }
+}

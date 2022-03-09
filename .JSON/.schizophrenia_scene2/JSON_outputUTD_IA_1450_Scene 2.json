@@ -1,0 +1,75 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 139.0,
+        "mean_time": 12.636363636363637,
+        "positive_score": 0.3089080459770115,
+        "negative_score": 0.10344827586206896,
+        "subjective_score": 0.14897260273972604,
+        "top_emotions": [
+            [
+                "trust",
+                0.29411764705882354
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 4,
+            "joy": 1,
+            "positive": 3,
+            "surprise": 1,
+            "trust": 5,
+            "negative": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5945945945945946,
+        "cttr": 5.114896104728048,
+        "diversity": 39.83654773384764,
+        "herdan": 0.8959669049851438,
+        "summer": 0.9317215773486609,
+        "dugast": 48.034832310338345,
+        "maas": 0.020818226105991298
+    },
+    "utterance_features": {
+        "num_utterances": 12,
+        "total_words": 158,
+        "total_unique_words": 37,
+        "avg_word_per_utter": 13.166666666666666
+    },
+    "unigrams": {
+        "well": 8,
+        "okay": 6,
+        "oh": 3,
+        "ill": 3,
+        "brother": 2,
+        "make": 2,
+        "something": 2,
+        "could": 2,
+        "know": 2,
+        "appreciate": 1
+    },
+    "bigrams": {
+        "okay well": 3,
+        "oh okay": 2,
+        "nothing could": 1,
+        "ill brother": 1,
+        "wait ill": 1,
+        "ill wait": 1,
+        "okay ill": 1,
+        "well okay": 1,
+        "could well": 1,
+        "hi patient": 1
+    },
+    "trigrams": {
+        "oh okay well": 2,
+        "look see uh": 1,
+        "ill brother look": 1,
+        "wait ill brother": 1,
+        "ill wait ill": 1,
+        "okay ill wait": 1,
+        "well okay ill": 1,
+        "could well okay": 1,
+        "nothing could well": 1,
+        "hi patient im": 1
+    }
+}

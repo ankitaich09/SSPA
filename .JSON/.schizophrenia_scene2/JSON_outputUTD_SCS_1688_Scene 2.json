@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 188.0,
+        "mean_time": 17.09090909090909,
+        "positive_score": 0.24935567010309279,
+        "negative_score": 0.24291237113402062,
+        "subjective_score": 0.13108108108108107,
+        "top_emotions": [
+            [
+                "negative",
+                0.19672131147540983
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 4,
+            "negative": 12,
+            "fear": 4,
+            "sadness": 8,
+            "anger": 6,
+            "disgust": 5,
+            "joy": 4,
+            "positive": 10,
+            "trust": 6,
+            "surprise": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.40694789081885857,
+        "cttr": 5.776653620146044,
+        "diversity": 56.09609614115105,
+        "herdan": 0.8501284144550562,
+        "summer": 0.909371803412385,
+        "dugast": 40.02717753424784,
+        "maas": 0.02498302557417108
+    },
+    "utterance_features": {
+        "num_utterances": 12,
+        "total_words": 423,
+        "total_unique_words": 48,
+        "avg_word_per_utter": 35.25
+    },
+    "unigrams": {
+        "uh": 19,
+        "know": 10,
+        "get": 7,
+        "fix": 4,
+        "gonna": 4,
+        "floor": 4,
+        "actually": 4,
+        "really": 4,
+        "getting": 3,
+        "anyways": 3
+    },
+    "bigrams": {
+        "uh know": 6,
+        "interviewer uh": 2,
+        "anyways uh": 2,
+        "damage floor": 2,
+        "uh anyways": 2,
+        "take money": 2,
+        "money rent": 2,
+        "hey interviewer": 1,
+        "rent fix": 1,
+        "fix thing": 1
+    },
+    "trigrams": {
+        "interviewer uh know": 2,
+        "take money rent": 2,
+        "hey interviewer uh": 1,
+        "uh ever want": 1,
+        "ever want actually": 1,
+        "want actually fix": 1,
+        "actually fix thing": 1,
+        "fix thing uh": 1,
+        "thing uh would": 1,
+        "uh would uh": 1
+    }
+}

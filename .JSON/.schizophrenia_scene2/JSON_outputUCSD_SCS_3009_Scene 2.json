@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 180.0,
+        "mean_time": 15.0,
+        "positive_score": 0.32116336633663367,
+        "negative_score": 0.15037128712871287,
+        "subjective_score": 0.202,
+        "top_emotions": [
+            [
+                "negative",
+                0.18518518518518517
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 5,
+            "trust": 7,
+            "anger": 5,
+            "disgust": 4,
+            "fear": 5,
+            "negative": 10,
+            "sadness": 7,
+            "anticipation": 8,
+            "joy": 1,
+            "surprise": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.44029850746268656,
+        "cttr": 5.096823710930025,
+        "diversity": 54.85479875429355,
+        "herdan": 0.8532812973980063,
+        "summer": 0.9078142672676406,
+        "dugast": 38.10684583053886,
+        "maas": 0.026242003981305616
+    },
+    "utterance_features": {
+        "num_utterances": 13,
+        "total_words": 295,
+        "total_unique_words": 43,
+        "avg_word_per_utter": 22.692307692307693
+    },
+    "unigrams": {
+        "really": 8,
+        "uhm": 7,
+        "thats": 7,
+        "okay": 6,
+        "bad": 4,
+        "fix": 4,
+        "week": 3,
+        "uh": 3,
+        "wet": 3,
+        "well": 3
+    },
+    "bigrams": {
+        "really bad": 3,
+        "thats fine": 2,
+        "dont know": 2,
+        "okay thats": 2,
+        "oh okay": 2,
+        "getting wet": 2,
+        "need help": 2,
+        "ceiling really": 1,
+        "bad mmhm": 1,
+        "mmhm okay": 1
+    },
+    "trigrams": {
+        "oh okay thats": 2,
+        "hi uhm patient": 1,
+        "everything put pot": 1,
+        "pot ceiling really": 1,
+        "ceiling really bad": 1,
+        "really bad mmhm": 1,
+        "bad mmhm okay": 1,
+        "mmhm okay uhm": 1,
+        "okay uhm well": 1,
+        "uhm well maybe": 1
+    }
+}

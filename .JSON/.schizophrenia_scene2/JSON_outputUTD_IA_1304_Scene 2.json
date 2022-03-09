@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 151.0,
+        "mean_time": 15.1,
+        "positive_score": 0.17905405405405406,
+        "negative_score": 0.3091216216216216,
+        "subjective_score": 0.1761904761904762,
+        "top_emotions": [
+            [
+                "negative",
+                0.19230769230769232
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 4,
+            "fear": 9,
+            "negative": 10,
+            "sadness": 9,
+            "joy": 4,
+            "positive": 4,
+            "trust": 5,
+            "anger": 4,
+            "disgust": 1,
+            "surprise": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4188034188034188,
+        "cttr": 4.530051602506037,
+        "diversity": 33.83412887828162,
+        "herdan": 0.8404578542155972,
+        "summer": 0.8975543183163633,
+        "dugast": 34.193605009736714,
+        "maas": 0.029245234590364117
+    },
+    "utterance_features": {
+        "num_utterances": 11,
+        "total_words": 234,
+        "total_unique_words": 44,
+        "avg_word_per_utter": 21.272727272727273
+    },
+    "unigrams": {
+        "worse": 5,
+        "need": 4,
+        "come": 4,
+        "know": 4,
+        "fix": 4,
+        "want": 3,
+        "called": 3,
+        "get": 3,
+        "problem": 3,
+        "dont": 2
+    },
+    "bigrams": {
+        "come fix": 2,
+        "know problem": 2,
+        "worse worse": 2,
+        "wer cant": 1,
+        "fix please": 1,
+        "fix want": 1,
+        "able fix": 1,
+        "money able": 1,
+        "rent money": 1,
+        "money rent": 1
+    },
+    "trigrams": {
+        "wer cant need": 1,
+        "cant need something": 1,
+        "fix want yeah": 1,
+        "able fix want": 1,
+        "money able fix": 1,
+        "rent money able": 1,
+        "money rent money": 1,
+        "hold money rent": 1,
+        "please hold money": 1,
+        "fix please hold": 1
+    }
+}

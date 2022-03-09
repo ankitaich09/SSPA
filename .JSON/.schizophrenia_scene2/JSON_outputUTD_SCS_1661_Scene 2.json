@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 191.0,
+        "mean_time": 27.285714285714285,
+        "positive_score": 0.1672185430463576,
+        "negative_score": 0.3038079470198676,
+        "subjective_score": 0.12022292993630573,
+        "top_emotions": [
+            [
+                "negative",
+                0.27906976744186046
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 12,
+            "trust": 8,
+            "positive": 7,
+            "anticipation": 10,
+            "joy": 2,
+            "surprise": 2,
+            "fear": 1,
+            "sadness": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4392523364485981,
+        "cttr": 5.564826117645202,
+        "diversity": 54.69661563643366,
+        "herdan": 0.8574565320514465,
+        "summer": 0.9122694510544793,
+        "dugast": 40.48899052472211,
+        "maas": 0.024698071921289602
+    },
+    "utterance_features": {
+        "num_utterances": 8,
+        "total_words": 355,
+        "total_unique_words": 55,
+        "avg_word_per_utter": 44.375
+    },
+    "unigrams": {
+        "dont": 8,
+        "somebody": 7,
+        "fix": 6,
+        "wait": 5,
+        "know": 5,
+        "inaudible": 5,
+        "take": 4,
+        "come": 4,
+        "think": 4,
+        "long": 3
+    },
+    "bigrams": {
+        "dont know": 4,
+        "send somebody": 3,
+        "ill fix": 2,
+        "think ill": 2,
+        "find somebody": 2,
+        "somebody dont": 2,
+        "come help": 2,
+        "another two": 1,
+        "everything inaudible": 1,
+        "inaudible 000214": 1
+    },
+    "trigrams": {
+        "think ill fix": 2,
+        "find somebody dont": 2,
+        "hi uhm call": 1,
+        "000214 another two": 1,
+        "somebody know fix": 1,
+        "know fix everything": 1,
+        "fix everything inaudible": 1,
+        "everything inaudible 000214": 1,
+        "inaudible 000214 another": 1,
+        "another two week": 1
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 136.0,
+        "mean_time": 34.0,
+        "positive_score": 0.2546875,
+        "negative_score": 0.22552083333333334,
+        "subjective_score": 0.20833333333333334,
+        "top_emotions": [
+            [
+                "negative",
+                0.18
+            ],
+            [
+                "sadness",
+                0.18
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 9,
+            "fear": 7,
+            "sadness": 9,
+            "positive": 7,
+            "anger": 4,
+            "disgust": 3,
+            "trust": 5,
+            "anticipation": 2,
+            "joy": 2,
+            "surprise": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.41916167664670656,
+        "cttr": 5.416762627738958,
+        "diversity": 52.70643420264226,
+        "herdan": 0.8503738643722005,
+        "summer": 0.9078978804339474,
+        "dugast": 38.837740269067226,
+        "maas": 0.025748150975623618
+    },
+    "utterance_features": {
+        "num_utterances": 5,
+        "total_words": 336,
+        "total_unique_words": 39,
+        "avg_word_per_utter": 67.2
+    },
+    "unigrams": {
+        "uh": 18,
+        "uhm": 17,
+        "getting": 5,
+        "apartment": 4,
+        "worse": 3,
+        "well": 3,
+        "done": 3,
+        "wanted": 3,
+        "know": 3,
+        "soon": 3
+    },
+    "bigrams": {
+        "getting worse": 2,
+        "soon possible": 2,
+        "need done": 2,
+        "apartment getting": 2,
+        "uh apartment": 2,
+        "uh getting": 2,
+        "uhm thats": 2,
+        "worse uhm": 2,
+        "hi m": 1,
+        "option uhm": 1
+    },
+    "trigrams": {
+        "hi m jones": 1,
+        "care uhm well": 1,
+        "bill uhm thats": 1,
+        "uhm thats option": 1,
+        "thats option uhm": 1,
+        "option uhm know": 1,
+        "uhm know need": 1,
+        "know need done": 1,
+        "need done apartment": 1,
+        "done apartment getting": 1
+    }
+}

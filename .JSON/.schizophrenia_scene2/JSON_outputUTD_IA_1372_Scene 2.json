@@ -1,0 +1,76 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 161.0,
+        "mean_time": 26.833333333333332,
+        "positive_score": 0.19230769230769232,
+        "negative_score": 0.21153846153846154,
+        "subjective_score": 0.13732394366197184,
+        "top_emotions": [
+            [
+                "negative",
+                0.25
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 4,
+            "fear": 3,
+            "sadness": 3,
+            "positive": 1,
+            "trust": 2,
+            "anticipation": 2,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5424836601307189,
+        "cttr": 4.744794188942745,
+        "diversity": 52.77864048197272,
+        "herdan": 0.8784206617489585,
+        "summer": 0.9197591325277372,
+        "dugast": 41.37576329791664,
+        "maas": 0.024168738418182904
+    },
+    "utterance_features": {
+        "num_utterances": 7,
+        "total_words": 160,
+        "total_unique_words": 37,
+        "avg_word_per_utter": 22.857142857142858
+    },
+    "unigrams": {
+        "maybe": 5,
+        "well": 4,
+        "uh": 4,
+        "much": 3,
+        "okay": 2,
+        "apartment": 2,
+        "schedule": 2,
+        "day": 2,
+        "soon": 2,
+        "come": 2
+    },
+    "bigrams": {
+        "okay well": 2,
+        "gotten much": 2,
+        "maybe schedule": 2,
+        "well maybe": 2,
+        "much worse": 2,
+        "told last": 1,
+        "last time": 1,
+        "time called": 1,
+        "sooner told": 1,
+        "show hopin": 1
+    },
+    "trigrams": {
+        "hi patient uh": 1,
+        "last time called": 1,
+        "couple day didnt": 1,
+        "next couple day": 1,
+        "apartment next couple": 1,
+        "youd apartment next": 1,
+        "called youd apartment": 1,
+        "time called youd": 1,
+        "told last time": 1,
+        "didnt show hopin": 1
+    }
+}

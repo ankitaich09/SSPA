@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 181.0,
+        "mean_time": 25.857142857142858,
+        "positive_score": 0.3088235294117647,
+        "negative_score": 0.1514705882352941,
+        "subjective_score": 0.137987012987013,
+        "top_emotions": [
+            [
+                "trust",
+                0.3125
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 3,
+            "trust": 5,
+            "anger": 2,
+            "negative": 2,
+            "disgust": 1,
+            "fear": 1,
+            "sadness": 1,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5434782608695652,
+        "cttr": 5.21286035142687,
+        "diversity": 55.73722627737226,
+        "herdan": 0.8830732342711605,
+        "summer": 0.9247077636969884,
+        "dugast": 44.600017156916394,
+        "maas": 0.02242151603847363
+    },
+    "utterance_features": {
+        "num_utterances": 8,
+        "total_words": 201,
+        "total_unique_words": 49,
+        "avg_word_per_utter": 25.125
+    },
+    "unigrams": {
+        "stuff": 4,
+        "fix": 4,
+        "need": 3,
+        "im": 3,
+        "uh": 2,
+        "get": 2,
+        "wet": 2,
+        "leakin": 2,
+        "see": 2,
+        "tryin": 2
+    },
+    "bigrams": {
+        "im tryin": 2,
+        "get wet": 2,
+        "tryin see": 2,
+        "wer participant": 1,
+        "waited put": 1,
+        "ive waited": 1,
+        "fix ive": 1,
+        "need fix": 1,
+        "stuff need": 1,
+        "leakin stuff": 1
+    },
+    "trigrams": {
+        "im tryin see": 2,
+        "wer participant 1002": 1,
+        "put pan catch": 1,
+        "ive waited put": 1,
+        "fix ive waited": 1,
+        "need fix ive": 1,
+        "stuff need fix": 1,
+        "leakin stuff need": 1,
+        "ph leakin stuff": 1,
+        "cutting ph leakin": 1
+    }
+}

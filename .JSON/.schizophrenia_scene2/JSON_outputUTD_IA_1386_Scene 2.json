@@ -1,0 +1,76 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 194.0,
+        "mean_time": 21.555555555555557,
+        "positive_score": 0.20460893854748605,
+        "negative_score": 0.2681564245810056,
+        "subjective_score": 0.16574074074074074,
+        "top_emotions": [
+            [
+                "negative",
+                0.2777777777777778
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 10,
+            "fear": 5,
+            "sadness": 5,
+            "positive": 5,
+            "trust": 6,
+            "anticipation": 4,
+            "joy": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4150326797385621,
+        "cttr": 5.133670729935715,
+        "diversity": 77.24147144393962,
+        "herdan": 0.8463553874312418,
+        "summer": 0.9043813079774099,
+        "dugast": 37.25210410089059,
+        "maas": 0.026844121268739096
+    },
+    "utterance_features": {
+        "num_utterances": 10,
+        "total_words": 319,
+        "total_unique_words": 39,
+        "avg_word_per_utter": 31.9
+    },
+    "unigrams": {
+        "uh": 11,
+        "like": 7,
+        "much": 6,
+        "well": 5,
+        "day": 5,
+        "uhm": 4,
+        "think": 4,
+        "need": 4,
+        "really": 4,
+        "worse": 4
+    },
+    "bigrams": {
+        "like said": 3,
+        "really need": 3,
+        "day back": 2,
+        "well really": 2,
+        "like much": 2,
+        "much worse": 2,
+        "gotten much": 2,
+        "uh much": 2,
+        "leak gotten": 2,
+        "ceiling raining": 1
+    },
+    "trigrams": {
+        "leak gotten much": 2,
+        "well really need": 2,
+        "yes well uhm": 1,
+        "worse day thats": 1,
+        "day thats im": 1,
+        "thats im calling": 1,
+        "im calling dont": 1,
+        "calling dont want": 1,
+        "dont want get": 1,
+        "want get worse": 1
+    }
+}

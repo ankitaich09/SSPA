@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 213.0,
+        "mean_time": 23.666666666666668,
+        "positive_score": 0.21971153846153846,
+        "negative_score": 0.2533653846153846,
+        "subjective_score": 0.1326530612244898,
+        "top_emotions": [
+            [
+                "negative",
+                0.22033898305084745
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 13,
+            "anticipation": 8,
+            "joy": 6,
+            "positive": 6,
+            "sadness": 8,
+            "trust": 11,
+            "fear": 4,
+            "surprise": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.34572490706319703,
+        "cttr": 5.6703100759021385,
+        "diversity": 52.93063931748651,
+        "herdan": 0.831085277080206,
+        "summer": 0.8993686498137092,
+        "dugast": 37.2250473580533,
+        "maas": 0.026863632714322364
+    },
+    "utterance_features": {
+        "num_utterances": 10,
+        "total_words": 544,
+        "total_unique_words": 52,
+        "avg_word_per_utter": 54.4
+    },
+    "unigrams": {
+        "know": 11,
+        "interviewer": 8,
+        "could": 7,
+        "getting": 7,
+        "come": 5,
+        "leak": 5,
+        "okay": 5,
+        "problem": 4,
+        "someone": 4,
+        "uh": 4
+    },
+    "bigrams": {
+        "last week": 3,
+        "okay well": 3,
+        "dont know": 2,
+        "go find": 2,
+        "know keep": 2,
+        "getting damaged": 2,
+        "thing getting": 2,
+        "could move": 2,
+        "youre able": 2,
+        "interviewer dont": 2
+    },
+    "trigrams": {
+        "interviewer dont know": 2,
+        "thing getting damaged": 2,
+        "may go find": 2,
+        "hello interviewer patient": 1,
+        "interviewer interviewer could": 1,
+        "minute interviewer interviewer": 1,
+        "wait minute interviewer": 1,
+        "yeah wait minute": 1,
+        "oh yeah wait": 1,
+        "think oh yeah": 1
+    }
+}

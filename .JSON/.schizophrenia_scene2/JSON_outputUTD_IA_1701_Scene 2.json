@@ -1,0 +1,82 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 192.0,
+        "mean_time": 27.428571428571427,
+        "positive_score": 0.29444444444444445,
+        "negative_score": 0.15555555555555556,
+        "subjective_score": 0.17857142857142858,
+        "top_emotions": [
+            [
+                "trust",
+                0.19047619047619047
+            ],
+            [
+                "negative",
+                0.19047619047619047
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 4,
+            "sadness": 2,
+            "surprise": 2,
+            "disgust": 1,
+            "fear": 2,
+            "anticipation": 3,
+            "positive": 2,
+            "trust": 4,
+            "joy": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5637583892617449,
+        "cttr": 4.865989349453335,
+        "diversity": 51.983007953723785,
+        "herdan": 0.8854644970068565,
+        "summer": 0.9244560383793713,
+        "dugast": 43.689041172194536,
+        "maas": 0.02288903517151208
+    },
+    "utterance_features": {
+        "num_utterances": 8,
+        "total_words": 152,
+        "total_unique_words": 48,
+        "avg_word_per_utter": 19.0
+    },
+    "unigrams": {
+        "please": 3,
+        "uhm": 3,
+        "think": 3,
+        "ceiling": 3,
+        "affected": 2,
+        "could": 2,
+        "like": 2,
+        "help": 2,
+        "thats": 2,
+        "underneath": 2
+    },
+    "bigrams": {
+        "please help": 2,
+        "yes bucket": 2,
+        "part ceiling": 1,
+        "outside uh": 1,
+        "call outside": 1,
+        "think call": 1,
+        "affected think": 1,
+        "thats affected": 1,
+        "ceiling thats": 1,
+        "hi patient": 1
+    },
+    "trigrams": {
+        "hi patient uhm": 1,
+        "inaudible 000119 thats": 1,
+        "think call outside": 1,
+        "affected think call": 1,
+        "thats affected think": 1,
+        "ceiling thats affected": 1,
+        "part ceiling thats": 1,
+        "underneath part ceiling": 1,
+        "bucket underneath part": 1,
+        "yes bucket underneath": 1
+    }
+}

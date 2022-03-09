@@ -1,0 +1,78 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 182.0,
+        "mean_time": 30.333333333333332,
+        "positive_score": 0.21815286624203822,
+        "negative_score": 0.24920382165605096,
+        "subjective_score": 0.1475563909774436,
+        "top_emotions": [
+            [
+                "positive",
+                0.3783783783783784
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 14,
+            "trust": 8,
+            "negative": 4,
+            "anger": 1,
+            "disgust": 1,
+            "sadness": 2,
+            "anticipation": 4,
+            "joy": 2,
+            "fear": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.36666666666666664,
+        "cttr": 4.709918612177214,
+        "diversity": 54.6493344727199,
+        "herdan": 0.8269898122610495,
+        "summer": 0.8919253885981095,
+        "dugast": 33.518792911840485,
+        "maas": 0.029834009912891313
+    },
+    "utterance_features": {
+        "num_utterances": 7,
+        "total_words": 330,
+        "total_unique_words": 38,
+        "avg_word_per_utter": 47.142857142857146
+    },
+    "unigrams": {
+        "come": 6,
+        "sir": 5,
+        "get": 4,
+        "someone": 4,
+        "take": 3,
+        "okay": 3,
+        "getting": 3,
+        "situation": 3,
+        "long": 3,
+        "reimburse": 3
+    },
+    "bigrams": {
+        "okay sir": 3,
+        "someone come": 3,
+        "get someone": 2,
+        "reimburse take": 2,
+        "soon possible": 2,
+        "long come": 2,
+        "come think": 1,
+        "ahead reimburse": 1,
+        "go ahead": 1,
+        "pay go": 1
+    },
+    "trigrams": {
+        "get someone come": 2,
+        "waiting long come": 1,
+        "reimburse take rent": 1,
+        "ahead reimburse take": 1,
+        "go ahead reimburse": 1,
+        "pay go ahead": 1,
+        "ill pay go": 1,
+        "come ill pay": 1,
+        "someone come ill": 1,
+        "solution get someone": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 153.0,
+        "mean_time": 10.2,
+        "positive_score": 0.259375,
+        "negative_score": 0.209375,
+        "subjective_score": 0.1744186046511628,
+        "top_emotions": [
+            [
+                "negative",
+                0.3076923076923077
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 8,
+            "fear": 4,
+            "sadness": 4,
+            "surprise": 3,
+            "joy": 1,
+            "positive": 3,
+            "trust": 2,
+            "anticipation": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4869109947643979,
+        "cttr": 4.7582939438988525,
+        "diversity": 48.566075924591416,
+        "herdan": 0.8629785854159107,
+        "summer": 0.9111539966071452,
+        "dugast": 38.33177057753505,
+        "maas": 0.026088020066207585
+    },
+    "utterance_features": {
+        "num_utterances": 16,
+        "total_words": 221,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 13.8125
+    },
+    "unigrams": {
+        "well": 6,
+        "thats": 4,
+        "today": 4,
+        "leaking": 3,
+        "emergency": 3,
+        "got": 3,
+        "wer": 2,
+        "soak": 2,
+        "put": 2,
+        "water": 2
+    },
+    "bigrams": {
+        "well ive": 2,
+        "put towel": 2,
+        "soak water": 2,
+        "youve got": 2,
+        "water still": 1,
+        "oh got": 1,
+        "carpet oh": 1,
+        "furniture carpet": 1,
+        "dripping furniture": 1,
+        "still dripping": 1
+    },
+    "trigrams": {
+        "wer 1266 362019": 1,
+        "got today something": 1,
+        "carpet oh got": 1,
+        "furniture carpet oh": 1,
+        "dripping furniture carpet": 1,
+        "still dripping furniture": 1,
+        "leaking still dripping": 1,
+        "still leaking still": 1,
+        "water still leaking": 1,
+        "soak water still": 1
+    }
+}

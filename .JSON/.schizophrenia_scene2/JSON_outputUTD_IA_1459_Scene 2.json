@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 181.0,
+        "mean_time": 15.083333333333334,
+        "positive_score": 0.23125,
+        "negative_score": 0.209375,
+        "subjective_score": 0.16806722689075632,
+        "top_emotions": [
+            [
+                "negative",
+                0.21621621621621623
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 7,
+            "joy": 1,
+            "positive": 5,
+            "surprise": 3,
+            "trust": 7,
+            "negative": 8,
+            "sadness": 4,
+            "fear": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4641509433962264,
+        "cttr": 5.342778585985753,
+        "diversity": 61.87994722955145,
+        "herdan": 0.862440387876999,
+        "summer": 0.9139167157743651,
+        "dugast": 40.56226780428124,
+        "maas": 0.024653453914981856
+    },
+    "utterance_features": {
+        "num_utterances": 13,
+        "total_words": 279,
+        "total_unique_words": 41,
+        "avg_word_per_utter": 21.46153846153846
+    },
+    "unigrams": {
+        "uhm": 15,
+        "well": 7,
+        "okay": 7,
+        "way": 4,
+        "fixed": 4,
+        "furniture": 3,
+        "get": 3,
+        "oh": 3,
+        "need": 3,
+        "laugh": 2
+    },
+    "bigrams": {
+        "uhm well": 5,
+        "okay uhm": 4,
+        "need fixed": 3,
+        "im sure": 2,
+        "fixed immediately": 2,
+        "well im": 2,
+        "oh okay": 2,
+        "okay well": 2,
+        "uhm way": 2,
+        "fixed gotten": 2
+    },
+    "trigrams": {
+        "okay uhm well": 3,
+        "well im sure": 2,
+        "uhm well im": 2,
+        "need fixed immediately": 2,
+        "hello interviewer uhm": 1,
+        "back uhm go": 1,
+        "need fixed gotten": 1,
+        "really need fixed": 1,
+        "cause really need": 1,
+        "sure cause really": 1
+    }
+}

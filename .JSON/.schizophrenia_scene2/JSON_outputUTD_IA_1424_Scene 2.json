@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 174.0,
+        "mean_time": 11.6,
+        "positive_score": 0.2417452830188679,
+        "negative_score": 0.1804245283018868,
+        "subjective_score": 0.1394736842105263,
+        "top_emotions": [
+            [
+                "negative",
+                0.26666666666666666
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 3,
+            "negative": 4,
+            "fear": 1,
+            "sadness": 1,
+            "trust": 2,
+            "anticipation": 2,
+            "joy": 1,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5326633165829145,
+        "cttr": 5.313299895441106,
+        "diversity": 64.55400572246066,
+        "herdan": 0.8810070926445827,
+        "summer": 0.9239760261683699,
+        "dugast": 44.484204498962555,
+        "maas": 0.022479889463310997
+    },
+    "utterance_features": {
+        "num_utterances": 16,
+        "total_words": 199,
+        "total_unique_words": 42,
+        "avg_word_per_utter": 12.4375
+    },
+    "unigrams": {
+        "know": 4,
+        "leak": 3,
+        "okay": 3,
+        "week": 3,
+        "already": 3,
+        "today": 2,
+        "keep": 2,
+        "come": 2,
+        "think": 2,
+        "need": 2
+    },
+    "bigrams": {
+        "let know": 2,
+        "need done": 2,
+        "done today": 2,
+        "hi patient": 1,
+        "already laugh": 1,
+        "real life": 1,
+        "say real": 1,
+        "know say": 1,
+        "dont know": 1,
+        "uh dont": 1
+    },
+    "trigrams": {
+        "need done today": 2,
+        "hi patient ph": 1,
+        "youre already laugh": 1,
+        "real life would": 1,
+        "say real life": 1,
+        "know say real": 1,
+        "dont know say": 1,
+        "uh dont know": 1,
+        "laugh uh dont": 1,
+        "already laugh uh": 1
+    }
+}

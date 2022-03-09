@@ -1,0 +1,78 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 189.0,
+        "mean_time": 21.0,
+        "positive_score": 0.2711693548387097,
+        "negative_score": 0.15423387096774194,
+        "subjective_score": 0.13963963963963963,
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 6,
+            "fear": 2,
+            "sadness": 3,
+            "surprise": 2,
+            "trust": 8,
+            "positive": 6,
+            "anticipation": 2,
+            "joy": 2,
+            "disgust": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5291479820627802,
+        "cttr": 5.5874619409624655,
+        "diversity": 58.66143260409316,
+        "herdan": 0.882288343352817,
+        "summer": 0.9257958085172426,
+        "dugast": 45.93573759366099,
+        "maas": 0.021769542678204374
+    },
+    "utterance_features": {
+        "num_utterances": 10,
+        "total_words": 233,
+        "total_unique_words": 39,
+        "avg_word_per_utter": 23.3
+    },
+    "unigrams": {
+        "uhm": 8,
+        "okay": 4,
+        "soon": 4,
+        "ive": 3,
+        "floor": 3,
+        "leak": 3,
+        "dont": 3,
+        "keep": 3,
+        "possible": 3,
+        "well": 2
+    },
+    "bigrams": {
+        "soon possible": 3,
+        "wood floor": 2,
+        "dont want": 2,
+        "okay well": 2,
+        "stuff hope": 1,
+        "yes ive": 1,
+        "uhm yes": 1,
+        "mopping uhm": 1,
+        "keep mopping": 1,
+        "place keep": 1
+    },
+    "trigrams": {
+        "hi uhm ive": 1,
+        "really put stuff": 1,
+        "yes ive mopped": 1,
+        "uhm yes ive": 1,
+        "mopping uhm yes": 1,
+        "keep mopping uhm": 1,
+        "place keep mopping": 1,
+        "get place keep": 1,
+        "dont get place": 1,
+        "hope dont get": 1
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 183.0,
+        "mean_time": 18.3,
+        "positive_score": 0.30606617647058826,
+        "negative_score": 0.16819852941176472,
+        "subjective_score": 0.1650485436893204,
+        "top_emotions": [
+            [
+                "negative",
+                0.2647058823529412
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 9,
+            "fear": 2,
+            "sadness": 7,
+            "anger": 2,
+            "disgust": 2,
+            "anticipation": 1,
+            "positive": 4,
+            "surprise": 2,
+            "trust": 5
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5648148148148148,
+        "cttr": 5.869727736761195,
+        "diversity": 70.5509025270758,
+        "herdan": 0.8937250650804851,
+        "summer": 0.9331927745156854,
+        "dugast": 50.57898564468675,
+        "maas": 0.019771056838207835
+    },
+    "utterance_features": {
+        "num_utterances": 11,
+        "total_words": 234,
+        "total_unique_words": 43,
+        "avg_word_per_utter": 21.272727272727273
+    },
+    "unigrams": {
+        "uhm": 5,
+        "okay": 4,
+        "uh": 4,
+        "really": 3,
+        "get": 3,
+        "im": 3,
+        "water": 3,
+        "ive": 2,
+        "put": 2,
+        "fix": 2
+    },
+    "bigrams": {
+        "soon possible": 2,
+        "ive put": 2,
+        "get soon": 2,
+        "really worried": 1,
+        "floor uhm": 1,
+        "towel floor": 1,
+        "put towel": 1,
+        "water ive": 1,
+        "catch water": 1,
+        "bucket catch": 1
+    },
+    "trigrams": {
+        "get soon possible": 2,
+        "hi interviewer patient": 1,
+        "really worried gonna": 1,
+        "floor uhm thats": 1,
+        "towel floor uhm": 1,
+        "put towel floor": 1,
+        "ive put towel": 1,
+        "water ive put": 1,
+        "catch water ive": 1,
+        "bucket catch water": 1
+    }
+}

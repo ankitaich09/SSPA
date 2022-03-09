@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 148.0,
+        "mean_time": 14.8,
+        "positive_score": 0.27004716981132076,
+        "negative_score": 0.18514150943396226,
+        "subjective_score": 0.11422413793103449,
+        "top_emotions": [
+            [
+                "negative",
+                0.3
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 6,
+            "negative": 9,
+            "positive": 5,
+            "trust": 3,
+            "fear": 1,
+            "sadness": 2,
+            "anger": 1,
+            "disgust": 1,
+            "joy": 1,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4838709677419355,
+        "cttr": 5.388159060803248,
+        "diversity": 66.23876236298571,
+        "herdan": 0.868332930957368,
+        "summer": 0.9173024975505367,
+        "dugast": 41.87401440811149,
+        "maas": 0.023881159094368755
+    },
+    "utterance_features": {
+        "num_utterances": 11,
+        "total_words": 256,
+        "total_unique_words": 43,
+        "avg_word_per_utter": 23.272727272727273
+    },
+    "unigrams": {
+        "know": 12,
+        "uhm": 7,
+        "okay": 5,
+        "uh": 4,
+        "leak": 4,
+        "yeah": 4,
+        "time": 3,
+        "ill": 3,
+        "fix": 3,
+        "like": 3
+    },
+    "bigrams": {
+        "know time": 2,
+        "wait list": 2,
+        "hopefully know": 2,
+        "okay ill": 2,
+        "hi uhm": 1,
+        "okay laugh": 1,
+        "wer yeah": 1,
+        "yeah wait": 1,
+        "list okay": 1,
+        "uh well": 1
+    },
+    "trigrams": {
+        "hi uhm wondering": 1,
+        "fix wer yeah": 1,
+        "try know keep": 1,
+        "ill try know": 1,
+        "uhm ill try": 1,
+        "know uhm ill": 1,
+        "hopefully know uhm": 1,
+        "well hopefully know": 1,
+        "uh well hopefully": 1,
+        "laugh uh well": 1
+    }
+}

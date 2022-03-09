@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 189.0,
+        "mean_time": 23.625,
+        "positive_score": 0.26166666666666666,
+        "negative_score": 0.21,
+        "subjective_score": 0.14534883720930233,
+        "top_emotions": [
+            [
+                "negative",
+                0.2903225806451613
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 9,
+            "fear": 3,
+            "sadness": 5,
+            "anticipation": 6,
+            "positive": 3,
+            "surprise": 1,
+            "trust": 3,
+            "anger": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.43253968253968256,
+        "cttr": 4.855245894742376,
+        "diversity": 49.141590773682864,
+        "herdan": 0.8484325972865552,
+        "summer": 0.903885083966716,
+        "dugast": 36.48165099170715,
+        "maas": 0.02741104014802717
+    },
+    "utterance_features": {
+        "num_utterances": 9,
+        "total_words": 277,
+        "total_unique_words": 39,
+        "avg_word_per_utter": 30.77777777777778
+    },
+    "unigrams": {
+        "know": 12,
+        "uhm": 9,
+        "okay": 6,
+        "youre": 6,
+        "week": 4,
+        "let": 3,
+        "fine": 3,
+        "two": 3,
+        "really": 3,
+        "get": 3
+    },
+    "bigrams": {
+        "know youre": 4,
+        "let know": 3,
+        "two week": 3,
+        "youre available": 2,
+        "starting get": 2,
+        "understand know": 2,
+        "wait two": 2,
+        "schedule week": 1,
+        "put schedule": 1,
+        "week dont": 1
+    },
+    "trigrams": {
+        "wait two week": 2,
+        "let know youre": 2,
+        "understand know youre": 2,
+        "could know put": 1,
+        "okay two week": 1,
+        "two week uhm": 1,
+        "week uhm way": 1,
+        "uhm way could": 1,
+        "way could know": 1,
+        "hi interviewer im": 1
+    }
+}

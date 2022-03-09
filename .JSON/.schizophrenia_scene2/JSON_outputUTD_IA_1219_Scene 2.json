@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 165.0,
+        "mean_time": 23.571428571428573,
+        "positive_score": 0.28581081081081083,
+        "negative_score": 0.1918918918918919,
+        "subjective_score": 0.12706043956043955,
+        "top_emotions": [
+            [
+                "positive",
+                0.2159090909090909
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 12,
+            "disgust": 6,
+            "trust": 16,
+            "sadness": 4,
+            "positive": 19,
+            "anger": 5,
+            "fear": 7,
+            "anticipation": 8,
+            "joy": 7,
+            "surprise": 4
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4043062200956938,
+        "cttr": 5.84498721966833,
+        "diversity": 44.34857601283594,
+        "herdan": 0.8499568381203916,
+        "summer": 0.9095657103461546,
+        "dugast": 40.22496831523388,
+        "maas": 0.024860181173126817
+    },
+    "utterance_features": {
+        "num_utterances": 8,
+        "total_words": 460,
+        "total_unique_words": 42,
+        "avg_word_per_utter": 57.5
+    },
+    "unigrams": {
+        "like": 13,
+        "know": 7,
+        "dont": 6,
+        "u": 5,
+        "cant": 5,
+        "oh": 4,
+        "help": 4,
+        "thats": 4,
+        "uhm": 4,
+        "im": 3
+    },
+    "bigrams": {
+        "thats fine": 2,
+        "wont stop": 2,
+        "going uhm": 2,
+        "god bless": 2,
+        "know like": 2,
+        "like cant": 2,
+        "u nut": 2,
+        "driving u": 2,
+        "better u": 2,
+        "he got": 1
+    },
+    "trigrams": {
+        "driving u nut": 2,
+        "oh hows going": 1,
+        "real hard right": 1,
+        "work two job": 1,
+        "two job husband": 1,
+        "job husband he": 1,
+        "husband he got": 1,
+        "he got laid": 1,
+        "got laid he": 1,
+        "laid he trying": 1
+    }
+}

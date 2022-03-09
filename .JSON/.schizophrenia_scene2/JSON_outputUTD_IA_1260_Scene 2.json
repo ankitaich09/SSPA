@@ -1,0 +1,76 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 174.0,
+        "mean_time": 15.818181818181818,
+        "positive_score": 0.1803435114503817,
+        "negative_score": 0.27099236641221375,
+        "subjective_score": 0.12040441176470588,
+        "top_emotions": [
+            [
+                "negative",
+                0.3333333333333333
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 11,
+            "fear": 5,
+            "sadness": 6,
+            "anticipation": 5,
+            "anger": 2,
+            "disgust": 2,
+            "positive": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.43214285714285716,
+        "cttr": 5.113183241107525,
+        "diversity": 57.67061259899812,
+        "herdan": 0.8511037471389138,
+        "summer": 0.9067524618320213,
+        "dugast": 37.8437300798044,
+        "maas": 0.026424456518720853
+    },
+    "utterance_features": {
+        "num_utterances": 12,
+        "total_words": 299,
+        "total_unique_words": 42,
+        "avg_word_per_utter": 24.916666666666668
+    },
+    "unigrams": {
+        "okay": 10,
+        "well": 6,
+        "ill": 5,
+        "come": 5,
+        "much": 5,
+        "see": 5,
+        "worse": 4,
+        "worser": 4,
+        "gotten": 4,
+        "day": 3
+    },
+    "bigrams": {
+        "another apartment": 3,
+        "okay uhm": 3,
+        "come look": 3,
+        "much worser": 3,
+        "wait longer": 2,
+        "come fix": 2,
+        "uhm well": 2,
+        "well ill": 2,
+        "much worse": 2,
+        "gotten much": 2
+    },
+    "trigrams": {
+        "okay uhm well": 2,
+        "gotten much worse": 2,
+        "move another apartment": 2,
+        "long take come": 1,
+        "well see go": 1,
+        "see go see": 1,
+        "go see long": 1,
+        "see long take": 1,
+        "hi leak thats": 1,
+        "apartment okay uhm": 1
+    }
+}

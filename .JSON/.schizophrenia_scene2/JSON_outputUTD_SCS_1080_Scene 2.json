@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 144.0,
+        "mean_time": 13.090909090909092,
+        "positive_score": 0.275,
+        "negative_score": 0.17608695652173914,
+        "subjective_score": 0.1796875,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.1875
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 6,
+            "joy": 4,
+            "positive": 4,
+            "surprise": 3,
+            "trust": 5,
+            "negative": 4,
+            "anger": 1,
+            "disgust": 1,
+            "fear": 2,
+            "sadness": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5606936416184971,
+        "cttr": 5.214752306533562,
+        "diversity": 59.861215774930926,
+        "herdan": 0.8877260086325888,
+        "summer": 0.9273667097506076,
+        "dugast": 45.899246403682945,
+        "maas": 0.02178685007603437
+    },
+    "utterance_features": {
+        "num_utterances": 12,
+        "total_words": 178,
+        "total_unique_words": 38,
+        "avg_word_per_utter": 14.833333333333334
+    },
+    "unigrams": {
+        "uh": 7,
+        "okay": 5,
+        "well": 5,
+        "could": 4,
+        "uhm": 3,
+        "busy": 3,
+        "fix": 2,
+        "good": 2,
+        "time": 2,
+        "come": 2
+    },
+    "bigrams": {
+        "okay well": 3,
+        "well could": 2,
+        "uh good": 1,
+        "many type": 1,
+        "uh concerned": 1,
+        "okay uh": 1,
+        "house okay": 1,
+        "around house": 1,
+        "uh around": 1,
+        "idea uh": 1
+    },
+    "trigrams": {
+        "uh good morning": 1,
+        "tell many type": 1,
+        "uh concerned leakage": 1,
+        "okay uh concerned": 1,
+        "house okay uh": 1,
+        "around house okay": 1,
+        "uh around house": 1,
+        "idea uh around": 1,
+        "type idea uh": 1,
+        "many type idea": 1
+    }
+}

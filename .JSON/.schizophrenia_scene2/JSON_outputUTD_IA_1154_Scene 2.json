@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 188.0,
+        "mean_time": 20.88888888888889,
+        "positive_score": 0.24871134020618557,
+        "negative_score": 0.22164948453608246,
+        "subjective_score": 0.10543478260869565,
+        "top_emotions": [
+            [
+                "trust",
+                0.32558139534883723
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 13,
+            "trust": 14,
+            "negative": 4,
+            "anticipation": 4,
+            "anger": 1,
+            "disgust": 1,
+            "sadness": 2,
+            "joy": 1,
+            "fear": 1,
+            "surprise": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5338983050847458,
+        "cttr": 5.7996200927594375,
+        "diversity": 62.93333333333334,
+        "herdan": 0.8851447261797271,
+        "summer": 0.9281547033224326,
+        "dugast": 47.57144903572724,
+        "maas": 0.021021011978192575
+    },
+    "utterance_features": {
+        "num_utterances": 10,
+        "total_words": 253,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 25.3
+    },
+    "unigrams": {
+        "uhm": 7,
+        "well": 4,
+        "dont": 4,
+        "know": 4,
+        "im": 3,
+        "need": 3,
+        "cover": 3,
+        "property": 3,
+        "uh": 2,
+        "renter": 2
+    },
+    "bigrams": {
+        "dont know": 3,
+        "uhm dont": 3,
+        "insurance cover": 2,
+        "renter insurance": 2,
+        "know renter": 2,
+        "property uhm": 2,
+        "housing authority": 2,
+        "report housing": 2,
+        "acquire ph": 1,
+        "preoccupied dont": 1
+    },
+    "trigrams": {
+        "uhm dont know": 3,
+        "renter insurance cover": 2,
+        "know renter insurance": 2,
+        "dont know renter": 2,
+        "property uhm dont": 2,
+        "report housing authority": 2,
+        "equipped acquire ph": 1,
+        "authority preoccupied dont": 1,
+        "housing authority preoccupied": 1,
+        "ill report housing": 1
+    }
+}

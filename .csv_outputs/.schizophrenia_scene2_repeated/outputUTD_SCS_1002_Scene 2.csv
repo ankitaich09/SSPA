@@ -1,0 +1,18 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi, this is Interviewer, the landlady."
+1, 00:00:11, Hello., What can I-- what can I help you with today?
+2, 00:00:16, There’s leaking in my apartment and I need you to fix it.," Yeah. I mean, you know, I- I just haven’t had enough time to get over there to fix it this week. I’ve just been so busy the past week."
+3, 00:00:32," Well, you need to send somebody to fix it."," Uhm.. you know, it didn’t sound that bad the last time you called me."
+4, 00:00:42," Every time it rain, it’s coming in my-- through the hole."," Yeah. Uhm.. well, you know, it might take me about a week, maybe even two weeks before I’ll have time to fix it."
+5, 00:00:58," It’s about to start raining some more. So, you need to come before then."," Well, you know, I just-- I don’t know uhm.. what I can do with your problem right now. There’s just lots of other tenants in the buildings that- that are having problems too."
+6, 00:01:14," No fix the leak, no rent.", Yeah. I understand. Uhm.. can you tell me like a little bit more about what you’ve done about the problem so far?
+7, 00:01:25, I haven’t done anything but put a bucket underneath the leak. That’s your job. You need to fix it.," Yeah. I know. You know, like I said, I’ve just been busy and you know, I do all the repairs myself for the whole building."
+8, 00:01:41," Well, you come on."," Yeah, I mean, you know, I have a list and- and you’re on the list, but there are other problems in the building that are more serious than yours."
+9, 00:01:58," Well. No fix the leak, no rent."," Uhm.. so, do you want to tell me a little bit more like about- about the leak, you know, kinda where it is and all that stuff?"
+10, 00:02:13," It rain, it leaks.", Uh-huh.
+11, 00:02:17, I’m not happy. Fix it.," Yeah, I mean, like I said, you know, it just might take me like about a week or so, you know, to get over there to look at it."
+12, 00:02:30," Well, I’m gonna have to take a week or two portion of the rent money out."," Okay. Well, uhm.. you know, is there- is there anything else I can- I can help you with today?"
+13, 00:02:47, Nope. Long as you understand you’re getting half the rent.," Yeah. I mean, you know, uhm.. now that I am aware of the problem, like I’ll be over as soon as I can, you know, hopefully within the next week or so to take a look."
+14, 00:03:03," Take you two weeks, that’s two weeks out of the rent coming out."," All right. Well, uhm.. I guess uh.. you know, thanks for calling. I understand you got to do what you got to do."
+15, 00:03:14, Okay., All right. I will be over there in about a week or so to take a look.
+16, 00:03:19, All right., All right. Thank you.

@@ -1,0 +1,13 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi, this is Interviewer, the landlady."
+1, 00:00:12," Hi. I was asking you about the uhm.. the leak in my ceiling, if that could be fixed somehow, if you could uhm.. maybe have a contractor come over to fix it soon."," Mm.. well, I actually do all the repairs myself for the whole building."
+2, 00:00:29," Oh, okay. Uhm.. I didn’t really know that. Uhm.. I know you’ve been busy lately uhm.. and haven’t been able to fix the leak, but-- in the ceiling, but uhm.. I could have my dad come over. He’s a general contractor. Is that okay?"," Uhm.. well, uh.. can you tell me a little bit about what you’ve done to fix the problem so far?"
+3, 00:00:55," Well, I-- all I can do is like put like a bucket under the leak right now for the time being and it’s uh.. I haven’t really done anything to the actual ceiling to fix it yet, but I mean, my dad said he could come over to uh.. fix it if you want."," Well, like I said, I- I do all the repairs in the building myself."
+4, 00:01:22,wer: Okay., I think it’s recording.
+5, 00:01:37," Uhm.. so, uhm.. so, it would be okay if uh.. well, you said you do all the- the repairs yourself. Uhm.. can you fix it pretty soon or when would you be available to fix it?"," Uhm.. well, I have a lot of other tenants whose problems-- with problems that are ahead of yours."
+6, 00:02:00," Oh, okay. So, uhm.. can you give me a timeframe of when you could possibly come over to fix it?"," Yeah. It might take me about a week, maybe even two weeks before I’ll have time to fix it."
+7, 00:02:14," Oh, okay. Uhm.. well, it’s just uh.. it’s constantly leaking from the ceiling and uhm.. there’s not much else I can do, I- I guess, besides wait and would- would it be okay for me to- to call someone else to come fix it, like a contractor or something?"," Uhm.. well, it didn’t’ sound that bad the last time you called."
+8, 00:02:45," It’s just gotten worse, you know, in the-- over the past week and I don’t want it to get e- even worse, you know, than what it is now, but..."," Hmm. Well, I’m not really sure what I can do about your problem right now."
+9, 00:03:02," Okay. Well, can we at least make a schedule, like an appointment for next week or the week after?", Sure. Yeah. Uh.. I can probably come in the next week or even in the next two weeks.
+10, 00:03:17," Okay. Well, uhm.. I’ll put that on my calendar and uh.. hopefully the- the ceiling, maybe the ceiling will just stop leaking by itself. I don't know."," Okay. Uhm.. so, I’m aware of the problem and I’ll be over as soon as I can to fix it."
+11, 00:03:38," Alright. Well, thank you for your help.", Thank you.

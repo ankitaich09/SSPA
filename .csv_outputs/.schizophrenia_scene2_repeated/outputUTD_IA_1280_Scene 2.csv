@@ -1,0 +1,13 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ,"  Hi.  This is Interviewer, the landlady."
+1, 00:00:15,wer: Okay., Okay.
+2, 00:00:38,wer: Yeah.," That’s actually a good idea, uhm.. but I actually do all the repairs myself for the whole building."
+3, 00:00:55,wer: Yeah.  Of course.  Of course I can., Mm-hm.
+4, 00:01:15,wer: Uhm.. can you tell me what you’ve done about the problem so far?, --before you go...
+5, 00:01:29,wer: Okay., Okay.
+6, 00:01:43,wer: Okay., All right.
+7, 00:01:53,wer: Uhm.. so it didn’t sound that bad the last time you called., Okay.
+8, 00:02:12," Nah.  Nah, it’s not that bad.  It wasn’t bad, but it’s got worser.", Okay.
+9, 00:02:18,wer: Okay., Okay.
+10, 00:02:37, Yeah.  Yep.," Okay.  Well, it’ll probably take me about a week, uh.. maybe even two weeks, before I’ll be able to get over there to fix it, but I’ll be there around then, okay?"
+11, 00:02:57,"wer: Okay.  Cool.  Well, thank you for calling.  I’ll see you soon, all right?  Hm.", Bye-bye.

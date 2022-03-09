@@ -1,0 +1,16 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi, this is Interviewer, the landlady."
+1, 00:00:10," Hi, how you doing? My uhm.. I’m Patient. I’m the tenant resident of the apartment and I called uhm.. a couple days about my leak and now, uh.. you see uh.. I waited two days. Nobody showed and I wondered if there’s something wrong or y’all don’t have enough maintenance people on staff or short on maintenance or if maintenance got a lot of work orders or what’s the- what’s the problem?", Yeah. I’m sorry I haven’t had enough time to get over to fix it. I’ve just been so busy this past week.
+2, 00:00:41," Oh, okay. Okay. Okay. But now, things are getting a little worse. The leak now getting worse.", Okay.
+3, 00:00:46," So, I really need somebody to fix it, come over and take a look and fix it."," Yeah. You know, I just have a lot of other tenants with problems that are ahead of yours right now."
+4, 00:00:54," Okay. Okay. Okay. Okay. Okay. What’s my best bet to- to control the leak, just put like some empty bucket between the leak and let..."," Yeah. I mean, what have you uhm.. what have you tried to do about the problem so far?"
+5, 00:01:08,wer: Okay., Okay.
+6, 00:01:15,"wer: Uhm.. you know, it might take me about a week, maybe even two weeks before I’ll have time to fix it.", Mm-hmm.
+7, 00:01:25,wer: Yeah., Mm-hmm.
+8, 00:01:33,wer: Okay., All right.
+9, 00:01:47," Okay. I’m sorry that you been busy, but I wish y’all can-- wish y’all can come a little sooner, but I understand you got a lot of work orders. Yeah. Yeah."," Yeah. Yeah, and I uhm.. I do all the repairs myself for the whole building."
+10, 00:02:00," Oh, okay. Okay. So, it’s one of you. Okay. Okay. I understand.", Mm-hmm. Yeah.
+11, 00:02:04,wer: Yeah. Yeah.," All right. Well, is there anything else that I can help you with?"
+12, 00:02:13," No, that’s it. That’s all. I just be waiting-- waiting on the landlord...", Okay.
+13, 00:02:17," I mean, maintenance man come through, that’s all."," Okay. Well, yeah, uhm.. someone should be over within the next week or two weeks to take a look at it."
+14, 00:02:24, Okay. Okay. All right. Thank you., All right. Thank you.

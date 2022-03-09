@@ -1,0 +1,14 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi, this is Interviewer, the landlady."
+1, 00:00:10, Uh.. good morning. How you doing?, I’m good. How are you?
+2, 00:00:14, Uh.. I’m doing pretty good. Uhm.. I have a leak in my ceiling and I would like for you to get- have to fix., Yeah. I’m sorry. I just haven’t had enough time to get over there to fix it yet. I’ve been really busy this week.
+3, 00:00:30," Well, could you uhm.. get one of the maintenance mans to come fix it for me while you busy and I’m busy? He could be busy."," Yeah. Uhm.. you know, I actually do all the repairs myself for the whole building."
+4, 00:00:47," Okay. So, could you give me an estimated time and date that you would be back?"," Yeah. Uhm.. you know, it might take me about a week, maybe even two weeks before I’ll have time to fix it?"
+5, 00:00:59," Okay. Well, what if my furniture become uh.. messed up because of the leakage?"," Yeah. Uhm.. you know, it didn’t sound that bad the last time that you called."
+6, 00:01:15," Well, it- it wasn’t that bad at first, but then now, it done got worser."," Okay. Yeah. Uhm.. you know, we’ll definitely uhm.. take care of the furniture and stuff if it gets messed up. Uhm.. I just have a lot other ten- tenants with problems uhm.. that are ahead of yours right now."
+7, 00:01:34," Okay. Well, could you tell me how many before me so I can have some type of idea uh.. to be around the house?"," Yeah. Uhm.. so, I don’t know the exact number of people, but like I said, it’ll probably be a week or so before I’ll be over to- to come take a look."
+8, 00:01:50, Okay. Uh.. are you not concerned about the leakage causing mold?, No. I’m definitely uhm.. concerned. I just uhm.. I don’t know what I can do about it right now.
+9, 00:02:06," Okay. Well, uh.. make sure you put me on the list and I’ll be waiting for you to uhm.. come by."," Okay. I will definitely-- you’re definitely on the list. Uhm.. and yeah, like I said, it will be about a week, maybe even two weeks. So, I’ll see you then."
+10, 00:02:22, All right. Thank you., Yeah. Is there anything else uhm.. I can do for you?
+11, 00:02:26," Uh.. no, ma’am, not at this present time."," Okay. Well, uhm.. uh.. thank you for giving me a call and I’ll talk to you later."
+12, 00:02:34, See you later. Bye., Okay. Bye.

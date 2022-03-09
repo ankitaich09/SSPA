@@ -1,0 +1,12 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi.  This is Interviewer, the landlady."
+1, 00:00:16, Hi.  Uhm.. This is Patient.  I live in Apartment 365., Mm-hm.
+2, 00:00:22," Uhm.. I think you know, I- I called you about-- a few days ago about the leak in my ceiling.  It’s gotten worse and uhm.. I’m collecting it, the water, in a bucket, but, you know, it’s getting difficult so it really needs to be fixed.", Okay.
+3, 00:00:40, Can you uhm.. come over sometime to fix it?," I’m sorry I haven’t had enough time to get over to fix it, but I’ve been very busy."
+4, 00:00:53, Okay.  Uhm.. do you know when you might be over to fix it?  Maybe today or tomorrow?  Uhm..--, I have a lot of other tenants with problems that are ahead of yours.
+5, 00:01:11," Okay.  Uhm.. so what- what am I gonna do about the leak?  ‘Cause it’s g- it’s gotten a lot worse.  I mean, what should I do, just keep filling the bucket with the water?", It didn’t sound that bad the last time you called.
+6, 00:01:33," Right.  It’s gotten worse though.  It’s gotten a lot worse.  So can I get someone-- can I call someone in to fix it, uh.. like a handyman?  Is that possible?  Uhm..--", I do all the repairs myself for the whole building.
+7, 00:01:59," Okay.  Okay.  Well, I’ll just keep collecting the water in bucket and hopefully you can be over sometime soon to fix it."," I have a list and you’re on the list, but there are other problems that are more serious."
+8, 00:02:24," Okay.  Okay.  Well, I guess- I guess I’ll just keep uh.. keep tryin’ to collect the water, but uhm.. okay.  Well, that’s good.  Have a nice day.  Hm.", So what have you done about the problem so far?
+9, 00:02:53, Uhm.. I just have a bucket that’s collecting the water.  So once it’s full I drain-- I put the-- pour the bucket in the sink and then start collecting the water again., Okay.  I’ll try to be over as soon as possible.
+10, 00:03:08, Okay.  Thank you., All right.  Have a nice day.

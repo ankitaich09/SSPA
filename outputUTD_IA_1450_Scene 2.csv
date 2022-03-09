@@ -1,0 +1,14 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi, this is Interviewer, the landlord."
+1, 00:00:10," Hi, this is Patient."," Hi, Patient. How are you doing today?"
+2, 00:00:15," I’m doing good. Uhm.. I have something, something that’s wrong with my apartment and I have contacted you a couple of days ago to let you know that I have a leak in my ceiling, and it hasn’t been fixed yet."," Oh, yeah, okay. Uh.. I'm sorry I haven’t had enough time to get over and fix it. Uh.. I’ve just been very busy."
+3, 00:00:40," Oh, well, could you send over the maintenance person so they can fix it?", Uh.. actually I do all the repairs myself for the whole building. Uhm.. so that’s why I’ve been busy.
+4, 00:00:53," Oh, okay. Well, can you make the time to make an appointment with me?"," Uhm.. yeah, I have a list and you’re on the list. Uh.. there’s just other problems right now that are more serious."
+5, 00:01:04," Oh, okay, well, I understand. Well, I, I’d just appreciate it if it can happen as soon as possible.", Uh.. have you done anything about the problem so far?
+6, 00:01:22," Well, there’s nothing that I could do."," Okay. I understand that. Uhm.. I mean, today I don’t really know what I could do about your problem. I’m sorry."
+7, 00:01:34," Well, okay, I’ll just wait. I’ll have my brother look at it and see what he can do.", Okay. Uhm.. it might take me a week or maybe even two weeks before I get around to fixing it.
+8, 00:01:49," Uh.. well, maybe I can tell my brother to go to Home Depot cause he knows what he’s doing."," Okay. I actually prefer to do all the repairs myself, just so I know what’s going on. Uhm.. so your brother can take a look at it, uhm.. but I’d appreciate it if you saved the repair for me."
+9, 00:02:11," Okay. Well, I’ll just be waiting."," Okay. Uhm.. well, will you give me call back if it gets any worse?"
+10, 00:02:21," Okay, I will."," Okay. Uh.. thanks for your patience, Patient."
+11, 00:02:25, You’re welcome., All righty. Uhm.. and I’ll hear from you soon if it gets worse. Okay?
+12, 00:02:29, Okay., All righty. Have a good one.

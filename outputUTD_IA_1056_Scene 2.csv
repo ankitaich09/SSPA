@@ -1,0 +1,13 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:00, ," Hi.  This is Interviewer, the landlord."
+1, 00:00:13, Hi.  Uhm.. I was wondering about uhm.. do you have some time about fixing the leak in my apartment?," Oh, I- I’m sorry.  I haven’t had enough time to get over to fix it.  I’ve been really busy lately."
+2, 00:00:26," Oh, really?  Yeah.  I- I called and left a voicemail like several days ago and a week before that as well."," Oh, okay.  Uhm.. so have you done anything about the problem yet?"
+3, 00:00:40," No.  Uhm.. I was talkin’ to my dad though.  He, you know, he’s a general construction worker, and he works on uh.. you know, a lot of different things, and uhm.. he said he could possibly fix it.  Is that okay, if I get your approval?", Uhm.. I actually pref-- I prefer to do all the repairs myself for the whole building.
+4, 00:01:01,wer: Uh.. it might--, Might take me a week or maybe even two weeks before I have time.
+5, 00:01:14," Yeah, ‘cause uhm.. you know, it’s starting to really destroy the rest of the apartment.  You know, like, it’s leaking and there’s mold growing on the- the ground and stuff, so...", Wow.  It- it really didn’t sound that bad the last time you called.
+6, 00:01:31," Yeah, it’s just been getting worse, you know, over time.  So hopefully, you know, if you have time later this week, maybe uhm.. you could stop by to just take a look at it, if- if not, you know, fix it?"," Yeah, I- I can stop by and take a look and-- but as far as repairs go, I have a list and you’re on the list, but uh.. there’s other problems right now that seem more serious that I hafta take care of."
+7, 00:01:54,"wer: Yeah, a wait list.", Uhm.. and you’re on there somewhere.
+8, 00:02:00," Okay. <laughs> Uh.. well, hopefully, you know, if uhm.. I’ll try to, you know, keep uh.. the rest of the leak from, you know, causing any other damage.  So is it okay, like, if I get my dad to kinda help me not fix the leak entirely but just, you know, clean up around the leak?"," Yeah, I don’t- I don’t think that should be an issue.  No."
+9, 00:02:26," Okay.  I’ll do that then and just wait for my turn on the wait list, I guess."," Alrighty.  Uhm.. well, if it gets worse, uhm.. give me a call back, okay?"
+10, 00:02:38," Okay, I’ll let ya know.", Alrighty.  Thank you.
+11, 00:02:41, All right.  Bye., Bye.

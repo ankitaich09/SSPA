@@ -1,0 +1,13 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:00, ," Subject 1304. Today is March 15, 2019, and this is scene 2."
+1, 00:00:10,"wer: No, I can't."," Hi, this is Interviewer, the landlady."
+2, 00:00:23, I need something. I just want you to come down please.," Well, I don't know what I can do about your problem right now."
+3, 00:00:32, How do you know what you can do when you haven't even come look?," I'm sorry, I haven't had enough time to get over to fix it. I've been very busy."
+4, 00:00:40," Okay, so how much time do you need?"," Well, I have a list and you're on the list, but there are other problems that are more serious."
+5, 00:00:49, But how you keep saying it's more serious and you don't even know what the problem is? Do you know what the problem is? Did I tell you?, I don't know what I can do about the problem right now.
+6, 00:01:04," Well, you just need to come fix it right now, or we going to have a problem. No?"," I mean, it didn't sound that bad the last time you called."
+7, 00:01:18," Yeah, but obviously if you let things go longer it gets worse and worse and worse, and now it's like way worse.", What have you done about the problem so far?
+8, 00:01:34, I called you.," Uhm.. it might take me about a week, maybe even two weeks before I can fix it."
+9, 00:02:02," What do I need to say to that? Well, I'll pay you my rent when you get my stuff fixed <laughing>. I'm sorry. Am I supposed to get angry, because I'm-- No, just- just- just fix it please. Can I hold my- my money, my rent money, until you be able to fix it?"," Uhm.. I mean, I do all the repairs myself for the whole building so it may take me a while to get to yours."
+10, 00:02:34, So what do you want me to do?," I mean, have you done anything about the problem so far?"
+11, 00:02:41," Yeah, I called the maintenance person. I called you. You are who's supposed to come and fix it. You said two weeks ago and now it's like three weeks now it's worse, and I don't want to be, you know, stuck with the charge or whatever, if- if something else is broken.", 

@@ -1,0 +1,14 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:03:16, ," Hi, this is Interviewer, the landlord."
+1, 00:00:09,"wer: Oh, yeah, I did get your message. I’m sorry I haven’t enough time to get over to fix it. I’ve just been very busy lately."," Hey, Interviewer. I’ve been trying to call you. You haven’t called me back. I’ve got a really bad problem with my, uh.. ceiling. It’s leaking. Did you know that?"
+2, 00:00:24,wer: Uhm.. it might be one or two weeks before I have time to fix it.," That’s okay, but it is getting worse. When do you think you’ll be able to come by?"
+3, 00:00:32,wer: Oh no. You’ve got to get to it much quicker than that. The water is leaking through the ceiling.," It really didn’t sound that bad the last time you, uh.. left a message. Has it gotten worse?"
+4, 00:00:42,"wer: Yeah, I mean, I have a list and you’re on the list.  But there’s a lot of other problems right now that seem more serious, so..."," It’s really bad. Uh.. I’ve checked with the neighbors and their wall, their ceiling is starting to bubble up, up with water coming through the, to the first floor. You, I really think it’s a serious problem and it needs more attention than what you’re giving it. Would you please, uh.. take a look at it before the week is out?"
+5, 00:01:09,"wer: Yeah, uh.. have you done anything about the problem so far?"," Okay. Well, I don’t know what the city will think about it, but, uh.. I’d appreciate it if you could get to it as soon as possible."
+6, 00:01:20,wer: Have you done anything about the problem so far?, Have I what?
+7, 00:01:23,"wer: We’re putting a bucket under the leak, uhm.. and the garbage disposal, I think, is, is bad in my apartment. I think the water is leaking from the sink, uh.. underneath the sink to the second, to the first floor.", Okay.
+8, 00:01:44,wer: So maybe the garbage disposal needs to be changed.," Okay. Uhm.. that does sound pretty serious, but I do have a lot of other tenants with problems that are ahead of yours, so..."
+9, 00:01:53,"wer: Okay, well, it might just keep leaking and the problem may be getting, keep getting worse, so whatever you can do to, to correct the problem as soon as you can do it, I appreciate your help, sir."," All righty. Uhm.. yeah, I do all the repairs myself for the whole building, so it’s, you know, I’m a pretty busy guy. Uhm.. I will get there when I can."
+10, 00:02:11,"wer: Okay. Well, thanks a lot."," All righty. Uhm.. well, I will talk to you later. Uh.. if you give me a call, uhm.. you can give me a call if it gets worse. Okay?"
+11, 00:02:21,wer: Uhm.. it’s phone number.," Okay, what’s your phone number?"
+12, 00:02:27,wer: Bye., All righty. Goodbye.

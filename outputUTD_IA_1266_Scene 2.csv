@@ -1,0 +1,17 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00,wer: This is 1266 on 3-6-2019 and this is scene two.," Hi, this is Interviewer, the landlord."
+1, 00:00:12, Yes. Uhm.. I’m calling about the-- a leak in my apartment., Oh yeah. I’m sorry I haven’t had any time to get over to fix it yet. I’ve just been very busy.
+2, 00:00:24," Well, I’ve called a couple times now, and it’s becoming a problem.", Uh.. I just really don't know what I can do about the problem right now.
+3, 00:00:33," Well, it’s a-- it’s an emergency. It’s uh.. leaking and going all over my floor.", Uh.. it didn’t sound that bad the last time you called.
+4, 00:00:41," Well, it is now.", Okay. Uhm.. have you done anything about the problem so far?
+5, 00:00:48, Yes., And what did you do?
+6, 00:00:51, Just put some towels down to kind of soak up the water. But it seems to persistently be leaking.," Okay. Uhm.. well, I just have a lot of other tenants with problems that are ahead of yours right now."
+7, 00:01:05," Well, that’s an emergency, so you- you need to be here today."," Uh.. yeah, I have a list and you’re on the list, but there is just other problems that are more serious right now."
+8, 00:01:17," No, you’ve got to make it out today. That’s, you know, it’s an-- it’s an emergency. It has to be taken care of."," Uh.. I mean, I do all the repairs myself for the whole building, so I have a lot on my plate right now."
+9, 00:01:30, No. It’s-- you’ve got to come out today. It’s- it’s- it’s really important., Uhm.. is there anything else you could do about the problem?
+10, 00:01:38," Well, I’ve already put towels down and-- to soak up the water. But it’s still leaking. It’s still dripping all over my furniture, carpet."," Okay. Uhm.. yeah, it might take me a week or maybe even two weeks before I’m going to have time."
+11, 00:01:56," Oh no, no. It’s got to be today. It’s- it’s not something that’s gonna-- can’t wait a week or two."," Yeah, I just-- you know, everyone else is telling me that on the list, too. Uhm.. so I’m trying to get everything done, but there’s just other tenants that are ahead of yours right now."
+12, 00:02:17," Well, I’m going to have to call the city or call the manager of the apartment complex, because that’s not acceptable."," Uhm.. okay, okay. Uhm.. you don't-- you don't need to call them. Uh.. I’m aware of the problem. I’ll be over as soon as I can."
+13, 00:02:30," Okay, thank you.", Okay.
+14, 00:02:31, Appreciate it.," I’ll see you soon, okay."
+15, 00:02:33,wer: Bye., All righty. Bye.

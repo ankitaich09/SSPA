@@ -1,0 +1,18 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi, this is Interviewer, the landlord."
+1, 00:00:10," Hi, this is Patient [ph?], your tenant. I'm calling to let you know that I have called you twice already to let you know I have a leak and you still haven't came to fix it."," Oh, yeah, I'm sorry I haven't had enough time to get over to fix it yet. I've just been very busy."
+2, 00:00:31," Okay, when do you think you'll be able to come?"," Uh.. it might take about a week, or maybe even two weeks, before I'll have time to get over there."
+3, 00:00:39, I cannot keep waiting with my leak., Uhm.. have you done anything about the problem so far?
+4, 00:00:46," Yes, I put a bucket under it.", Okay. Has that been working at all?
+5, 00:00:50," No, I have to keep changing it."," Okay. Uhm.. well, yeah, like I said, uhm.. I don't really know what I can do about the problem right now."
+6, 00:01:01," Okay, so I'm not going to know what to do about the rent either then."," Okay, uhm.. uh.. I mean, I have a lot of other tenants with problems that are just ahead of yours right now uhm.."
+7, 00:01:16, That can't be possible.," Uhm.. well, I mean, like I- I have a list of things to do and you're on the list, but uh.. there's just other problems right now I have to take care of that uhm.. seem more serious than leaks, so."
+8, 00:01:30," No, to me this is a very serious situation.", Uh.. it really didn't sound that bad the last time you called.
+9, 00:01:36," Yeah, but it has gotten worse."," Okay, uhm.. well, I do all the repairs myself for the whole building, uhm.. so I've just been really backed up."
+10, 00:01:46, So if you do the repairs for everybody else that's home do you think you can come and check the leak while you're here already?," Uhm.. I mean, you're on my list, uhm.. and I will get there when I get there I guess. It might take me a week, or maybe even two, before I can get over there to actually fix it, so."
+11, 00:02:05," <laughs> No, uh.. I don't know what to say because in real life I would have told him--"," Go ahead, it's just like, yeah."
+12, 00:02:22, To go fuck himself.," Uhm.. okay, uhm.. I mean, I understand it's a serious problem, uhm.. but, yeah, uhm.. I can do what I can. Uhm.. if it's got, you said it has gotten worse, right?"
+13, 00:02:38,wer: Than last time?," Okay, uhm.. well, I can uhm.. see if I can move you up on the list and see if I can get there within the week. Does that sound okay?"
+14, 00:02:48, No., So how- how quickly do you need this fixed would you say?
+15, 00:02:51, I need this done today. I called you a week ago and you told me a week and it has been a week already. I need this done today.," Okay, uhm.. yeah, I understand. Uhm.. you're right. Uh, so I'll get over there as soon as I can. Uh.. sometime today or even tomorrow."
+16, 00:03:04," Okay, thank you so much. Have a good day."," Okay, thank you. Bye."

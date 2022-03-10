@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 181.0,
+        "mean_time": 16.454545454545453,
+        "positive_score": 0.3763020833333333,
+        "negative_score": 0.18098958333333334,
+        "subjective_score": 0.14457831325301204,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.2727272727272727
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 12,
+            "sadness": 4,
+            "anticipation": 15,
+            "joy": 9,
+            "trust": 8,
+            "fear": 3,
+            "negative": 3,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.42424242424242425,
+        "cttr": 5.969620057957092,
+        "diversity": 66.18104738154614,
+        "herdan": 0.8566475750437305,
+        "summer": 0.9134944970780894,
+        "dugast": 41.725239130619144,
+        "maas": 0.023966309620648097
+    },
+    "utterance_features": {
+        "num_utterances": 12,
+        "total_words": 396,
+        "total_unique_words": 44,
+        "avg_word_per_utter": 33.0
+    },
+    "unigrams": {
+        "uhm": 9,
+        "uh": 9,
+        "well": 8,
+        "like": 5,
+        "get": 5,
+        "he": 4,
+        "neighborhood": 4,
+        "yeah": 4,
+        "problem": 4,
+        "u": 3
+    },
+    "bigrams": {
+        "uhm he": 4,
+        "next door": 2,
+        "right well": 2,
+        "five year": 2,
+        "say hello": 2,
+        "neighborhood uhm": 2,
+        "course there": 1,
+        "enjoy neighborhood": 1,
+        "problem problem": 1,
+        "problem right": 1
+    },
+    "trigrams": {
+        "hi im patient": 1,
+        "im patient uh": 1,
+        "everything like problem": 1,
+        "like problem problem": 1,
+        "problem problem right": 1,
+        "problem right well": 1,
+        "right well well": 1,
+        "well well see": 1,
+        "well see later": 1,
+        "see later enjoy": 1
+    }
+}

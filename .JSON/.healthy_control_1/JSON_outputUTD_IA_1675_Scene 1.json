@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 174.0,
+        "mean_time": 14.5,
+        "positive_score": 0.4634615384615385,
+        "negative_score": 0.1076923076923077,
+        "subjective_score": 0.2006172839506173,
+        "top_emotions": [
+            [
+                "trust",
+                0.2553191489361702
+            ],
+            [
+                "positive",
+                0.2553191489361702
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 11,
+            "positive": 12,
+            "trust": 12,
+            "joy": 8,
+            "surprise": 3,
+            "anger": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5752688172043011,
+        "cttr": 5.547691566807775,
+        "diversity": 64.18329364557033,
+        "herdan": 0.8941935241460116,
+        "summer": 0.9323698516065032,
+        "dugast": 49.38966761282804,
+        "maas": 0.020247149825731336
+    },
+    "utterance_features": {
+        "num_utterances": 13,
+        "total_words": 199,
+        "total_unique_words": 43,
+        "avg_word_per_utter": 15.307692307692308
+    },
+    "unigrams": {
+        "uh": 6,
+        "pretty": 5,
+        "okay": 4,
+        "nice": 4,
+        "he": 3,
+        "get": 3,
+        "oh": 3,
+        "around": 3,
+        "know": 3,
+        "yeah": 3
+    },
+    "bigrams": {
+        "he pretty": 3,
+        "oh okay": 2,
+        "help anything": 2,
+        "nice meet": 2,
+        "pretty nice": 2,
+        "uh yes": 1,
+        "mmhmm youre": 1,
+        "whatever mmhmm": 1,
+        "building whatever": 1,
+        "uh building": 1
+    },
+    "trigrams": {
+        "uh yes new": 1,
+        "help anything kinda": 1,
+        "welcome wer thats": 1,
+        "youre welcome wer": 1,
+        "mmhmm youre welcome": 1,
+        "whatever mmhmm youre": 1,
+        "building whatever mmhmm": 1,
+        "uh building whatever": 1,
+        "around uh building": 1,
+        "show around uh": 1
+    }
+}

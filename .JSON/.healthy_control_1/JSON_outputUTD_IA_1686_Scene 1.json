@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 209.0,
+        "mean_time": 13.0625,
+        "positive_score": 0.3473282442748092,
+        "negative_score": 0.16889312977099236,
+        "subjective_score": 0.17057291666666666,
+        "top_emotions": [
+            [
+                "positive",
+                0.35294117647058826
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 12,
+            "anticipation": 3,
+            "joy": 5,
+            "trust": 6,
+            "negative": 3,
+            "disgust": 1,
+            "sadness": 2,
+            "surprise": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5748792270531401,
+        "cttr": 5.8485309274775865,
+        "diversity": 88.12102511979091,
+        "herdan": 0.896188919458313,
+        "summer": 0.934520233470462,
+        "dugast": 51.36945656898282,
+        "maas": 0.019466820690561985
+    },
+    "utterance_features": {
+        "num_utterances": 17,
+        "total_words": 219,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 12.882352941176471
+    },
+    "unigrams": {
+        "uhm": 8,
+        "yeah": 7,
+        "wer": 4,
+        "im": 3,
+        "know": 2,
+        "youre": 2,
+        "need": 2,
+        "dont": 2,
+        "texas": 2,
+        "excited": 2
+    },
+    "bigrams": {
+        "dont know": 2,
+        "wer uhm": 2,
+        "oh thats": 2,
+        "hi im": 1,
+        "come like": 1,
+        "yeah used": 1,
+        "yeah yeah": 1,
+        "shorthair yeah": 1,
+        "shes shorthair": 1,
+        "know shes": 1
+    },
+    "trigrams": {
+        "hi im patient": 1,
+        "yeah used uhm": 1,
+        "shorthair yeah yeah": 1,
+        "shes shorthair yeah": 1,
+        "know shes shorthair": 1,
+        "dont know shes": 1,
+        "honestly dont know": 1,
+        "uhm honestly dont": 1,
+        "wer uhm honestly": 1,
+        "friend wer uhm": 1
+    }
+}

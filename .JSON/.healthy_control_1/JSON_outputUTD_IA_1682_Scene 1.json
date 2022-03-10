@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 211.0,
+        "mean_time": 21.1,
+        "positive_score": 0.25583870967741934,
+        "negative_score": 0.2209758064516129,
+        "subjective_score": 0.15736040609137056,
+        "top_emotions": [
+            [
+                "positive",
+                0.2875
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 15,
+            "positive": 23,
+            "trust": 20,
+            "joy": 12,
+            "fear": 1,
+            "surprise": 5,
+            "negative": 2,
+            "sadness": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.420479302832244,
+        "cttr": 6.369949193149939,
+        "diversity": 36.49749776986997,
+        "herdan": 0.8586469368885947,
+        "summer": 0.9159436774664365,
+        "dugast": 43.35986836896509,
+        "maas": 0.02306280064068995
+    },
+    "utterance_features": {
+        "num_utterances": 11,
+        "total_words": 483,
+        "total_unique_words": 48,
+        "avg_word_per_utter": 43.90909090909091
+    },
+    "unigrams": {
+        "uhm": 33,
+        "thing": 4,
+        "uh": 4,
+        "pretty": 4,
+        "like": 4,
+        "anything": 4,
+        "neighborhood": 4,
+        "know": 3,
+        "neighbor": 3,
+        "wont": 3
+    },
+    "bigrams": {
+        "name uhm": 2,
+        "neighbor like": 2,
+        "uhm moved": 2,
+        "uhm could": 2,
+        "uhm pretty": 2,
+        "anything uhm": 2,
+        "uhm anything": 2,
+        "saw uhm": 2,
+        "neighborhood uhm": 2,
+        "uhm there": 2
+    },
+    "trigrams": {
+        "anything uhm could": 2,
+        "wer uhm well": 1,
+        "area uhm uhm": 1,
+        "usually dont suggest": 1,
+        "dont suggest anything": 1,
+        "suggest anything havent": 1,
+        "anything havent tried": 1,
+        "havent tried uhm": 1,
+        "tried uhm pretty": 1,
+        "uhm pretty pop": 1
+    }
+}

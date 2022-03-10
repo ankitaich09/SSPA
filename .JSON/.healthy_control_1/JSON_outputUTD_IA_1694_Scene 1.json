@@ -1,0 +1,76 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 165.0,
+        "mean_time": 13.75,
+        "positive_score": 0.40987124463519314,
+        "negative_score": 0.11105150214592274,
+        "subjective_score": 0.1831761006289308,
+        "top_emotions": [
+            [
+                "positive",
+                0.3111111111111111
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 14,
+            "anticipation": 10,
+            "joy": 8,
+            "anger": 1,
+            "negative": 3,
+            "surprise": 4,
+            "trust": 5
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4269340974212034,
+        "cttr": 5.639733172578261,
+        "diversity": 66.93934426229508,
+        "herdan": 0.8546344728867462,
+        "summer": 0.9111182693767659,
+        "dugast": 40.27826981042596,
+        "maas": 0.02482728291723076
+    },
+    "utterance_features": {
+        "num_utterances": 13,
+        "total_words": 353,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 27.153846153846153
+    },
+    "unigrams": {
+        "uhm": 14,
+        "go": 7,
+        "well": 6,
+        "okay": 6,
+        "uh": 6,
+        "nice": 5,
+        "like": 4,
+        "hon": 4,
+        "he": 3,
+        "im": 3
+    },
+    "bigrams": {
+        "okay well": 3,
+        "okay uhm": 2,
+        "uhm well": 2,
+        "like go": 2,
+        "im gonna": 2,
+        "dont child": 2,
+        "child either": 2,
+        "nice meeting": 2,
+        "anything else": 2,
+        "well nice": 2
+    },
+    "trigrams": {
+        "okay uhm well": 2,
+        "im gonna go": 2,
+        "dont child either": 2,
+        "well nice meeting": 2,
+        "okay well nice": 2,
+        "begin uhm yes": 1,
+        "nice uhm there": 1,
+        "find neighborhood uhm": 1,
+        "neighborhood uhm really": 1,
+        "uhm really nice": 1
+    }
+}

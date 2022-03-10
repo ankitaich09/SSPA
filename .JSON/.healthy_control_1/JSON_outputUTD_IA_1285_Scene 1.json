@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 181.0,
+        "mean_time": 8.227272727272727,
+        "positive_score": 0.5004370629370629,
+        "negative_score": 0.05812937062937063,
+        "subjective_score": 0.16474654377880185,
+        "top_emotions": [
+            [
+                "positive",
+                0.23076923076923078
+            ]
+        ],
+        "emotion_scores": {
+            "joy": 20,
+            "positive": 24,
+            "trust": 17,
+            "anticipation": 21,
+            "surprise": 11,
+            "anger": 2,
+            "disgust": 1,
+            "fear": 3,
+            "negative": 3,
+            "sadness": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.36585365853658536,
+        "cttr": 5.972497945358966,
+        "diversity": 55.520833333333336,
+        "herdan": 0.8398473465851573,
+        "summer": 0.9049959962678653,
+        "dugast": 39.20335561286403,
+        "maas": 0.02550802053464689
+    },
+    "utterance_features": {
+        "num_utterances": 23,
+        "total_words": 534,
+        "total_unique_words": 53,
+        "avg_word_per_utter": 23.217391304347824
+    },
+    "unigrams": {
+        "uh": 16,
+        "yeah": 9,
+        "really": 8,
+        "know": 7,
+        "lot": 7,
+        "good": 6,
+        "like": 6,
+        "excellent": 5,
+        "anything": 5,
+        "uhm": 4
+    },
+    "bigrams": {
+        "let know": 3,
+        "everyone uh": 2,
+        "id happy": 2,
+        "lot fun": 2,
+        "dont hesitate": 2,
+        "really cool": 2,
+        "want uh": 2,
+        "lot great": 2,
+        "ever want": 2,
+        "thing like": 2
+    },
+    "trigrams": {
+        "thing like uh": 2,
+        "know id happy": 2,
+        "let know id": 2,
+        "there lot great": 2,
+        "yeah there there": 1,
+        "there there uh": 1,
+        "there uh crime": 1,
+        "uh crime anything": 1,
+        "crime anything anything": 1,
+        "good neighborhood uh": 1
+    }
+}

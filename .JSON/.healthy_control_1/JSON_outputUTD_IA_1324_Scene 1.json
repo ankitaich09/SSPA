@@ -1,0 +1,76 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 185.0,
+        "mean_time": 14.23076923076923,
+        "positive_score": 0.40701970443349755,
+        "negative_score": 0.1477832512315271,
+        "subjective_score": 0.17030201342281878,
+        "top_emotions": [
+            [
+                "positive",
+                0.25
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 9,
+            "joy": 8,
+            "positive": 13,
+            "surprise": 7,
+            "trust": 11,
+            "negative": 2,
+            "sadness": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5053763440860215,
+        "cttr": 5.969005969008954,
+        "diversity": 73.9649094788815,
+        "herdan": 0.8788090524944768,
+        "summer": 0.9252526791551553,
+        "dugast": 46.46561395655996,
+        "maas": 0.021521291011776703
+    },
+    "utterance_features": {
+        "num_utterances": 14,
+        "total_words": 292,
+        "total_unique_words": 44,
+        "avg_word_per_utter": 20.857142857142858
+    },
+    "unigrams": {
+        "really": 9,
+        "uhm": 7,
+        "tell": 6,
+        "sure": 4,
+        "work": 4,
+        "know": 4,
+        "good": 4,
+        "well": 3,
+        "would": 3,
+        "nice": 3
+    },
+    "bigrams": {
+        "would tell": 3,
+        "make sure": 2,
+        "really sure": 2,
+        "get work": 2,
+        "im really": 2,
+        "really nice": 2,
+        "leave really": 1,
+        "come really": 1,
+        "really late": 1,
+        "late leave": 1
+    },
+    "trigrams": {
+        "im really sure": 2,
+        "hi name patient": 1,
+        "sure door locked": 1,
+        "sure uhm usually": 1,
+        "uhm usually come": 1,
+        "usually come really": 1,
+        "come really late": 1,
+        "really late leave": 1,
+        "late leave really": 1,
+        "leave really early": 1
+    }
+}

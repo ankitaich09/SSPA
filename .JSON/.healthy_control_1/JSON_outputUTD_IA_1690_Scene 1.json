@@ -1,0 +1,78 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 151.0,
+        "mean_time": 16.77777777777778,
+        "positive_score": 0.37745098039215685,
+        "negative_score": 0.1053921568627451,
+        "subjective_score": 0.18888888888888888,
+        "top_emotions": [
+            [
+                "positive",
+                0.3
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 11,
+            "positive": 18,
+            "trust": 13,
+            "joy": 7,
+            "anger": 1,
+            "negative": 4,
+            "fear": 3,
+            "sadness": 2,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5353159851301115,
+        "cttr": 6.208280835252867,
+        "diversity": 75.04574194581603,
+        "herdan": 0.8883055733126468,
+        "summer": 0.9312126933303974,
+        "dugast": 50.089440856902755,
+        "maas": 0.019964287540298855
+    },
+    "utterance_features": {
+        "num_utterances": 10,
+        "total_words": 290,
+        "total_unique_words": 48,
+        "avg_word_per_utter": 29.0
+    },
+    "unigrams": {
+        "really": 4,
+        "youre": 4,
+        "wer": 4,
+        "uh": 3,
+        "id": 3,
+        "well": 3,
+        "im": 3,
+        "happy": 3,
+        "go": 2,
+        "would": 2
+    },
+    "bigrams": {
+        "id happy": 2,
+        "dont worry": 2,
+        "wer yeah": 2,
+        "hi name": 1,
+        "family friendly": 1,
+        "new area": 1,
+        "area absolutely": 1,
+        "absolutely building": 1,
+        "building filled": 1,
+        "filled family": 1
+    },
+    "trigrams": {
+        "hi name patient": 1,
+        "filled family friendly": 1,
+        "since im new": 1,
+        "im new area": 1,
+        "new area absolutely": 1,
+        "area absolutely building": 1,
+        "absolutely building filled": 1,
+        "building filled family": 1,
+        "family friendly outgoing": 1,
+        "name patient couldnt": 1
+    }
+}

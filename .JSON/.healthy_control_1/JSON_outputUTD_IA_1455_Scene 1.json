@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 218.0,
+        "mean_time": 13.625,
+        "positive_score": 0.2997881355932203,
+        "negative_score": 0.17796610169491525,
+        "subjective_score": 0.16666666666666666,
+        "top_emotions": [
+            [
+                "positive",
+                0.3409090909090909
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 5,
+            "positive": 15,
+            "trust": 9,
+            "joy": 8,
+            "surprise": 1,
+            "fear": 2,
+            "negative": 2,
+            "sadness": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.3486682808716707,
+        "cttr": 5.010400804602392,
+        "diversity": 35.526850415903,
+        "herdan": 0.8250778682599806,
+        "summer": 0.8929209681530469,
+        "dugast": 34.43502279010338,
+        "maas": 0.0290402014860115
+    },
+    "utterance_features": {
+        "num_utterances": 17,
+        "total_words": 416,
+        "total_unique_words": 49,
+        "avg_word_per_utter": 24.470588235294116
+    },
+    "unigrams": {
+        "know": 8,
+        "great": 7,
+        "wer": 7,
+        "uhm": 6,
+        "always": 6,
+        "youll": 6,
+        "thats": 5,
+        "yeah": 5,
+        "ever": 5,
+        "need": 5
+    },
+    "bigrams": {
+        "across hall": 4,
+        "let know": 3,
+        "ever need": 3,
+        "youll love": 3,
+        "think youll": 3,
+        "social hour": 2,
+        "uhm maintenance": 2,
+        "need anything": 2,
+        "ever question": 2,
+        "great ever": 2
+    },
+    "trigrams": {
+        "think youll love": 2,
+        "right across hall": 2,
+        "im right across": 2,
+        "ever need anything": 2,
+        "need anything always": 2,
+        "hi name patient": 1,
+        "like social hour": 1,
+        "maintenance staff administrative": 1,
+        "staff administrative staff": 1,
+        "administrative staff always": 1
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 179.0,
+        "mean_time": 14.916666666666666,
+        "positive_score": 0.337248322147651,
+        "negative_score": 0.1552013422818792,
+        "subjective_score": 0.15392561983471073,
+        "top_emotions": [
+            [
+                "positive",
+                0.2857142857142857
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 11,
+            "positive": 12,
+            "joy": 7,
+            "surprise": 2,
+            "trust": 6,
+            "anger": 2,
+            "negative": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5222672064777328,
+        "cttr": 5.803984391589434,
+        "diversity": 62.51234567901234,
+        "herdan": 0.8820965427418248,
+        "summer": 0.9264827537433812,
+        "dugast": 46.72796256147076,
+        "maas": 0.021400462275334545
+    },
+    "utterance_features": {
+        "num_utterances": 13,
+        "total_words": 264,
+        "total_unique_words": 44,
+        "avg_word_per_utter": 20.307692307692307
+    },
+    "unigrams": {
+        "uh": 6,
+        "like": 6,
+        "area": 6,
+        "uhm": 5,
+        "really": 4,
+        "cool": 3,
+        "pretty": 3,
+        "shes": 3,
+        "long": 2,
+        "go": 2
+    },
+    "bigrams": {
+        "crime rate": 2,
+        "uhm hi": 1,
+        "lived city": 1,
+        "shes cool": 1,
+        "cool new": 1,
+        "new area": 1,
+        "area uhm": 1,
+        "uhm lived": 1,
+        "city bef": 1,
+        "supposed yeah": 1
+    },
+    "trigrams": {
+        "uhm hi im": 1,
+        "yeah shes cool": 1,
+        "mmhmm uh usually": 1,
+        "wer mmhmm uh": 1,
+        "time wer mmhmm": 1,
+        "long time wer": 1,
+        "city long time": 1,
+        "uh city long": 1,
+        "bef uh city": 1,
+        "city bef uh": 1
+    }
+}

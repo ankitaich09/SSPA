@@ -1,0 +1,78 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 178.0,
+        "mean_time": 12.714285714285714,
+        "positive_score": 0.39416666666666667,
+        "negative_score": 0.17916666666666667,
+        "subjective_score": 0.1358695652173913,
+        "top_emotions": [
+            [
+                "positive",
+                0.2911392405063291
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 13,
+            "joy": 11,
+            "positive": 23,
+            "surprise": 5,
+            "trust": 19,
+            "sadness": 1,
+            "negative": 4,
+            "anger": 1,
+            "fear": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.48333333333333334,
+        "cttr": 5.919600211726014,
+        "diversity": 37.254901960784316,
+        "herdan": 0.8725321774688733,
+        "summer": 0.9216854677957346,
+        "dugast": 44.74684168440537,
+        "maas": 0.022347945963491496
+    },
+    "utterance_features": {
+        "num_utterances": 15,
+        "total_words": 321,
+        "total_unique_words": 47,
+        "avg_word_per_utter": 21.4
+    },
+    "unigrams": {
+        "uh": 10,
+        "uhm": 5,
+        "there": 5,
+        "wer": 4,
+        "people": 4,
+        "thats": 4,
+        "good": 4,
+        "well": 3,
+        "need": 3,
+        "pretty": 3
+    },
+    "bigrams": {
+        "place there": 2,
+        "havent seen": 2,
+        "thats really": 2,
+        "wer oh": 2,
+        "thats good": 2,
+        "nice meeting": 2,
+        "help moving": 1,
+        "need help": 1,
+        "find need": 1,
+        "hazard find": 1
+    },
+    "trigrams": {
+        "wer hi nice": 1,
+        "really thats really": 1,
+        "seen there much": 1,
+        "there much crime": 1,
+        "much crime police": 1,
+        "crime police cruise": 1,
+        "police cruise thats": 1,
+        "cruise thats really": 1,
+        "thats really thats": 1,
+        "thats really hazard": 1
+    }
+}

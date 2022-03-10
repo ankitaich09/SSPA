@@ -1,0 +1,78 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 191.0,
+        "mean_time": 15.916666666666666,
+        "positive_score": 0.3907563025210084,
+        "negative_score": 0.11659663865546219,
+        "subjective_score": 0.16527777777777777,
+        "top_emotions": [
+            [
+                "negative",
+                0.25
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 4,
+            "trust": 4,
+            "fear": 1,
+            "negative": 6,
+            "joy": 3,
+            "surprise": 2,
+            "anticipation": 2,
+            "disgust": 1,
+            "sadness": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5510204081632653,
+        "cttr": 5.454823740581938,
+        "diversity": 42.68032670911313,
+        "herdan": 0.8870840308358925,
+        "summer": 0.9279767969324145,
+        "dugast": 46.743739599484975,
+        "maas": 0.021393239149634022
+    },
+    "utterance_features": {
+        "num_utterances": 13,
+        "total_words": 221,
+        "total_unique_words": 56,
+        "avg_word_per_utter": 17.0
+    },
+    "unigrams": {
+        "uh": 8,
+        "wer": 5,
+        "uhm": 5,
+        "yeah": 4,
+        "nice": 4,
+        "mean": 3,
+        "theyre": 3,
+        "thats": 3,
+        "help": 3,
+        "need": 3
+    },
+    "bigrams": {
+        "need help": 3,
+        "wer yeah": 2,
+        "anything need": 2,
+        "wer uhm": 2,
+        "guess uhm": 1,
+        "uh dog": 1,
+        "000227 uh": 1,
+        "_______ 000227": 1,
+        "prompt _______": 1,
+        "pretty prompt": 1
+    },
+    "trigrams": {
+        "anything need help": 2,
+        "wer yeah moved": 1,
+        "uh heartwarming guess": 1,
+        "uh dog pet": 1,
+        "000227 uh dog": 1,
+        "_______ 000227 uh": 1,
+        "prompt _______ 000227": 1,
+        "pretty prompt _______": 1,
+        "usually pretty prompt": 1,
+        "theyre usually pretty": 1
+    }
+}

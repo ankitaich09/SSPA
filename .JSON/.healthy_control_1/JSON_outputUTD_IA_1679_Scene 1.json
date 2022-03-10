@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 171.0,
+        "mean_time": 17.1,
+        "positive_score": 0.32710280373831774,
+        "negative_score": 0.19158878504672897,
+        "subjective_score": 0.13442211055276382,
+        "top_emotions": [
+            [
+                "positive",
+                0.3181818181818182
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 11,
+            "positive": 14,
+            "trust": 8,
+            "joy": 4,
+            "fear": 2,
+            "sadness": 3,
+            "negative": 1,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.3986636971046771,
+        "cttr": 5.973307366180699,
+        "diversity": 58.11547480572192,
+        "herdan": 0.8494131921877427,
+        "summer": 0.9098010522722576,
+        "dugast": 40.55483329825364,
+        "maas": 0.024657973382498446
+    },
+    "utterance_features": {
+        "num_utterances": 11,
+        "total_words": 472,
+        "total_unique_words": 47,
+        "avg_word_per_utter": 42.90909090909091
+    },
+    "unigrams": {
+        "uhm": 18,
+        "know": 17,
+        "im": 8,
+        "yeah": 7,
+        "people": 5,
+        "okay": 5,
+        "well": 4,
+        "new": 4,
+        "come": 3,
+        "ive": 3
+    },
+    "bigrams": {
+        "new neighbor": 3,
+        "oh okay": 3,
+        "uhm ive": 3,
+        "okay well": 2,
+        "nice meeting": 2,
+        "know like": 2,
+        "know knock": 2,
+        "kinda watch": 2,
+        "uhm know": 2,
+        "else want": 2
+    },
+    "trigrams": {
+        "know knock door": 2,
+        "hi uhm new": 1,
+        "yeah anything else": 1,
+        "uhm really quiet": 1,
+        "really quiet uhm": 1,
+        "quiet uhm lot": 1,
+        "uhm lot people": 1,
+        "lot people stick": 1,
+        "people stick uhm": 1,
+        "stick uhm people": 1
+    }
+}

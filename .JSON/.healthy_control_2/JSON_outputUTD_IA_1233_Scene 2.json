@@ -1,0 +1,78 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 188.0,
+        "mean_time": 15.666666666666666,
+        "positive_score": 0.16974431818181818,
+        "negative_score": 0.2762784090909091,
+        "subjective_score": 0.14193548387096774,
+        "top_emotions": [
+            [
+                "negative",
+                0.23809523809523808
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 3,
+            "negative": 10,
+            "fear": 8,
+            "sadness": 5,
+            "positive": 5,
+            "trust": 5,
+            "joy": 3,
+            "anger": 2,
+            "disgust": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.45507246376811594,
+        "cttr": 5.976887852871015,
+        "diversity": 56.0241273100616,
+        "herdan": 0.865270364098128,
+        "summer": 0.9180251603488127,
+        "dugast": 43.37237592839189,
+        "maas": 0.023056149878692544
+    },
+    "utterance_features": {
+        "num_utterances": 13,
+        "total_words": 373,
+        "total_unique_words": 47,
+        "avg_word_per_utter": 28.692307692307693
+    },
+    "unigrams": {
+        "uh": 10,
+        "uhm": 7,
+        "well": 4,
+        "okay": 4,
+        "next": 4,
+        "idea": 4,
+        "want": 4,
+        "get": 4,
+        "itll": 3,
+        "corrected": 3
+    },
+    "bigrams": {
+        "well thats": 2,
+        "there many": 2,
+        "idea would": 2,
+        "id like": 2,
+        "like get": 2,
+        "get idea": 2,
+        "uh becoming": 2,
+        "okay uhm": 2,
+        "uhm well": 2,
+        "within next": 2
+    },
+    "trigrams": {
+        "okay uhm well": 2,
+        "id like get": 2,
+        "hello interviewer uh": 1,
+        "wow well thats": 1,
+        "well thats terrible": 1,
+        "thats terrible maybe": 1,
+        "terrible maybe considering": 1,
+        "maybe considering hiring": 1,
+        "considering hiring someone": 1,
+        "hiring someone there": 1
+    }
+}

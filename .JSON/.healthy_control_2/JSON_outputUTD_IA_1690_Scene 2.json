@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 227.0,
+        "mean_time": 28.375,
+        "positive_score": 0.2849344978165939,
+        "negative_score": 0.18176855895196506,
+        "subjective_score": 0.1538978494623656,
+        "top_emotions": [
+            [
+                "negative",
+                0.23636363636363636
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 7,
+            "joy": 3,
+            "positive": 6,
+            "surprise": 3,
+            "trust": 6,
+            "negative": 13,
+            "fear": 5,
+            "sadness": 7,
+            "anger": 2,
+            "disgust": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.41353383458646614,
+        "cttr": 5.840936684589506,
+        "diversity": 67.55,
+        "herdan": 0.8525594203196848,
+        "summer": 0.9108828616593224,
+        "dugast": 40.619491797138195,
+        "maas": 0.02461872258260144
+    },
+    "utterance_features": {
+        "num_utterances": 9,
+        "total_words": 421,
+        "total_unique_words": 46,
+        "avg_word_per_utter": 46.77777777777778
+    },
+    "unigrams": {
+        "come": 5,
+        "im": 5,
+        "call": 4,
+        "uhm": 4,
+        "make": 4,
+        "okay": 4,
+        "plumber": 3,
+        "leak": 3,
+        "well": 3,
+        "appreciate": 3
+    },
+    "bigrams": {
+        "okay uhm": 2,
+        "calling back": 2,
+        "come take": 2,
+        "concern leak": 2,
+        "able come": 2,
+        "come fix": 2,
+        "damage apartment": 2,
+        "appreciate busy": 2,
+        "take look": 2,
+        "im going": 2
+    },
+    "trigrams": {
+        "come take look": 2,
+        "interviewer patient calling": 1,
+        "okay uhm yeah": 1,
+        "send picture ceiling": 1,
+        "picture ceiling look": 1,
+        "ceiling look like": 1,
+        "look like get": 1,
+        "like get idea": 1,
+        "get idea concern": 1,
+        "idea concern okay": 1
+    }
+}

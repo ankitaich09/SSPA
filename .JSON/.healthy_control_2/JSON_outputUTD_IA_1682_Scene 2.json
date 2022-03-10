@@ -1,0 +1,78 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 161.0,
+        "mean_time": 32.2,
+        "positive_score": 0.18884408602150538,
+        "negative_score": 0.31518817204301075,
+        "subjective_score": 0.1480891719745223,
+        "top_emotions": [
+            [
+                "negative",
+                0.3225806451612903
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 20,
+            "fear": 7,
+            "sadness": 11,
+            "anticipation": 4,
+            "anger": 5,
+            "disgust": 5,
+            "surprise": 1,
+            "positive": 5,
+            "trust": 4
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.39892183288409705,
+        "cttr": 5.433250926786207,
+        "diversity": 36.246481780136094,
+        "herdan": 0.8446655845898718,
+        "summer": 0.9050374128452776,
+        "dugast": 38.0868724228751,
+        "maas": 0.026255765737262182
+    },
+    "utterance_features": {
+        "num_utterances": 6,
+        "total_words": 394,
+        "total_unique_words": 49,
+        "avg_word_per_utter": 65.66666666666667
+    },
+    "unigrams": {
+        "uhm": 22,
+        "know": 6,
+        "much": 5,
+        "get": 5,
+        "uh": 4,
+        "im": 4,
+        "really": 4,
+        "leak": 4,
+        "dont": 3,
+        "damage": 3
+    },
+    "bigrams": {
+        "much damage": 3,
+        "uhm know": 3,
+        "much worse": 2,
+        "amount time": 2,
+        "worried uhm": 2,
+        "really uhm": 2,
+        "worse uhm": 2,
+        "gonna cause": 1,
+        "handle since": 1,
+        "since youre": 1
+    },
+    "trigrams": {
+        "hi interviewer uhm": 1,
+        "uhm much damage": 1,
+        "uhm handle since": 1,
+        "handle since youre": 1,
+        "since youre landlord": 1,
+        "youre landlord uhm": 1,
+        "landlord uhm amount": 1,
+        "uhm amount time": 1,
+        "amount time gonna": 1,
+        "time gonna cause": 1
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 183.0,
+        "mean_time": 26.142857142857142,
+        "positive_score": 0.16701680672268907,
+        "negative_score": 0.2857142857142857,
+        "subjective_score": 0.1403301886792453,
+        "top_emotions": [
+            [
+                "negative",
+                0.29411764705882354
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 3,
+            "anger": 1,
+            "disgust": 1,
+            "fear": 7,
+            "negative": 10,
+            "sadness": 7,
+            "trust": 3,
+            "anticipation": 1,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5189873417721519,
+        "cttr": 5.649577109747892,
+        "diversity": 50.80026852277143,
+        "herdan": 0.8800532969949085,
+        "summer": 0.9247919184271102,
+        "dugast": 45.58741511138511,
+        "maas": 0.0219358785216637
+    },
+    "utterance_features": {
+        "num_utterances": 8,
+        "total_words": 248,
+        "total_unique_words": 39,
+        "avg_word_per_utter": 31.0
+    },
+    "unigrams": {
+        "uh": 8,
+        "like": 4,
+        "get": 4,
+        "im": 3,
+        "problem": 3,
+        "leak": 3,
+        "okay": 3,
+        "worse": 3,
+        "want": 2,
+        "didnt": 2
+    },
+    "bigrams": {
+        "getting worse": 2,
+        "uh im": 2,
+        "didnt want": 2,
+        "uh yes": 1,
+        "maintenance people": 1,
+        "inform maintenance": 1,
+        "wanted inform": 1,
+        "worser wanted": 1,
+        "even worser": 1,
+        "problem even": 1
+    },
+    "trigrams": {
+        "uh yes uh": 1,
+        "well didnt want": 1,
+        "maintenance people come": 1,
+        "inform maintenance people": 1,
+        "wanted inform maintenance": 1,
+        "worser wanted inform": 1,
+        "even worser wanted": 1,
+        "problem even worser": 1,
+        "make problem even": 1,
+        "far make problem": 1
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 162.0,
+        "mean_time": 23.142857142857142,
+        "positive_score": 0.27134146341463417,
+        "negative_score": 0.13414634146341464,
+        "subjective_score": 0.11081081081081082,
+        "top_emotions": [
+            [
+                "positive",
+                0.30952380952380953
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 7,
+            "anger": 2,
+            "disgust": 2,
+            "sadness": 4,
+            "positive": 13,
+            "trust": 6,
+            "anticipation": 4,
+            "joy": 2,
+            "fear": 1,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.41604010025062654,
+        "cttr": 5.876336300859746,
+        "diversity": 59.87623274161736,
+        "herdan": 0.8535683288825155,
+        "summer": 0.9115436116559461,
+        "dugast": 40.89935852801152,
+        "maas": 0.024450261226349336
+    },
+    "utterance_features": {
+        "num_utterances": 8,
+        "total_words": 419,
+        "total_unique_words": 42,
+        "avg_word_per_utter": 52.375
+    },
+    "unigrams": {
+        "uhm": 12,
+        "know": 8,
+        "gonna": 6,
+        "uh": 6,
+        "im": 6,
+        "think": 5,
+        "go": 4,
+        "well": 4,
+        "okay": 4,
+        "able": 3
+    },
+    "bigrams": {
+        "uhm think": 4,
+        "gonna able": 3,
+        "code violation": 2,
+        "living room": 2,
+        "take care": 2,
+        "im gonna": 2,
+        "okay well": 2,
+        "well uhm": 2,
+        "youre gonna": 2,
+        "think im": 2
+    },
+    "trigrams": {
+        "well uhm think": 2,
+        "health code violation": 2,
+        "okay well uhm": 2,
+        "uhm think youre": 2,
+        "think youre gonna": 2,
+        "youre gonna able": 2,
+        "living room uhm": 2,
+        "el number help": 1,
+        "possible way maybe": 1,
+        "way maybe get": 1
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 172.0,
+        "mean_time": 24.571428571428573,
+        "positive_score": 0.23743718592964824,
+        "negative_score": 0.21670854271356785,
+        "subjective_score": 0.12314356435643564,
+        "top_emotions": [
+            [
+                "trust",
+                0.20481927710843373
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 12,
+            "anticipation": 5,
+            "positive": 16,
+            "trust": 17,
+            "surprise": 7,
+            "anger": 3,
+            "disgust": 2,
+            "fear": 8,
+            "sadness": 7,
+            "joy": 6
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.3729508196721312,
+        "cttr": 5.825678036946767,
+        "diversity": 45.95654204458865,
+        "herdan": 0.840669068680448,
+        "summer": 0.9047951053398753,
+        "dugast": 38.85193762809265,
+        "maas": 0.025738742030640204
+    },
+    "utterance_features": {
+        "num_utterances": 8,
+        "total_words": 516,
+        "total_unique_words": 46,
+        "avg_word_per_utter": 64.5
+    },
+    "unigrams": {
+        "know": 16,
+        "uhm": 14,
+        "im": 5,
+        "call": 5,
+        "ill": 5,
+        "anything": 5,
+        "okay": 5,
+        "get": 4,
+        "leak": 4,
+        "gonna": 4
+    },
+    "bigrams": {
+        "uhm ill": 2,
+        "kinda cover": 2,
+        "im im": 2,
+        "okay uhm": 2,
+        "didnt want": 2,
+        "couple day": 2,
+        "get worse": 2,
+        "uhm know": 2,
+        "want put": 1,
+        "put towel": 1
+    },
+    "trigrams": {
+        "hi interviewer patient": 1,
+        "know want put": 1,
+        "put towel somewhere": 1,
+        "towel somewhere mean": 1,
+        "somewhere mean im": 1,
+        "mean im im": 1,
+        "im im gonna": 1,
+        "im gonna anyway": 1,
+        "gonna anyway kinda": 1,
+        "anyway kinda cover": 1
+    }
+}

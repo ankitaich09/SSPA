@@ -1,0 +1,79 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 173.0,
+        "mean_time": 21.625,
+        "positive_score": 0.22738693467336685,
+        "negative_score": 0.22801507537688442,
+        "subjective_score": 0.1405367231638418,
+        "top_emotions": [
+            [
+                "negative",
+                0.38095238095238093
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 24,
+            "positive": 4,
+            "fear": 7,
+            "sadness": 9,
+            "anger": 6,
+            "disgust": 6,
+            "anticipation": 4,
+            "joy": 1,
+            "surprise": 1,
+            "trust": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.3765281173594132,
+        "cttr": 5.3844837298180055,
+        "diversity": 49.642256380510446,
+        "herdan": 0.8375775160139259,
+        "summer": 0.9012055503701927,
+        "dugast": 37.02513967560312,
+        "maas": 0.027008675963454295
+    },
+    "utterance_features": {
+        "num_utterances": 9,
+        "total_words": 416,
+        "total_unique_words": 52,
+        "avg_word_per_utter": 46.22222222222222
+    },
+    "unigrams": {
+        "know": 7,
+        "im": 6,
+        "damage": 6,
+        "gonna": 5,
+        "maybe": 5,
+        "leak": 5,
+        "afraid": 4,
+        "look": 4,
+        "come": 4,
+        "take": 4
+    },
+    "bigrams": {
+        "im afraid": 4,
+        "take look": 4,
+        "okay uhm": 2,
+        "look leak": 2,
+        "damage property": 2,
+        "afraid gonna": 2,
+        "come take": 2,
+        "able come": 2,
+        "uhm well": 2,
+        "youll able": 2
+    },
+    "trigrams": {
+        "come take look": 2,
+        "im afraid gonna": 2,
+        "take look leak": 2,
+        "hi interviewer patient": 1,
+        "first maybe size": 1,
+        "_________ 000151 recessed": 1,
+        "000151 recessed lighting": 1,
+        "recessed lighting gotten": 1,
+        "lighting gotten side": 1,
+        "gotten side two": 1
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "label": "schizophrenia",
+    "Feature_set_1": {
+        "max_time": 206.0,
+        "mean_time": 25.75,
+        "positive_score": 0.1857876712328767,
+        "negative_score": 0.2422945205479452,
+        "subjective_score": 0.10488505747126436,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.25
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 6,
+            "anticipation": 8,
+            "positive": 6,
+            "trust": 6,
+            "joy": 1,
+            "surprise": 1,
+            "fear": 2,
+            "sadness": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4596100278551532,
+        "cttr": 6.157745309612126,
+        "diversity": 69.28951048951049,
+        "herdan": 0.8678677007214889,
+        "summer": 0.9200303231382795,
+        "dugast": 44.52599720593139,
+        "maas": 0.02245878953311321
+    },
+    "utterance_features": {
+        "num_utterances": 9,
+        "total_words": 375,
+        "total_unique_words": 40,
+        "avg_word_per_utter": 41.666666666666664
+    },
+    "unigrams": {
+        "uhm": 11,
+        "someone": 4,
+        "oh": 4,
+        "coming": 3,
+        "sort": 3,
+        "getting": 3,
+        "fix": 3,
+        "get": 3,
+        "way": 3,
+        "look": 3
+    },
+    "bigrams": {
+        "coming fix": 2,
+        "uhm recently": 2,
+        "call someone": 2,
+        "maybe call": 2,
+        "oh okay": 2,
+        "someone else": 2,
+        "talked uhm": 2,
+        "week im": 1,
+        "okay think": 1,
+        "think youll": 1
+    },
+    "trigrams": {
+        "maybe call someone": 2,
+        "talked uhm recently": 2,
+        "hi interviewer im": 1,
+        "okay think youll": 1,
+        "think youll able": 1,
+        "youll able get": 1,
+        "able get mine": 1,
+        "get mine list": 1,
+        "mine list oh": 1,
+        "list oh okay": 1
+    }
+}

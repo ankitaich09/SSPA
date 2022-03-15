@@ -1,0 +1,12 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:12, Hi. My name is Patient. I couldn’t help but notice you’re my new neighbor. Welcome., Hi. Thanks.
+1, 00:00:20," Well, I see you have a lot that you have to do. I’m free right now. I’d be happy to give you a hand if you want me to grab some of the boxes that are outside."," Oh, that’s really nice. I think I’m okay for now, but I appreciate the offer."
+2, 00:00:35,wer: Sorry. What was that?, Hi. I’m here. Can you hear me?
+3, 00:00:52,"wer: Oh, sorry.", I missed the last thing that you said. Uhm.. I- I’m still unpacking. What was it you said after that?
+4, 00:01:01, Uhm.. where did you move from?," Oh, I moved from just the other side of town."
+5, 00:01:08," Well, I know that you’re, you know, <inaudible 00:01:10>, but I would be-- I would be really uhm.. I’d really be happy if you’d like to join me uh.. one evening. We have so much to go over with everyone in this building and I’m sure you’re gonna want all the ins and outs on what’s going on. Also, don’t worry about cooking today. I have some food over there I’d be happy to bring over for you so that you don’t have to worry about it.", Yeah. That’s very nice. Thanks.
+6, 00:01:41,"wer: Yeah. Thanks. Uh.. before you go real quick, I was wondering-- could you tell me a little bit about the neighborhood since I’m new to the area?", No.
+7, 00:02:08," Absolutely. This building is filled with families that are friendly and outgoing. We have a great uh.. social scene here in the families getting together and having barbeques all the time and we are in close proximity to everything. There are bookstores and coffee shops. There’s a really cute little jazz place down the street and the police presence is constant. So, it’s a very safe neighborhood and I think you’re really gonna", 
+8, 00:02:39, , Okay. Yeah. That sounds great. Thanks for the information.
+9, 00:02:46," Okay. Well, what- what was your name?"," Oh, my name is Interviewer."
+10, 00:02:50,wer: Yeah. That sounds good. I’ll see you later., Bye-bye.

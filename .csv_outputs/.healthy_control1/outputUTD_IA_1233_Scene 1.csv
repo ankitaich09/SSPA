@@ -1,0 +1,16 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:14,wer: Hi.," Hi, I’m Interviewer."
+1, 00:00:18, Nice meeting you. Are you- are you new in the area?," Yes, I just moved in."
+2, 00:00:21," Oh, great. Great. This is a- this is a good building uh.. to live in. Every-- it’s pretty clean. The management’s pretty responsive. What brought you to town?", Uh.. my job. It’s closer by than where I used to live.
+3, 00:00:33,wer: That’s good to know., Okay.
+4, 00:00:49, Nice meeting you.," Yes. Uh.. before you go, uhm.. could you tell me a bit about the neighborhood since I’m new to the area?"
+5, 00:00:55," Sure. Uh.. it’s uh.. it’s a quiet neighborhood, generally the pop-- the people that live here are uhm.. keep to themselves. Everyone works varied schedules and uhm.. so far, I haven’t seen any- any real incidents. You see a lot of people walking dogs in the-- in- at evenings and in the mornings, you see people doing tai- tai chi.", Oh.
+6, 00:01:18," And yoga on Saturdays. So, it’s uh.. it’s an active neighborhood, but everyone’s friendly, but they keep to themselves.", Okay. That’s good to know then.
+7, 00:01:30," Well, if you need anything, just- just knock on the door. I’ll be-- I’m here- usually here uh.. in the afternoons."," Okay. And uhm.. since I am new, what is the landlord like at this building?"
+8, 00:01:43, Very helpful and uh.. responsive to your uh.. if you have any issues. They usually handle everything pretty quickly.," Okay. That’s reassuring to know, definitely and you mentioned that people like to walk their dogs in the evening. So, if I were to want to take a walk sometime in the evening, would it be safe?"
+9, 00:02:05,"wer: Oh, okay.", Is it muddy or...
+10, 00:02:15," Well, some people neglect to pick up the poop..."," Oh, okay."
+11, 00:02:18," From their dogs, but as far as uhm.. I haven’t seen-- there’s not much crime and the police cruise by. So, other than that, that’s really- that’s really be your only hazard that I- that I find.", Okay. Alrighty.
+12, 00:02:34," If you need any help moving, just let me know. If you need me-- uh.. bring anything up or anything."," Okay. Uhm.. and what kind of places are there around, like to eat, for example?"
+13, 00:02:51," Uh.. there’s a pho place. There’s uh.. just the usual, pizza place. There’s a Jimmy John’s that they deliver uhm.. just the- just the normal-- there’s a Tricky Fish and uhm.. so, Whole Foods and they have a good selection of food in- in the store.", Okay.
+14, 00:03:12,"wer: Oh, that’s good. Yeah. Alrighty. Well, thank you so much for stopping by to introduce yourself.", All right. Thank you. Bye-bye.

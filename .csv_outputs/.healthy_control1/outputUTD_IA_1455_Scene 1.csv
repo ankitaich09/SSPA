@@ -1,0 +1,18 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:14,  Hi.  My name is Patient.  I'm actually your new neighbor across the hall.  How are you doing?,"  Hi.  Nice to meet you.  Good, how are you?"
+1, 00:00:24,"  Me too.  Me too.  Welcome to the building.  I'm glad, you know, another friendly-- you seem around my age, so that's always a good thing.  Uhm.. but I want to point out to safety is like the number one priority here, you're gonna love it here.",  Awesome.
+2, 00:00:38,"  The maintenance is great.  Yeah, so that's- that's always a concern, you- you don't have to worry about that.  Uhm.. security is great, if you ever have any questions or concerns, you'll see them patrolling on the outside of the building, which is always great.  Uhm.. maintenance is great, if you ever need anything, you can always call them 24/7.  The- the staff is great.  And I'm right across the hall, so if you ever need anything, you can always come across the hall, speak to me.  And uhm.. I'll give you-- if it's okay with you, I'll give you", 
+3, 00:01:07,wer:  …definitely exchange numbers.,"  That's so sweet of you, thank you, that's so nice.  Yeah, we should…"
+4, 00:01:25,wer:  Mm-hmm.,"  I am, I'm new to the city, yes."
+5, 00:01:37,"  Oh, cool.  Well if you ever need any- any, you know, if you ever have any questions about, you know, restaurants or where to go hang out or anything, let me know and I can- I can, you know, greatly help with that, I have no problem with that.","  Yeah, I would love some suggestions if you don't mind."
+6, 00:01:49,"  I've been here all my life.  I've been here all my life.  Oh sure, I can do that, yeah.  And then another thing too, we also have social hours here once a month where you can meet the other neighbors, you know, the- the staff uhm.... the maintenance, not the maintenance staff, the administrative staff, they always put together like a social hour.","  Oh, okay."
+7, 00:02:09,"wer:  Yeah, that's awesome.",  Very good to know.
+8, 00:02:24,"  So that's-- and they have the breakfast like coffee, yeah.  You'll- you'll love it, I love it here, so-- and I think you'll love it too.  And welcome to the city too.  Yeah, I- I think you'll love it here.","  Thank you.  Yes, I hope so."
+9, 00:02:36,wer:  Uhm.. I have a cat.,  Mm-hmm.
+10, 00:02:46,wer:  Oh.,  Maybe one day.
+11, 00:02:54,"wer:  Cool, well…",  Awesome.
+12, 00:03:20,  I think you'll like it.,"  Yeah, thank you so much for all of that information, it's super helpful.  Uhm...... here I'll write my number down and give it to you…"
+13, 00:03:30,wer:  …it'll be great uh.. that we're living right next to each other.,  …and then uhm..-- so here you go and if you ever need anything…
+14, 00:03:40,"  Perfect, it sounds great.  And welcome again.",  Awesome.  Thank you so much.  I'll hopefully see you soon.
+15, 00:03:45,"  Oh, you're welcome.  And if you need help unpacking, let me know if need any help, I'm right across the hall.  Let me know.","  Okay, thank you so much."
+16, 00:03:52,  Okay.  You're welcome.,  Bye-bye.

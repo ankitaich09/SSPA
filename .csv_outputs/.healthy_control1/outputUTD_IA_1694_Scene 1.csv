@@ -1,0 +1,14 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:14, Can we begin?, Hi. Uhm.. are you my new neighbor?
+1, 00:00:20," Uhm.. yes. Actually, I-- welcome you to the building. How are you doing?", I’m all right. Thank you.
+2, 00:00:29," Uhm.. what’s your name, hon?"," Oh, my name is Interviewer."
+3, 00:00:33," Interviewer? Very nice to meet you. Uhm.. we’re glad to have you in the area. So, tell me more about yourself, hon."," Oh, uhm.. I just moved here. Uhm.. of course, uhm.. what would you like to know?"
+4, 00:00:48, I don't know. Where did you move from and how old are you? Do you have any kids?,"  Oh, I just moved uhm.. from the other side of town uhm.. and I don't have any kids. It's just me."
+5, 00:01:00,"  Okay. Uhm.. well, neither do I, so uhm.. I'd just like to uh.. offer uh.. extend some uhm.. some neighborly uh.. fun if you'd ever like to just go hang-out or go do something. Like I said, I don't have children either, so maybe we could go hit the town and have some fun.","  Yeah, that'd be great. Thank you."
+6, 00:01:24,"  Okay, well, it was nice meeting you. I'm gonna go ahead and go back over here. I have some groceries to unload, but I just wanted to pop in and just uh.. make you feel welcome.","  Okay, great. Uh.. before you go, though, could you tell me a little bit about what the landlord here is like?"
+7, 00:01:39,"  Oh yes. He's super-nice. If you have any questions or any problems with your apartment you could just ring him. He's very accurate, and uhm.. he's very nice about coming down just any hours that- that you need help.","  Okay, cool."
+8, 00:01:59,"  Okay. Well, I'm gonna go pop uhm.. back over here and put my groceries-- is there anything else you need, hon?","  Uhm.. well, yeah, before you go could you tell me a little bit more about this neighborhood? I'm kinda new to the area."
+9, 00:02:11,"  Okay. Uhm.. well, I find the neighborhood to be uhm.. really nice. Uhm.. there's a few parks down the way. Uhm.. I don't have children either, but sometimes I like to go in there and just kinda swing uhm.. but uh.. the neighbors around here are pretty great. Uh.. it's really close to shopping and uhm.. supermarkets, and if you have any problems with the bus route I'll be happy to give you a ride sometime.","  Okay. Yeah, that's very nice. Thanks."
+10, 00:02:38,"  Thank you. Okay. Is there anything else you have a question about, hon?",  Uhm.. have you lived here long?
+11, 00:02:47,"  Actually yeah. I've lived here for about eight years, and I'm very happy here, so I think you will be as well.","  Okay, great."
+12, 00:02:59,"  Okay. Well, again, it was nice meeting you. Good luck and be...",  It was nice to meet you too. Bye-bye.

@@ -1,0 +1,18 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:13, Hi there., Hi.
+1, 00:00:16, I’m Patient. I’ll be living across from you. Uhm.. what’s your name?," Hi, Patient. My name’s Interviewer."
+2, 00:00:26," Oh, that’s awesome. Uhm.. can I ask where you’re moving from?", Yeah. I’m actually moving from Arizona.
+3, 00:00:34,"wer: Yes, it is. Yeah. Brand new.", Yeah.
+4, 00:00:50," Uhm.. was there any reason why you decided to choose Texas just because, I don't know, Texas is a pretty big state. Katy is a small town.", Yeah. I actually moved here for a job opportunity.
+5, 00:01:05,wer: Uhm.. I work in research.," Oh, thank you."
+6, 00:01:17,wer: Yeah.," Uhm.. I start next uhm.. in the next-- so, in a couple days. Uhm.. yeah, in a couple days."
+7, 00:01:34, You need any help packing your stuff or unpacking?," Uhm.. I don’t think so. I appreciate it, though. Yeah, I think I’ll be able to handle it."
+8, 00:01:46," Okay. Awesome. Can I ask what uhm.. research you’re interested in, what kind of subjects you kind of do?"," Yeah, of course. Uhm.. I work in psychology, so, with just kind of a lot of different things."
+9, 00:02:09," Oh, that’s super cool. Wow. Yeah. I think uhm.. one of the parents I babysit for, she was a psychology major and she was just super interesting to talk to."," Oh, really? That’s cool. That’s cool."
+10, 00:02:27, Are you moving here alone or did you come with like any family or friends?," Uhm.. no, just me and my cat. We just moved here."
+11, 00:02:38,wer: Uhm.. I honestly don’t know. She’s just a shorthair., I do. Uhm.. here name is Billie.
+12, 00:02:53, Yeah., Yeah. I don’t know.
+13, 00:03:00," Yeah. We used to have uhm.. a pet cat too, but sadly, I think she passed away like a year ago. So..."," Aw, I’m so sorry to hear that. That’s sad."
+14, 00:03:12," I’m really excited-- yeah, I mean, I’m excited to meet Billie."," Yes. You can come over and hang out with us anytime. Uhm.. yeah, you totally-- it’s so nice to meet you. Thank you so much for coming over. Uhm.. I guess I should finish unpacking, but it was great, again, to meet you. I hope uhm.. I’ll see you around."
+15, 00:03:33," Yeah, of course. Thank you so much and if you ever need anything, I’ll just be across from the hall."," Awesome. Thank you so much, Patient. I hope you have a good day."
+16, 00:03:42, You too., Bye.

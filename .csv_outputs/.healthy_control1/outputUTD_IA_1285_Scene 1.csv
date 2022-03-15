@@ -1,0 +1,24 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:05," Hey, how's it going?  My name's Patient.", Uh.. it's going pretty well.  My name's Interviewer.
+1, 00:00:08," Hey, Interviewer, did you just move in?  I saw that there was a moving van earlier."," Yeah, I'm working on getting my stuff packed away, right away, right now."
+2, 00:00:15," Excellent, excellent, so uh.. where did you come from?  Where were you living before?", Uh.. I'm originally from the Pittsburgh area.
+3, 00:00:20," Oh yeah, what brought you over here to Dallas?", Uh.. I got hired at U.T. Dallas.
+4, 00:00:24, Oh that's awesome., Yeah.
+5, 00:00:25, It's really cool.  What do you do there?, Uh.. I'm a research assistant in the psychology department.
+6, 00:00:29," Excellent.  I work at a bank, uh.. in the area.", Oh okay.
+7, 00:00:32," Yeah, it's a lot of fun.  I- I moved here from Vegas about four years ago.", Okay.
+8, 00:00:37, Definitely enjoyed it.  How are you liking it so far?  Have you had a chance to..., Uhm.. I haven't had a chance to do much.  Uhm.. just getting my feet on the ground but yeah.
+9, 00:00:45," Excellent, well, if you ever need anything I'm around.  Uh.. I love meeting new people and, you know, we have friends over a lot and hanging out and just chatting and having a good time and you're welcome to come over.  If you ever see anyone over, just invite yourself over but I'll invite you if I see you."," That sounds great, thank you."
+10, 00:01:01," You're welcome.  Do you like doing things, uh.. particular for fun?"," Uhm.. not too much.  I like to get out and see what's going on around town so uhm.. you know, if you have any ideas in that way."
+11, 00:01:12," Yeah, there's a lot of great movie theaters.  Uh.. a lot of really cool new shopping centers and stuff that come up and some unique things like uh.. over in the Stonebriar Centre they've got an iFLY, which is indoor skydiving.  It's a lot of fun to do at least once.", That does sound pretty fun.
+12, 00:01:25," Yep.  Yeah so if you want any-- uh.. if you ever want to go out or anything, let me know.  I'd be happy to make myself available.", Thank you.  That sounds great.
+13, 00:01:32, It was nice meeting you.," Uh.. be- before you go, uhm.. could you tell me a little bit about the neighborhood?"
+14, 00:01:37," Yeah, it's a really great neighborhood.  All the neighbors are- are really good.  That's why I came up to introduce myself to you, cause I figure you're going to fit right in and, you know, introduce you.  Uhm.. everyone's really nice.  Uhm.. there's a lot of great stuff around, lots of good restaurants, uhm.. so if you ever want any uh.. recommendations, let me know."," Well, that sounds good."
+15, 00:01:54,wer: Thank you., Okay.  Uhm.. and uh.. is it safe to walk around like in the evening?
+16, 00:02:05," Oh yeah, yeah, there's no- there's no, uh.. crime or anything or anything to really worry about.  Uh.. it's definitely a good neighborhood.  Uh.. like I said we have got a neighborhood watch and then everyone else knows everyone so uh.. anybody who doesn't really belong kind of stands out pretty easily so, it's a good place to be.", That sounds very good.  Uhm.. you said the neighbors are pretty friendly?
+17, 00:02:24," Uh-huh, yeah, like everyone, uh.. it's really easy to talk to them.  Uh.. we all like to hang out every once in a while, have block parties during the 4th of July and things like that so uh.. you'll get to kind of know everyone, uhm.. they'll probably come up and introduce themselves to you but don't hesitate to reach out to them cause they're good as well.", That all sounds really great.
+18, 00:02:42, Do you have family in the area at all or?," Uh.. no I have a friend in the area, uh.. but that's about it so, yeah, starting fresh I guess."
+19, 00:02:50," <laughs> yep, well, you'll make some new friends and stuff with- with me and- and other neighbors."," That sounds good to me.  Uhm.. well I'm going to keep on unpacking, uh.."
+20, 00:02:59, Excellent., And let you go so uh..
+21, 00:03:00," Yeah if you need help with anything, uh.. don't hesitate.  Let me- let me know and I'd be happy to help out.", Thank you.  I appreciate it.  It was nice meeting you.
+22, 00:03:06, It's nice meeting you.," Yep, have a good one."

@@ -1,0 +1,15 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:14," Hi, my name is Patient. What’s yours?"," Hi, my name’s Interviewer."
+1, 00:00:19," Hi, Interviewer. I live right across the way. Are you moving in today?"," Yes, I am."
+2, 00:00:25," Well, I hope you really like it and I hope to see you soon. Uhm.. where did you move from?", From Richardson.
+3, 00:00:39," Richardson? Oh, I’ve heard that’s a really nice area. Are-- did you move over here for work?", Yes.
+4, 00:00:47," Well, I have to get to work and uhm.. I’ll see you after work. Have a great day."," Before you go, I’m new to the area. Can you tell me about this neighborhood?"
+5, 00:01:00," Well, I would tell you the neighborhood is really nice. Uhm.. if you’re looking for places to eat, I’m not really sure. But I would tell you at night, just make sure your car is locked. All right, have a good day.", What is the landlord like?
+6, 00:01:23," Uh.. uhm.. they seem to be pretty good. Uhm.. you know, you pay through your little rent portal, but I mean, they take care of everything that needs to be taken care of. Why? Are you having issues already in your new apartment?"," No, it’s fine. Just wondering."
+7, 00:01:42," Oh. No, they’re good people. Anything else?", Are the residents in this building friendly?
+8, 00:01:55," Uhm.. I’m not really sure uhm.. because I usually come in really late and leave really early. So, couldn’t really tell you. Once again, I’d just tell you make sure your door is locked.", Okay.
+9, 00:02:12, Do you have any other questions because I really have to get to work?, How do you find living here?
+10, 00:02:22,wer: That’s good to know then., Mm-hmm.
+11, 00:02:49, Nothing else you wanted to ask?, Uhm.. you mentioned about the cars-- is it safe to walk in this neighborhood in the evening?
+12, 00:02:57," I would tell you yes because I wa-- I walk at night and I haven’t had any issues. The only real reason I said that is because you just don’t know once, you know, everyone sleeps. So, I always tell everyone to lock up their car."," Okay. All right. Well, I still need to finish unpacking. But thank you for coming by."
+13, 00:03:19,wer: Nice to meet you too., Bye.

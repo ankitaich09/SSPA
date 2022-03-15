@@ -1,0 +1,14 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:13," Uhm.. hi, I’m Patient. How are you? Are you new to the neighborhood?"," Hi, yes."
+1, 00:00:21, How do you like the apartment?, It’s fine.
+2, 00:00:28, Do you like the area? Do you have any pets?, I have a cat. Yes.
+3, 00:00:37," Oh, that’s cool. There’s lots of big windows in your apartment. I’m sure the cat will love the sun.", Mm-hmm. I’m new to the area. Can you tell me about the neighborhood?
+4, 00:00:59," Uhm.. well, the mini mart down the street uh.. has really awesome sandwiches and then we have like the cheapest dry cleaning in the area.", That’s really nice.
+5, 00:01:11," Thanks. It’s pretty cool. Do you go to the gym? Do you go hiking, bike riding, anything like that?", Uhm.. I work out at home.
+6, 00:01:24," Oh, okay. Well, there’s a great gym in the area too.", And what’s the landlord like?
+7, 00:01:43," Uh.. she’s pretty nice as long as you pay your rent on time. Uhm.. you can’t have loud parties. She really doesn’t like that. But other than that, she’s a really sweet lady. She just uh.. makes sure that everyone’s following the rules like they’re supposed to.", That’s good.
+8, 00:02:01, Yeah. She’s cool., That’s good to know.
+9, 00:02:11, Are you new to the area or are you just uhm.. or have you lived in the city bef-- uh.. in the city for a long time?," Uhm.. I’m from nearby, but not in the city."
+10, 00:02:24,wer: Mm-hmm., Is it safe to walk in this neighborhood in the evening?
+11, 00:02:46," Uh.. it usually is. Uhm.. although I would still keep my cell phone on me handy. Uh.. this day and age, you really can’t just walk a- walk around past eleven or twelve at night. But our crime rates-- our crime rate around this area is pretty low. So, you should be okay and it’s a well-lit area too."," Okay. That’s good. I still have some unpacking to do, but thank you for coming over."
+12, 00:03:12,wer: Nice to meet you too., All right. Have a nice day.

@@ -1,0 +1,15 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi, are you my new neighbor?"
+1, 00:00:22," Uh.. yes, I am your new neighbor. Hello and what is your name?", My name is Interviewer.
+2, 00:00:29," Well, it’s nice to meet you, Interviewer. I’m Patient. I’ve been staying in this building for- for around a couple years now."," Oh, cool. Nice to meet you."
+3, 00:00:40," The last neighbor was a pretty nice person and uh.. I hope to get to uh.. see a lot of you and get-- you know, get acquainted with you."," Yes, of course. Of course."
+4, 00:00:56,wer: I’m not. I actually just moved here., I’m from Arizona originally.
+5, 00:01:10," Oh, okay. It’s very hot over there ar- around this time."," Yeah, it is."
+6, 00:01:18," Okay. So, do you have any pets or anything?", Uhm.. I do. I have a dog and a cat.
+7, 00:01:27," Oh, okay. Cool. I have a dog myself."," Oh, awesome."
+8, 00:01:33," Yeah. So, did you have-- uh.. you still moving your things in?"," Yeah, but-- well, we’re moved in, but I still have to unpack and stuff, but yeah."
+9, 00:01:48," Okay. If you need any help with anything, you can always let me know. I’ll be gladly to help you out with anything or kinda show you around the uh.. building or whatever."," Oh, thank you. That’s so nice of you."
+10, 00:02:04, Mm-hmm. You’re welcome.," Uhm.. so, since I’m new to the area, can you tell me a little bit about the neighborhood?"
+11, 00:02:15,wer: That’s good. Uhm.. what’s the landlord like?, Okay.
+12, 00:02:48," Uh.. he’s pretty- pretty good dude. He’s a pretty nice guy. You know, as far as maintenance, he’s pretty on it."," Okay. That’s good. Uhm.. well, I’ve still got to just finish unpacking, but thank you for coming over to meet me. I hope to see you around."
+13, 00:03:16," Oh, yeah. Yeah, likewise. Yes. Nice to meet you.", Okay. Bye-bye.

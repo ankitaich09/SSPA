@@ -10,6 +10,8 @@ calculate pauses
 '''
 
 import re
+import sys
+
 import numpy as np
 import pandas as pd
 from datetime import datetime
@@ -174,7 +176,8 @@ def makeJSON(filepath_to_initial_data, label_of_health):
 
 def main():
     filepath = input('Enter the path to the CSV file: ')
-    label_of_health = 'schizophrenia'
+    #CHANGE THE LABEL BEFORE YOU RUN THE CODE !!!!!!!
+    label_of_health = 'bipolar'
     makeJSON(filepath, label_of_health)
 
 

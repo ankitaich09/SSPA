@@ -1,0 +1,12 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi. This is Interviewer, the landlady."
+1, 00:00:13,"  Uhm.. yes, ma'am. This is Patient. I'm in 1B and spoke earlier this week about a leak that has not yet been taken care of. I'm hoping to- to catch-up on that [ph?] a little bit more. Is there any way that <audio cuts out> to help fix that?",  Sorry. Is there any way-- what was the last part?
+2, 00:00:36,  That I can get you down today to- to- to work on fixing that?,"  Oh. Uhm.. yeah, I'm sorry I haven't had time to get over uhm.. but I'm not sure what I can do about the problem right now."
+3, 00:00:48,"  Okay. Well, my only concern is this leak has gotten worse, and it's causing more damage to the apartment, which is gonna cost more for both of us in the future. I think it really needs your attention. Hello?",  Hi. I'm here. Uhm.. it's just that I have a lot of other tenants right now with problems that are ahead of yours.
+4, 00:01:07,"  Uhm.. I understand, and I don't know [ph?] <audio cuts out 00:01:00>.",  Sorry. What was that?
+5, 00:01:30,"  I said uhm.. when can you get me in on this list with the other tenants? 'Cause, like I said, this leak has now progressed, and it's only going to cause more damage to the apartment and be more out of pocket for you as well.","  Mm-hmm. Yeah, you are on the list. It's just that there are some other problems right now that are more serious."
+6, 00:01:49,"  Okay. Uhm.. well, like I said uh.. it- it is progressing to- to be on this list pretty soon or to <audio cuts out 00:01:59>.",  Sorry. What was that?
+7, 00:02:07,wer:  Mm-hmm.,  Mm-hmm.
+8, 00:02:33,"  I'm-- I said I hope to get moved up on the list, ma'am. That way it isn't more out of pocket for you and I both <inaudible 00:02:39> uhm.. and if you could just get back with me, ma'am, that'd be great. Thank you.","  Okay. Yeah, so it still might take me a while uh.. maybe about a week, maybe two weeks before I'll have time to get out there to fix it, but thank you for giving me a call about the problem. Uhm..."
+9, 00:02:59,"  Oh wow. Well, just a week? I'm sorry, ma'am, that's- that's acceptable [sic], and <inaudible 00:03:03>. Is there any way that could get any closer [ph?]? It's unacceptable for a week [ph?].","  Mm-hmm. I'm sorry. I'm just not sure what I can do about the problem right now. Uhm.. I do have to go now, though, but, like I said, thanks for giving me a call about it to update me."
+10, 00:03:22,"  Okay. Thank you, Miss. I appreciate it.",  Bye.

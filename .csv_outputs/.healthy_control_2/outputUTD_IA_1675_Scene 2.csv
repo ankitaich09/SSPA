@@ -1,0 +1,10 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," Hi, this is Interviewer, the landlady."
+1, 00:00:12," Uh.. yes, uh.. I’m Patient and I’m a tenant in your building and I have a really bad leak that I’ve been trying to get you to fix and it’s getting worse and worse."," Oh, okay."
+2, 00:00:28," So, do you know like a timeframe where you could-- you could get it fixed or whatever?"," Yeah. Uhm.. sorry that I haven’t been over. It might take me about a week, maybe even two weeks before I’ll have time to fix it."
+3, 00:00:44," Oh, man. Are you sure you can’t do it-- like get it done like a little sooner? Because I’ve already been kinda waiting uh.. of a while and- and the leak is getting worse and it’s messing up my uh.. flooring in the apartment up."," Oh, okay. Yeah. I understand. It didn’t sound that bad the last time you called."
+4, 00:01:05,"wer: Okay. Uhm.. so, what have you done about the problem so far?", Mm...
+5, 00:01:53," Well, I tried uh.. to pinpoint the problem to see what-- actually, where the leak was coming from. Then I- I got somebody I know that’s a plumber and he tried to-- well, then I didn’t want him to go too far with it and make the problem even worser. So, I wanted to- to inform this for the maintenance people to come through and uh.. for them to look at it because I didn’t want a- a pipe to burst and like flow down to other apartments. So...", Mm.. okay.
+6, 00:02:32," So, hopefully we can get this resolved."," Uhm.. yeah, I’m really sorry about your problem. Uhm.. I can’t fix it right this second, but uh.. I will be over as soon as I can. I just don’t know what I can do about it right now."
+7, 00:02:57, Okay. I understand. Uh.. I’m gonna try to close it as much as I can and keep putting uh.. I guess buckets of water and throwing them out.," Okay. Yeah. Yeah. Just keep doing what you’re doing. We’ll make sure we take care of any of the damage and stuff, okay?"
+8, 00:03:15, Okay. I appreciate it., All right. Have a good day.

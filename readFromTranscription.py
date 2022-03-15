@@ -167,6 +167,16 @@ def namemaker(filepath):
     return filepath[pos1+1:pos2]+'.csv'
 
 
+def remote(filepath):
+    name = namemaker(filepath)
+    data = read_file_fron_path(filepath)
+    processed_data = pre_process(data)
+    times, dialogues = make_subarrays(processed_data)
+    dataframe = make_dataframe(times, dialogues)
+    dataframe.to_csv(name)
+    print(dataframe)
+
+
 def main():
     filepath = input('Enter Text File Path ')
     name = namemaker(filepath)

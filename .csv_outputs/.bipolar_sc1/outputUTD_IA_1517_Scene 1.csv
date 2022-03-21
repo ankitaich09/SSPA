@@ -1,0 +1,35 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:11,"  Hey, nice to meet you! I'm Patient [ph?]!","  Hi, nice to meet you, I'm Interviewer."
+1, 00:00:15,  Are you moving in here?,  I am.
+2, 00:00:17,"  Oh, okay! Uh.. so, I guess that van outside was uh.. yours?","  Yes, that's my stuff."
+3, 00:00:22,"  Oh, okay! Do you need any help moving in?",  Not particularly.
+4, 00:00:26,"  Oh, okay, okay. Are you from around here?",  Uhm.. I'm from the other side of the city.
+5, 00:00:32,"  Oh, okay, what made you go all the way over here?",  Work.
+6, 00:00:35,"  Oh, okay, what do you do?",  A research assistant.
+7, 00:00:38,"  Oh, that sounds fun!",  Mm hm.
+8, 00:00:39,  What kind of research?,  Psychology research.
+9, 00:00:42,"  Ooo, I've always wanted to do that.",  Yep.
+10, 00:00:45,"  Uh.. so, I guess you graduated recently?","  Yes, in 2017."
+11, 00:00:50,"  Oh, okay. That's nice. I'm going to be graduating pretty soon myself, so.","  Oh, congratulations!"
+12, 00:00:55,"  Yeah, fingers crossed I can. One of my courses I'm not doing too well in, but I'm sure I'll be able to pull it uh..--",  Mm hm.
+13, 00:01:02,"  -- together. So, your major was Psychology then?","  Yes, it was."
+14, 00:01:05,"  Oh, okay, yeah! I'm a Psych major. I was a Neuro major, and then I took Neuroanatomy, and <laughter> I changed majors immediately. So, yeah, what do you like to do uh.. for fun?","  Uhm.. I like to read, watch TV."
+15, 00:01:20,"  Ooo, me, too! Have you read any books recently?","  I have. I read one called ""Discovery of Witches."""
+16, 00:01:26,  Oh! Is it fiction?,  Mm hm.
+17, 00:01:28,  What's it about?,  Uhm.. it's about a witch who doesn't want to be a witch but she's kind of forced into like doing magic and things.
+18, 00:01:39,"  Oh, is it set in like modern times?",  Mm hm.
+19, 00:01:41,"  Oh, that sounds fun!","  Yeah, it's pretty cool."
+20, 00:01:43,"  Yeah, I need to get back into reading. I used to be like a really big reading fan, but I don't know, I want to get back into it.",  Mm hm.
+21, 00:01:52,"  But I think it's- it's a fun hobby. I like writing, also. Have you tried your hand at that ever?","  Mm, maybe like in middle school."
+22, 00:02:01,"  Oh, okay!",  But yeah.
+23, 00:02:02,  You should try again. It's a lot of fun!,"  Mm hm, I did like it."
+24, 00:02:06,"  Yeah, it is a lot of fun. Uh.. but that's something else I need to get back into. I've just been studying constantly.",  Mm hm.
+25, 00:02:12,  I have no life at this point. <laughs>,  It happens.
+26, 00:02:15,"  Yeah, but I think- I think once I graduate I'll have-- I'll put everything into writing. I want to get published and all that stuff! So.",  Mm hm.
+27, 00:02:25,"  Again, fingers crossed.",  Mm hm.
+28, 00:02:27,"  Uh.. it's supposed to be like a children's novel. So, I don't know, it's kind of uh.. strange to write, but I kind of like the challenge. So, if you ever want to beta read something, that'd be kind of cool.",  Yeah!
+29, 00:02:44,"  All right, thanks! That'd be awesome.",  Mm hm.
+30, 00:02:47,"  Uh.. what's your name, again?",  Interviewer.
+31, 00:02:49,"  Oh, okay, I'm Patient. I don't know if I told you my name.","  Yes, you did."
+32, 00:02:52,"  Oh, <laughter> okay. But yeah--","  All right, well, it was nice meeting you. Thank you for coming by."
+33, 00:02:59,  Bye.,"  Mm hm, all right, bye-bye."

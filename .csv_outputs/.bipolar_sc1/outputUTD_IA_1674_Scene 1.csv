@@ -1,0 +1,13 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:17, Do I start?," Yeah. Are you coming over to meet me, your new neighbor?"
+1, 00:00:22," Yeah. Sorry. Hi, how are you doing?", Good. How are you?
+2, 00:00:29, I’m doing well. Thank you. Uhm.. how- how is it moving in so far?, Good. Good. It’s just hot outside.
+3, 00:00:38," Yeah, definitely. Uhm.. do you need any help?"," Oh, no. Thank you, though. I think we’re pretty much all- all done, for the most part."
+4, 00:00:50," Oh, that’s good. Uhm.. well, I’ll just end it here. Well, let me know if you uh.. need any good food spots. Uhm.. I have all of the best places uhm.. for delivery."," Oh, sweet. Yeah. That would be awesome."
+5, 00:01:10,"wer: Uhm.. so, I’m actually-- I just moved here. Can you tell me a little bit about the neighborhood and stuff?"," Okay. Actually, before you go, could I just ask you a quick question?"
+6, 00:01:38," Uhm.. the neighbor’s pretty quiet. Uhm.. there’s a lot of people that walk around that are pedestrians. Uhm.. yeah, it’s a decent neighborhood and uhm.. there’s definitely lots of uhm.. food places and malls around, so-- or shopping places."," Oh, cool."
+7, 00:02:01," Yeah. So, it’s not too bad here.", That’s good.
+8, 00:02:08,wer: Uhm.. I just-- I am trying to get-- do you know where the bus is near here?, Okay. Yeah. You too. I’m so sorry. Can I just ask you one more really quick question?
+9, 00:02:30," Uhm.. I do not, but I know that you can check out this metro app and it will tell you where the bus stop is."," Oh, okay. Cool. I’ll definitely get that app then. Thank you so much. It was great meeting you."
+10, 00:02:48, You too.," All right. Well, hopefully I’ll see you around. Thank you."
+11, 00:02:55, Bye., You too. Bye-bye.

@@ -1,0 +1,8 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:16,"  Hello? Anyone home? Okay. Hi, neighbor! My name is Patient [ph?], and I live across the hall from you. I noticed that your door was open, and I just wanted to stop by to say how-- hello and welcome to the neighborhood. Well, where- where have you moved from?",  Uhm.. from Dallas.
+1, 00:00:38,"  Okay, well, I'm happy to have you here in our little neighborhood, and uh.. I hope you find everything to your liking. If not, just let me know, and I'll be more than welcome to show you around. Okay, then, I'll see ya soon!","  Uhm.. before you go, I'm new to the area, could you tell me about this neighborhood?"
+2, 00:01:05,"  Well, the uh.. neighborhood is quite quiet. Uh.. you do have a uh.. park up the street. Uhm.. there is uh.. public transportation just in case you don't want to drive and be out and- and get caught up in the traffic. So, uhm.. there's a dog park and uh.. there's a few uh.. shops up the street, too, as well.",  Is this building quiet?
+3, 00:01:47,"  Yes, it is. It's very quiet.",  Is it safe to walk in this neighborhood in the evening?
+4, 00:02:06,wer:  And what is the landlord like?,  <whispers> Yeah.
+5, 00:02:30,"  Well, we're friendly. Uh.. if you have any uh.. problems, uh.. he is quick to have maintenance come up and look at it and take care of it. Uhm.. he's a real good guy!", 
+6, 00:02:56,  Yeah.,"  Okay, well, I'll see ya soon, thank you."

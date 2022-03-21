@@ -1,0 +1,23 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:07, Uhm.. hi. What’s your name?," Hi, I’m Interviewer. Uhm.. how ‘bout you?"
+1, 00:00:11, I’m Patient. Are you new to the building?," Uh.. yeah. I’m just moving in right now, actually."
+2, 00:00:15, Where are you coming from?, I’m coming from Pittsburg.
+3, 00:00:18,wer: Yeah., <laughs>
+4, 00:00:23," Oh, okay. That’s a long way. What made you move to Dallas?", Uh.. I got a job at UT.
+5, 00:00:28," Oh, that’s really cool. I- I used to go there."," Oh, did you? Okay. Uhm.. did you like it there?"
+6, 00:00:36, Yeah. It was a really good environment. You’ll probably have a- a good time there., That’s cool.
+7, 00:00:43, Uhm.. do you need any help moving in?," Uhm.. not right now. I have some people helping me, but thank you."
+8, 00:00:49," Okay. If you need anything, I’m just down the hall.", Okay. Uhm.. I- I’m pretty new to the area. Uhm.. could you tell me a little bit about the neighborhood?
+9, 00:00:59," Uhm.. it’s a pretty safe neighborhood, pretty calm, not too much traffic going on. Uhm.. there’s a lot to do around here, so if you need any suggestions, just let me know."," Oh yeah, that sounds great. Uhm.."
+10, 00:01:14,wer: Uh.. before you go.., ...Have you lived here long?
+11, 00:01:19," Uh.. yeah, a couple years.", Okay. Uhm.. and how do you like living here?
+12, 00:01:24, I think it’s a pretty good environment., That’s cool. Uhm.. what’s the landlord like?
+13, 00:01:32, Uhm.. pretty calm. Not too aggressive and kind of just chill., That’s good. I’m glad to hear that.
+14, 00:01:43, Uhm.. yeah. Do you have any other questions?, Uh.. would you say it’s safe to walk around the neighborhood in the evening?
+15, 00:01:49," I’d say it’s pretty safe, yeah.", Okay. Uhm.. and are the residents in the building friendly?
+16, 00:01:55," Yeah, everyone’s pretty friendly. Everyone pretty much knows each other.", That’s good. Uh.. I have to get to work in the morning. Uh.. do you know how to get the bus downtown?
+17, 00:02:05," Uhm.. I actually do not, but I could maybe help you find that information.", Uh.. do you know where I’d look?
+18, 00:02:12," Uhm.. honestly, I would just google it and see what you’d find.", Okay. That sounds good.
+19, 00:02:20, Uh… Anything else that you need help with?, Uhm.. would you say the building’s pretty quiet?
+20, 00:02:26," Yeah. Yeah, pretty quiet.", Okay. Uhm.. I think that’s it uhm.. for me. Thanks for the answers.
+21, 00:02:37, <laughs> You’re welcome. Uhm.. I’ll see you around., I’ll see ya.

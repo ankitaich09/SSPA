@@ -1,0 +1,24 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:12,wer: I did. I moved in yesterday., Hi. Nice to meet you.
+1, 00:00:23, Do you need any help with your new apartment?," Yeah. I don't need help right now, but I have some big pieces tomorrow that I might need help with."
+2, 00:00:32,wer: Yeah. That'd be really nice., Uhm.. yeah. How do you find living here?
+3, 00:00:44,wer: Okay. Yeah. That's good to know., Mm-hmm.
+4, 00:00:56, Is there anything else you want to know?, Can you tell me what the landlord is like?
+5, 00:01:01,wer: Oh., Oh really.
+6, 00:01:09," Yeah, but they're supposed to get a new one, hopefully soon."," Oh. Okay. Well, I guess it's kind of good and bad."
+7, 00:01:16,wer: I used to live in Minnesota?, Huh. Okay.
+8, 00:01:32,wer: Yeah., Oh really?
+9, 00:01:36," Yeah. Do you have a block heater attached to your car, so it'll start in the morning? <laughter>"," Well, I don't think we'll need it here."
+10, 00:01:42," Yeah, hopefully not. Wow. Well, that's really neat.", Mm-hmm.
+11, 00:01:48,wer: Uhm.. St. Paul., Really?
+12, 00:01:58,wer: Okay., I can't remember the name <laughter> off the top of my head.
+13, 00:02:07,"wer: Uhm.. left Minnesota? Uhm.. I left about a week ago, but I've been traveling to get here.", Huh.
+14, 00:02:22,wer: Mm-hmm., ...just to stop by for a few days.
+15, 00:02:32,wer: Mm-hmm., I'm a nurse here.
+16, 00:02:42,"wer: Oh, that sounds nice.", Nice.
+17, 00:02:52,wer: Uhm.. I guess I like to go running in the evening. Would you say..., ...that the neighborhood is pretty safe?
+18, 00:03:03," Yeah, for the most part, I'd say it's pretty good.", Mm-hmm.
+19, 00:03:06, There's not a whole lot that goes around here most of the time. Yeah. I'd say you're safe.," Okay. Well, awesome. Uhm.. it was great meeting you."
+20, 00:03:15, It was very nice to meet you., Uh.. I'm sure I'll see you around.
+21, 00:03:18,wer: Yeah. I'll come find you., Okay. Thank you.
+22, 00:03:25, Bye., Bye.

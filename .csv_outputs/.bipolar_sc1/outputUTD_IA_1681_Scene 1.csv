@@ -1,0 +1,17 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:15," Oh, wait, am I supposed to start since I’m saying hi?", Hi. Uh.. are you my new neighbor?
+1, 00:00:23," Yes, I- I am. Uhm.. when did you just move in, today?", Yeah. I’m just moving in now.
+2, 00:00:30," Oh, nice. I’ve been living here for like a year."," Oh, cool."
+3, 00:00:36," So, are you new to the area or are you just switching up apartments?", Uhm.. I kind of new to the area. I moved from the other side of town.
+4, 00:00:44," Oh, nice. Nice. What brings you here?", Uhm.. just moving closer to work.
+5, 00:00:50," Oh, true. This is a pretty good location for that. Where do you work at?", I work at the university.
+6, 00:01:00,wer: Yeah.," So, can you tell me a little bit maybe about the neighborhood since I’m new to this area?"
+7, 00:01:20, Yeah. Uhm.. there’s a real nice dog park about half a mile from here. I don't know if you have any pets or not. Uhm.. but there is also like this really cute breakfast place where you can get good breakfast-- good biscuits. Uhm.. it’s like right down the road., Mm-hmm. Okay. Cool. That’ll be nice.
+8, 00:01:45," So, how much left do you think that you have to move?", Uhm.. I still have quite a bit. Uhm.. a lot to unpack and whatnot.
+9, 00:01:56," Okay. Well, maybe once you get a little bit more settled, you can come by. We could have some like coffee or tea or something.", Yeah. That’d be really nice. Thanks.
+10, 00:02:06, All right. Cool. I’ll catch you around then.," Well, uh.. before you go real quick, uhm.. can you maybe tell me what the landlord here is like?"
+11, 00:02:14," Oh, yeah. Uhm.. I mean, he doesn’t seem like too involved. I’ve never seen him around the complex. It’s usually just like the maintenance people. But I don’t have any like issues or complaints. I haven’t really interacted with him.", Okay. Cool.
+12, 00:02:37, Is there anything else that you are curious about the place?," Uhm.. well, do you like living here?"
+13, 00:02:44, Yeah. I like it. I like the- the location is really the best spot., Mm-hmm.
+14, 00:02:58," All right. So, I guess I will see you around?"," Yeah, I’ll see you around. It was nice to meet you."
+15, 00:03:05, It was nice to meet you too., Okay.

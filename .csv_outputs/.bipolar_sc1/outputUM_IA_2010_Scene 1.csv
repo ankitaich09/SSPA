@@ -1,0 +1,11 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:10,wer: New York., Hi.
+1, 00:00:22,wer: Uhm.. no., New York.
+2, 00:00:40,wer: Hmm?, Both.
+3, 00:00:57," Okay. What brings you back to Miami? I mean, as opposed to growing up-- you got family members here? Reason- any reason?"," Yes, and a new job."
+4, 00:01:06," Oh, nice. Well, my name’s Patient. Nice to meet you.", Uhm.. what’s the landlord like?
+5, 00:01:20," He’s all right, kind of a pain. <laughs> Uh...", How do you find living here?
+6, 00:01:38," It’s okay. The weather’s nice, lots of places to go. That’s it.", Have you lived here long?
+7, 00:02:00," Yeah, all my life. <laughs>", Is this building quiet?
+8, 00:02:15," Yes, for the most part, it’s pretty quiet. This is very awkward. The people are great. They try to help out, very neighborly. That’s it.", Is it safe to walk in this neighborhood in the evening?
+9, 00:02:46, Thank God.," Uhm.. well, I still have to unpack."

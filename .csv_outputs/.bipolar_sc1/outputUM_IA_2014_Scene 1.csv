@@ -1,0 +1,10 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:10,wer: Hi.," Good, thank you."
+1, 00:00:23,"wer: Um, up north.", No.
+2, 00:00:33,wer: No., I'm new to the area. Tell me about the neighborhood.
+3, 00:00:59," The neighborhood is really safe. There's a lot of uh.. parents and kids, and they always hang out at the park across the street. People like taking their dogs out. Uh.. there's a dog park not, located nearby. Uh.. but everything here has been quiet and safe. Uhm.. do you work nearby?", Uh.. yes.
+4, 00:01:29," Yes? Okay, that's good. That's good. It's always good to- to have a- a job that's actually close to your home. Do you drive?", Yes.
+5, 00:01:40," Okay. Parking is, do you, we don't have assigned parking here, so when you get here from work just suggest to park closest to your door. Uh.. if you ever need any help just let me know uhm.. with like groceries and stuff to like help you carry them because there's no elevator.", Have you lived here long?
+6, 00:02:08," Yes, I've lived here for two years, so I'm familiar with this area pretty well.", What's the landlord like?
+7, 00:02:25," The landlord is of, she's really nice, uhm.. she's really helpful if you ever go up to her and ask her for any help like that you need anything for. Your apartment or something breaks down, they're really responsive here, so all you have to do is talk to the property manager and she'll get a hold of the landlord, so.", How do you find living here?
+8, 00:02:55," I love living here. I love it all the, I mean, I've never had any issues or any problems with any neighbors or anything like that. Like I said, it's really safe and uhm.. good community to live in.", 

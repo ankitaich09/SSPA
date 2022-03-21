@@ -1,0 +1,25 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:08, Okay. Oh. Do I go first?  Okay. Hello. Anybody home?, Hi.
+1, 00:00:19, Yeah. Welcome to the neighborhood. Are you the new neighbor?, I am. I just moved in.
+2, 00:00:22," Okay. Uh.. well, where are you from?", Uhm.. I'm from Wylie.
+3, 00:00:28," Wylie, Texas?", Yes.
+4, 00:00:30," Cool. I've heard that's a real nice neighborhood. What do you think of uh.. the neighborhood here, or have you seen anything yet?"," Uhm.. I mean, so far so good. Today's my first day here, but so far, so good."
+5, 00:00:41," Uhm.. well, uh.. I've lived in Dallas all my life, and I could tell you a lot about the culture if you'd be interested.", Yeah. That would be great.
+6, 00:00:50," All right. Well, what are your plans for later tonight?"," Uhm.. I don't know, probably just unpacking, that sort of thing, trying to get settled."
+7, 00:00:59,wer: Sure. That would be so great. Thank you..., ...so much for offering.
+8, 00:01:03," Yeah. Well, just-- people come in and out of the neighborhood. Just, it's nice to see a new face, see how you are.", Yeah.
+9, 00:01:13, A- anything else on your mind?," Uhm.. yeah. Actually, could you tell me a little bit about the landlord? What are they like?"
+10, 00:01:22," Well, they're pretty, I guess, uh.. well, they don't really bother you that much unless there's a problem...", Mm-hmm.
+11, 00:01:30, ...and then they pretty much respect your privacy., Okay. That's good.
+12, 00:01:34, Anything else you'd like to know about the neighborhood?, Yeah. Uhm.. is it safe to walk in the neighborhood in the evening?
+13, 00:01:41," Certain parts, and certain parts aren't.", Okay.
+14, 00:01:44," Just depends where you are. Like, where we are now, it's probably considered a good neighborhood, so it should be fine.", Okay.
+15, 00:01:51," As long as you keep your wits around you, you should be fine."," Okay. That's good to know. Sometimes, I like to walk my dog at night, so that's good to know."
+16, 00:01:57," Yeah. Well, uh.. that's nice that you're a pet owner.", Yeah.
+17, 00:01:59, Yeah. It's always good to have a pet for companionship.," Yes, definitely."
+18, 00:02:05," Yeah. Uh.. you're actually outgoing, or you prefer to be left alone?"," Uhm.. kind of a little bit of both, depends on the day, I guess."
+19, 00:02:13," Oh, that's cool. Well, just I figured I'd stop by and welcome you to the neighborhood and see if you need anything, but if you need anything else, uhm.. let me uh.. coup- couple errands, and when you're ready to unpack, just knock on my door."," Okay. Thanks. Uhm.. really quick before you go, uhm.. I have to go to work in the morning. Do you know where the bust stop is?"
+20, 00:02:39," Yes. The bus stop is uh.. actually right down uh.. down the hallway on the street. Look for the yellow sign. If you need a bus schedule, there's a sign on the- there's a number on the sign that you can call and actually get the timetables you need. Or, if you want, call DART directly, and they'll give you the numbers that you need."," Oh, okay. Cool. Thank you. That's like super helpful."
+21, 00:03:01, Mm-Hmm-mm., That's awesome.
+22, 00:03:02, Yeah.," All right. Well, you know, I still need to unpack and stuff, but thank you so much for stopping by. It was nice to meet you."
+23, 00:03:08," Yeah. Well, thank you very much.", 

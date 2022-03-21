@@ -1,0 +1,21 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:08," Hey, welcome to the neighborhood.", Hi.  Thank you.
+1, 00:00:12, So you uh.. are you from around here?," Well, no.  I moved."
+2, 00:00:18," Yeah, to the- the new city?", Mm-hm.
+3, 00:00:20, How cool.  Are you here for work?, Yes.
+4, 00:00:23, Awesome.  So like what do you do?, I’m a research coordinator.
+5, 00:00:27," Oh, nice.  I’m a graphic designer here.", Cool.
+6, 00:00:30, Uhm.. is there any-- what are your interests?, Uh.. I like to read.
+7, 00:00:34," Oh, my God.  Me too.  What do you-- what are you into?", Uh.. currently I’m reading uhm.. Huckleberry Finn.
+8, 00:00:42," Huckleberry Finn.  It’s been a long time since I’ve read that.  In high school.  So uhm.. well, I’m always around here.  I have a lot of animals, so if you ever feel like you want another cat, you let me know.  I’m always happy to help.", Thank you.
+9, 00:00:55, Uhm.. is there anything that you need help with in regards to your move?, Uh.. <pauses> uh..--
+10, 00:01:08,wer: Sure.  Groceries maybe?, <laughs>
+11, 00:01:15," Yeah, ‘cause I realize, like, it’s really hard to unpack everything all at once, so if you ever are missing an item that you’re like, “I know I have it,” but can’t find it, I probably have it lying around.  More than happy to help out.", Good to know.
+12, 00:01:27, <laughs> I get to keep talking?  Cool.  Uhm.. so what do you do for fun?, I like to hike.
+13, 00:01:37," Oh.  Well, we are in a great city to hike.  Is there any that you really like t-- any special trails around here that you like?"," I’m new, so not sure."
+14, 00:01:47,wer: Mm., I don’t.
+15, 00:02:00," Oh, wow.  You’ll hafta get a new animal. <laughs> I’m always pushin’ people to get animals.  Uhm.. but I’m more than happy to go on a hike with you.  My dog likes to go on the hikes with me, so if you’re okay with that, I’d be happy to bring her.", That’s nice.
+16, 00:02:16," Yeah, she’s a cool dog.  That’s all I got. <laughs> You have a great day. <laughs>"," Wait.  Before you go, uhm.. I wanted to know, <clears throat> are the residents in this building friendly?"
+17, 00:02:37," Uhm.. most of us are, yeah.  Definitely. <laughs> Uhm.. but be careful with the guy down the street.  He likes to yell at you, so that’s always a fun little thing to find out.  You know, don’t park in front of his house.  He gets real picky about it.", I’ll watch out then.
+18, 00:03:00, <laughs> Yeah.  Definitely watch out., All right. <laughs> We’re gonna--
+19, 00:03:08,wer: <laughs>, --stop it there. <laughs>

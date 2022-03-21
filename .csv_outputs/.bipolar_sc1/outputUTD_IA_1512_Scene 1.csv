@@ -1,0 +1,17 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:07,"  Hi, my name is Patient. Are you our new neighbor?","  Hi, Patient, yeah, I'm just moving in right now. I'm Interviewer."
+1, 00:00:14,"  Hi, Interviewer, nice to meet you! Uhm.. well, you guys-- are you here by yourself or--","  Yeah, it's just me moving in. Yep."
+2, 00:00:22,"  Okay, uh.. well, I moved in recently myself. Uhm.. I like to meet new people coming to us into the building. So, if you ever need any help, like uh.. you know, your tire needs uh.. you know, some air, or whatever, just feel free to knock on my door. I'm usually here in the evening. Uhm.. so uh.. yeah!",  Awesome! I'm glad to hear it.
+3, 00:00:43,"  Well, very good. Well, I'll- I'll get back to my pl-- my apartment and uh.. my name is Patient, and if you ever need anything, just uh.. give me a holler!","  Sounds good! Uhm.. but before you go, uhm.. I'm pretty new to the area. So, could you tell me a little bit about the neighborhood?"
+4, 00:00:57,"  Yeah, uh.. so like uhm.. there's actually, this building that you moved in, you really chose a really c- cool place. Like uh.. we got like a lot of things going on. Uh.. so if you're like into social stuff. I mean, that we meet from time-to-time uhm.. to party, you know, where they have like once a month they have a get-together. But if you want to get outside of the apartment building, uhm.. they've got some really cool restaurants down uh.. on L Street. Uhm.. I don't know if you've seen that coming into the apartment building, but it's- it's just a couple of blocks away. You've got a lot of great bars,", 
+5, 00:01:28, ,"  Oh, yeah."
+6, 00:01:42,"  Yeah, I'll point you out over there, and we can uh.. have a good time and- and party it up.","  Yeah, that sounds like a fun time to me! <laughter>"
+7, 00:01:50,wer:  Okay.,  Like downtown into Dallas proper?
+8, 00:01:59,wer:  Uh..--,  Have you liked living here so far?
+9, 00:02:04,"  Uhm.. yeah, I mean, it's been nice and quiet. I don't uhm.. uh.. have any problems. Like- like the person that used to live next to me used to have these shouting matches, but I think that's kind of like quieted down.",  All right.
+10, 00:02:17,"  I think they got on medication or something. Except don't tell him I ever said that, <laughter> because I don't know if it's true or not. I never see them coming out of the apartment, but uhm.. yeah, it's a really nice and- and you know, calmed down. So, uh.. it's a great place.","  Oh, I'm glad to hear that."
+11, 00:02:31,"  If you like to study and stuff like that, you've- you've got, you know, a nice place to- to relax.",  Very cool. Uhm.. would you say the residents of the building are pretty friendly then?
+12, 00:02:40,"  Yeah, and like residents are really nice. Uh.. don't talk to the- the two older couples that are at the bottom of the uh.. building set, they're really, really antisocial to younger people unless they're meeting their friends.",  Okay.
+13, 00:02:57,"  But yeah, just so you know. <laughs>","  That's true. All right, well, thank you for that."
+14, 00:03:00,  Yep.,"  Uhm.. I still have some stuff to unpack and stuff, so I'm going to get going, but it was nice meeting you."
+15, 00:03:06,  It was nice meeting you as well.,"  All right, I'll see ya around."

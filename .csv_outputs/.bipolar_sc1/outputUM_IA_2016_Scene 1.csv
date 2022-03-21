@@ -1,0 +1,16 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:09,  Uh.. ar- aren't you gonna initiate?  Hi neighbor.,  Hi.
+1, 00:00:15,wer:  New York.,  New York City.
+2, 00:00:28,wer:  Yes.,  A research assistant.
+3, 00:00:37,"  Oh, great, lovely, perfect.  So welcome to the neighborhood.  <laughs> Uhm.. do you like cake?",  No.
+4, 00:00:53,"  You don't?  What do you like, so I can bring you over a housewarming gift?",  Cupcakes.
+5, 00:00:59,  I thought you said you didn't like cakes?  You like cupcakes.  What particular flavor?,  Vanilla.
+6, 00:01:07,"  Okay, well I'll make sure to bring some next time when I come.  Do you need anything help settling in?",  Uhm.. not for now.
+7, 00:01:18,"  Okay, well let me know if you do, I'm just down the hall in 308.",  Uhm.. I'm new to the area.  Tell me about the neighborhood.
+8, 00:01:29,"  Uh.. it's nice, but you have to be cautious because, you know, just like any other neighborhood you have your, you know, people that you need to watch out for.  And, you know, the store, the grocery store is down the street, you have the pharmacy and uh.. the pool, you know, if you want me to show you around, I don't mind, let me know.  And uhm.. I'll make sure I have those cupcakes for you tomorrow.", 
+9, 00:02:04,wer:  Uhm.. no.,  Interviewer.
+10, 00:02:15,"  Interviewer.  Welcome to the neighborhood.  If you need anything, here's my number.  Blah, blah, blah, blah, blah, blah.  Feel free to call anytime.  Bye.",  Uh.. what's the landlord like?
+11, 00:02:31,wer:  Yes.,  Mm…
+12, 00:02:52,wer:  Uh.. a Mini Cooper.,  Two dogs.
+13, 00:03:01,  Two dogs.  What's- what kinda dogs?,  Uh.. they're Chihuahuas.
+14, 00:03:07,  That was a little better than the first…,"ihuahuas, okay."

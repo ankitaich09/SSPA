@@ -1,0 +1,23 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:12, Hi.  My name’s Patient.  Uhm.. it looks like you’re my new neighbor?," Hi, Patient.  Yeah, uh.. I’m Interviewer.  I just moved in today."
+1, 00:00:19, Oh.  Nice to meet you.  Where’d you move from?, Uhm.. I moved from Wiley.
+2, 00:00:22," Oh, okay.  So have you-- are you familiar with this area at all?", Not really.  Not really.  I don’t really know much about it.
+3, 00:00:29," Okay.  Well, welcome to the neighborhood.  Everyone around here’s pretty nice.  It’s a quiet neighborhood.  Not too many kids around.  Trash day’s on Mondays.  Uh.. do you have any children?", Uhm.. I don’t.
+4, 00:00:42, Okay.  So you don’t hafta worry about school bus or anything like that.  Uhm.. did you move here for work or school or...?, Uh.. yeah.  I moved here to be closer to my job.
+5, 00:00:51, Okay.  That’s nice.  Where you workin’ at?, Uhm.. I work at UT Dallas.
+6, 00:00:55,"wer: Oh, cool.", Awesome.
+7, 00:00:59," Well, it’s nice to meet you.  Just wanna say “Hi,” and if you need anything, just knock on my door.", Thank you so much.  I really appreciate it.
+8, 00:01:06, Mm-hm.," Uhm.. really quick before you go, uhm.. can you tell me about the landlord?  What are they like here?"
+9, 00:01:16," Oh, the landlord is awesome.  If you need anything, you know, just call him.  He’s pretty nice.  You know, he’ll take care of most, like, maintenance issues for you.  I’ve had a good experience with him.", Cool.  That’s really good to know.  Awesome.
+10, 00:01:31," Mm-hm.  Mm, just let me know if you have any problems, and I can help you as well."," Yeah, I appreciate that.  That’s really nice. <pauses> Uhm.. how long have you lived here?"
+11, 00:01:48, I’ve lived here for about two years now.," Cool. <pauses> Uhm.. is it safe to, like, walk around in the neighborhood at night?"
+12, 00:02:06," Uh.. yeah.  Like I said, it’s pretty quiet and most everyone here gets to know each other, so nothin’ to be worried about and I would just make sure you have a flashlight or something.  Gets pretty dark here."," Okay.  Cool.  That’s good know.  Yeah, sometimes I like to walk my dog at night, so..."
+13, 00:02:22,"wer: Uhm.. so I still have to, like, get, like, an internet service.  Do you recommend, like, a good one in the area?", Cool.  Awesome.
+14, 00:02:42, Uh.. everyone around here gets Spectrum., Okay.
+15, 00:02:47," Uh.. looks like it’s the cheapest one, most reliable one.", Mm.
+16, 00:02:51, Uhm.. heard Sprint is good as well.  Uhm.. who was your internet provider before?," Uhm.. well, when I lived with my parents, I had, like, Time Warner Cable, but didn’t like it very much. <laughs>"
+17, 00:03:05," Oh.  Okay.  Yeah, I used to have ‘em too.  They’re pretty expensive, so--", Yeah.
+18, 00:03:08," --check out, you know, Sprint or Spectrum or AT&T.", Okay.  Cool.  Awesome.
+19, 00:03:13, Mm-hm., Thank you.  Yeah.  I’ll definitely- I’ll definitely look into that.
+20, 00:03:16, No problem.," Uhm.. well, thank you so much for stopping by.  I still hafta, like, unpack and stuff but it was really nice to meet you."
+21, 00:03:22," Okay.  It was nice to meet you too, and I’ll see ya around.", All right.  Sounds good.

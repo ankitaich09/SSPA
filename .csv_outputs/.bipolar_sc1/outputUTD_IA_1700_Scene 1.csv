@@ -1,0 +1,10 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, , Hi. Uh.. were you coming over here to meet me?
+1, 00:00:24,"  Oh yeah. Yeah, yeah, yeah. Uhm.. how are you doing? My name's Patient.",  Hi. I'm all right. Thanks.
+2, 00:00:35,"wer:  Uhm.. it's all right. I don't know too much about this area, but it seems nice.",  Uh.. can you tell me a little bit about this area maybe since I'm new to the neighborhood?
+3, 00:01:06,"  Yeah. Uhm.. so there's uh.. like a few grocery stores on either end of the street, and there's, you know, like a couple boutiques maybe a few blocks down the way, and then downtown is not too far away as well. Uhm.. since we're a little bit out of downtown there's a couple of parks around if you're interested in that. We have a dog park. I don't know if you have a- a pet or anything. Uhm.. yeah, and if you need any", 
+4, 00:01:38, ,"  Okay, great. Thanks for the information."
+5, 00:01:45,"  Cool. Well uh.. I'll let you get back to what you're doing. I don't want to take too much of your time, but it was nice to meet you.","  Yeah. Well, before you go, real quick, could you tell me a little bit about what the landlord here is like?"
+6, 00:02:03,"  Yeah. Uhm.. they're pretty nice in terms of how some landlords can be. Uhm.. they seem to be pretty responsive and pretty kind and respectable, like they- they do care about their tenants, which is really nice uhm.. and there are some like nice benefits in the home office uhm.. and their maintenance is pretty good. They're uh.. responsive to maintenance requests, so they're not too bad.","  Okay, cool. So how do you like living here?"
+7, 00:02:47,"  Uh.. I like it. Uhm.. I like the- the opportunity to like go and do things relatively closely, but I'm- I'm more of a homebody, so uhm.. yeah, I just kinda hang-out at home.","  Mm-hmm. Cool. Well, I guess I should get back to unpacking, but it was really nice to meet you."
+8, 00:03:14,  Bye.,  All right. Bye.

@@ -1,0 +1,14 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ,  Hi.  Are you coming over to meet me?
+1, 00:00:23,"wer:  Yes, I did, I just moved in today.","  I am actually from Phoenix, Arizona."
+2, 00:00:40,"wer:  No, I haven't, this is the first time.","  I actually moved here for my job, yeah."
+3, 00:00:58,"wer:  Uhm.. I'm a researcher there, yeah.",  Uhm.. I work just down the street uh.. at UT Dallas.
+4, 00:01:12,wer:  Yeah.,"  Yeah, I like it so far uhm.. I mean I literally-- today is my first day, so I haven't been able to explore much.  <laughs>"
+5, 00:01:31,"  Oh, okay.  Well I hope that uh.. you like it here and know that the place, the apartment's really nice, so I think that you'll enjoy it.","  Awesome, that's- that's really good to know."
+6, 00:01:43,"  Yeah.  Let me know if you need anything, I'm just right across the hall and it was nice to meet you.","  Thank you.  Actually, before you go uhm.. do you mind just telling me a little bit about the neighborhood?"
+7, 00:01:59,"  Yeah, sure.  So uhm.. there's-- if you have any kids or anything, there's a school like right across the street, you can walk there.  Uhm.. as you can see uh.. there's a pool and a tennis court and a playground right near here, so there's always people outside hanging out if you ever wanna come join us.  Uhm.. the grocery store's right across the street, you can walk there too, so it's really convenient.  And yeah, not too far from the highway to get to your work.","  Awesome.  Yeah, it sounds like everything is very close by, that's good."
+8, 00:02:35,"  Yeah, it's really convenient and makes the commute really easy and it's pretty nice.","  Yeah, yeah, it seems very nice."
+9, 00:02:46,"  Yeah, and the people here are really friendly too, so-- and they're not very loud, a lot of families uhm.. so you should probably not be bothered very much, but if you have any issues, the staff at the apartment's really nice, so they're always really attentive and they'll be able to help you out.","  Oh good, that's good to know, it's always good.  <laughs>"
+10, 00:03:07,"wer:  No, I appreciate you coming over to meet me, that was so nice of you.  Uhm.. hopefully I'll see you around, maybe we can hang out sometime.",  Awesome.  Well…
+11, 00:03:20,"  Yeah, that would be great, just let me know when you're free.","  Okay, perfect.  Well I'll get back inside, I've got a lot of unpacking to do, so I'll see you around, okay?"
+12, 00:03:31,  Bye.,"  Thanks, you too.  Bye-bye."

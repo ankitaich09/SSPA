@@ -1,0 +1,19 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:13,wer: Hi. Nice to meet you.," Hi, yeah. I did. My name’s Interviewer."
+1, 00:00:21,"wer: Uhm.. I’ve only been here for three days, actually.", I just got a new job in the area. So...
+2, 00:00:30," Oh, congrats. That’s awesome.", Yeah. Thanks.
+3, 00:00:32," Yeah. Well, I should have you over for dinner sometime. Are you free sometime this week?", Yeah. That’d be awesome. I’m free Thursday night.
+4, 00:00:38, Cool. Okay. Come on over. Yeah., Awesome. Thanks. That’s so nice of you.
+5, 00:00:43, Of course. What kind of food do you like?, Uhm.. I’m pretty open. I like all types of foods.
+6, 00:00:48,wer: Yeah., Thanks.
+7, 00:00:48,"wer: Oh, wait, before you leave, uhm.. can you tell me what the landlord’s like?"," Oh, really?"
+8, 00:01:08,wer: Yeah. That’s good to know., I see.
+9, 00:01:31,"wer: Oh, really?"," Oh, okay."
+10, 00:01:42,wer: Oh.," Oh, that’s good to know."
+11, 00:01:50," Yeah. Okay. Well, welcome and I’ll see you Thursday."," Thanks. But uhm.. before you leave, can you tell me if it’s safe to walk in the neighborhood at night?"
+12, 00:02:00,wer: Okay., I like to go jogging at night.
+13, 00:02:15," Oh, that’s awesome. Yeah. Maybe we can go together sometime. You should be safe, though.", Okay. Good to know. Thank you.
+14, 00:02:24,"wer: Yeah. I don’t know anyone in the city. So, that would be really helpful.", Yeah.
+15, 00:02:37,wer: That’s awesome., Sure. Maybe on Thursday.
+16, 00:02:52,wer: It was Interviewer., And yours was?
+17, 00:02:58,wer: Patient., Nice to meet you.

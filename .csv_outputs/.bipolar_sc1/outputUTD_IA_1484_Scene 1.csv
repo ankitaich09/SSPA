@@ -1,0 +1,18 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:10,"  What- what do I say? Oh, so uh.. would you like to go to mom house today.","  Uh.. I'm sorry, I'm just moving in right now. Uhm.. and who are you?"
+1, 00:00:25,  Uhm.. I'm Patient.,"  Oh, it's nice to meet you. Uhm.. do you live around here?"
+2, 00:00:31,"  Yeah, I stay around the corner.",  Okay.
+3, 00:00:36,  Where-- would you-- uh.. you're new around town. Would you like to hang out sometime?,"  Uhm.. yeah, it sounds pretty good to me."
+4, 00:00:43,  What do you-- what-- where-- what- what do you want to-- what- what would you like to do? What- what do you have on your mind to do around?,  Uhm.. I'm not really sure what this is around here to do.
+5, 00:00:54,"  Well, what-- they-- we have- we have a recreation center. Uhm.. we have-- we have parks. We got- we got a little-- we- we got a beautiful lake; you can go fishin'.","  Oh, that sounds really good."
+6, 00:01:10,"  Yeah. So, would you like to go fishin' with me?","  Uhm.. maybe not today, but uhm.. in the future that sounds great."
+7, 00:01:19,"  Okay, well, my name is Patient. And what's your name?",  Mine's Interviewer.
+8, 00:01:22,"wer:  Uh.. before you go, uhm.. I'm pretty new in the area. Uh.. could you tell me a little bit about the neighborhood?","  It's nice to meet you, too."
+9, 00:01:33,wer:  That sounds really nice. Uhm..,  And uhm.. do you like living here in this area?
+10, 00:01:58,"  Uh.. yeah, it's okay. Just-- yeah, it's okay. Uh.. I've been living here for about three years now.",  Okay. Uhm..--
+11, 00:02:08,  Whatever I'm supposed to be saying?,  <whispers> <inaudible 00:02:11>
+12, 00:02:11,"  Oh <laughs>. So, I uhm.. they-- there's a uhm.. there's a great restaurant around the corner, too. They have great food. BJ's. They got-- yeah, that's around the corner, they got good food.",  Okay.
+13, 00:02:25,"  Uhm.. yeah, the neighborhood's beautiful. You know, they still doing a whole lot of houses, so--","  So, it's kind of on the rise?"
+14, 00:02:34,"  Yeah, it's still on the rise, yeah.",  That's good. Uhm.. would you say it's safe to walk in the neighborhood in the evening?
+15, 00:02:40,"wer:  Uhm.. well, I'm still working on getting unpacked, so uh.. I'm going to get going, but it was nice to meet you.","  Okay, that's good to hear."
+16, 00:03:00,  <laughs> All right.,"  Oh, I'll see ya around."

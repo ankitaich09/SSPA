@@ -1,0 +1,17 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:12, Hi. How are you? Did you just move in?," I did, yeah."
+1, 00:00:15," Cool. Well, I'm Patient, and I'm your new neighbor. Uh.. I hope maybe we could get together sometime and uh.. wel- so I can welcome you to the neighborhood.", That sounds great. Thank you.
+2, 00:00:29, All right. I'll see you later.," So before you go, uhm.. can you tell me, have you lived here long?"
+3, 00:00:36," Uhm.. I've lived here for a while, about a year and a half.", That's cool.
+4, 00:00:42, Yeah. It's a great apartment. The manager's cool and everything., That's nice to know now that I'm living here.
+5, 00:00:52," All right. Well, I'll see you later.", So uhm.. how do you find living here?
+6, 00:00:58,wer: So are the residents in the building friendly?, Seems like a variety of things. That's cool.
+7, 00:01:30," Uhm.. most of the neighbors are friendly, except the old lady with all of the cats. The cats are uh.. not very domesticated, and she lets them roam freely throughout the apartment building.", Interesting.
+8, 00:01:55,wer: So uhm.. is it safe to walk in this neighborhood in the evening?, I'll keep a note of that.
+9, 00:02:07, Okay. Any more questions?, Yeah. Uhm.. so I have to go to work in the morning. Where is the bus downtown?
+10, 00:02:18,wer: Okay.," Oh, that's convenient."
+11, 00:02:34,wer: Uh.. about eight in the morning., Mm-hmm.
+12, 00:02:43,wer: Yeah., I work in a university.
+13, 00:02:49,wer: Mm-hmm., I'm a librarian.
+14, 00:02:54,"wer: Oh, cool.", No.
+15, 00:03:08, Any kids?," No. All right. Well, it's nice to meet you."

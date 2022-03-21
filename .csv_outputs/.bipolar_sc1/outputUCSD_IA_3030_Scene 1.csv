@@ -1,0 +1,30 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, This is fun. I would never do this., 
+1, 00:00:11, Hi., Hello.
+2, 00:00:13, Are you the new neighbor?," I am, yes."
+3, 00:00:15, Cool. I'm Patient. What's your name?, My name is Interviewer.
+4, 00:00:20," Hi, Interviewer.", Hello.
+5, 00:00:22, Where did you come before this?, I came from Santa Clarita.
+6, 00:00:26,wer: Oh., Cool.
+7, 00:00:30, How long were you in Santa Clarita?, Pretty much my whole life.
+8, 00:00:34," Man, I probably met you when I was like five.", Maybe.
+9, 00:00:38, Do you need any help moving boxes in?, I just had the moving man help me.
+10, 00:00:42, Nice. <makes sound> Hate moving. What brings you here?, I got a job here.
+11, 00:00:50, Cool. What job?, I work in a library.
+12, 00:00:53, Which library?, The Lemon Grove Public Library.
+13, 00:00:57, That's a bit of a commute but awesome., Mm-hmm.
+14, 00:01:01, How do you-- are you a librarian?, Yes.
+15, 00:01:05,wer: Oh.," It's-- I haven't started yet, but I'm looking forward to it."
+16, 00:01:13," Oh, cool. Have you been a librarian before?"," In small libraries, not so much as uh.. large scale."
+17, 00:01:20,wer: I think so..., ...from what I can tell.
+18, 00:01:27, Are you excited?, I am.
+19, 00:01:31," All right. Well, you sure you don't need help moving?", I'm good. Thank you.
+20, 00:01:38," Okay. Then, I will leave you to it."," Uhm.. before you go, uhm.. can you tell me what the landlord is like?"
+21, 00:01:46," Uh.. actually, pretty nice. They're not fans of having too large of a garden on the balcony, so heads up on that one.", Good to know.
+22, 00:01:57, But they are super good about when you call them in the middle of the night because your toilet clogged.," Oh, that's <inaudible 00:02:04>."
+23, 00:02:03,wer: Yeah.," Great. Then, that's beneficial to my living here."
+24, 00:02:16, Anything else I can help with?, Are the residents in this building friendly?
+25, 00:02:21,wer: That's okay., Good to know.
+26, 00:02:41," Let's see. Those are our neighbors, the landlord. The apartment it- itself is pretty nice uhm.. area in general. Have you been to La Jolla much?"," Hmm-mm. I have not, no."
+27, 00:02:53,wer: Okay., Oh.
+28, 00:03:01,wer: Thank you. All right. Great job.," I hope so, too. All right. Well, it was nice meeting you."

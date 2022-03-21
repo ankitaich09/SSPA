@@ -1,0 +1,26 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:10, Hey., Hi.
+1, 00:00:10, Uh.. my name’s Patient.  I live across the hall.  Are you the- the new neighbor?, I am.
+2, 00:00:14," Great.  Well, I’m glad you’re here.  I’m super-excited.", Thank you.
+3, 00:00:19,wer: Mm-hm., I came from Irvine.
+4, 00:00:25,wer: Uh.. I got a job here., Mm-hm.
+5, 00:00:29,wer: Mm-hm., I’m a librarian.
+6, 00:00:32,wer: Mm-hm., At the Lemon Grove Public Library.
+7, 00:00:36,wer: Mm-hm., Me too.
+8, 00:00:38, I think they’re underused and I think we should use them more., I agree.
+9, 00:00:42," Cool.  Well, uhm.. anyways, I’m right aco-- across the hall.  It’s me and my roommate, so if you ever need anything, come and ask.  I’d love to be of any help.  If you want any, you know, information about what’s nearby, please ask, ‘cause I’d love to- to help you in any way.", Thank you.  That’d be great.
+10, 00:01:01,"wer: Uhm.. can you tell me, are the residents in this building friendly?", So before ya go...
+11, 00:01:10," They-- okay.  So yeah.  Let me tell you something about the- the building.  Uhm.. it really is.  There’s a lotta people our age, uhm.. so it’s- it’s a lot-- i- it’s nice ‘cause everybody’s sort of on the same page.  Like, there’s not a lotta loud families and there’s not a lotta grumpy old people, so it’s a lotta fun and there should be lots of people that you might wanna hang out with, so I can introduce you to some of ‘em, you know, next time we’re hangin’ out.  I’ll come and see if you feel like hangin’ out.", Sure.  I would appreciate that.
+12, 00:01:39," Yeah.  Yeah.  So... <laughs> So I’m gonna go back in my apartment <laughs> now, unless you-- do you have any questions?", Uh.. how do you find living here?
+13, 00:01:54," Well, I like it.  You know, I’ve been here for, let’s see, like two years, and I really like it.", Great.
+14, 00:02:01," And the people, like, that run the building are super-helpful, and uh.. it’s just been-- it’s been a great place to be, so...", Glad to hear it.
+15, 00:02:09, I like it. <laughs> Do you n-- do you need anything now?  Is there anything I can help you with w-- moving in or anything like that?, I think I’m mostly set.
+16, 00:02:20," Okay.  Well, if you think of anything, please ask.  My name’s Patient.  Did I already say my name?", I don’t remember. <laughs>
+17, 00:02:28," Anyways, my name’s Patient.  What’s your name?  I know I didn’t ask your name, so...", My name’s Interviewer.
+18, 00:02:32,wer: Thank you for asking., Hi.
+19, 00:02:39, <laughs> Is that all?  Is there anything else you’d like to ask me? <laughs>, Uh.. I hafta go to work in the morning.  Where’s a bus downtown?
+20, 00:02:53," Oh, okay.  Uh.. there’s one about a block from here, a station, and it takes you straight there.  Take the Line 8 and it’ll get you straight there, and it’s not that- that far of a- a trip.  It’s about maybe-- in the morning, maybe 20 minutes tops, and you don’t hafta do any, like, changes or anything, so it’s- it’s kinda uhm.. easy to- to follow, and, you know, there’s some nice-- there’s a grocery store, I don’t know if you noticed it, right around the corner, so you don’t even hafta go anyplace.  You have a car?", No.
+21, 00:03:26," Good.  Because the parking ‘round here sucks.  So anyways, it’s right around the corner, so you don’t hafta go anyplace further than, you know, just walking.  Uhm.. there’s some bars down the street that people go to hang out at sometimes.  Mm, let’s see."," All right.  Well, thank you."
+22, 00:03:46, Good., That- that all sounds really convenient.  It’ll make my living situation nice.
+23, 00:03:49," <laughs> Well, good.  I’m glad."," All right.  Well, thank you."
+24, 00:03:51, We’ll see ya later., Thank you.

@@ -1,0 +1,11 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0, 00:00:24,wer: Hi. How are you?, Good. Thank you.
+1, 00:00:45,wer: Nice to meet you too., New York.
+2, 00:00:55,wer: Interviewer., I guess.
+3, 00:01:16,wer: Okay.," Oh, and-- I had to move down here for a new job."
+4, 00:01:41, Oh. Where you working at?," Oh, it’s uhm.. it’s like a-- it’s like a publishing company."
+5, 00:01:48,wer: Like books and stuff., Any kind. Mm-hmm.
+6, 00:02:12,wer: Uhm.. what’s the landlord like?, Mm... Uhm.. how do you like living here?
+7, 00:02:39," It’s fine. So, tell me something about yourself.", Uhm.. nothing much to tell. What about you?
+8, 00:03:05,wer: No., Mm-hmm.
+9, 00:03:12, I have children. I have pets. I’m married., It’s done.

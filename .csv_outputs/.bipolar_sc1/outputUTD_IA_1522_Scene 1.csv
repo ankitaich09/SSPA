@@ -1,0 +1,16 @@
+,timestamp,patient_dialogue,interviewer_dialogue
+0,00:00:00, ," This is Participant 1522 on October 26, 2019, and this is Scene 1."
+1, 00:00:09, Uhm.. hi.  I’m Patient.  I live across the hall.  Are you the new neighbor?," Hi, yeah.  I’m just movin’ in.  My name’s Interviewer."
+2, 00:00:15," Interviewer, nice to meet you.  Uhm.. so where you movin’ from?", Uh.. I’m originally from the Pittsburgh area.
+3, 00:00:22," Okay, great.", Uh.. yeah.
+4, 00:00:24," Well, welcome to Texas.", Thank you.
+5, 00:00:27," Uhm.. well, I’ve got to go to work right now, but if you need help with anything or getting around, just let me know.  I don’t mind."," Oh, thanks.  Uh.. if you have time, uh.. I’m kinda new to the area.  Uh.. could ya tell me a little bit about the neighborhood first?"
+6, 00:00:45,wer: That’s good to hear., And have you lived here long?
+7, 00:01:14," Yeah, I’ve been living here about five years now.", Okay.  So pretty long time.  Uh.. and have you liked it so far?
+8, 00:01:21, I actually have.  Uhm.. the rent’s pretty good and the neighbors are really cool.  Uh.. we don’t have a lot of uh.. loud neighbors or inconsiderate neighbors.," That’s good to hear.  Uh.. those are the worst kind of neighbors, so... Uh.. what’s- what’s the landlord like?"
+9, 00:01:41, Uhm.. the landlord’s pretty cool.  He minds himself as long as you pay the rent and don’t uh.. mess up the homes too bad.  He doesn’t have too much to say., Okay.
+10, 00:01:57," All right.  Well, it was nice meeting you, Interviewer.", Uh.. it’s been nice meeting you too.  Uhm.. I just had a few more questions.
+11, 00:02:04, <laughs>, Uh.. so would you say that uhm.. it’s pretty safe to walk around in the evenings?
+12, 00:02:09, Uhm.. I would think so.  I would say it’s pretty safe.  Uhm.. I’ve gone out and had uh.. ni-- a couple walks uhm.. near midnight.," Okay.  Uh.. yeah, I guess it must be pretty safe if you’re headin’ out that late.  Uhm.. and I’m uh.. gonna hafta go to work tomorrow morning.  Uh.. do you know where I could catch the bus around here?"
+13, 00:02:35," Yeah.  If you go right out on the street and the first left as soon as you get out of the uhm.. soon as you get to the stop sign, you’ll see the bus stop right there."," Okay.  Thank you.  Uh.. alrighty.  Well, I’ve been keepin’ you for too long, so uhm.. I’ll get back to packing, uh.. let you be on your way, but thank you for comin’ over and introducing yourself."
+14, 00:03:00, All right.  Great.  Nice to meet you again., I’ll see ya around.

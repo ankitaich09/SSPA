@@ -1,0 +1,79 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 200.0,
+        "mean_time": 15.384615384615385,
+        "positive_score": 0.2463768115942029,
+        "negative_score": 0.2554347826086957,
+        "subjective_score": 0.11815068493150685,
+        "top_emotions": [
+            [
+                "positive",
+                0.25925925925925924
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 1,
+            "fear": 4,
+            "joy": 1,
+            "positive": 7,
+            "surprise": 2,
+            "negative": 4,
+            "trust": 3,
+            "sadness": 3,
+            "disgust": 1,
+            "anger": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5843373493975904,
+        "cttr": 5.323566609499982,
+        "diversity": 70.12706011966608,
+        "herdan": 0.8948986515427709,
+        "summer": 0.9319406717392829,
+        "dugast": 48.638650820325715,
+        "maas": 0.020559780814933867
+    },
+    "utterance_features": {
+        "num_utterances": 14,
+        "total_words": 178,
+        "total_unique_words": 39,
+        "avg_word_per_utter": 12.714285714285714
+    },
+    "unigrams": {
+        "wer": 12,
+        "uhm": 7,
+        "know": 3,
+        "yeah": 3,
+        "dont": 3,
+        "neighbor": 3,
+        "building": 2,
+        "even": 2,
+        "see": 2,
+        "like": 2
+    },
+    "bigrams": {
+        "wer yeah": 2,
+        "see neighbor": 2,
+        "there anything": 2,
+        "dont even": 2,
+        "wer wer": 2,
+        "wer mmhmm": 1,
+        "quiet uhm": 1,
+        "neighbor come": 1,
+        "even see": 1,
+        "really dont": 1
+    },
+    "trigrams": {
+        "wer mmhmm wer": 1,
+        "dont even know": 1,
+        "neighbor come dont": 1,
+        "see neighbor come": 1,
+        "even see neighbor": 1,
+        "dont even see": 1,
+        "really dont even": 1,
+        "yeah really dont": 1,
+        "uhm yeah really": 1,
+        "quiet uhm yeah": 1
+    }
+}

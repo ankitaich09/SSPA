@@ -1,0 +1,86 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 178.0,
+        "mean_time": 14.833333333333334,
+        "positive_score": 0.279874213836478,
+        "negative_score": 0.17374213836477986,
+        "subjective_score": 0.13613013698630136,
+        "top_emotions": [
+            [
+                "positive",
+                0.2
+            ],
+            [
+                "negative",
+                0.2
+            ],
+            [
+                "anticipation",
+                0.2
+            ]
+        ],
+        "emotion_scores": {
+            "negative": 4,
+            "anticipation": 4,
+            "fear": 1,
+            "sadness": 1,
+            "positive": 4,
+            "joy": 2,
+            "trust": 2,
+            "anger": 1,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.3879781420765027,
+        "cttr": 5.248471023777467,
+        "diversity": 46.45476075555011,
+        "herdan": 0.8395959528025584,
+        "summer": 0.9015237966844644,
+        "dugast": 36.798531187531715,
+        "maas": 0.027174997689549785
+    },
+    "utterance_features": {
+        "num_utterances": 13,
+        "total_words": 368,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 28.307692307692307
+    },
+    "unigrams": {
+        "uhm": 16,
+        "like": 9,
+        "uh": 6,
+        "yeah": 6,
+        "youre": 6,
+        "wer": 6,
+        "want": 5,
+        "welcome": 4,
+        "okay": 4,
+        "know": 4
+    },
+    "bigrams": {
+        "youre welcome": 4,
+        "uhm yeah": 3,
+        "play tennis": 3,
+        "yeah youre": 2,
+        "well uh": 2,
+        "business card": 2,
+        "thats okay": 2,
+        "coconut water": 2,
+        "want play": 2,
+        "uhm youre": 2
+    },
+    "trigrams": {
+        "want play tennis": 2,
+        "yeah youre welcome": 2,
+        "hear moved uh": 1,
+        "move uhm know": 1,
+        "well uh better": 1,
+        "uh better let": 1,
+        "better let go": 1,
+        "let go like": 1,
+        "go like uh": 1,
+        "like uh get": 1
+    }
+}

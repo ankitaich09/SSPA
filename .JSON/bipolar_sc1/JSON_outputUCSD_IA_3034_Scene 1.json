@@ -1,0 +1,74 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 176.0,
+        "mean_time": 11.733333333333333,
+        "positive_score": 0.24702380952380953,
+        "negative_score": 0.23809523809523808,
+        "subjective_score": 0.1640625,
+        "top_emotions": [
+            [
+                "positive",
+                0.35714285714285715
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 6,
+            "positive": 10,
+            "trust": 6,
+            "joy": 5,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.559748427672956,
+        "cttr": 4.990872171419195,
+        "diversity": 49.329712535344015,
+        "herdan": 0.8855240088708071,
+        "summer": 0.9250977378806651,
+        "dugast": 44.27919035441828,
+        "maas": 0.022583972109603348
+    },
+    "utterance_features": {
+        "num_utterances": 16,
+        "total_words": 160,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 10.0
+    },
+    "unigrams": {
+        "wer": 7,
+        "uh": 4,
+        "cool": 3,
+        "uhm": 3,
+        "yeah": 2,
+        "building": 2,
+        "apartment": 2,
+        "cat": 2,
+        "later": 2,
+        "see": 2
+    },
+    "bigrams": {
+        "ill see": 2,
+        "see later": 2,
+        "friendly uhm": 1,
+        "wer uhm": 1,
+        "building wer": 1,
+        "apartment building": 1,
+        "throughout apartment": 1,
+        "freely throughout": 1,
+        "roam freely": 1,
+        "let roam": 1
+    },
+    "trigrams": {
+        "ill see later": 2,
+        "resident building friendly": 1,
+        "building wer uhm": 1,
+        "apartment building wer": 1,
+        "throughout apartment building": 1,
+        "freely throughout apartment": 1,
+        "roam freely throughout": 1,
+        "let roam freely": 1,
+        "domesticated let roam": 1,
+        "uh domesticated let": 1
+    }
+}

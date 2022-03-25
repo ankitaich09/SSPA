@@ -1,0 +1,77 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 181.0,
+        "mean_time": 6.464285714285714,
+        "positive_score": 0.3894230769230769,
+        "negative_score": 0.16025641025641027,
+        "subjective_score": 0.20103092783505155,
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 7,
+            "joy": 6,
+            "positive": 13,
+            "trust": 6,
+            "surprise": 3,
+            "negative": 2,
+            "sadness": 1,
+            "disgust": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.586046511627907,
+        "cttr": 6.076259559347193,
+        "diversity": 71.9327051208833,
+        "herdan": 0.9005041638670118,
+        "summer": 0.9376538890268473,
+        "dugast": 53.978520477471626,
+        "maas": 0.01852588754108883
+    },
+    "utterance_features": {
+        "num_utterances": 29,
+        "total_words": 215,
+        "total_unique_words": 51,
+        "avg_word_per_utter": 7.413793103448276
+    },
+    "unigrams": {
+        "wer": 7,
+        "okay": 3,
+        "cool": 3,
+        "nice": 3,
+        "moving": 3,
+        "help": 3,
+        "oh": 3,
+        "pretty": 2,
+        "right": 2,
+        "librarian": 2
+    },
+    "bigrams": {
+        "help moving": 2,
+        "wer oh": 2,
+        "need help": 2,
+        "pretty nice": 2,
+        "librarian wer": 2,
+        "wer yeah": 1,
+        "clogged wer": 1,
+        "toilet clogged": 1,
+        "night toilet": 1,
+        "middle night": 1
+    },
+    "trigrams": {
+        "need help moving": 2,
+        "fun would never": 1,
+        "yeah anything else": 1,
+        "clogged wer yeah": 1,
+        "toilet clogged wer": 1,
+        "night toilet clogged": 1,
+        "middle night toilet": 1,
+        "call middle night": 1,
+        "good call middle": 1,
+        "super good call": 1
+    }
+}

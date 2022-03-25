@@ -1,0 +1,83 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 173.0,
+        "mean_time": 10.8125,
+        "positive_score": 0.33067375886524825,
+        "negative_score": 0.23581560283687944,
+        "subjective_score": 0.17625,
+        "top_emotions": [
+            [
+                "positive",
+                0.19148936170212766
+            ],
+            [
+                "anticipation",
+                0.19148936170212766
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 9,
+            "joy": 5,
+            "positive": 9,
+            "surprise": 3,
+            "trust": 6,
+            "anger": 5,
+            "disgust": 2,
+            "fear": 4,
+            "negative": 2,
+            "sadness": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.48523206751054854,
+        "cttr": 5.282124940008192,
+        "diversity": 47.4,
+        "herdan": 0.8677541954354282,
+        "summer": 0.9165078624513326,
+        "dugast": 41.34770217580125,
+        "maas": 0.024185140827130414
+    },
+    "utterance_features": {
+        "num_utterances": 17,
+        "total_words": 239,
+        "total_unique_words": 48,
+        "avg_word_per_utter": 14.058823529411764
+    },
+    "unigrams": {
+        "uh": 9,
+        "wer": 8,
+        "laugh": 8,
+        "yeah": 6,
+        "dont": 4,
+        "im": 4,
+        "uhm": 3,
+        "know": 3,
+        "hot": 3,
+        "neighborhood": 3
+    },
+    "bigrams": {
+        "wer uh": 3,
+        "wer im": 2,
+        "dont know": 2,
+        "laugh let": 2,
+        "uh dont": 2,
+        "let see": 2,
+        "hot hot": 2,
+        "could safe": 1,
+        "safe always": 1,
+        "uh could": 1
+    },
+    "trigrams": {
+        "laugh let see": 2,
+        "wer im good": 1,
+        "uhm tell uh": 1,
+        "even regardless area": 1,
+        "cautious even regardless": 1,
+        "always cautious even": 1,
+        "safe always cautious": 1,
+        "could safe always": 1,
+        "uh could safe": 1,
+        "yes uh could": 1
+    }
+}

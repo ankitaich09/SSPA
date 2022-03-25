@@ -1,0 +1,79 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": -42.0,
+        "mean_time": -8.4,
+        "positive_score": 0.2592905405405405,
+        "negative_score": 0.15962837837837837,
+        "subjective_score": 0.11077844311377245,
+        "top_emotions": [
+            [
+                "negative",
+                0.25
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 7,
+            "positive": 6,
+            "trust": 4,
+            "fear": 1,
+            "negative": 11,
+            "sadness": 5,
+            "joy": 4,
+            "surprise": 3,
+            "disgust": 1,
+            "anger": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4421052631578947,
+        "cttr": 6.094000500924098,
+        "diversity": 56.348592137820546,
+        "herdan": 0.8625953295633737,
+        "summer": 0.9170418926958174,
+        "dugast": 43.231217933455554,
+        "maas": 0.023131432511091135
+    },
+    "utterance_features": {
+        "num_utterances": 6,
+        "total_words": 384,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 64.0
+    },
+    "unigrams": {
+        "like": 21,
+        "uhm": 14,
+        "know": 5,
+        "uh": 5,
+        "pet": 4,
+        "move": 3,
+        "totally": 3,
+        "youre": 3,
+        "dont": 3,
+        "keep": 3
+    },
+    "bigrams": {
+        "neighbor uhm": 2,
+        "totally come": 2,
+        "rent like": 2,
+        "like youre": 2,
+        "friday like": 2,
+        "uhm try": 2,
+        "uhm hey": 1,
+        "sure little": 1,
+        "like fee": 1,
+        "fee like": 1
+    },
+    "trigrams": {
+        "uhm hey move": 1,
+        "sure little bit": 1,
+        "tell like like": 1,
+        "like like fee": 1,
+        "like fee like": 1,
+        "fee like fix": 1,
+        "like fix plumbing": 1,
+        "fix plumbing probably": 1,
+        "plumbing probably make": 1,
+        "probably make sure": 1
+    }
+}

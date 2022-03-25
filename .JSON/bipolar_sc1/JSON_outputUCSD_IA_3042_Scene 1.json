@@ -1,0 +1,77 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 178.0,
+        "mean_time": 11.866666666666667,
+        "positive_score": 0.49558823529411766,
+        "negative_score": 0.06764705882352941,
+        "subjective_score": 0.1280120481927711,
+        "top_emotions": [
+            [
+                "positive",
+                0.3142857142857143
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 11,
+            "trust": 4,
+            "anticipation": 7,
+            "joy": 6,
+            "disgust": 1,
+            "negative": 2,
+            "fear": 2,
+            "surprise": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.48,
+        "cttr": 5.091168824543142,
+        "diversity": 50.3181508399406,
+        "herdan": 0.8644838314331349,
+        "summer": 0.9138009119978262,
+        "dugast": 39.96645167496791,
+        "maas": 0.025020985303689784
+    },
+    "utterance_features": {
+        "num_utterances": 16,
+        "total_words": 225,
+        "total_unique_words": 42,
+        "avg_word_per_utter": 14.0625
+    },
+    "unigrams": {
+        "wer": 10,
+        "yeah": 6,
+        "well": 4,
+        "uhm": 4,
+        "nice": 3,
+        "thing": 3,
+        "right": 3,
+        "advance": 2,
+        "sound": 2,
+        "community": 2
+    },
+    "bigrams": {
+        "wer yeah": 4,
+        "he right": 2,
+        "thats nice": 2,
+        "rent time": 1,
+        "thing pay": 1,
+        "keep thing": 1,
+        "right keep": 1,
+        "fussy he": 1,
+        "little fussy": 1,
+        "question little": 1
+    },
+    "trigrams": {
+        "hi wer yeah": 1,
+        "pay rent time": 1,
+        "keep thing pay": 1,
+        "right keep thing": 1,
+        "he right keep": 1,
+        "fussy he right": 1,
+        "little fussy he": 1,
+        "question little fussy": 1,
+        "wer question little": 1,
+        "nice wer question": 1
+    }
+}

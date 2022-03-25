@@ -1,0 +1,79 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 221.0,
+        "mean_time": 9.208333333333334,
+        "positive_score": 0.36729857819905215,
+        "negative_score": 0.14632701421800948,
+        "subjective_score": 0.1136853448275862,
+        "top_emotions": [
+            [
+                "positive",
+                0.3673469387755102
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 8,
+            "positive": 18,
+            "trust": 7,
+            "joy": 7,
+            "anger": 1,
+            "disgust": 1,
+            "negative": 2,
+            "sadness": 2,
+            "fear": 1,
+            "surprise": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.3933463796477495,
+        "cttr": 6.2873930332530374,
+        "diversity": 60.669609710735976,
+        "herdan": 0.8503833570719866,
+        "summer": 0.9114575061432115,
+        "dugast": 41.682325362722345,
+        "maas": 0.023990983979370967
+    },
+    "utterance_features": {
+        "num_utterances": 25,
+        "total_words": 566,
+        "total_unique_words": 54,
+        "avg_word_per_utter": 22.64
+    },
+    "unigrams": {
+        "like": 10,
+        "anything": 7,
+        "there": 7,
+        "know": 7,
+        "wer": 7,
+        "laugh": 6,
+        "well": 6,
+        "uhm": 6,
+        "name": 6,
+        "ask": 5
+    },
+    "bigrams": {
+        "wer mmhm": 4,
+        "name patient": 3,
+        "mmhm wer": 3,
+        "there lotta": 3,
+        "love help": 2,
+        "im glad": 2,
+        "please ask": 2,
+        "go anyplace": 2,
+        "dont hafta": 2,
+        "hafta go": 2
+    },
+    "trigrams": {
+        "wer mmhm wer": 3,
+        "id love help": 2,
+        "right around corner": 2,
+        "mmhm wer mmhm": 2,
+        "hafta go anyplace": 2,
+        "around corner dont": 2,
+        "didnt ask name": 1,
+        "ask name wer": 1,
+        "name wer thank": 1,
+        "else youd like": 1
+    }
+}

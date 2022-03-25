@@ -1,0 +1,77 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 191.0,
+        "mean_time": 5.617647058823529,
+        "positive_score": 0.2933823529411765,
+        "negative_score": 0.1786764705882353,
+        "subjective_score": 0.12957317073170732,
+        "top_emotions": [
+            [
+                "positive",
+                0.2647058823529412
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 10,
+            "positive": 18,
+            "trust": 9,
+            "joy": 9,
+            "sadness": 7,
+            "fear": 4,
+            "negative": 7,
+            "surprise": 4
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4789915966386555,
+        "cttr": 6.399514162231774,
+        "diversity": 77.1099423631124,
+        "herdan": 0.8747694260843223,
+        "summer": 0.9244596406464719,
+        "dugast": 46.93530978894446,
+        "maas": 0.021305920947293895
+    },
+    "utterance_features": {
+        "num_utterances": 35,
+        "total_words": 380,
+        "total_unique_words": 55,
+        "avg_word_per_utter": 10.857142857142858
+    },
+    "unigrams": {
+        "yeah": 9,
+        "uhm": 8,
+        "wer": 7,
+        "cool": 6,
+        "okay": 5,
+        "anything": 4,
+        "laugh": 4,
+        "good": 4,
+        "know": 4,
+        "wanna": 3
+    },
+    "bigrams": {
+        "four agreement": 3,
+        "brought yeah": 2,
+        "uhm wanna": 2,
+        "well ever": 2,
+        "ever need": 2,
+        "need anything": 2,
+        "late night": 2,
+        "agreement pretty": 2,
+        "okay cool": 2,
+        "uh going": 1
+    },
+    "trigrams": {
+        "four agreement pretty": 2,
+        "well ever need": 2,
+        "ever need anything": 2,
+        "hey hows goin": 1,
+        "make sense wer": 1,
+        "back colorado soon": 1,
+        "colorado soon yeah": 1,
+        "soon yeah uhm": 1,
+        "yeah uhm kinda": 1,
+        "uhm kinda stuff": 1
+    }
+}

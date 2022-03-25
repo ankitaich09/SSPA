@@ -1,0 +1,79 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 180.0,
+        "mean_time": 9.473684210526315,
+        "positive_score": 0.36564171122994654,
+        "negative_score": 0.14171122994652408,
+        "subjective_score": 0.14518633540372672,
+        "top_emotions": [
+            [
+                "positive",
+                0.2708333333333333
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 10,
+            "positive": 13,
+            "trust": 7,
+            "joy": 7,
+            "fear": 3,
+            "negative": 3,
+            "sadness": 1,
+            "anger": 2,
+            "disgust": 1,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4629080118694362,
+        "cttr": 6.008895483016493,
+        "diversity": 71.43087621696802,
+        "herdan": 0.8676604900102011,
+        "summer": 0.9194040697987094,
+        "dugast": 43.97842285195849,
+        "maas": 0.022738423416552033
+    },
+    "utterance_features": {
+        "num_utterances": 20,
+        "total_words": 353,
+        "total_unique_words": 49,
+        "avg_word_per_utter": 17.65
+    },
+    "unigrams": {
+        "like": 8,
+        "laugh": 7,
+        "uhm": 7,
+        "yeah": 5,
+        "im": 5,
+        "always": 4,
+        "happy": 4,
+        "oh": 4,
+        "get": 4,
+        "around": 4
+    },
+    "bigrams": {
+        "im always": 3,
+        "happy help": 2,
+        "yeah definitely": 2,
+        "go hike": 2,
+        "laugh uhm": 2,
+        "animal uhm": 1,
+        "laugh im": 1,
+        "always pushin": 1,
+        "pushin people": 1,
+        "people get": 1
+    },
+    "trigrams": {
+        "hey welcome neighborhood": 1,
+        "new animal laugh": 1,
+        "laugh im always": 1,
+        "im always pushin": 1,
+        "always pushin people": 1,
+        "pushin people get": 1,
+        "people get animal": 1,
+        "get animal uhm": 1,
+        "animal uhm im": 1,
+        "uhm im happy": 1
+    }
+}

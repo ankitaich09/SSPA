@@ -1,0 +1,77 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 189.0,
+        "mean_time": 10.5,
+        "positive_score": 0.3175,
+        "negative_score": 0.20416666666666666,
+        "subjective_score": 0.15625,
+        "top_emotions": [
+            [
+                "positive",
+                0.34615384615384615
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 18,
+            "trust": 10,
+            "anticipation": 9,
+            "joy": 7,
+            "surprise": 4,
+            "anger": 1,
+            "negative": 2,
+            "sadness": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4767025089605735,
+        "cttr": 5.630338963675112,
+        "diversity": 44.401624548736464,
+        "herdan": 0.8684363717253081,
+        "summer": 0.9183828351959106,
+        "dugast": 42.80219279194664,
+        "maas": 0.023363288999253166
+    },
+    "utterance_features": {
+        "num_utterances": 19,
+        "total_words": 280,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 14.736842105263158
+    },
+    "unigrams": {
+        "uhm": 6,
+        "thats": 6,
+        "there": 5,
+        "cool": 5,
+        "yeah": 4,
+        "like": 4,
+        "move": 4,
+        "oh": 4,
+        "good": 3,
+        "really": 3
+    },
+    "bigrams": {
+        "really cool": 2,
+        "thats cool": 2,
+        "there couple": 2,
+        "thats good": 2,
+        "hi move": 1,
+        "elderly people": 1,
+        "uhm mostly": 1,
+        "mostly whole": 1,
+        "whole bunch": 1,
+        "bunch elderly": 1
+    },
+    "trigrams": {
+        "hi move im": 1,
+        "people swimming pool": 1,
+        "live uhm mostly": 1,
+        "uhm mostly whole": 1,
+        "mostly whole bunch": 1,
+        "whole bunch elderly": 1,
+        "bunch elderly people": 1,
+        "elderly people swimming": 1,
+        "swimming pool gym": 1,
+        "cool researching oh": 1
+    }
+}

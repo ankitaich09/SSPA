@@ -1,0 +1,81 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 190.0,
+        "mean_time": 9.047619047619047,
+        "positive_score": 0.37448979591836734,
+        "negative_score": 0.19846938775510203,
+        "subjective_score": 0.19021739130434784,
+        "top_emotions": [
+            [
+                "trust",
+                0.2318840579710145
+            ],
+            [
+                "positive",
+                0.2318840579710145
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 12,
+            "positive": 16,
+            "trust": 16,
+            "joy": 8,
+            "sadness": 7,
+            "fear": 3,
+            "negative": 4,
+            "surprise": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4967948717948718,
+        "cttr": 6.204965959947127,
+        "diversity": 88.09709832611267,
+        "herdan": 0.8781860207956682,
+        "summer": 0.9256875537512773,
+        "dugast": 47.145682501481375,
+        "maas": 0.021210850006648622
+    },
+    "utterance_features": {
+        "num_utterances": 22,
+        "total_words": 331,
+        "total_unique_words": 53,
+        "avg_word_per_utter": 15.045454545454545
+    },
+    "unigrams": {
+        "like": 8,
+        "okay": 6,
+        "nice": 6,
+        "uhm": 5,
+        "pretty": 5,
+        "know": 5,
+        "oh": 5,
+        "uh": 4,
+        "around": 4,
+        "get": 4
+    },
+    "bigrams": {
+        "nice meet": 3,
+        "everyone around": 2,
+        "need anything": 2,
+        "oh okay": 2,
+        "pretty nice": 2,
+        "look like": 2,
+        "internet service": 1,
+        "pretty dark": 1,
+        "would make": 1,
+        "make sure": 1
+    },
+    "trigrams": {
+        "hi name patient": 1,
+        "dark wer uhm": 1,
+        "worried would make": 1,
+        "would make sure": 1,
+        "make sure flashlight": 1,
+        "sure flashlight something": 1,
+        "flashlight something get": 1,
+        "something get pretty": 1,
+        "get pretty dark": 1,
+        "pretty dark wer": 1
+    }
+}

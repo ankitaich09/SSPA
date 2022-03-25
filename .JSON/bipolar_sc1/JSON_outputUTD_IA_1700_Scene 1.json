@@ -1,0 +1,83 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 163.0,
+        "mean_time": 27.166666666666668,
+        "positive_score": 0.43612637362637363,
+        "negative_score": 0.1462912087912088,
+        "subjective_score": 0.21064814814814814,
+        "top_emotions": [
+            [
+                "trust",
+                0.2391304347826087
+            ],
+            [
+                "positive",
+                0.2391304347826087
+            ]
+        ],
+        "emotion_scores": {
+            "disgust": 2,
+            "positive": 11,
+            "sadness": 2,
+            "negative": 2,
+            "anticipation": 9,
+            "joy": 6,
+            "trust": 11,
+            "surprise": 1,
+            "anger": 1,
+            "fear": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.48091603053435117,
+        "cttr": 5.504335556964539,
+        "diversity": 47.7055923473142,
+        "herdan": 0.8685313747532768,
+        "summer": 0.9179129055480288,
+        "dugast": 42.3549306407605,
+        "maas": 0.02361000206756671
+    },
+    "utterance_features": {
+        "num_utterances": 7,
+        "total_words": 263,
+        "total_unique_words": 41,
+        "avg_word_per_utter": 37.57142857142857
+    },
+    "unigrams": {
+        "uhm": 11,
+        "yeah": 8,
+        "like": 7,
+        "nice": 5,
+        "uh": 4,
+        "pretty": 4,
+        "theyre": 3,
+        "dont": 3,
+        "know": 3,
+        "there": 3
+    },
+    "bigrams": {
+        "yeah uhm": 3,
+        "yeah yeah": 3,
+        "dont know": 2,
+        "uhm yeah": 2,
+        "uh like": 2,
+        "uhm like": 2,
+        "nice uhm": 1,
+        "really nice": 1,
+        "tenant really": 1,
+        "care tenant": 1
+    },
+    "trigrams": {
+        "yeah yeah yeah": 2,
+        "nice benefit home": 1,
+        "like nice benefit": 1,
+        "uhm like nice": 1,
+        "nice uhm like": 1,
+        "really nice uhm": 1,
+        "tenant really nice": 1,
+        "care tenant really": 1,
+        "like care tenant": 1,
+        "respectable like care": 1
+    }
+}

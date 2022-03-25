@@ -1,0 +1,78 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 151.0,
+        "mean_time": 18.875,
+        "positive_score": 0.41964285714285715,
+        "negative_score": 0.11845238095238095,
+        "subjective_score": 0.19160583941605838,
+        "top_emotions": [
+            [
+                "positive",
+                0.2682926829268293
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 6,
+            "joy": 5,
+            "positive": 11,
+            "surprise": 3,
+            "trust": 10,
+            "sadness": 2,
+            "anger": 2,
+            "negative": 1,
+            "fear": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4827586206896552,
+        "cttr": 5.813183589761798,
+        "diversity": 58.35312024353121,
+        "herdan": 0.871560177318786,
+        "summer": 0.9207740363390136,
+        "dugast": 44.14425997031382,
+        "maas": 0.022653001787151513
+    },
+    "utterance_features": {
+        "num_utterances": 9,
+        "total_words": 312,
+        "total_unique_words": 54,
+        "avg_word_per_utter": 34.666666666666664
+    },
+    "unigrams": {
+        "uhm": 8,
+        "neighborhood": 5,
+        "basically": 4,
+        "like": 4,
+        "around": 3,
+        "need": 3,
+        "okay": 3,
+        "nice": 3,
+        "want": 3,
+        "outta": 3
+    },
+    "bigrams": {
+        "uhm need": 2,
+        "need help": 2,
+        "across street": 2,
+        "go right": 1,
+        "really dont": 1,
+        "hot laugh": 1,
+        "laugh real": 1,
+        "real hot": 1,
+        "hot florida": 1,
+        "florida really": 1
+    },
+    "trigrams": {
+        "uhm need help": 2,
+        "go right uhm": 1,
+        "hot florida really": 1,
+        "nephew uhm basically": 1,
+        "uhm basically hot": 1,
+        "basically hot laugh": 1,
+        "hot laugh real": 1,
+        "laugh real hot": 1,
+        "real hot florida": 1,
+        "florida really dont": 1
+    }
+}

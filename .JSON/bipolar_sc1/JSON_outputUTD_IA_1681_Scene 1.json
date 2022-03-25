@@ -1,0 +1,75 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 170.0,
+        "mean_time": 11.333333333333334,
+        "positive_score": 0.4164438502673797,
+        "negative_score": 0.14037433155080214,
+        "subjective_score": 0.18551587301587302,
+        "top_emotions": [
+            [
+                "positive",
+                0.2972972972972973
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 6,
+            "negative": 1,
+            "joy": 5,
+            "positive": 11,
+            "trust": 9,
+            "surprise": 5
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5582329317269076,
+        "cttr": 6.228738937780269,
+        "diversity": 87.12069462458568,
+        "herdan": 0.8943391136682729,
+        "summer": 0.9346160859767442,
+        "dugast": 52.21849908718744,
+        "maas": 0.01915030147324484
+    },
+    "utterance_features": {
+        "num_utterances": 16,
+        "total_words": 259,
+        "total_unique_words": 43,
+        "avg_word_per_utter": 16.1875
+    },
+    "unigrams": {
+        "like": 9,
+        "oh": 5,
+        "uhm": 5,
+        "nice": 5,
+        "yeah": 4,
+        "around": 3,
+        "right": 3,
+        "really": 3,
+        "good": 3,
+        "place": 2
+    },
+    "bigrams": {
+        "yeah uhm": 2,
+        "oh nice": 2,
+        "something right": 1,
+        "ive never": 1,
+        "involved ive": 1,
+        "like involved": 1,
+        "seem like": 1,
+        "doesnt seem": 1,
+        "mean doesnt": 1,
+        "uhm mean": 1
+    },
+    "trigrams": {
+        "oh wait supposed": 1,
+        "ive never seen": 1,
+        "like involved ive": 1,
+        "seem like involved": 1,
+        "doesnt seem like": 1,
+        "mean doesnt seem": 1,
+        "uhm mean doesnt": 1,
+        "yeah uhm mean": 1,
+        "oh yeah uhm": 1,
+        "around oh yeah": 1
+    }
+}

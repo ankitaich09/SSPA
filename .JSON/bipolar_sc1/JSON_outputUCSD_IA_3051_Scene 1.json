@@ -1,0 +1,78 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 193.0,
+        "mean_time": 8.772727272727273,
+        "positive_score": 0.44326923076923075,
+        "negative_score": 0.1375,
+        "subjective_score": 0.203125,
+        "top_emotions": [
+            [
+                "positive",
+                0.24
+            ],
+            [
+                "anticipation",
+                0.24
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 6,
+            "joy": 5,
+            "positive": 6,
+            "surprise": 4,
+            "trust": 4
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5187165775401069,
+        "cttr": 5.015750592951686,
+        "diversity": 59.81439292414902,
+        "herdan": 0.8745203576472688,
+        "summer": 0.9189666243524413,
+        "dugast": 41.68890282735752,
+        "maas": 0.02398719880302942
+    },
+    "utterance_features": {
+        "num_utterances": 23,
+        "total_words": 189,
+        "total_unique_words": 42,
+        "avg_word_per_utter": 8.217391304347826
+    },
+    "unigrams": {
+        "wer": 14,
+        "yeah": 9,
+        "uhm": 4,
+        "say": 3,
+        "nice": 3,
+        "know": 2,
+        "mmhmm": 2,
+        "go": 2,
+        "minnesota": 2,
+        "id": 2
+    },
+    "bigrams": {
+        "wer uhm": 3,
+        "wer yeah": 3,
+        "wer mmhmm": 2,
+        "uhm left": 2,
+        "id say": 2,
+        "wer oh": 2,
+        "nice wer": 2,
+        "wer okay": 2,
+        "mmhmm wer": 2,
+        "wer moved": 1
+    },
+    "trigrams": {
+        "wer mmhmm wer": 2,
+        "wer moved yesterday": 1,
+        "traveling get wer": 1,
+        "guess like go": 1,
+        "uhm guess like": 1,
+        "wer uhm guess": 1,
+        "nice wer uhm": 1,
+        "sound nice wer": 1,
+        "oh sound nice": 1,
+        "wer oh sound": 1
+    }
+}

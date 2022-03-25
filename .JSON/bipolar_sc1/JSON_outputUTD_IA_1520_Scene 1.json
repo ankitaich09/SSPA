@@ -1,0 +1,82 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 172.0,
+        "mean_time": 17.2,
+        "positive_score": 0.2784090909090909,
+        "negative_score": 0.20196280991735538,
+        "subjective_score": 0.1413551401869159,
+        "top_emotions": [
+            [
+                "trust",
+                0.25
+            ],
+            [
+                "positive",
+                0.25
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 9,
+            "positive": 13,
+            "trust": 13,
+            "negative": 4,
+            "joy": 7,
+            "surprise": 1,
+            "anger": 1,
+            "sadness": 2,
+            "fear": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4140786749482402,
+        "cttr": 6.434894520877869,
+        "diversity": 46.383333333333326,
+        "herdan": 0.8573305969032582,
+        "summer": 0.9154834996443398,
+        "dugast": 43.31704289434789,
+        "maas": 0.02308560172122189
+    },
+    "utterance_features": {
+        "num_utterances": 11,
+        "total_words": 488,
+        "total_unique_words": 46,
+        "avg_word_per_utter": 44.36363636363637
+    },
+    "unigrams": {
+        "uh": 15,
+        "know": 12,
+        "uhm": 6,
+        "well": 6,
+        "walk": 5,
+        "he": 4,
+        "school": 4,
+        "interviewer": 3,
+        "hi": 3,
+        "ive": 3
+    },
+    "bigrams": {
+        "uhm go": 2,
+        "uhm uh": 2,
+        "interviewer well": 2,
+        "right across": 2,
+        "across walk": 2,
+        "sigh hi": 1,
+        "clear throat": 1,
+        "yeah okay": 1,
+        "okay anything": 1,
+        "anything else": 1
+    },
+    "trigrams": {
+        "right across walk": 2,
+        "sigh hi noticed": 1,
+        "he laidback casual": 1,
+        "yeah okay anything": 1,
+        "okay anything else": 1,
+        "anything else uhm": 1,
+        "else uhm go": 1,
+        "uhm go well": 1,
+        "go well uhm": 1,
+        "well uhm clear": 1
+    }
+}

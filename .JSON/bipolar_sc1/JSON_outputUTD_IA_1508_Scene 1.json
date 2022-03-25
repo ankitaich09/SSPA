@@ -1,0 +1,79 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 180.0,
+        "mean_time": 7.826086956521739,
+        "positive_score": 0.38604417670682734,
+        "negative_score": 0.11947791164658635,
+        "subjective_score": 0.19212962962962962,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.2777777777777778
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 15,
+            "positive": 13,
+            "trust": 8,
+            "disgust": 1,
+            "sadness": 2,
+            "joy": 5,
+            "surprise": 4,
+            "negative": 4,
+            "fear": 1,
+            "anger": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4339622641509434,
+        "cttr": 5.910495940625537,
+        "diversity": 47.71185387673957,
+        "herdan": 0.8588963512758973,
+        "summer": 0.9144357991310784,
+        "dugast": 41.928058672495915,
+        "maas": 0.0238503768517187
+    },
+    "utterance_features": {
+        "num_utterances": 24,
+        "total_words": 373,
+        "total_unique_words": 46,
+        "avg_word_per_utter": 15.541666666666666
+    },
+    "unigrams": {
+        "uh": 9,
+        "well": 9,
+        "yeah": 7,
+        "neighborhood": 7,
+        "anything": 5,
+        "need": 5,
+        "okay": 3,
+        "sign": 3,
+        "nice": 3,
+        "thats": 3
+    },
+    "bigrams": {
+        "yeah well": 3,
+        "anything else": 3,
+        "certain part": 2,
+        "need anything": 2,
+        "welcome neighborhood": 2,
+        "well uh": 2,
+        "uh well": 2,
+        "okay oh": 1,
+        "well figured": 1,
+        "prefer left": 1
+    },
+    "trigrams": {
+        "okay oh go": 1,
+        "well figured id": 1,
+        "youre actually outgoing": 1,
+        "actually outgoing prefer": 1,
+        "outgoing prefer left": 1,
+        "prefer left alone": 1,
+        "left alone oh": 1,
+        "alone oh thats": 1,
+        "oh thats cool": 1,
+        "thats cool well": 1
+    }
+}

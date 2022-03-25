@@ -1,0 +1,79 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 188.0,
+        "mean_time": 17.09090909090909,
+        "positive_score": 0.4666289592760181,
+        "negative_score": 0.1504524886877828,
+        "subjective_score": 0.22278225806451613,
+        "top_emotions": [
+            [
+                "positive",
+                0.26666666666666666
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 9,
+            "joy": 5,
+            "positive": 12,
+            "surprise": 2,
+            "trust": 7,
+            "anger": 2,
+            "fear": 3,
+            "disgust": 1,
+            "negative": 2,
+            "sadness": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.44673539518900346,
+        "cttr": 5.388673369882909,
+        "diversity": 55.84413214459984,
+        "herdan": 0.8579688167288858,
+        "summer": 0.9117469032666863,
+        "dugast": 39.94420898643118,
+        "maas": 0.025034918086366268
+    },
+    "utterance_features": {
+        "num_utterances": 12,
+        "total_words": 291,
+        "total_unique_words": 39,
+        "avg_word_per_utter": 24.25
+    },
+    "unigrams": {
+        "yeah": 8,
+        "really": 7,
+        "uhm": 6,
+        "nice": 5,
+        "wer": 5,
+        "right": 4,
+        "there": 4,
+        "across": 3,
+        "know": 3,
+        "see": 2
+    },
+    "bigrams": {
+        "right across": 3,
+        "let know": 2,
+        "apartment really": 2,
+        "really nice": 2,
+        "street walk": 2,
+        "really convenient": 2,
+        "across street": 2,
+        "theyre loud": 1,
+        "friendly theyre": 1,
+        "loud lot": 1
+    },
+    "trigrams": {
+        "across street walk": 2,
+        "right across street": 2,
+        "apartment really nice": 2,
+        "nice yeah people": 1,
+        "commute really easy": 1,
+        "really easy pretty": 1,
+        "easy pretty nice": 1,
+        "pretty nice yeah": 1,
+        "wer yes moved": 1,
+        "make commute really": 1
+    }
+}

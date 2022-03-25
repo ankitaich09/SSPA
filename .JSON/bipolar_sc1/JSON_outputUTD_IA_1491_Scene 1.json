@@ -1,0 +1,77 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 160.0,
+        "mean_time": 26.666666666666668,
+        "positive_score": 0.26888489208633093,
+        "negative_score": 0.19784172661870503,
+        "subjective_score": 0.17729591836734693,
+        "top_emotions": [
+            [
+                "positive",
+                0.25
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 9,
+            "positive": 10,
+            "trust": 9,
+            "joy": 5,
+            "surprise": 2,
+            "sadness": 3,
+            "fear": 1,
+            "negative": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5497630331753555,
+        "cttr": 5.646791648730331,
+        "diversity": 45.80749101944754,
+        "herdan": 0.8882130416298754,
+        "summer": 0.9293307758273333,
+        "dugast": 47.87551438474744,
+        "maas": 0.02088750403731616
+    },
+    "utterance_features": {
+        "num_utterances": 7,
+        "total_words": 211,
+        "total_unique_words": 44,
+        "avg_word_per_utter": 30.142857142857142
+    },
+    "unigrams": {
+        "uh": 10,
+        "well": 5,
+        "neighborhood": 3,
+        "okay": 3,
+        "uhm": 3,
+        "welcome": 2,
+        "street": 2,
+        "ill": 2,
+        "there": 2,
+        "quiet": 2
+    },
+    "bigrams": {
+        "uh uh": 2,
+        "hello anyone": 1,
+        "drive get": 1,
+        "there uh": 1,
+        "uh there": 1,
+        "park uh": 1,
+        "dog park": 1,
+        "there dog": 1,
+        "uhm there": 1,
+        "traffic uhm": 1
+    },
+    "trigrams": {
+        "hello anyone home": 1,
+        "anyone home okay": 1,
+        "there uh shop": 1,
+        "uh there uh": 1,
+        "park uh there": 1,
+        "dog park uh": 1,
+        "there dog park": 1,
+        "uhm there dog": 1,
+        "traffic uhm there": 1,
+        "caught traffic uhm": 1
+    }
+}

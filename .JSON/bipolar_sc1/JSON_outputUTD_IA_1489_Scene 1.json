@@ -1,0 +1,79 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 153.0,
+        "mean_time": 17.0,
+        "positive_score": 0.3803353658536585,
+        "negative_score": 0.15929878048780488,
+        "subjective_score": 0.13666666666666666,
+        "top_emotions": [
+            [
+                "positive",
+                0.22950819672131148
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 14,
+            "trust": 13,
+            "anticipation": 11,
+            "sadness": 4,
+            "anger": 2,
+            "joy": 4,
+            "surprise": 4,
+            "negative": 6,
+            "fear": 2,
+            "disgust": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.49828178694158076,
+        "cttr": 6.010443374100167,
+        "diversity": 74.07136737491433,
+        "herdan": 0.8772166696754772,
+        "summer": 0.9245286659855269,
+        "dugast": 46.20597317385511,
+        "maas": 0.02164222353325162
+    },
+    "utterance_features": {
+        "num_utterances": 10,
+        "total_words": 311,
+        "total_unique_words": 53,
+        "avg_word_per_utter": 31.1
+    },
+    "unigrams": {
+        "like": 7,
+        "dont": 6,
+        "yeah": 5,
+        "uhm": 5,
+        "year": 4,
+        "okay": 4,
+        "im": 4,
+        "want": 4,
+        "going": 3,
+        "long": 3
+    },
+    "bigrams": {
+        "dont want": 3,
+        "two year": 3,
+        "okay well": 2,
+        "kid husband": 2,
+        "uhm dont": 2,
+        "real quiet": 2,
+        "stay everybody": 1,
+        "everybody else": 1,
+        "else real": 1,
+        "quiet happen": 1
+    },
+    "trigrams": {
+        "wer oh awesome": 1,
+        "real quiet happen": 1,
+        "said like loudest": 1,
+        "like loudest people": 1,
+        "loudest people stay": 1,
+        "people stay everybody": 1,
+        "stay everybody else": 1,
+        "everybody else real": 1,
+        "else real quiet": 1,
+        "quiet happen hear": 1
+    }
+}

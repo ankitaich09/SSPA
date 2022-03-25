@@ -1,0 +1,78 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 160.0,
+        "mean_time": 6.666666666666667,
+        "positive_score": 0.30416666666666664,
+        "negative_score": 0.2013888888888889,
+        "subjective_score": 0.1388888888888889,
+        "top_emotions": [
+            [
+                "positive",
+                0.32142857142857145
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 9,
+            "sadness": 2,
+            "anger": 2,
+            "disgust": 1,
+            "negative": 2,
+            "fear": 1,
+            "anticipation": 3,
+            "joy": 2,
+            "trust": 6
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.6645569620253164,
+        "cttr": 5.906711479861626,
+        "diversity": 82.6844836554896,
+        "herdan": 0.9192835531572989,
+        "summer": 0.948109169493485,
+        "dugast": 62.72073698800034,
+        "maas": 0.015943690205542687
+    },
+    "utterance_features": {
+        "num_utterances": 25,
+        "total_words": 163,
+        "total_unique_words": 52,
+        "avg_word_per_utter": 6.52
+    },
+    "unigrams": {
+        "yeah": 6,
+        "laugh": 5,
+        "nice": 3,
+        "old": 2,
+        "bathroom": 2,
+        "cause": 2,
+        "nope": 2,
+        "mm": 2,
+        "people": 2,
+        "uhm": 2
+    },
+    "bigrams": {
+        "nice meeting": 2,
+        "old people": 2,
+        "hi uhm": 1,
+        "went day": 1,
+        "careful old": 1,
+        "said careful": 1,
+        "upstairs said": 1,
+        "neighbor upstairs": 1,
+        "new neighbor": 1,
+        "got new": 1
+    },
+    "trigrams": {
+        "hi uhm noticed": 1,
+        "day cause got": 1,
+        "old people yeah": 1,
+        "careful old people": 1,
+        "said careful old": 1,
+        "upstairs said careful": 1,
+        "neighbor upstairs said": 1,
+        "new neighbor upstairs": 1,
+        "got new neighbor": 1,
+        "cause got new": 1
+    }
+}

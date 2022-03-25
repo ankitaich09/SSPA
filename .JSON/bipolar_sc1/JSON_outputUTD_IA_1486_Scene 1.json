@@ -1,0 +1,78 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 150.0,
+        "mean_time": 7.142857142857143,
+        "positive_score": 0.3550531914893617,
+        "negative_score": 0.2127659574468085,
+        "subjective_score": 0.22596153846153846,
+        "top_emotions": [
+            [
+                "positive",
+                0.28378378378378377
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 21,
+            "anticipation": 16,
+            "joy": 15,
+            "surprise": 3,
+            "trust": 15,
+            "anger": 1,
+            "fear": 1,
+            "negative": 1,
+            "sadness": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5463414634146342,
+        "cttr": 5.531285741237702,
+        "diversity": 68.33333333333333,
+        "herdan": 0.8864343463167503,
+        "summer": 0.9279034635172076,
+        "dugast": 46.871653589781836,
+        "maas": 0.021334856430539992
+    },
+    "utterance_features": {
+        "num_utterances": 22,
+        "total_words": 220,
+        "total_unique_words": 45,
+        "avg_word_per_utter": 10.0
+    },
+    "unigrams": {
+        "uhm": 9,
+        "pretty": 8,
+        "yeah": 8,
+        "need": 4,
+        "good": 3,
+        "uh": 3,
+        "help": 3,
+        "environment": 2,
+        "anything": 2,
+        "safe": 2
+    },
+    "bigrams": {
+        "good environment": 2,
+        "need help": 2,
+        "yeah yeah": 2,
+        "uhm pretty": 2,
+        "pretty safe": 2,
+        "pretty calm": 2,
+        "uhm hi": 1,
+        "question id": 1,
+        "friendly everyone": 1,
+        "pretty friendly": 1
+    },
+    "trigrams": {
+        "uhm hi whats": 1,
+        "hi whats name": 1,
+        "everyone pretty much": 1,
+        "friendly everyone pretty": 1,
+        "pretty friendly everyone": 1,
+        "everyones pretty friendly": 1,
+        "yeah everyones pretty": 1,
+        "yeah yeah everyones": 1,
+        "safe yeah yeah": 1,
+        "pretty safe yeah": 1
+    }
+}

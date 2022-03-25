@@ -1,0 +1,78 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 246.0,
+        "mean_time": 10.695652173913043,
+        "positive_score": 0.395042194092827,
+        "negative_score": 0.10232067510548523,
+        "subjective_score": 0.14886934673366833,
+        "top_emotions": [
+            [
+                "positive",
+                0.3
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 12,
+            "positive": 18,
+            "joy": 12,
+            "trust": 8,
+            "surprise": 3,
+            "negative": 4,
+            "fear": 1,
+            "sadness": 1,
+            "disgust": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.44547563805104406,
+        "cttr": 6.539545951585648,
+        "diversity": 52.00755137206774,
+        "herdan": 0.8666999159815274,
+        "summer": 0.9206406431628594,
+        "dugast": 45.507158789660714,
+        "maas": 0.021974564587126044
+    },
+    "utterance_features": {
+        "num_utterances": 24,
+        "total_words": 463,
+        "total_unique_words": 59,
+        "avg_word_per_utter": 19.291666666666668
+    },
+    "unigrams": {
+        "uhm": 13,
+        "like": 13,
+        "hike": 9,
+        "there": 8,
+        "wer": 8,
+        "go": 6,
+        "right": 6,
+        "yeah": 4,
+        "uh": 4,
+        "im": 4
+    },
+    "bigrams": {
+        "beautiful view": 3,
+        "beach there": 3,
+        "there plenty": 2,
+        "black beach": 2,
+        "uhm go": 2,
+        "uhm right": 2,
+        "uhm uh": 2,
+        "plenty plenty": 2,
+        "hike there": 2,
+        "plenty hike": 2
+    },
+    "trigrams": {
+        "black beach there": 2,
+        "plenty hike there": 2,
+        "ya doin darlin": 1,
+        "state reserve beautiful": 1,
+        "go balboa ph": 1,
+        "balboa ph park": 1,
+        "ph park lot": 1,
+        "park lot uhm": 1,
+        "lot uhm like": 1,
+        "uhm like trail": 1
+    }
+}

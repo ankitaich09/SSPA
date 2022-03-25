@@ -1,0 +1,78 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 178.0,
+        "mean_time": 17.8,
+        "positive_score": 0.33090909090909093,
+        "negative_score": 0.20954545454545453,
+        "subjective_score": 0.16063084112149534,
+        "top_emotions": [
+            [
+                "positive",
+                0.2777777777777778
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 9,
+            "joy": 8,
+            "positive": 15,
+            "surprise": 5,
+            "fear": 2,
+            "anger": 1,
+            "negative": 3,
+            "trust": 9,
+            "sadness": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.41202672605790647,
+        "cttr": 6.173529959460499,
+        "diversity": 59.39375236130081,
+        "herdan": 0.8548118978817635,
+        "summer": 0.9133025198016423,
+        "dugast": 42.06283296388083,
+        "maas": 0.02377395742361661
+    },
+    "utterance_features": {
+        "num_utterances": 11,
+        "total_words": 478,
+        "total_unique_words": 46,
+        "avg_word_per_utter": 43.45454545454545
+    },
+    "unigrams": {
+        "uhm": 15,
+        "like": 8,
+        "anything": 6,
+        "hear": 5,
+        "kid": 5,
+        "really": 5,
+        "area": 5,
+        "know": 4,
+        "ive": 4,
+        "mean": 4
+    },
+    "bigrams": {
+        "like said": 2,
+        "let know": 2,
+        "nice there": 2,
+        "really nice": 2,
+        "apartment area": 2,
+        "entire life": 2,
+        "anything like": 2,
+        "mean theyre": 1,
+        "theyre always": 1,
+        "always quietest": 1
+    },
+    "trigrams": {
+        "approaching hi im": 1,
+        "uhm like rowdy": 1,
+        "part like said": 1,
+        "like said kid": 1,
+        "said kid theyre": 1,
+        "kid theyre mean": 1,
+        "theyre mean theyre": 1,
+        "mean theyre always": 1,
+        "theyre always quietest": 1,
+        "always quietest uhm": 1
+    }
+}

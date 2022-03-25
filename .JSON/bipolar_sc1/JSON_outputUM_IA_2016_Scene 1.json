@@ -1,0 +1,76 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 178.0,
+        "mean_time": 12.714285714285714,
+        "positive_score": 0.33294392523364486,
+        "negative_score": 0.17289719626168223,
+        "subjective_score": 0.12985436893203883,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.4
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 14,
+            "positive": 8,
+            "trust": 5,
+            "joy": 3,
+            "sadness": 1,
+            "surprise": 2,
+            "fear": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5110132158590308,
+        "cttr": 5.444149751781612,
+        "diversity": 48.646474788041054,
+        "herdan": 0.8762458964208623,
+        "summer": 0.9218759046885395,
+        "dugast": 43.83652630970965,
+        "maas": 0.022812026503534866
+    },
+    "utterance_features": {
+        "num_utterances": 15,
+        "total_words": 228,
+        "total_unique_words": 52,
+        "avg_word_per_utter": 15.2
+    },
+    "unigrams": {
+        "know": 6,
+        "blah": 6,
+        "like": 5,
+        "wer": 5,
+        "uh": 4,
+        "need": 3,
+        "neighborhood": 3,
+        "uhm": 3,
+        "store": 2,
+        "let": 2
+    },
+    "bigrams": {
+        "blah blah": 5,
+        "need anything": 2,
+        "make sure": 2,
+        "like cake": 2,
+        "wer yes": 2,
+        "let know": 2,
+        "welcome neighborhood": 2,
+        "ill make": 2,
+        "okay well": 2,
+        "know want": 1
+    },
+    "trigrams": {
+        "blah blah blah": 4,
+        "ill make sure": 2,
+        "uh ar arent": 1,
+        "know want show": 1,
+        "sure cupcake tomorrow": 1,
+        "make sure cupcake": 1,
+        "uhm ill make": 1,
+        "know uhm ill": 1,
+        "let know uhm": 1,
+        "mind let know": 1
+    }
+}

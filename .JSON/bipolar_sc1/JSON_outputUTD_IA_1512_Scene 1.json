@@ -1,0 +1,79 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 165.0,
+        "mean_time": 11.785714285714286,
+        "positive_score": 0.42613636363636365,
+        "negative_score": 0.10898760330578512,
+        "subjective_score": 0.16005291005291006,
+        "top_emotions": [
+            [
+                "positive",
+                0.3617021276595745
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 8,
+            "positive": 17,
+            "trust": 5,
+            "joy": 5,
+            "surprise": 3,
+            "sadness": 4,
+            "negative": 2,
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.38,
+        "cttr": 5.7,
+        "diversity": 57.49601088792942,
+        "herdan": 0.841619771804389,
+        "summer": 0.9047261580105003,
+        "dugast": 38.57329701040084,
+        "maas": 0.025924670108711776
+    },
+    "utterance_features": {
+        "num_utterances": 15,
+        "total_words": 453,
+        "total_unique_words": 47,
+        "avg_word_per_utter": 30.2
+    },
+    "unigrams": {
+        "uh": 16,
+        "like": 13,
+        "uhm": 10,
+        "know": 8,
+        "really": 7,
+        "yeah": 7,
+        "nice": 6,
+        "building": 5,
+        "dont": 5,
+        "got": 5
+    },
+    "bigrams": {
+        "coming apartment": 2,
+        "apartment building": 2,
+        "really nice": 2,
+        "uhm uh": 2,
+        "place like": 2,
+        "like uh": 2,
+        "uhm yeah": 2,
+        "ever need": 2,
+        "uh know": 2,
+        "youve got": 2
+    },
+    "trigrams": {
+        "hi name patient": 1,
+        "quiet dont uhm": 1,
+        "uhm uh problem": 1,
+        "uh problem like": 1,
+        "problem like like": 1,
+        "like like person": 1,
+        "like person used": 1,
+        "person used live": 1,
+        "used live next": 1,
+        "live next used": 1
+    }
+}

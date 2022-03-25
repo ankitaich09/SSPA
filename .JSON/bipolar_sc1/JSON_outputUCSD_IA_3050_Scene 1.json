@@ -1,0 +1,76 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 165.0,
+        "mean_time": 9.705882352941176,
+        "positive_score": 0.36657303370786515,
+        "negative_score": 0.18820224719101122,
+        "subjective_score": 0.19866071428571427,
+        "top_emotions": [
+            [
+                "positive",
+                0.28
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 7,
+            "joy": 5,
+            "trust": 6,
+            "anticipation": 2,
+            "negative": 2,
+            "sadness": 1,
+            "surprise": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5968992248062015,
+        "cttr": 4.793810609008116,
+        "diversity": 59.03389830508475,
+        "herdan": 0.8938216252864262,
+        "summer": 0.9290012273497873,
+        "dugast": 45.77026553167228,
+        "maas": 0.021848245545091197
+    },
+    "utterance_features": {
+        "num_utterances": 18,
+        "total_words": 137,
+        "total_unique_words": 41,
+        "avg_word_per_utter": 7.611111111111111
+    },
+    "unigrams": {
+        "wer": 12,
+        "yeah": 7,
+        "oh": 5,
+        "thats": 4,
+        "okay": 3,
+        "sometime": 3,
+        "awesome": 3,
+        "know": 2,
+        "really": 2,
+        "like": 2
+    },
+    "bigrams": {
+        "wer yeah": 3,
+        "wer oh": 3,
+        "thats awesome": 3,
+        "like wer": 2,
+        "awesome yeah": 2,
+        "wer hi": 1,
+        "oh thats": 1,
+        "okay oh": 1,
+        "wer okay": 1,
+        "thursday wer": 1
+    },
+    "trigrams": {
+        "like wer yeah": 2,
+        "thats awesome yeah": 2,
+        "wer hi nice": 1,
+        "ill see thursday": 1,
+        "awesome yeah maybe": 1,
+        "oh thats awesome": 1,
+        "okay oh thats": 1,
+        "wer okay oh": 1,
+        "thursday wer okay": 1,
+        "see thursday wer": 1
+    }
+}

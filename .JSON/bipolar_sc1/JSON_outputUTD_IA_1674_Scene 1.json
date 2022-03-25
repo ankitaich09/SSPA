@@ -1,0 +1,79 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 158.0,
+        "mean_time": 14.363636363636363,
+        "positive_score": 0.30711206896551724,
+        "negative_score": 0.20150862068965517,
+        "subjective_score": 0.16666666666666666,
+        "top_emotions": [
+            [
+                "positive",
+                0.24390243902439024
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 9,
+            "joy": 6,
+            "positive": 10,
+            "surprise": 3,
+            "trust": 7,
+            "sadness": 2,
+            "anger": 1,
+            "disgust": 1,
+            "fear": 1,
+            "negative": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5224719101123596,
+        "cttr": 4.9289901420295745,
+        "diversity": 51.91666666666667,
+        "herdan": 0.8747180288720791,
+        "summer": 0.9186373563045204,
+        "dugast": 41.36096761281917,
+        "maas": 0.02417738408252485
+    },
+    "utterance_features": {
+        "num_utterances": 12,
+        "total_words": 187,
+        "total_unique_words": 42,
+        "avg_word_per_utter": 15.583333333333334
+    },
+    "unigrams": {
+        "uhm": 13,
+        "yeah": 4,
+        "know": 3,
+        "well": 3,
+        "place": 3,
+        "definitely": 2,
+        "need": 2,
+        "good": 2,
+        "wer": 2,
+        "bus": 2
+    },
+    "bigrams": {
+        "uhm there": 2,
+        "wer uhm": 2,
+        "start yeah": 1,
+        "pedestrian uhm": 1,
+        "lot uhm": 1,
+        "definitely lot": 1,
+        "there definitely": 1,
+        "neighborhood uhm": 1,
+        "decent neighborhood": 1,
+        "yeah decent": 1
+    },
+    "trigrams": {
+        "start yeah sorry": 1,
+        "pedestrian uhm yeah": 1,
+        "lot uhm food": 1,
+        "definitely lot uhm": 1,
+        "there definitely lot": 1,
+        "uhm there definitely": 1,
+        "neighborhood uhm there": 1,
+        "decent neighborhood uhm": 1,
+        "yeah decent neighborhood": 1,
+        "uhm yeah decent": 1
+    }
+}

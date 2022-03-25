@@ -1,0 +1,75 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 198.0,
+        "mean_time": 13.2,
+        "positive_score": 0.39520958083832336,
+        "negative_score": 0.14146706586826346,
+        "subjective_score": 0.17690677966101695,
+        "top_emotions": [
+            [
+                "positive",
+                0.34285714285714286
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 6,
+            "positive": 12,
+            "trust": 8,
+            "joy": 5,
+            "sadness": 1,
+            "negative": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5393258426966292,
+        "cttr": 6.231489442673983,
+        "diversity": 92.18165458443944,
+        "herdan": 0.8894920565427217,
+        "summer": 0.931935141739893,
+        "dugast": 50.5597017155626,
+        "maas": 0.019778597698731942
+    },
+    "utterance_features": {
+        "num_utterances": 16,
+        "total_words": 269,
+        "total_unique_words": 52,
+        "avg_word_per_utter": 16.8125
+    },
+    "unigrams": {
+        "uhm": 9,
+        "area": 4,
+        "welcome": 4,
+        "youre": 4,
+        "museum": 3,
+        "oh": 3,
+        "uh": 3,
+        "pretty": 2,
+        "really": 2,
+        "let": 2
+    },
+    "bigrams": {
+        "youre welcome": 2,
+        "oh youre": 2,
+        "hello name": 1,
+        "within fivemile": 1,
+        "museum natural": 1,
+        "natural science": 1,
+        "science uhm": 1,
+        "uhm theyre": 1,
+        "theyre within": 1,
+        "fivemile radius": 1
+    },
+    "trigrams": {
+        "hello name patient": 1,
+        "art museum natural": 1,
+        "know wer awesome": 1,
+        "there know wer": 1,
+        "uhm there know": 1,
+        "bike uhm there": 1,
+        "ride bike uhm": 1,
+        "could ride bike": 1,
+        "radius could ride": 1,
+        "fivemile radius could": 1
+    }
+}

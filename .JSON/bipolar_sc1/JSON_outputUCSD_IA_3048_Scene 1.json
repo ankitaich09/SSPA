@@ -1,0 +1,78 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 201.0,
+        "mean_time": 11.823529411764707,
+        "positive_score": 0.30851063829787234,
+        "negative_score": 0.22606382978723405,
+        "subjective_score": 0.16785714285714284,
+        "top_emotions": [
+            [
+                "positive",
+                0.30434782608695654
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 7,
+            "trust": 4,
+            "joy": 3,
+            "anticipation": 3,
+            "negative": 2,
+            "anger": 1,
+            "disgust": 1,
+            "sadness": 1,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.56353591160221,
+        "cttr": 5.361000978521894,
+        "diversity": 90.5,
+        "herdan": 0.8896749936506354,
+        "summer": 0.9290820080207263,
+        "dugast": 47.119843481393694,
+        "maas": 0.02122248136063678
+    },
+    "utterance_features": {
+        "num_utterances": 18,
+        "total_words": 190,
+        "total_unique_words": 41,
+        "avg_word_per_utter": 10.555555555555555
+    },
+    "unigrams": {
+        "wer": 12,
+        "uhm": 4,
+        "there": 3,
+        "like": 3,
+        "go": 3,
+        "anything": 3,
+        "oh": 2,
+        "need": 2,
+        "nice": 2,
+        "around": 2
+    },
+    "bigrams": {
+        "anything like": 2,
+        "wer yeah": 1,
+        "ya tell": 1,
+        "take wer": 1,
+        "line take": 1,
+        "uh line": 1,
+        "wer uh": 1,
+        "downtown wer": 1,
+        "go downtown": 1,
+        "bus go": 1
+    },
+    "trigrams": {
+        "wer yeah saw": 1,
+        "ya tell bus": 1,
+        "wer mm wer": 1,
+        "take wer mm": 1,
+        "line take wer": 1,
+        "uh line take": 1,
+        "wer uh line": 1,
+        "downtown wer uh": 1,
+        "go downtown wer": 1,
+        "bus go downtown": 1
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 170.0,
+        "mean_time": 10.625,
+        "positive_score": 0.3958333333333333,
+        "negative_score": 0.09027777777777778,
+        "subjective_score": 0.15,
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 5,
+            "joy": 7,
+            "positive": 9,
+            "trust": 5,
+            "surprise": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.40293040293040294,
+        "cttr": 4.707565417620041,
+        "diversity": 24.334207913771095,
+        "herdan": 0.8379541848890656,
+        "summer": 0.8974796721653916,
+        "dugast": 34.61657921461774,
+        "maas": 0.02888789194911912
+    },
+    "utterance_features": {
+        "num_utterances": 17,
+        "total_words": 273,
+        "total_unique_words": 43,
+        "avg_word_per_utter": 16.058823529411764
+    },
+    "unigrams": {
+        "uhm": 8,
+        "yeah": 8,
+        "uh": 7,
+        "around": 5,
+        "would": 5,
+        "got": 5,
+        "im": 5,
+        "like": 4,
+        "go": 4,
+        "well": 3
+    },
+    "bigrams": {
+        "would like": 4,
+        "around corner": 3,
+        "yeah okay": 2,
+        "like go": 2,
+        "go fishin": 2,
+        "uhm im": 2,
+        "uhm there": 2,
+        "say oh": 1,
+        "great food": 1,
+        "there great": 1
+    },
+    "trigrams": {
+        "would like go": 2,
+        "say oh uh": 1,
+        "restaurant around corner": 1,
+        "laugh uhm there": 1,
+        "uhm there uhm": 1,
+        "there uhm there": 1,
+        "uhm there great": 1,
+        "there great restaurant": 1,
+        "great restaurant around": 1,
+        "around corner great": 1
+    }
+}

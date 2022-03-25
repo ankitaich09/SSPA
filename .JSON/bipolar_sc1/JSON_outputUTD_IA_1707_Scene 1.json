@@ -1,0 +1,79 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 133.0,
+        "mean_time": 16.625,
+        "positive_score": 0.3402777777777778,
+        "negative_score": 0.19543650793650794,
+        "subjective_score": 0.16071428571428573,
+        "top_emotions": [
+            [
+                "positive",
+                0.23636363636363636
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 11,
+            "disgust": 1,
+            "joy": 7,
+            "positive": 13,
+            "surprise": 3,
+            "trust": 9,
+            "negative": 4,
+            "anger": 1,
+            "fear": 3,
+            "sadness": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.49411764705882355,
+        "cttr": 5.5793737789026006,
+        "diversity": 71.55135207394393,
+        "herdan": 0.8727760135460598,
+        "summer": 0.9205264952793469,
+        "dugast": 43.55517933062546,
+        "maas": 0.022959381992415734
+    },
+    "utterance_features": {
+        "num_utterances": 9,
+        "total_words": 256,
+        "total_unique_words": 41,
+        "avg_word_per_utter": 28.444444444444443
+    },
+    "unigrams": {
+        "uhm": 9,
+        "uh": 7,
+        "know": 6,
+        "yeah": 6,
+        "like": 4,
+        "wer": 3,
+        "well": 3,
+        "dont": 2,
+        "thats": 2,
+        "welcome": 2
+    },
+    "bigrams": {
+        "uhm yeah": 3,
+        "uh like": 2,
+        "yeah problem": 2,
+        "uhm know": 2,
+        "oh finally": 1,
+        "yeah there": 1,
+        "hope yeah": 1,
+        "like hope": 1,
+        "safe like": 1,
+        "fairly safe": 1
+    },
+    "trigrams": {
+        "oh finally got": 1,
+        "well talk later": 1,
+        "problem okeydoke well": 1,
+        "yeah problem okeydoke": 1,
+        "hope yeah problem": 1,
+        "like hope yeah": 1,
+        "safe like hope": 1,
+        "fairly safe like": 1,
+        "ph fairly safe": 1,
+        "far ph fairly": 1
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 165.0,
+        "mean_time": 20.625,
+        "positive_score": 0.38911290322580644,
+        "negative_score": 0.17271505376344087,
+        "subjective_score": 0.1875,
+        "top_emotions": [
+            [
+                "positive",
+                0.3269230769230769
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 7,
+            "joy": 11,
+            "positive": 17,
+            "trust": 12,
+            "sadness": 1,
+            "surprise": 4
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4962686567164179,
+        "cttr": 5.744725030116045,
+        "diversity": 46.84567209440306,
+        "herdan": 0.8746844063970465,
+        "summer": 0.9222080107504035,
+        "dugast": 44.615253535207955,
+        "maas": 0.022413858955454637
+    },
+    "utterance_features": {
+        "num_utterances": 9,
+        "total_words": 268,
+        "total_unique_words": 41,
+        "avg_word_per_utter": 29.77777777777778
+    },
+    "unigrams": {
+        "like": 6,
+        "really": 5,
+        "uh": 4,
+        "good": 4,
+        "uhm": 4,
+        "wer": 3,
+        "thats": 3,
+        "park": 3,
+        "help": 3,
+        "there": 3
+    },
+    "bigrams": {
+        "safe uhm": 2,
+        "shes really": 2,
+        "thats good": 2,
+        "really safe": 2,
+        "uhm shes": 1,
+        "well landlord": 1,
+        "landlord shes": 1,
+        "really nice": 1,
+        "nice uhm": 1,
+        "helpful ever": 1
+    },
+    "trigrams": {
+        "wer hi wer": 1,
+        "like need anything": 1,
+        "ask help like": 1,
+        "go ask help": 1,
+        "ever go ask": 1,
+        "helpful ever go": 1,
+        "really helpful ever": 1,
+        "shes really helpful": 1,
+        "uhm shes really": 1,
+        "nice uhm shes": 1
+    }
+}

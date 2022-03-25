@@ -1,0 +1,79 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 171.0,
+        "mean_time": 13.153846153846153,
+        "positive_score": 0.35020661157024796,
+        "negative_score": 0.1322314049586777,
+        "subjective_score": 0.13038793103448276,
+        "top_emotions": [
+            [
+                "positive",
+                0.25
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 8,
+            "positive": 13,
+            "trust": 11,
+            "joy": 7,
+            "surprise": 2,
+            "anger": 2,
+            "disgust": 3,
+            "negative": 3,
+            "sadness": 2,
+            "fear": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5666666666666667,
+        "cttr": 5.806605434043773,
+        "diversity": 74.75555083958935,
+        "herdan": 0.8937773302027222,
+        "summer": 0.933018269684252,
+        "dugast": 50.33866632162641,
+        "maas": 0.019865444857254427
+    },
+    "utterance_features": {
+        "num_utterances": 14,
+        "total_words": 223,
+        "total_unique_words": 44,
+        "avg_word_per_utter": 15.928571428571429
+    },
+    "unigrams": {
+        "uhm": 9,
+        "right": 5,
+        "neighbor": 4,
+        "uh": 4,
+        "ive": 3,
+        "pretty": 3,
+        "nice": 3,
+        "well": 3,
+        "dont": 3,
+        "cool": 2
+    },
+    "bigrams": {
+        "nice meet": 2,
+        "soon get": 2,
+        "uhm hi": 1,
+        "much say": 1,
+        "say pretty": 1,
+        "would say": 1,
+        "think would": 1,
+        "would think": 1,
+        "uhm would": 1,
+        "laugh uhm": 1
+    },
+    "trigrams": {
+        "uhm hi im": 1,
+        "say right well": 1,
+        "pretty safe uhm": 1,
+        "say pretty safe": 1,
+        "would say pretty": 1,
+        "think would say": 1,
+        "would think would": 1,
+        "uhm would think": 1,
+        "laugh uhm would": 1,
+        "interviewer laugh uhm": 1
+    }
+}

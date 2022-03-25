@@ -1,0 +1,77 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 168.0,
+        "mean_time": 5.090909090909091,
+        "positive_score": 0.3626609442060086,
+        "negative_score": 0.11856223175965665,
+        "subjective_score": 0.16180555555555556,
+        "top_emotions": [
+            [
+                "positive",
+                0.36666666666666664
+            ]
+        ],
+        "emotion_scores": {
+            "surprise": 4,
+            "anticipation": 10,
+            "joy": 14,
+            "positive": 22,
+            "trust": 6,
+            "negative": 2,
+            "anger": 1,
+            "fear": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.38271604938271603,
+        "cttr": 5.446144859178875,
+        "diversity": 46.667345276872965,
+        "herdan": 0.8400266461623889,
+        "summer": 0.9027443789759431,
+        "dugast": 37.53054445055318,
+        "maas": 0.026644963845848513
+    },
+    "utterance_features": {
+        "num_utterances": 34,
+        "total_words": 405,
+        "total_unique_words": 47,
+        "avg_word_per_utter": 11.911764705882353
+    },
+    "unigrams": {
+        "oh": 14,
+        "okay": 11,
+        "uh": 9,
+        "yeah": 7,
+        "like": 6,
+        "fun": 6,
+        "im": 6,
+        "get": 4,
+        "major": 4,
+        "kind": 4
+    },
+    "bigrams": {
+        "oh okay": 9,
+        "get back": 3,
+        "dont know": 3,
+        "fun yeah": 2,
+        "name oh": 2,
+        "finger crossed": 2,
+        "okay yeah": 2,
+        "recently oh": 2,
+        "lot fun": 2,
+        "sound fun": 2
+    },
+    "trigrams": {
+        "need get back": 2,
+        "oh sound fun": 2,
+        "moving oh okay": 2,
+        "get back ive": 1,
+        "lot fun yeah": 1,
+        "fun yeah lot": 1,
+        "yeah lot fun": 1,
+        "lot fun uh": 1,
+        "fun uh thats": 1,
+        "uh thats something": 1
+    }
+}

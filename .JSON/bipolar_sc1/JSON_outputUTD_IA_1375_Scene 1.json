@@ -1,0 +1,76 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 190.0,
+        "mean_time": 10.0,
+        "positive_score": 0.484375,
+        "negative_score": 0.13764880952380953,
+        "subjective_score": 0.14093959731543623,
+        "top_emotions": [
+            [
+                "positive",
+                0.2564102564102564
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 8,
+            "joy": 8,
+            "positive": 10,
+            "surprise": 5,
+            "trust": 5,
+            "negative": 1,
+            "sadness": 2
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.44477611940298506,
+        "cttr": 5.756372199182605,
+        "diversity": 49.3884488392154,
+        "herdan": 0.8606525564837485,
+        "summer": 0.9147502490922541,
+        "dugast": 41.723984201740926,
+        "maas": 0.023967030453392685
+    },
+    "utterance_features": {
+        "num_utterances": 20,
+        "total_words": 358,
+        "total_unique_words": 47,
+        "avg_word_per_utter": 17.9
+    },
+    "unigrams": {
+        "like": 16,
+        "uhm": 13,
+        "wer": 9,
+        "nice": 6,
+        "yeah": 6,
+        "there": 5,
+        "okay": 5,
+        "dallas": 4,
+        "im": 4,
+        "thing": 3
+    },
+    "bigrams": {
+        "wer okay": 4,
+        "nice meet": 3,
+        "wer uhm": 3,
+        "there lot": 2,
+        "know like": 2,
+        "thats really": 2,
+        "really nice": 2,
+        "yeah wer": 2,
+        "better luck": 2,
+        "pretty nice": 1
+    },
+    "trigrams": {
+        "hi nice meet": 1,
+        "everything yeah wer": 1,
+        "lot dog rent": 1,
+        "dog rent owner": 1,
+        "rent owner pretty": 1,
+        "owner pretty nice": 1,
+        "pretty nice like": 1,
+        "nice like let": 1,
+        "like let pet": 1,
+        "let pet everything": 1
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 205.0,
+        "mean_time": 12.8125,
+        "positive_score": 0.34265498652291104,
+        "negative_score": 0.2068733153638814,
+        "subjective_score": 0.1990343347639485,
+        "top_emotions": [
+            [
+                "positive",
+                0.23404255319148937
+            ]
+        ],
+        "emotion_scores": {
+            "joy": 10,
+            "positive": 22,
+            "trust": 14,
+            "anticipation": 13,
+            "fear": 8,
+            "negative": 10,
+            "sadness": 11,
+            "anger": 2,
+            "surprise": 3,
+            "disgust": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.42184154175588867,
+        "cttr": 6.446036911386331,
+        "diversity": 79.46799928926795,
+        "herdan": 0.8595705676109086,
+        "summer": 0.9166660600537305,
+        "dugast": 43.76809870340503,
+        "maas": 0.022847691118056335
+    },
+    "utterance_features": {
+        "num_utterances": 17,
+        "total_words": 504,
+        "total_unique_words": 47,
+        "avg_word_per_utter": 29.647058823529413
+    },
+    "unigrams": {
+        "nice": 6,
+        "neighbor": 6,
+        "shes": 5,
+        "worry": 5,
+        "really": 4,
+        "like": 4,
+        "help": 4,
+        "need": 4,
+        "problem": 4,
+        "okay": 4
+    },
+    "bigrams": {
+        "worry anything": 3,
+        "dont worry": 3,
+        "wont worry": 2,
+        "laid back": 2,
+        "little bit": 2,
+        "nice neighbor": 2,
+        "walk dog": 2,
+        "need help": 2,
+        "really really": 2,
+        "like little": 1
+    },
+    "trigrams": {
+        "dont worry anything": 2,
+        "good morning name": 1,
+        "gettogether family nice": 1,
+        "except weekend im": 1,
+        "weekend im gonna": 1,
+        "im gonna say": 1,
+        "gonna say noisy": 1,
+        "say noisy weekend": 1,
+        "noisy weekend neighbor": 1,
+        "weekend neighbor like": 1
+    }
+}

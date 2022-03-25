@@ -1,0 +1,74 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 168.0,
+        "mean_time": 6.461538461538462,
+        "positive_score": 0.325187969924812,
+        "negative_score": 0.20300751879699247,
+        "subjective_score": 0.18370165745856354,
+        "top_emotions": [
+            [
+                "positive",
+                0.35384615384615387
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 13,
+            "positive": 23,
+            "trust": 14,
+            "joy": 11,
+            "surprise": 4
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4530386740331492,
+        "cttr": 6.095011999226764,
+        "diversity": 64.50181818181818,
+        "herdan": 0.8656100478008655,
+        "summer": 0.9186253702605022,
+        "dugast": 43.839915971513506,
+        "maas": 0.022810262698719233
+    },
+    "utterance_features": {
+        "num_utterances": 27,
+        "total_words": 392,
+        "total_unique_words": 49,
+        "avg_word_per_utter": 14.518518518518519
+    },
+    "unigrams": {
+        "uhm": 14,
+        "like": 10,
+        "laugh": 8,
+        "oh": 8,
+        "yeah": 8,
+        "thats": 7,
+        "lot": 7,
+        "there": 6,
+        "uh": 5,
+        "well": 5
+    },
+    "bigrams": {
+        "oh thats": 4,
+        "laugh uhm": 4,
+        "uhm yeah": 4,
+        "there lot": 4,
+        "restaurant around": 2,
+        "yeah uhm": 2,
+        "thats cool": 2,
+        "uhm lot": 2,
+        "pretty cool": 2,
+        "youre moving": 2
+    },
+    "trigrams": {
+        "oh thats cool": 2,
+        "okay hey neighbor": 1,
+        "area guide laugh": 1,
+        "laugh uhm ya": 1,
+        "uhm ya know": 1,
+        "ya know there": 1,
+        "know there like": 1,
+        "there like give": 1,
+        "like give dallas": 1,
+        "give dallas credit": 1
+    }
+}

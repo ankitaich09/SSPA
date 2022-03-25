@@ -1,0 +1,76 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 192.0,
+        "mean_time": 19.2,
+        "positive_score": 0.3048780487804878,
+        "negative_score": 0.17256097560975608,
+        "subjective_score": 0.15073529411764705,
+        "top_emotions": [
+            [
+                "positive",
+                0.34146341463414637
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 14,
+            "anticipation": 6,
+            "joy": 6,
+            "surprise": 3,
+            "trust": 5,
+            "negative": 2,
+            "sadness": 5
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4587628865979381,
+        "cttr": 6.38982761169787,
+        "diversity": 79.75098392457511,
+        "herdan": 0.8692801390141962,
+        "summer": 0.9215288123065569,
+        "dugast": 45.60137453229574,
+        "maas": 0.021929163545098437
+    },
+    "utterance_features": {
+        "num_utterances": 11,
+        "total_words": 407,
+        "total_unique_words": 49,
+        "avg_word_per_utter": 37.0
+    },
+    "unigrams": {
+        "uhm": 17,
+        "uh": 9,
+        "know": 7,
+        "im": 6,
+        "home": 4,
+        "anything": 4,
+        "people": 4,
+        "okay": 4,
+        "get": 3,
+        "quiet": 3
+    },
+    "bigrams": {
+        "three year": 2,
+        "across hall": 2,
+        "okay well": 2,
+        "building pretty": 1,
+        "pretty quiet": 1,
+        "quiet uhm": 1,
+        "uhm day": 1,
+        "day extremely": 1,
+        "extremely quiet": 1,
+        "quiet majority": 1
+    },
+    "trigrams": {
+        "good evening yeah": 1,
+        "still uhm actively": 1,
+        "tell building pretty": 1,
+        "building pretty quiet": 1,
+        "pretty quiet uhm": 1,
+        "quiet uhm day": 1,
+        "uhm day extremely": 1,
+        "day extremely quiet": 1,
+        "extremely quiet majority": 1,
+        "quiet majority people": 1
+    }
+}

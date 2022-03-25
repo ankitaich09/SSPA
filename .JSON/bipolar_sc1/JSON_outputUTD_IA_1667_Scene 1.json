@@ -1,0 +1,76 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 144.0,
+        "mean_time": 16.0,
+        "positive_score": 0.3911764705882353,
+        "negative_score": 0.16176470588235295,
+        "subjective_score": 0.17,
+        "top_emotions": [
+            [
+                "anticipation",
+                0.28888888888888886
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 13,
+            "joy": 6,
+            "positive": 11,
+            "trust": 10,
+            "sadness": 1,
+            "surprise": 3,
+            "fear": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4509090909090909,
+        "cttr": 5.287377765619138,
+        "diversity": 42.68197653098643,
+        "herdan": 0.8581944113064484,
+        "summer": 0.9113869322207708,
+        "dugast": 39.608954410144364,
+        "maas": 0.02524681640532998
+    },
+    "utterance_features": {
+        "num_utterances": 10,
+        "total_words": 287,
+        "total_unique_words": 41,
+        "avg_word_per_utter": 28.7
+    },
+    "unigrams": {
+        "uh": 24,
+        "know": 11,
+        "neighborhood": 4,
+        "real": 4,
+        "nice": 4,
+        "help": 3,
+        "need": 3,
+        "great": 3,
+        "really": 3,
+        "like": 2
+    },
+    "bigrams": {
+        "uh know": 5,
+        "know uh": 3,
+        "uh nice": 2,
+        "need help": 2,
+        "know real": 2,
+        "nice day": 2,
+        "great uh": 2,
+        "uh uh": 2,
+        "course uh": 2,
+        "neighborhood paul": 1
+    },
+    "trigrams": {
+        "course uh nice": 2,
+        "uh nice day": 2,
+        "uh know uh": 2,
+        "great uh know": 2,
+        "uh hi im": 1,
+        "go uhm yeah": 1,
+        "yeah uh uh": 1,
+        "uh uh know": 1,
+        "uh know historic": 1,
+        "know historic neighborhood": 1
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 193.0,
+        "mean_time": 14.846153846153847,
+        "positive_score": 0.31925675675675674,
+        "negative_score": 0.1875,
+        "subjective_score": 0.115625,
+        "top_emotions": [
+            [
+                "positive",
+                0.3333333333333333
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 6,
+            "anticipation": 3,
+            "joy": 4,
+            "trust": 5
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5274725274725275,
+        "cttr": 5.031767216265208,
+        "diversity": 49.15414507772021,
+        "herdan": 0.87708346009673,
+        "summer": 0.9204857329625795,
+        "dugast": 42.337725184683215,
+        "maas": 0.0236195968403559
+    },
+    "utterance_features": {
+        "num_utterances": 14,
+        "total_words": 191,
+        "total_unique_words": 42,
+        "avg_word_per_utter": 13.642857142857142
+    },
+    "unigrams": {
+        "uhm": 11,
+        "yeah": 6,
+        "like": 4,
+        "wer": 4,
+        "there": 4,
+        "really": 4,
+        "uh": 3,
+        "lot": 3,
+        "work": 2,
+        "ive": 2
+    },
+    "bigrams": {
+        "wer yeah": 2,
+        "yeah ive": 2,
+        "ive lived": 2,
+        "really like": 2,
+        "there lot": 2,
+        "right front": 1,
+        "research assistant": 1,
+        "uhm research": 1,
+        "work uhm": 1,
+        "oh work": 1
+    },
+    "trigrams": {
+        "yeah ive lived": 2,
+        "anything uh yeah": 1,
+        "front uhm apartment": 1,
+        "wer yeah brought": 1,
+        "assistant wer yeah": 1,
+        "research assistant wer": 1,
+        "uhm research assistant": 1,
+        "work uhm research": 1,
+        "oh work uhm": 1,
+        "wer oh work": 1
+    }
+}

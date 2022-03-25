@@ -1,0 +1,79 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 171.0,
+        "mean_time": 10.6875,
+        "positive_score": 0.2629032258064516,
+        "negative_score": 0.16693548387096774,
+        "subjective_score": 0.12831125827814568,
+        "top_emotions": [
+            [
+                "positive",
+                0.3114754098360656
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 8,
+            "positive": 19,
+            "trust": 10,
+            "joy": 4,
+            "anger": 3,
+            "disgust": 3,
+            "negative": 5,
+            "surprise": 1,
+            "fear": 4,
+            "sadness": 4
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.511400651465798,
+        "cttr": 6.336004351329405,
+        "diversity": 51.166666666666664,
+        "herdan": 0.8829020829964577,
+        "summer": 0.9286365712640439,
+        "dugast": 48.90648693105234,
+        "maas": 0.02044718528668366
+    },
+    "utterance_features": {
+        "num_utterances": 17,
+        "total_words": 323,
+        "total_unique_words": 44,
+        "avg_word_per_utter": 19.0
+    },
+    "unigrams": {
+        "dont": 6,
+        "well": 6,
+        "okay": 5,
+        "uhm": 4,
+        "uh": 3,
+        "neighbor": 3,
+        "hang": 3,
+        "block": 3,
+        "youre": 3,
+        "mm": 2
+    },
+    "bigrams": {
+        "four block": 2,
+        "block left": 2,
+        "okay well": 2,
+        "dont wanna": 2,
+        "group evenin": 1,
+        "evenin evenin": 1,
+        "go group": 1,
+        "uh go": 1,
+        "go uh": 1,
+        "mostly go": 1
+    },
+    "trigrams": {
+        "mm hello doin": 1,
+        "welcome find stay": 1,
+        "people dont wanna": 1,
+        "dont wanna hang": 1,
+        "wanna hang around": 1,
+        "hang around okay": 1,
+        "around okay youre": 1,
+        "okay youre welcome": 1,
+        "youre welcome find": 1,
+        "find stay im": 1
+    }
+}

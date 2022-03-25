@@ -1,0 +1,77 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 156.0,
+        "mean_time": 17.333333333333332,
+        "positive_score": 0.26715686274509803,
+        "negative_score": 0.25,
+        "subjective_score": 0.1356382978723404,
+        "top_emotions": [
+            [
+                "positive",
+                0.25
+            ]
+        ],
+        "emotion_scores": {
+            "anger": 1,
+            "fear": 2,
+            "negative": 2,
+            "positive": 4,
+            "joy": 2,
+            "trust": 2,
+            "sadness": 2,
+            "anticipation": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.7634408602150538,
+        "cttr": 5.205972583258042,
+        "diversity": 80.44108727932685,
+        "herdan": 0.9404492683459746,
+        "summer": 0.9593742135813287,
+        "dugast": 76.11324608883919,
+        "maas": 0.013138317591037998
+    },
+    "utterance_features": {
+        "num_utterances": 10,
+        "total_words": 100,
+        "total_unique_words": 44,
+        "avg_word_per_utter": 10.0
+    },
+    "unigrams": {
+        "wer": 3,
+        "nice": 3,
+        "okay": 2,
+        "thats": 2,
+        "reason": 2,
+        "laugh": 2,
+        "try": 1,
+        "yeah": 1,
+        "uh": 1,
+        "weather": 1
+    },
+    "bigrams": {
+        "wer new": 1,
+        "life laugh": 1,
+        "pain laugh": 1,
+        "laugh uh": 1,
+        "uh okay": 1,
+        "okay weather": 1,
+        "weather nice": 1,
+        "nice lot": 1,
+        "lot place": 1,
+        "place go": 1
+    },
+    "trigrams": {
+        "wer new york": 1,
+        "right kind pain": 1,
+        "pain laugh uh": 1,
+        "laugh uh okay": 1,
+        "uh okay weather": 1,
+        "okay weather nice": 1,
+        "weather nice lot": 1,
+        "nice lot place": 1,
+        "lot place go": 1,
+        "place go thats": 1
+    }
+}

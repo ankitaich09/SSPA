@@ -1,0 +1,79 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 181.0,
+        "mean_time": 7.24,
+        "positive_score": 0.33315217391304347,
+        "negative_score": 0.16902173913043478,
+        "subjective_score": 0.16242937853107345,
+        "top_emotions": [
+            [
+                "positive",
+                0.25274725274725274
+            ]
+        ],
+        "emotion_scores": {
+            "anticipation": 14,
+            "positive": 23,
+            "trust": 12,
+            "fear": 4,
+            "negative": 5,
+            "sadness": 9,
+            "joy": 14,
+            "surprise": 8,
+            "anger": 1,
+            "disgust": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.4126984126984127,
+        "cttr": 5.673665146135802,
+        "diversity": 59.804684618222055,
+        "herdan": 0.8508754900764233,
+        "summer": 0.909318840033123,
+        "dugast": 39.79824777738484,
+        "maas": 0.025126734362617975
+    },
+    "utterance_features": {
+        "num_utterances": 26,
+        "total_words": 396,
+        "total_unique_words": 47,
+        "avg_word_per_utter": 15.23076923076923
+    },
+    "unigrams": {
+        "uhm": 10,
+        "know": 9,
+        "youre": 8,
+        "new": 6,
+        "yeah": 5,
+        "problem": 5,
+        "people": 4,
+        "welcome": 4,
+        "awesome": 4,
+        "music": 3
+    },
+    "bigrams": {
+        "know youre": 3,
+        "youre welcome": 3,
+        "dont know": 2,
+        "oh yeah": 2,
+        "new people": 2,
+        "know new": 2,
+        "uhm dont": 2,
+        "uhm hello": 1,
+        "awesome uhm": 1,
+        "uhm old": 1
+    },
+    "trigrams": {
+        "know new people": 2,
+        "uhm dont know": 2,
+        "offer good meal": 1,
+        "uhm old neighbor": 1,
+        "old neighbor also": 1,
+        "neighbor also awesome": 1,
+        "also awesome uhm": 1,
+        "awesome uhm good": 1,
+        "uhm good take": 1,
+        "good take know": 1
+    }
+}

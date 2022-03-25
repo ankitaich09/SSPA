@@ -1,0 +1,79 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 147.0,
+        "mean_time": 21.0,
+        "positive_score": 0.3693181818181818,
+        "negative_score": 0.14691558441558442,
+        "subjective_score": 0.17990654205607476,
+        "top_emotions": [
+            [
+                "positive",
+                0.19298245614035087
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 11,
+            "trust": 10,
+            "anticipation": 9,
+            "joy": 6,
+            "surprise": 5,
+            "anger": 4,
+            "negative": 6,
+            "disgust": 1,
+            "fear": 2,
+            "sadness": 3
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.5084033613445378,
+        "cttr": 5.546025907020678,
+        "diversity": 56.662778730703266,
+        "herdan": 0.8763803604727638,
+        "summer": 0.9223653737411011,
+        "dugast": 44.267000733858396,
+        "maas": 0.022590190964420418
+    },
+    "utterance_features": {
+        "num_utterances": 8,
+        "total_words": 264,
+        "total_unique_words": 47,
+        "avg_word_per_utter": 33.0
+    },
+    "unigrams": {
+        "uh": 8,
+        "thats": 6,
+        "im": 5,
+        "wer": 4,
+        "want": 4,
+        "good": 4,
+        "ill": 4,
+        "need": 3,
+        "six": 3,
+        "like": 3
+    },
+    "bigrams": {
+        "six need": 3,
+        "im good": 2,
+        "apartment six": 2,
+        "around nice": 1,
+        "thats anyway": 1,
+        "low thats": 1,
+        "sugar low": 1,
+        "blood sugar": 1,
+        "yet blood": 1,
+        "eaten yet": 1
+    },
+    "trigrams": {
+        "apartment six need": 2,
+        "wer yeah wer": 1,
+        "know realize im": 1,
+        "yeah got get": 1,
+        "anyway yeah got": 1,
+        "thats anyway yeah": 1,
+        "low thats anyway": 1,
+        "sugar low thats": 1,
+        "blood sugar low": 1,
+        "yet blood sugar": 1
+    }
+}

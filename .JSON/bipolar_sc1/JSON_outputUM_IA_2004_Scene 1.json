@@ -1,0 +1,70 @@
+{
+    "label": "bipolar",
+    "Feature_set_1": {
+        "max_time": 168.0,
+        "mean_time": 18.666666666666668,
+        "positive_score": 0.16964285714285715,
+        "negative_score": 0.11607142857142858,
+        "subjective_score": 0.09210526315789473,
+        "top_emotions": [
+            [
+                "positive",
+                1.0
+            ]
+        ],
+        "emotion_scores": {
+            "positive": 1
+        }
+    },
+    "lexical_features": {
+        "ttr": 0.7755102040816326,
+        "cttr": 3.838579669298401,
+        "diversity": 46.78115479115479,
+        "herdan": 0.9346747488552685,
+        "summer": 0.9502849243610877,
+        "dugast": 59.57604800459306,
+        "maas": 0.01678526913908261
+    },
+    "utterance_features": {
+        "num_utterances": 10,
+        "total_words": 52,
+        "total_unique_words": 36,
+        "avg_word_per_utter": 5.2
+    },
+    "unigrams": {
+        "wer": 7,
+        "like": 2,
+        "uhm": 1,
+        "im": 1,
+        "pet": 1,
+        "child": 1,
+        "something": 1,
+        "tell": 1,
+        "fine": 1,
+        "landlord": 1
+    },
+    "bigrams": {
+        "wer hi": 1,
+        "stuff wer": 1,
+        "pet im": 1,
+        "child pet": 1,
+        "wer child": 1,
+        "something wer": 1,
+        "tell something": 1,
+        "fine tell": 1,
+        "like fine": 1,
+        "landlord like": 1
+    },
+    "trigrams": {
+        "wer hi wer": 1,
+        "hi wer nice": 1,
+        "child pet im": 1,
+        "wer child pet": 1,
+        "something wer child": 1,
+        "tell something wer": 1,
+        "fine tell something": 1,
+        "like fine tell": 1,
+        "landlord like fine": 1,
+        "whats landlord like": 1
+    }
+}

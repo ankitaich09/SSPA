@@ -3,6 +3,10 @@ from sklearn.neighbors import KNeighborsClassifier
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.linear_model import LogisticRegression, RidgeClassifier
 from sklearn.svm import LinearSVC
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+import pandas as pd
+import numpy as np
 
 
 X_train = X_train.astype(np.float)

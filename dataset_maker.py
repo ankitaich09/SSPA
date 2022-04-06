@@ -17,8 +17,12 @@ def json_to_csv(data):
     label = data['label']
     if label == 'Schizophrenia':
         label = 1
-    else:
+    elif label == 'healthy':
         label = 0
+    else:
+        label = 2
+        #bpd
+
 
     #all features in order
 
@@ -78,9 +82,9 @@ def build(list_of_paths_to_folder):
                'label']
 
 
-    files1 = os.listdir(list_of_paths_to_folder[0])
-    files2 = os.listdir(list_of_paths_to_folder[1])
-
+    files1 = os.listdir(list_of_paths_to_folder[0]) #path to BPD
+    files2 = os.listdir(list_of_paths_to_folder[1]) #path to Schizo
+    files3 = os.listdir(list_of_paths_to_folder[2]) #path to healthy
 
     if '.DS_Store' in files1:
         files1.remove('.DS_Store')
@@ -88,11 +92,15 @@ def build(list_of_paths_to_folder):
     if '.DS_Store' in files2:
         files2.remove('.DS_Store')
 
+    if '.DS_Store' in files3:
+        files3.remove('.DS_Store')
 
 
     feature_set_1 = []
 
     feature_set_2 = []
+
+    feature_set_3 = []
 
     for each_file in files1:
         pathname = list_of_paths_to_folder[0] + str(each_file)
@@ -115,12 +123,22 @@ def build(list_of_paths_to_folder):
         feature_set_2.append(features)
 
 
+    for each_file in files3:
+        pathname = list_of_paths_to_folder[2] + str(each_file)
+        print(pathname)
+        with open(pathname, 'r', encoding='utf-8') as jp:
+            data = json.load(jp)
 
-    with open('bpd_schizo.csv', 'w' ) as f:
+        features = json_to_csv(data)
+
+        feature_set_3.append(features)
+
+
+    with open('first_300.csv', 'w' ) as f:
         write = csv.writer(f)
 
         write.writerow(headers)
-        write.writerows(feature_set_1+feature_set_2)
+        write.writerows(feature_set_1+feature_set_2+feature_set_3)
 
 
 

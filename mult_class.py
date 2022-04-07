@@ -32,9 +32,11 @@ print(f1_score(Y_test, Y_pred_2, average='macro'))
 print(f1_score(Y_test, Y_pred_2, average='weighted'))
 
 
-Y_pred_1 = OneVsOneClassifier(LogisticRegression(random_state=0, max_iter = 500)).fit(X_train, Y_train).predict(X_test)
+Y_pred_1 = OneVsOneClassifier(LogisticRegression(random_state=0, max_iter = 5000)).fit(X_train, Y_train).predict(X_test)
 
-Y_pred_2 = OneVsRestClassifier(LogisticRegression(random_state=0, max_iter = 500)).fit(X_train, Y_train).predict(X_test)
+Y_pred_2 = OneVsRestClassifier(LogisticRegression(random_state=0, max_iter = 5000)).fit(X_train, Y_train).predict(X_test)
+
+print('-----------------')
 
 
 print(f1_score(Y_test, Y_pred_1, average='micro'))
@@ -45,14 +47,16 @@ print(f1_score(Y_test, Y_pred_2, average='macro'))
 print(f1_score(Y_test, Y_pred_2, average='weighted'))
 
 
-Y_pred_1 = OneVsOneClassifier(DecisionTreeClassifier(random_state=0, max_iter = 500)).fit(X_train, Y_train).predict(X_test)
+Y_pred_1 = OneVsOneClassifier(KNeighborsClassifier()).fit(X_train, Y_train).predict(X_test)
 
-Y_pred_2 = OneVsRestClassifier(DecisionTreeClassifier(random_state=0, max_iter = 500)).fit(X_train, Y_train).predict(X_test)
+Y_pred_2 = OneVsRestClassifier(KNeighborsClassifier()).fit(X_train, Y_train).predict(X_test)
 
 
-print(f1_score(Y_train, Y_pred_1, average='micro'))
-print(f1_score(Y_train, Y_pred_1, average='macro'))
-print(f1_score(Y_train, Y_pred_1, average='weighted'))
-print(f1_score(Y_train, Y_pred_2, average='micro'))
-print(f1_score(Y_train, Y_pred_2, average='macro'))
-print(f1_score(Y_train, Y_pred_2, average='weighted'))
+print('-----------------')
+
+print(f1_score(Y_test, Y_pred_1, average='micro'))
+print(f1_score(Y_test, Y_pred_1, average='macro'))
+print(f1_score(Y_test, Y_pred_1, average='weighted'))
+print(f1_score(Y_test, Y_pred_2, average='micro'))
+print(f1_score(Y_test, Y_pred_2, average='macro'))
+print(f1_score(Y_test, Y_pred_2, average='weighted'))

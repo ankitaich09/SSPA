@@ -36,3 +36,8 @@ Summer = log(log(t))/ log(log(w)) - Summer (1966)
 Dugast = 	(log(w) ** 2) / (log(w) - log(t) Dugast (1978)
 
 Maas  = (log(w) - log(t)) / (log(w) ** 2) Maas (1972)
+
+
+Binary Classification Working 
+
+Multi class w/ healthy controls giving VERY low F1 scores - on classical models.

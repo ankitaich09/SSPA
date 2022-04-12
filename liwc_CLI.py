@@ -145,6 +145,9 @@ cmd_to_execute = ["LIWC-22-cli",
 # Let's go ahead and run this analysis:
 subprocess.call(cmd_to_execute)
 
+#analysis to files
+
+
 # The results from this analysis:
 #{"Segment": 1,"WC": 20,"Analytic": 3.8,"Clout": 40.06,"Authentic": 28.56,"Tone": 99,"WPS": 10,"BigWords": 10,
 #"Dic": 100, "Linguistic": 80,"function": 70,"pronoun": 30,"ppron": 15,"i": 10,"we": 0,"you": 5,"shehe": 0,"they": 0,

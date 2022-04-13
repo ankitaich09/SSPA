@@ -20,4 +20,5 @@ time.sleep(2)
 #adding a 2 second wait - to let each process finish
 
 temp_df = pd.read_json(output_loc, lines=True)
-#this contains the LIWC output of the string that was just processed. 
+#this contains the LIWC output of the string that was just processed.
+#this is as a dataframe

@@ -2,6 +2,10 @@ import subprocess
 import pandas as pd
 import time
 
+
+
+#open LIWC 22 GUI 
+
 def get_liwc_dict(input_str):
 
     output_loc = '/Users/ankit/Documents/SSPA Project/Analysis_Codes/temp_liwc.ndjson'

@@ -41,3 +41,6 @@ Maas  = (log(w) - log(t)) / (log(w) ** 2) Maas (1972)
 Binary Classification Working 
 
 Multi class w/ healthy controls giving VERY low F1 scores - on classical models.
+
+Added LIWC for string level classification
+

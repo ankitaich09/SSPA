@@ -44,3 +44,4 @@ Multi class w/ healthy controls giving VERY low F1 scores - on classical models.
 
 Added LIWC for string level classification
 
+Added json formatting for LIWC - need to add feature vector

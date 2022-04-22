@@ -32,7 +32,12 @@ def json_to_csv(data):
     features.append(data['Feature_set_1']['negative_score'])
     features.append(data['Feature_set_1']['subjective_score'])
 
+    #adding LIWC features
 
+    
+
+
+    #adding emolex features
     expected_emos = ['negative', 'positive',
                      'anger', 'anticipation', 'disgust', 'fear', 'joy', 'sadness', 'surprise', 'trust']
 
@@ -54,6 +59,7 @@ def json_to_csv(data):
     for each_emo in emo_dict:
         features.append(list(each_emo.values())[0])
 
+    #adding lexical features
 
     features.append(data['lexical_features']['ttr'])
     features.append(data['lexical_features']['cttr'])

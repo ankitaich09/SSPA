@@ -20,6 +20,7 @@ import pickle
 from nltk.tokenize import RegexpTokenizer
 import json
 from lexicalrichness import LexicalRichness
+import liwc_str as ls
 
 
 #function takes in two time strings and returns first - second time as seconds
@@ -108,6 +109,13 @@ def utteranceFeatures(data):
     return num_utterances, count, unique_count, np.mean(num_words_per_sentence)
 
 
+
+def liwcDic(data):
+    patient_dialogue = list(data['patient_dialogue'])
+    string_data = ' '.join(patient_dialogue)
+    output_dict = ls.get_liwc_dict(string_data)
+    return output_dict
+
 def generateVector(data):
     #this function takes in the pandas series of a scene
     #extracts ngrams, emolex features, max time spoken, average time per dialogue
@@ -153,6 +161,7 @@ def makeJSON(filepath_to_initial_data, label_of_health):
     data = pd.read_csv(filepath_to_initial_data)
     output_dict, utterance_features, unigrams, bigrams, trigrams = generateVector(data)
     lexical = lexicalFeatures(data)
+    liwc = liwcDic(data)
     #fixing the ngrams bc they are procuded as tuples and digits
     #this way we make them into phrases and integers using json format
     unigrams = {k[0]:int(v) for k,v in unigrams.items()}
@@ -161,6 +170,7 @@ def makeJSON(filepath_to_initial_data, label_of_health):
     json_object = {
         'label' : label_of_health,
         str('Feature_set_1'): output_dict,
+        str('LIWC'): liwc,
         'lexical_features' : lexical,
         'utterance_features': utterance_features,
         'unigrams':unigrams,

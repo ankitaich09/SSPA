@@ -34,8 +34,19 @@ def json_to_csv(data):
 
     #adding LIWC features
 
-    headers = list(data['LIWC'].keys())
+    try:
 
+        headers = list(data['LIWC'].keys())
+
+
+
+        for each_key in headers:
+            #each key would be an LIWC category
+            features.append(data['LIWC'][each_key]['0'])
+
+    except KeyError:
+        print('No Key in File')
+        pass
 
     #adding emolex features
     expected_emos = ['negative', 'positive',
@@ -81,7 +92,20 @@ def json_to_csv(data):
 
 def build(list_of_paths_to_folder):
     headers = ['max_time', 'mean_time', 'positive_score', 'negative_score', 'subjective_score',
-               'negative', 'positive',
+               'negative', 'positive', 'Segment', 'WC', 'Analytic', 'Clout',
+               'Authentic', 'Tone', 'WPS', 'BigWords', 'Dic', 'Linguistic', 'function', 'pronoun',
+               'ppron', 'i', 'we', 'you', 'shehe', 'they', 'ipron', 'det', 'article', 'number', 'prep',
+               'auxverb', 'adverb', 'conj', 'negate', 'verb', 'adj', 'quantity', 'Drives', 'affiliation',
+               'achieve', 'power', 'Cognition', 'allnone', 'cogproc', 'insight', 'cause', 'discrep', 'tentat',
+               'certitude', 'differ', 'memory', 'Affect', 'tone_pos', 'tone_neg', 'emotion', 'emo_pos', 'emo_neg',
+               'emo_anx', 'emo_anger', 'emo_sad', 'swear', 'Social', 'socbehav', 'prosocial', 'polite',
+               'conflict', 'moral', 'comm', 'socrefs', 'family', 'friend', 'female', 'male', 'Culture',
+               'politic', 'ethnicity', 'tech', 'Lifestyle', 'leisure', 'home', 'work', 'money', 'relig',
+               'Physical', 'health', 'illness', 'wellness', 'mental', 'substances', 'sexual', 'food', 'death',
+               'need', 'want', 'acquire', 'lack', 'fulfill', 'fatigue', 'reward', 'risk', 'curiosity', 'allure',
+               'Perception', 'attention', 'motion', 'space', 'visual', 'auditory', 'feeling', 'time', 'focuspast',
+               'focuspresent', 'focusfuture', 'Conversation', 'netspeak', 'assent', 'nonflu', 'filler', 'AllPunc',
+               'Period', 'Comma', 'QMark', 'Exclam', 'Apostro', 'OtherP',
                      'anger', 'anticipation', 'disgust', 'fear', 'joy', 'sadness', 'surprise', 'trust',
                'ttr','cttr','diversity','herdan','summer','dugast','maas',
                'utterances', 'WC', 'unique', 'word_per_utter',
@@ -140,7 +164,7 @@ def build(list_of_paths_to_folder):
         feature_set_3.append(features)
 
 
-    with open('first_300.csv', 'w' ) as f:
+    with open('all_features_300.csv', 'w' ) as f:
         write = csv.writer(f)
 
         write.writerow(headers)

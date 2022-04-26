@@ -34,7 +34,7 @@ def json_to_csv(data):
 
     #adding LIWC features
 
-    
+    headers = list(data['LIWC'].keys())
 
 
     #adding emolex features

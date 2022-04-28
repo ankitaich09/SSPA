@@ -45,3 +45,15 @@ Multi class w/ healthy controls giving VERY low F1 scores - on classical models.
 Added LIWC for string level classification
 
 Added json formatting for LIWC - need to add feature vector
+
+
+
+April 28th 
+
+Start writing first paper - 
+
+feature analysis
+LDA
+cluster feature analysis
+dataset validity proof
+test models on 1v1 schizo vs health or bpd vs health

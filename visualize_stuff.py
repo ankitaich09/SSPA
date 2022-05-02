@@ -191,3 +191,7 @@ def visualize(h,d, comparison='mean time'):
     plt.show()
 
 
+    '''
+    
+    Enter visualization of features on disease v diseases. 
+    '''

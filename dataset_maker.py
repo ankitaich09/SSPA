@@ -15,7 +15,7 @@ def json_to_csv(data):
     #data has to be of type dict
     features = []
     label = data['label']
-    if label == 'Schizophrenia':
+    if label == 'schizophrenia':
         label = 1
     elif label == 'healthy':
         label = 0
@@ -125,7 +125,7 @@ def build(list_of_paths_to_folder):
     if '.DS_Store' in files3:
         files3.remove('.DS_Store')
 
-
+    names = []
     feature_set_1 = []
 
     feature_set_2 = []
@@ -135,6 +135,8 @@ def build(list_of_paths_to_folder):
     for each_file in files1:
         pathname = list_of_paths_to_folder[0] + str(each_file)
         print(pathname)
+        names.append('BPD'+str(each_file))
+        print(names)
         with open(pathname, 'r', encoding='utf-8') as jp:
             data = json.load(jp)
 
@@ -145,6 +147,7 @@ def build(list_of_paths_to_folder):
     for each_file in files2:
         pathname = list_of_paths_to_folder[1] + str(each_file)
         print(pathname)
+        names.append('schizo'+str(each_file))
         with open(pathname, 'r', encoding='utf-8') as jp:
             data = json.load(jp)
 
@@ -156,6 +159,7 @@ def build(list_of_paths_to_folder):
     for each_file in files3:
         pathname = list_of_paths_to_folder[2] + str(each_file)
         print(pathname)
+        names.append('HC'+str(each_file))
         with open(pathname, 'r', encoding='utf-8') as jp:
             data = json.load(jp)
 
@@ -171,5 +175,11 @@ def build(list_of_paths_to_folder):
         write.writerows(feature_set_1+feature_set_2+feature_set_3)
 
 
+    with open('file_identifiers.txt', 'w') as fid:
+        for a in names:
+            fid.write(a[:a.find('J')])
+            fid.write('+')
+            fid.write(a[a.find('_'):a.rfind('.')])
+            fid.write('\n')
 
 

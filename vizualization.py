@@ -35,16 +35,16 @@ def get_X_Y(feature):
     return X_BPD, X_Schizo, X_HC
 
 
-def example_violin(feature):
+def example_violin():
         # Configure the options common to all layers
     #change the X using find and replace (cmd+R) in PyCharm
     chart = alt.Chart(data).transform_density(
-    'feature',
-    as_=['feature', 'density'],
-    extent=[5, 50],
+    'unique',
+    as_=['unique', 'density'],
+    extent=[25, 55],
     groupby=['label']
 ).mark_area(orient='horizontal').encode(
-    y='feature:Q',
+    y='unique:Q',
     color='label:N',
     x=alt.X(
         'density:Q',
@@ -68,4 +68,21 @@ def example_violin(feature):
 ).configure_view(
     stroke=None
 )
+    return chart
+
+
+
+def example_scater_matrix():
+    source = data
+    chart = alt.Chart(source).mark_circle().encode(
+    alt.X(alt.repeat("column"), type='quantitative'),
+    alt.Y(alt.repeat("row"), type='quantitative'),
+    color='label:N'
+).properties(
+    width=150,
+    height=150
+).repeat(
+    row=['WPS', 'Linguistic', 'Clout'],
+    column=['Clout', 'Linguistic', 'WPS']
+).interactive()
     return chart

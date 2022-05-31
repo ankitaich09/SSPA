@@ -93,9 +93,12 @@ def example_scater_matrix():
 # BPD Schizo = 21
 # Schizo HC = 10
 #method takes in a code comprised of two numbers N_1 is code for label 1 and N_2 for label 2 - see above
-# returns the difference of feature A and B for N_1 and feature A and B for N_2
+# returns the vectors of feature A and B for N_1 and feature A and B for N_2
 #so if code is 20 or 02 i.e. you want to find the difference between BPD and HC people for let's assume positive and negative scores
 #you enter differences('positive_score', 'negative_score', '02')
+#the method returns vectors of (pos_score - neg_score for BPD) and (pos_score - neg_score for HC)
+#hypothetically BPD should have a higher differences than let's say HC - a scatter plot can showcase this
+
 
 def differences(featureA, featureB, diff_code):
     fA_bpd, fA_schizo, fA_hc = get_X_Y(featureA)
@@ -103,5 +106,4 @@ def differences(featureA, featureB, diff_code):
     if diff_code == '20' or diff_code == '02':
         diff_group_1 = [abs(fA_bpd[i] - fB_bpd[i]) for i in range(0, len(fA_bpd))]
         diff_group_2 = [abs(fA_hc[i] - fB_hc[i]) for i in range(0, len(fA_hc))]
-        diff = [abs(diff_group_1[i] - diff_group_2[i]) for i in range(0, len(diff_group_1))]
-    return diff
+    return diff_group_1, diff_group_2

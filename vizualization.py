@@ -106,4 +106,7 @@ def differences(featureA, featureB, diff_code):
     if diff_code == '20' or diff_code == '02':
         diff_group_1 = [abs(fA_bpd[i] - fB_bpd[i]) for i in range(0, len(fA_bpd))]
         diff_group_2 = [abs(fA_hc[i] - fB_hc[i]) for i in range(0, len(fA_hc))]
+    elif diff_code == '21' or diff_code == '12':
+        diff_group_1 = [abs(fA_bpd[i] - fB_bpd[i]) for i in range(0, len(fA_bpd))]
+        diff_group_2 = [abs(fA_schizo[i] - fB_schizo[i]) for i in range(0, len(fA_schizo))]
     return diff_group_1, diff_group_2

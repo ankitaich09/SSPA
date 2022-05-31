@@ -1,6 +1,7 @@
 import altair as alt
 import pandas as pd
-
+import seaborn as sn
+import matplotlib.pyplot as plt
 
 '''
 sample code to vizualize data
@@ -82,8 +83,8 @@ def example_scater_matrix():
     width=150,
     height=150
 ).repeat(
-    row=['WPS', 'Linguistic', 'Clout'],
-    column=['Clout', 'Linguistic', 'WPS']
+    row=['positive_score', 'negative_score', 'subjective_score'],
+    column=['positive_score', 'negative_score', 'subjective_score']
 ).interactive()
     return chart
 
@@ -117,3 +118,22 @@ def differences(featureA, featureB, diff_code):
     return diff_group_1, diff_group_2
 
 
+def correlation_matrix_plot(features_you_want):
+    data_bpd = {}
+    data_schizo = {}
+    data_hc = {}
+    for each_f in features_you_want:
+        temp_B, temp_S, temp_H = get_X_Y(each_f)
+        data_bpd = {
+            each_f:temp_B
+        }
+        data_schizo = {
+            each_f:temp_S
+        }
+        data_hc = {
+            each_f: temp_H
+        }
+    df_bpd = pd.DataFrame(data_bpd, columns=list(data_bpd.keys()))
+    df_schizo = pd.DataFrame(data_schizo, columns=list(data_schizo.keys()))
+    df_health = pd.DataFrame(data_hc, columns=list(data_hc.keys()))
+    

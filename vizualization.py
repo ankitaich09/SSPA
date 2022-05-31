@@ -124,16 +124,14 @@ def correlation_matrix_plot(features_you_want):
     data_hc = {}
     for each_f in features_you_want:
         temp_B, temp_S, temp_H = get_X_Y(each_f)
-        data_bpd = {
-            each_f:temp_B
-        }
-        data_schizo = {
-            each_f:temp_S
-        }
-        data_hc = {
-            each_f: temp_H
-        }
+        data_bpd[each_f] = temp_B
+        data_schizo[each_f] = temp_S
+        data_hc[each_f] = temp_H
     df_bpd = pd.DataFrame(data_bpd, columns=list(data_bpd.keys()))
     df_schizo = pd.DataFrame(data_schizo, columns=list(data_schizo.keys()))
     df_health = pd.DataFrame(data_hc, columns=list(data_hc.keys()))
-    
+    corr_bpd = df_bpd.corr()
+    corr_schizo = df_schizo.corr()
+    corr_hc = df_health.corr()
+
+    return corr_bpd, corr_schizo, corr_hc

@@ -32,7 +32,7 @@ def get_X_Y(feature):
     X_Schizo = data.groupby('label').get_group(1)[feature]
     X_HC = data.groupby('label').get_group(0)[feature]
 
-    return X_BPD, X_Schizo, X_HC
+    return list(X_BPD), list(X_Schizo), list(X_HC)
 
 
 def example_violin():
@@ -115,3 +115,5 @@ def differences(featureA, featureB, diff_code):
     else:
         return 0
     return diff_group_1, diff_group_2
+
+

@@ -118,11 +118,19 @@ def differences(featureA, featureB, diff_code):
     return diff_group_1, diff_group_2
 
 
+#this method takes in a list of feature names you want to see correlations for
+#it returns three correlation matrices the first for BPD, then schizophrenia, then Healthy Controls
+#each matrix is a correlation matrix between features you selected for the disease given
+
 def correlation_matrix_plot(features_you_want):
     data_bpd = {}
     data_schizo = {}
     data_hc = {}
     for each_f in features_you_want:
+        #we use the get xy method for each feature we want to get three lists
+        #these lists in order are BPD, schizo, and HC data points for the feature
+        #we append these to a dictionary which we use later to view the correlation matrices
+        #these can be viewed by using seaborn or altair
         temp_B, temp_S, temp_H = get_X_Y(each_f)
         data_bpd[each_f] = temp_B
         data_schizo[each_f] = temp_S

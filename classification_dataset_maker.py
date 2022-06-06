@@ -59,3 +59,14 @@ sc2_bpd_schizo = pd.concat([bpd_sc2, schizo_sc2])
 sc2_bpd_hc = pd.concat([bpd_sc2, hc_sc2])
 sc2_hc_schizo = pd.concat([hc_sc2, schizo2])
 
+sc1_bpd_hc.to_csv('Scene 1 BPD vs Healthy.csv')
+
+sc1_hc_schizo.to_csv('Scene 1 Healthy vs Schizo.csv')
+
+sc1_bpd_schizo.to_csv('Scene 1 BPD vs Schizo.csv')
+
+sc2_hc_schizo.to_csv('Scene 2 Healthy vs Schizo.csv')
+
+sc2_bpd_hc.to_csv('Scene 2 BPD vs Healthy.csv')
+
+sc2_bpd_schizo.to_csv('Scene 2 BPD vs Schizo.csv')

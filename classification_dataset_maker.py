@@ -53,3 +53,9 @@ hc_sc2 = df_sc2[hc2]
 sc1_bpd_schizo = pd.concat([bpd_sc1, schizo_sc1])
 sc1_bpd_hc = pd.concat([bpd_sc1, hc_sc1])
 sc1_hc_schizo = pd.concat([hc_sc1, schizo_sc1])
+
+
+sc2_bpd_schizo = pd.concat([bpd_sc2, schizo_sc2])
+sc2_bpd_hc = pd.concat([bpd_sc2, hc_sc2])
+sc2_hc_schizo = pd.concat([hc_sc2, schizo2])
+

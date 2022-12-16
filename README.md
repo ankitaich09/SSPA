@@ -57,3 +57,18 @@ LDA
 cluster feature analysis
 dataset validity proof
 test models on 1v1 schizo vs health or bpd vs health
+
+
+December update
+
+Paper Published
+
+workingo n proposal and next paper
+
+for code refer to
+
+
+demographic_extract.ipynb 
+make combined data.ipynb
+
+on Colab

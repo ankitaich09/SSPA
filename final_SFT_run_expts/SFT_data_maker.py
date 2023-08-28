@@ -55,14 +55,20 @@ def process_as_one(filename):
     data_for_sspa = pd.read_csv(sspa_data_file_sc_1)
     score_dict = get_sspa_values(data_for_sspa,patID)
 
-    
-    print(score_dict)
 
+    score_seq = ''
+    for each_key in score_dict.keys():
+        score_seq += each_key + ': ' + score_dict[each_key] +  '\n'
+
+
+
+
+    print(score_seq)
 
     string_score = {
 
         'text':temp,
-        'target':temp
+        'target':score_seq
     }
 
 

@@ -42,7 +42,7 @@ def get_sspa_values(data, pat_ID):
 #this would serve as input to our SFT LLM - P+I ==> SSPA score sequence
 def process_as_one(filename):
     regex = "\d{4}"
-    patID = re.findall(regex, filename)[0]
+    patID = int(re.findall(regex, filename)[0])
     df = pd.read_csv(filename)
     pat_dialogues = list(df['patient_dialogue'])
     int_dialogues = list(df['interviewer_dialogue'])
@@ -51,7 +51,19 @@ def process_as_one(filename):
     for i in range(len(pat_dialogues)):
         temp += pat_dialogues[i] + int_dialogues[i]
 
+    sspa_data_file_sc_1 = '/Users/ankitaich/Documents/SSPA Project/All Data/scores+features+demographics_SCENE_1.csv'
+    data_for_sspa = pd.read_csv(sspa_data_file_sc_1)
+    score_dict = get_sspa_values(data_for_sspa,patID)
+
     
+    print(score_dict)
+
+
+    string_score = {
+
+        'text':temp,
+        'target':temp
+    }
 
 
 

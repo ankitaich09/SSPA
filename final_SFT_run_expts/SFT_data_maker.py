@@ -60,9 +60,43 @@ def process_as_one(filename):
 
     string_score = {
 
+        'ID':patID,
         'text':temp,
         'target':score_seq
     }
 
     return (string_score)
 
+def make_SFT_data():
+    directory_of_files = '/Users/ankitaich/Documents/SSPA Project/Processing Files and Folders/Complete transcript CSVs/HC_SC_1'
+    list_of_files = get_list_of_files(directory_of_files)
+
+    SFT_output = {
+
+        'text':[],
+        'target':[]
+    }
+    for each_file in list_of_files:
+        filename = directory_of_files + '/' + each_file
+
+        try:
+            score_dict = process_as_one(filename)
+            if score_dict['ID'] in [1285, 1233, 2224, 2212, 2215, 2209, 1297]:
+                continue
+            else:
+                SFT_output['text'].append(score_dict['text'])
+                SFT_output['target'].append(score_dict['target'])
+
+        except:
+            continue
+    return SFT_output
+
+def write_to_new_csv(dictionary):
+    pd.DataFrame(dictionary).to_csv('healthy_scene_1.csv',index=False)
+
+
+
+
+
+write_to_new_csv(make_SFT_data())
+#post_process('healthy_scene_1.csv')

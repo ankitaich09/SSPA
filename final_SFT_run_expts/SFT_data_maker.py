@@ -14,10 +14,6 @@ def get_list_of_files(dirname):
     return os.listdir(dirname)
 
 
-#func to open SSPA file
-def open_sspa_file(filepath):
-    return pd.read_csv(filepath)
-
 #func to get SSPA scores given a patient ID
 def get_sspa_values(data, pat_ID):
 
@@ -29,9 +25,9 @@ def get_sspa_values(data, pat_ID):
         'Fluency':copy_df['SSPA1_2'].to_string(index=False, header=False),
         'Clarity':copy_df['SSPA1_3'].to_string(index=False, header=False),
         'Focus':copy_df['SSPA1_4'].to_string(index=False, header=False),
-        'Affect':copy_df['SSPA1_5'].to_string(index=False, header=False),
+        #'Affect':copy_df['SSPA1_5'].to_string(index=False, header=False),
         'Overall':copy_df['SSPA1_6'].to_string(index=False, header=False),
-        'Grooming':copy_df['SSPA1_7'].to_string(index=False, header=False),
+        #'Grooming':copy_df['SSPA1_7'].to_string(index=False, header=False),
         'Social Apt':copy_df['SSPA1_8'].to_string(index=False, header=False)
 
     }
@@ -62,17 +58,11 @@ def process_as_one(filename):
 
 
 
-
-    print(score_seq)
-
     string_score = {
 
         'text':temp,
         'target':score_seq
     }
 
+    return (string_score)
 
-
-#test case
-
-process_as_one('/Users/ankitaich/Documents/SSPA Project/Processing Files and Folders/Complete transcript CSVs/HC_SC_1/outputUTD_SCOPE_1225_Scene 1.csv')

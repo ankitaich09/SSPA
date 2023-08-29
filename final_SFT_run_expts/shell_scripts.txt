@@ -1,0 +1,12 @@
+deepspeed run_summarization.py \
+--model_name_or_path t5-base \
+--do_train \
+--train_file healthy_scene_1.csv \
+--source_prefix "predict\ scores: " \
+--output_dir /workspace/t5-base \
+--overwrite_output_dir \
+--per_device_train_batch_size=2 \
+--text_column text \
+--summary_column target \
+--num_train_epochs 50
+

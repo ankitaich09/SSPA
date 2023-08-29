@@ -1,5 +1,6 @@
 import pandas as pd
 from sklearn.metrics import mean_squared_error
+import math
 
 def load_data(filepath):
     return pd.read_csv(filepath)
@@ -88,8 +89,9 @@ def get_distributions():
 
 
 def get_rmse(y_actual, y_predicted):
-    rms = mean_squared_error(y_actual, y_predicted, squared=False)
-    return rms
+    mse = mean_squared_error(y_actual, y_predicted, squared=False)
+    rmse = math.sqrt(mse)
+    return rmse
 
 def simple_acc(gold, pred):
     c = 0

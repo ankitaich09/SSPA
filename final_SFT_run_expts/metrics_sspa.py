@@ -5,7 +5,7 @@ import math
 def load_data(filepath):
     return pd.read_csv(filepath)
 
-data = load_data('/Users/ankitaich/Documents/Final Disseration Experiments/Inference Results/healthy_scene_1_inference.csv')
+data = load_data('/Users/ankitaich/Documents/Final Disseration Experiments/Inference Results/schizo_inference_scene_2.csv')
 
 def get_predicted_scores_as_dict(string):
     interest = string.split('Interest: ')[-1].split(' ')[0]
@@ -52,39 +52,40 @@ def get_score_set_from_index(index, variable):
     except:
         return 0, float(gold[variable])
 
-def get_distributions():
+def get_distributions(start, stop):
     sspa = ['Interest', 'Fluency', 'Clarity', 'Focus', 'Social Apt']
     interest = {'GOLD':[],'PREDICTED':[]}
     focus = {'GOLD': [], 'PREDICTED': []}
     fluency = {'GOLD': [], 'PREDICTED': []}
     clarity = {'GOLD': [], 'PREDICTED': []}
     social = {'GOLD': [], 'PREDICTED': []}
-    for k in range(0, 18):
+    for k in range(start, stop):
         pred, gold = get_score_set_from_index(k, 'Interest')
         interest['GOLD'].append(gold)
         interest['PREDICTED'].append(pred)
 
-    for k in range(0, 18):
+    for k in range(start, stop):
         pred, gold = get_score_set_from_index(k, 'Focus')
         focus['GOLD'].append(gold)
         focus['PREDICTED'].append(pred)
 
-    for k in range(0, 18):
+    for k in range(start, stop):
         pred, gold = get_score_set_from_index(k, 'Clarity')
         clarity['GOLD'].append(gold)
         clarity['PREDICTED'].append(pred)
 
-    for k in range(0, 18):
+    for k in range(start, stop):
         pred, gold = get_score_set_from_index(k, 'Fluency')
         fluency['GOLD'].append(gold)
         fluency['PREDICTED'].append(pred)
 
-    for k in range(0, 18):
+    for k in range(start, stop):
+        #Run this segment in console for rmse and acc values - others are fine
         pred, gold = get_score_set_from_index(k, "Social Apt")
         social['GOLD'].append(gold)
         social['PREDICTED'].append(pred)
 
-        return interest, focus, fluency, clarity, social
+    return interest, focus, fluency, clarity, social
 
 
 
@@ -99,3 +100,5 @@ def simple_acc(gold, pred):
         if gold[i] == pred[i]:
             c+=1
     return c/len(gold)
+
+

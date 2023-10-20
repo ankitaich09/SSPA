@@ -14,7 +14,9 @@ def cosine_sim(str_1, str_2):
     embedding_2 = model.encode(str_2, convert_to_tensor=True)
     #get cosine sim
     sim =  util.pytorch_cos_sim(embedding_1, embedding_2)
-    return sim
+    #sim is a tensor object - we use numpy to convert scalar tensor to scalar variable
+    sim_score = sim.numpy()[0][0]
+    return sim_score
 
 def rouge(str_1, str_2):
     scorer = rouge_scorer.RougeScorer(['rouge1', 'rougeL'], use_stemmer=True)

@@ -51,3 +51,67 @@ def process(filepath):
         i = i+ 1
 
     return scores
+
+
+def process_rouge(filepath):
+    i = 0
+    rouge1 = {
+        'precision':[],
+        'recall':[],
+        'f': []
+    }
+    rougeL = {
+        'precision':[],
+        'recall':[],
+        'f1':[]
+    }
+    df = pd.read_csv(filepath)
+    actual = list(df['GOLD'])
+    predicted = list(df['PREDICTED'])
+    for k in range(len(actual)):
+        try:
+            score = rouge(actual[k], predicted[k])
+            rouge1['precision'].append(score['rouge1'].precision)
+            rouge1['recall'].append(score['rouge1'].recall)
+            rouge1['f'].append(score['rouge1'].fmeasure)
+            rougeL['precision'].append(score['rougeL'].precision)
+            rougeL['recall'].append(score['rougeL'].recall)
+            rougeL['f1'].append(score['rougeL'].fmeasure)
+        except:
+            pass
+        print('Processed num', i)
+        i+=1
+
+    print(filepath + '\n')
+    print('ROUGE-1 precision', np.mean(rouge1['precision']))
+    print('ROUGE-1 recall', np.mean(rouge1['recall']))
+    print('ROUGE-1 f1', np.mean(rouge1['f']))
+    print('ROUGE-L precision', np.mean(rougeL['precision']))
+    print('ROUGE-L recall', np.mean(rougeL['recall']))
+    print('ROUGE-L f1', np.mean(rougeL['f1']))
+
+
+def process_bert(filepath):
+    i = 0
+    BERT = {
+        'precision': [],
+        'recall': [],
+        'f1': []
+    }
+    df = pd.read_csv(filepath)
+    actual = list(df['GOLD'])
+    predicted = list(df['PREDICTED'])
+    for k in range(len(actual)):
+        try:
+            p,r,f = bert([actual[k]], [predicted[k]])
+            BERT['precision'].append(p)
+            BERT['recall'].append(r)
+            BERT['f1'].append(f)
+        except:
+            pass
+        print('Processing num', i)
+        i+=1
+
+    print('BERT Precision', np.mean(BERT['precision']))
+    print('BERT Recall ', np.mean(BERT['recall']))
+    print('BERT F1 ', np.mean(BERT['f1']))
